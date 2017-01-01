@@ -1,12 +1,12 @@
 The UCCA Corpus
 ===============
-Version 1.1
-29/12/2015
+Version 1.2
+1/1/2016
 ---------------
 
-This bundle contains 369 passages annotated according to the foundational layer of UCCA. 
+This bundle contains 367 passages annotated according to the foundational layer of UCCA. 
 The passages are given as xmls in a format which is described below. The total number of tokens 
-in this corpus is 158771. It also contains the annotation guidelines that were given to the annotators,
+in this corpus is 158433. It also contains the annotation guidelines that were given to the annotators,
 a metadata file and a toy example XML.
 
 The dataset is a part of the UCCA project developed in the NLP lab of the Hebrew University 
