@@ -14,7 +14,7 @@ by Omri Abend and Ari Rappoport. The users of this dataset are kindly requested 
 
     Universal Conceptual Cognitive Annotation (UCCA). Omri Abend and Ari Rappoport, ACL 2013
 
-Example passages can be graphically viewed through our [web application](vm-05.cs.huji.ac.il).
+Example passages can be graphically viewed through our [web application](http://ucca.cs.huji.ac.il).
 Please refer to [our website](http://www.cs.huji.ac.il/~oabend/ucca.html) or email (oabend@cs.huji.ac.il)
 for regular updates on the UCCA project and available resources.
 
