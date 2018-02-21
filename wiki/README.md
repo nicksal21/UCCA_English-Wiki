@@ -12,7 +12,7 @@ a metadata file and a toy example XML.
 The dataset is a part of the UCCA project developed in the NLP lab of the Hebrew University 
 by Omri Abend and Ari Rappoport. The users of this dataset are kindly requested to cite [the following publication](http://www.aclweb.org/anthology/P13-1023):
 
-    UCCA: A Novel Framework for Semantic Representation. Omri Abend and Ari Rappoport, ACL 2013
+    Universal Conceptual Cognitive Annotation (UCCA). Omri Abend and Ari Rappoport, ACL 2013
 
 Example passages can be graphically viewed through our [web application](vm-05.cs.huji.ac.il).
 Please refer to [our website](http://www.cs.huji.ac.il/~oabend/ucca.html) or email (oabend@cs.huji.ac.il)
