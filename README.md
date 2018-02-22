@@ -1,4 +1,4 @@
-Universal Conceptual Cognitive Annotation Corpus
+Universal Conceptual Cognitive Annotation Corpora
 ------------------------------------------------
 
 This repository contains corpora annotated according to the [UCCA scheme](http://www.cs.huji.ac.il/~oabend/ucca.html).

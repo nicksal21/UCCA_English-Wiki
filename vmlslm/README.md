@@ -1,5 +1,7 @@
 UCCA-Annotated French-English Parallel Corpus
----------------------------------------------
+=============================================
+Version 1.0 (February 21, 2016)
+-------------------------------
 
 This bundle contains 154 pairs of French-English aligned passages annotated 
 with the UCCA annotation (Abend & Rappoport, ACL 2013).
