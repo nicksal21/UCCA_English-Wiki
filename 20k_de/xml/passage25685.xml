@@ -2137,6 +2137,9 @@
     </node>
     <node ID="1.57" type="FN">
       <attributes />
+      <edge toID="1.43" type="A">
+        <attributes remote="True" />
+      </edge>
       <edge toID="1.58" type="D">
         <attributes />
       </edge>
@@ -2452,7 +2455,7 @@
       <edge toID="1.98" type="P">
         <attributes />
       </edge>
-      <edge toID="1.99" type="D">
+      <edge toID="1.99" type="A">
         <attributes />
       </edge>
       <edge toID="1.100" type="D">
@@ -2980,10 +2983,10 @@
       <edge toID="1.167" type="R">
         <attributes />
       </edge>
-      <edge toID="1.168" type="C">
+      <edge toID="1.168" type="S">
         <attributes />
       </edge>
-      <edge toID="1.171" type="E">
+      <edge toID="1.171" type="A">
         <attributes />
       </edge>
     </node>
@@ -3253,7 +3256,7 @@
       <edge toID="1.201" type="A">
         <attributes />
       </edge>
-      <edge toID="1.202" type="D">
+      <edge toID="1.202" type="A">
         <attributes />
       </edge>
       <edge toID="1.203" type="P">
@@ -3496,10 +3499,13 @@
       <edge toID="1.232" type="R">
         <attributes />
       </edge>
-      <edge toID="1.233" type="C">
+      <edge toID="1.233" type="S">
         <attributes />
       </edge>
-      <edge toID="1.237" type="E">
+      <edge toID="1.235" type="D">
+        <attributes />
+      </edge>
+      <edge toID="1.237" type="A">
         <attributes />
       </edge>
     </node>
@@ -3512,9 +3518,6 @@
     <node ID="1.233" type="FN">
       <attributes />
       <edge toID="1.234" type="E">
-        <attributes />
-      </edge>
-      <edge toID="1.235" type="E">
         <attributes />
       </edge>
       <edge toID="1.236" type="C">
@@ -4123,7 +4126,7 @@
     </node>
     <node ID="1.312" type="FN">
       <attributes />
-      <edge toID="1.313" type="D">
+      <edge toID="1.313" type="A">
         <attributes />
       </edge>
       <edge toID="1.314" type="P">
@@ -5179,13 +5182,16 @@
     </node>
     <node ID="1.447" type="FN">
       <attributes />
+      <edge toID="1.443" type="A">
+        <attributes remote="True" />
+      </edge>
       <edge toID="1.448" type="R">
         <attributes />
       </edge>
-      <edge toID="1.449" type="E">
+      <edge toID="1.449" type="D">
         <attributes />
       </edge>
-      <edge toID="1.450" type="C">
+      <edge toID="1.450" type="P">
         <attributes />
       </edge>
     </node>
