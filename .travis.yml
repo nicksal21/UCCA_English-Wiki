@@ -12,11 +12,8 @@ install:
   - pip install ucca
 env:
   matrix:
-  - DATASET=wiki/xml
-  - DATASET=wiki/pickle
-  - DATASET=vmlslm/en
-  - DATASET=vmlslm/fr
-  - DATASET=20k_de/xml
+  - DATASET=xml
+  - DATASET=pickle
 script:
   - python -m scripts.validate $DATASET || echo Ignoring validation failures
 
