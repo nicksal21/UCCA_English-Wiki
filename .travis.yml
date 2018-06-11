@@ -11,9 +11,13 @@ python:
 install:
   - pip install ucca
 env:
+  global:
+    - secure: "IxbJts4WnmCuaQTOO6i8oQy8qhyPPdoTRgCu0pUTbL8dbJgUgstybLH+hC9GBrL9uLgxUuokFmA0d3j3NiEBHVz0Axq6RYU+DfPnwtVRez3nCWNKfXgYEImEASzovOaPXqx5YXmdGF1nLR6yjrx+2st9BYkjwxussXqVe9kJIL+IRb54Agywjs3WuCVeSouvBwoWeCw/eQUUL2DQwWQOGo1mld+Or3UVZwC6A9q1aUWh+b3RRIKgFKWG8rwII/K5W/66F5mNHRE5Xsg8H3t7RT0SKca50U4b8oDllLp+q0bXsJakZKlU5dIqx5O0YbCjqwnEaAlm26JRml5FwOLRx6NJwEL9STXIlGZYAI2ap734pt4R45vGxIdKdkn4QSkZPtF+SFMa59qBdTK6kjj2JjcPgxdeht6oTCpqRbrTXQhuBsjDImUIMU+Ot3yPr09DL0qUiT8wC8vEl9iXlnKGxd/k+qVS+5tLuzHpKR04r6SUqIYfkwHct3HReARpwFlRx3PXr5EzC+MgJcuMPFSeJkdiRkYs71KjgIOezL7UBInBtba6c1l2OXz2UIubV8hTz7/yxRyVlkfkfSaNRsadl5F9ZLrehbgUVRD9xqRuoWSlcOIdIXfCZ0wdVw9XGCshwvlLW/Pl2rKekT2K3CCba8apM/K/O6mwCnnJfnpPRKc="
   matrix:
   - DATASET=xml
   - DATASET=pickle
 script:
   - python -m scripts.validate $DATASET || echo Ignoring validation failures
+after_success:
+  - curl https://raw.githubusercontent.com/UniversalConceptualCognitiveAnnotation/docs/master/.visualize.sh | bash
 
