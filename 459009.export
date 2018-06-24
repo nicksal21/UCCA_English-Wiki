@@ -1,0 +1,42 @@
+#BOS 459009
+Television	Word	--	Terminal	500
+critics	Word	--	Terminal	501
+praised	Word	--	Terminal	502
+the	Word	--	Terminal	503
+program	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+and	Word	--	Terminal	506
+described	Word	--	Terminal	507
+the	Word	--	Terminal	508
+anchor	Word	--	Terminal	509
+as	Word	--	Terminal	510
+"	Punctuation	--	Terminal	511
+superhuman	Word	--	Terminal	512
+"	Punctuation	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	E	515
+#501	FN	--	C	515	A*	522
+#502	FN	--	P	519
+#503	FN	--	E	516
+#504	FN	--	C	516
+#505	PNCT	--	U	523
+#506	FN	--	L	523	LR	524
+#507	FN	--	P	522
+#508	FN	--	E	517
+#509	FN	--	C	517
+#510	FN	--	R	518
+#511	PNCT	--	U	518
+#512	FN	--	C	518
+#513	PNCT	--	U	518
+#514	PNCT	--	U	518
+#515	FN	--	A	519
+#516	FN	--	A	519
+#517	FN	--	A	522	A*	521
+#518	FN	--	A	521
+#519	FN	--	H	523	LA	524
+#520	FN	--	S	521
+#521	FN	--	A	522
+#522	FN	--	H	523	LA	524
+#523	FN	--	--	0
+#524	LKG	--	--	0
+#EOS 459009
