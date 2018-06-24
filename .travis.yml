@@ -16,8 +16,12 @@ jobs:
     - stage: split
       script: curl $SCRIPTS/split_to_sentences.sh | bash
     - stage: convert
-      script: curl $SCRIPTS/visualize.sh | bash
-      env: FORMAT=visualize
+      script: curl $SCRIPTS/visualize.sh | bash -s "[0-3]"
+      env: FORMAT=visualize-1
+    - script: curl $SCRIPTS/visualize.sh | bash -s "[4-5]"
+      env: FORMAT=visualize-2
+    - script: curl $SCRIPTS/visualize.sh | bash -s "[6-9]"
+      env: FORMAT=visualize-3
     - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT
       env: FORMAT=sdp
     - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT
