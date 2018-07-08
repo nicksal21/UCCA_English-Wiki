@@ -1,12 +1,12 @@
 The UCCA Wikipedia Corpus
 =========================
-Version 1.2 (January 1, 2016)
+Version 1.2.1 (July 8, 2018)
 -----------------------------
 
 This bundle contains 367 passages annotated according to the foundational layer of UCCA. 
 The passages are given as xmls in a format which is described below. The total number of tokens 
 in this corpus is 158433. It also contains the annotation guidelines that were given to the annotators,
-a metadata file and a toy example XML.
+and a metadata file.
 
 The dataset is a part of the UCCA project developed in the NLP lab of the Hebrew University 
 by Omri Abend and Ari Rappoport. The users of this dataset are kindly requested to cite [the following publication](http://www.aclweb.org/anthology/P13-1023):
@@ -53,7 +53,4 @@ ACKNOWLEDGEMENTS:
 We would like to thank Tomer Eshet for his partnering in developing the UCCA web application,
 and Amit Beka for his help with UCCA's development set and software tools. We would also like
 to thank our four annotators for hard and thorough work.
-
-
-
 
