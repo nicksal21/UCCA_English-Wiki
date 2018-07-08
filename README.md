@@ -26,10 +26,10 @@ Files included
 2. [`metadata`](metadata): a file that contains some metadata for the passages. Specifically it contains the source
    of the text used (i.e., the Wikipedia article it was taken from), and the index of the annotator
    that did the final proof-reading (it can be 2,3 or 6).
-3. [`guidelines.pdf`](../guidelines.pdf): the annotation guidelines that were given to the annotators are summarized in 
+3. [`guidelines.pdf`](guidelines.pdf): the annotation guidelines that were given to the annotators are summarized in 
    this file named "UCCA in a nutshell". Concise definitions are available through the UCCA website
    as well.
-4. [`short_defs.pdf`](../short_defs.pdf): a brief summary of the categories used by UCCA's foundational layer.
+4. [`short_defs.deprecated.pdf`](short_defs.deprecated.pdf): a brief summary of the categories used by UCCA's foundational layer (used for the original annotation).
 
 
 XML format
