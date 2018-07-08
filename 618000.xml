@@ -5,43 +5,43 @@
     <extra doc="[[]]" />
     <node ID="0.1" type="Word">
       <attributes paragraph="1" paragraph_position="1" text="McCartney" />
-      <extra orig_paragraph="1" />
+      <extra dep="poss" ent_iob="3" ent_type="PERSON" head="2" lemma="mccartney" orig_paragraph="1" orth="McCartney" pos="PROPN" prefix="M" shape="XxXxxxx" suffix="ney" tag="NNP" />
     </node>
     <node ID="0.2" type="Word">
       <attributes paragraph="1" paragraph_position="2" text="'s" />
-      <extra orig_paragraph="1" />
+      <extra dep="case" ent_iob="2" ent_type="" head="-1" lemma="'s" orig_paragraph="1" orth="'s" pos="PART" prefix="'" shape="'x" suffix="'s" tag="POS" />
     </node>
     <node ID="0.3" type="Word">
       <attributes paragraph="1" paragraph_position="3" text="music" />
-      <extra orig_paragraph="1" />
+      <extra dep="nsubj" ent_iob="2" ent_type="" head="2" lemma="music" orig_paragraph="1" orth="music" pos="NOUN" prefix="m" shape="xxxx" suffix="sic" tag="NN" />
     </node>
     <node ID="0.4" type="Word">
       <attributes paragraph="1" paragraph_position="4" text="has" />
-      <extra orig_paragraph="1" />
+      <extra dep="aux" ent_iob="2" ent_type="" head="1" lemma="have" orig_paragraph="1" orth="has" pos="VERB" prefix="h" shape="xxx" suffix="has" tag="VBZ" />
     </node>
     <node ID="0.5" type="Word">
       <attributes paragraph="1" paragraph_position="5" text="appeared" />
-      <extra orig_paragraph="1" />
+      <extra dep="ROOT" ent_iob="2" ent_type="" head="0" lemma="appear" orig_paragraph="1" orth="appeared" pos="VERB" prefix="a" shape="xxxx" suffix="red" tag="VBN" />
     </node>
     <node ID="0.6" type="Word">
       <attributes paragraph="1" paragraph_position="6" text="on" />
-      <extra orig_paragraph="1" />
+      <extra dep="prep" ent_iob="2" ent_type="" head="-1" lemma="on" orig_paragraph="1" orth="on" pos="ADP" prefix="o" shape="xx" suffix="on" tag="IN" />
     </node>
     <node ID="0.7" type="Word">
       <attributes paragraph="1" paragraph_position="7" text="several" />
-      <extra orig_paragraph="1" />
+      <extra dep="amod" ent_iob="2" ent_type="" head="2" lemma="several" orig_paragraph="1" orth="several" pos="ADJ" prefix="s" shape="xxxx" suffix="ral" tag="JJ" />
     </node>
     <node ID="0.8" type="Word">
       <attributes paragraph="1" paragraph_position="8" text="record" />
-      <extra orig_paragraph="1" />
+      <extra dep="compound" ent_iob="2" ent_type="" head="1" lemma="record" orig_paragraph="1" orth="record" pos="NOUN" prefix="r" shape="xxxx" suffix="ord" tag="NN" />
     </node>
     <node ID="0.9" type="Word">
       <attributes paragraph="1" paragraph_position="9" text="labels" />
-      <extra orig_paragraph="1" />
+      <extra dep="pobj" ent_iob="2" ent_type="" head="-3" lemma="label" orig_paragraph="1" orth="labels" pos="NOUN" prefix="l" shape="xxxx" suffix="els" tag="NNS" />
     </node>
     <node ID="0.10" type="Punctuation">
       <attributes paragraph="1" paragraph_position="10" text="." />
-      <extra orig_paragraph="1" />
+      <extra dep="punct" ent_iob="2" ent_type="" head="-5" lemma="." orig_paragraph="1" orth="." pos="PUNCT" prefix="." shape="." suffix="." tag="." />
     </node>
   </layer>
   <layer layerID="1">
@@ -63,7 +63,10 @@
       <edge toID="1.5" type="P">
         <attributes />
       </edge>
-      <edge toID="1.6" type="A">
+      <edge toID="1.6" type="F">
+        <attributes />
+      </edge>
+      <edge toID="1.7" type="A">
         <attributes />
       </edge>
     </node>
@@ -75,52 +78,49 @@
     </node>
     <node ID="1.4" type="FN">
       <attributes />
-      <edge toID="1.14" type="E">
-        <attributes />
-      </edge>
-      <edge toID="1.15" type="C">
-        <attributes />
-      </edge>
-    </node>
-    <node ID="1.5" type="FN">
-      <attributes />
-      <edge toID="1.12" type="F">
+      <edge toID="1.12" type="E">
         <attributes />
       </edge>
       <edge toID="1.13" type="C">
         <attributes />
       </edge>
     </node>
+    <node ID="1.5" type="FN">
+      <attributes />
+      <edge toID="0.5" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
     <node ID="1.6" type="FN">
       <attributes />
-      <edge toID="1.7" type="R">
-        <attributes />
-      </edge>
-      <edge toID="1.8" type="E">
-        <attributes />
-      </edge>
-      <edge toID="1.9" type="C">
+      <edge toID="0.4" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.7" type="FN">
       <attributes />
-      <edge toID="0.6" type="Terminal">
+      <edge toID="1.8" type="R">
+        <attributes />
+      </edge>
+      <edge toID="1.9" type="E">
+        <attributes />
+      </edge>
+      <edge toID="1.10" type="E">
+        <attributes />
+      </edge>
+      <edge toID="1.11" type="C">
         <attributes />
       </edge>
     </node>
     <node ID="1.8" type="FN">
       <attributes />
-      <edge toID="0.7" type="Terminal">
+      <edge toID="0.6" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.9" type="FN">
       <attributes />
-      <edge toID="1.10" type="E">
-        <attributes />
-      </edge>
-      <edge toID="1.11" type="C">
+      <edge toID="0.7" type="Terminal">
         <attributes />
       </edge>
     </node>
@@ -138,38 +138,26 @@
     </node>
     <node ID="1.12" type="FN">
       <attributes />
-      <edge toID="0.4" type="Terminal">
+      <edge toID="1.14" type="C">
+        <attributes />
+      </edge>
+      <edge toID="1.15" type="R">
         <attributes />
       </edge>
     </node>
     <node ID="1.13" type="FN">
       <attributes />
-      <edge toID="0.5" type="Terminal">
+      <edge toID="0.3" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.14" type="FN">
       <attributes />
-      <edge toID="1.16" type="C">
-        <attributes />
-      </edge>
-      <edge toID="1.17" type="R">
-        <attributes />
-      </edge>
-    </node>
-    <node ID="1.15" type="FN">
-      <attributes />
-      <edge toID="0.3" type="Terminal">
-        <attributes />
-      </edge>
-    </node>
-    <node ID="1.16" type="FN">
-      <attributes />
       <edge toID="0.1" type="Terminal">
         <attributes />
       </edge>
     </node>
-    <node ID="1.17" type="FN">
+    <node ID="1.15" type="FN">
       <attributes />
       <edge toID="0.2" type="Terminal">
         <attributes />

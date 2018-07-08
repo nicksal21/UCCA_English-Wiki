@@ -5,71 +5,71 @@
     <extra doc="[[], [], []]" />
     <node ID="0.1" type="Word">
       <attributes paragraph="1" paragraph_position="1" text="On" />
-      <extra orig_paragraph="1" />
+      <extra dep="prep" ent_iob="2" ent_type="" head="11" lemma="on" orig_paragraph="1" orth="On" pos="ADP" prefix="O" shape="Xx" suffix="On" tag="IN" />
     </node>
     <node ID="0.2" type="Word">
       <attributes paragraph="1" paragraph_position="2" text="August" />
-      <extra orig_paragraph="1" />
+      <extra dep="pobj" ent_iob="3" ent_type="DATE" head="-1" lemma="august" orig_paragraph="1" orth="August" pos="PROPN" prefix="A" shape="Xxxxx" suffix="ust" tag="NNP" />
     </node>
     <node ID="0.3" type="Word">
       <attributes paragraph="1" paragraph_position="3" text="13" />
-      <extra orig_paragraph="1" />
+      <extra dep="nummod" ent_iob="1" ent_type="DATE" head="-1" lemma="13" orig_paragraph="1" orth="13" pos="NUM" prefix="1" shape="dd" suffix="13" tag="CD" />
     </node>
     <node ID="0.4" type="Punctuation">
       <attributes paragraph="1" paragraph_position="4" text="," />
-      <extra orig_paragraph="1" />
+      <extra dep="punct" ent_iob="1" ent_type="DATE" head="-2" lemma="," orig_paragraph="1" orth="," pos="PUNCT" prefix="," shape="," suffix="," tag="," />
     </node>
     <node ID="0.5" type="Word">
       <attributes paragraph="1" paragraph_position="5" text="1993" />
-      <extra orig_paragraph="1" />
+      <extra dep="appos" ent_iob="1" ent_type="DATE" head="-3" lemma="1993" orig_paragraph="1" orth="1993" pos="NUM" prefix="1" shape="dddd" suffix="993" tag="CD" />
     </node>
     <node ID="0.6" type="Punctuation">
       <attributes paragraph="1" paragraph_position="6" text="," />
-      <extra orig_paragraph="1" />
+      <extra dep="punct" ent_iob="2" ent_type="" head="6" lemma="," orig_paragraph="1" orth="," pos="PUNCT" prefix="," shape="," suffix="," tag="," />
     </node>
     <node ID="0.7" type="Word">
       <attributes paragraph="1" paragraph_position="7" text="Jennings" />
-      <extra orig_paragraph="1" />
+      <extra dep="nsubj" ent_iob="3" ent_type="PERSON" head="5" lemma="jennings" orig_paragraph="1" orth="Jennings" pos="PROPN" prefix="J" shape="Xxxxx" suffix="ngs" tag="NNP" />
     </node>
     <node ID="0.8" type="Word">
       <attributes paragraph="1" paragraph_position="8" text="and" />
-      <extra orig_paragraph="1" />
+      <extra dep="cc" ent_iob="2" ent_type="" head="-1" lemma="and" orig_paragraph="1" orth="and" pos="CCONJ" prefix="a" shape="xxx" suffix="and" tag="CC" />
     </node>
     <node ID="0.9" type="Word">
       <attributes paragraph="1" paragraph_position="9" text="Kati" />
-      <extra orig_paragraph="1" />
+      <extra dep="compound" ent_iob="3" ent_type="PERSON" head="1" lemma="kati" orig_paragraph="1" orth="Kati" pos="PROPN" prefix="K" shape="Xxxx" suffix="ati" tag="NNP" />
     </node>
     <node ID="0.10" type="Word">
       <attributes paragraph="1" paragraph_position="10" text="Marton" />
-      <extra orig_paragraph="1" />
+      <extra dep="conj" ent_iob="1" ent_type="PERSON" head="-3" lemma="marton" orig_paragraph="1" orth="Marton" pos="PROPN" prefix="M" shape="Xxxxx" suffix="ton" tag="NNP" />
     </node>
     <node ID="0.11" type="Word">
       <attributes paragraph="1" paragraph_position="11" text="publicly" />
-      <extra orig_paragraph="1" />
+      <extra dep="advmod" ent_iob="2" ent_type="" head="1" lemma="publicly" orig_paragraph="1" orth="publicly" pos="ADV" prefix="p" shape="xxxx" suffix="cly" tag="RB" />
     </node>
     <node ID="0.12" type="Word">
       <attributes paragraph="1" paragraph_position="12" text="announced" />
-      <extra orig_paragraph="1" />
+      <extra dep="ROOT" ent_iob="2" ent_type="" head="0" lemma="announce" orig_paragraph="1" orth="announced" pos="VERB" prefix="a" shape="xxxx" suffix="ced" tag="VBD" />
     </node>
     <node ID="0.13" type="Word">
       <attributes paragraph="1" paragraph_position="13" text="their" />
-      <extra orig_paragraph="1" />
+      <extra dep="poss" ent_iob="2" ent_type="" head="1" lemma="-PRON-" orig_paragraph="1" orth="their" pos="ADJ" prefix="t" shape="xxxx" suffix="eir" tag="PRP$" />
     </node>
     <node ID="0.14" type="Word">
       <attributes paragraph="1" paragraph_position="14" text="separation" />
-      <extra orig_paragraph="1" />
+      <extra dep="dobj" ent_iob="2" ent_type="" head="-2" lemma="separation" orig_paragraph="1" orth="separation" pos="NOUN" prefix="s" shape="xxxx" suffix="ion" tag="NN" />
     </node>
     <node ID="0.15" type="Word">
       <attributes paragraph="1" paragraph_position="15" text="in" />
-      <extra orig_paragraph="1" />
+      <extra dep="prep" ent_iob="2" ent_type="" head="-1" lemma="in" orig_paragraph="1" orth="in" pos="ADP" prefix="i" shape="xx" suffix="in" tag="IN" />
     </node>
     <node ID="0.16" type="Word">
       <attributes paragraph="1" paragraph_position="16" text="Newsday" />
-      <extra orig_paragraph="1" />
+      <extra dep="pobj" ent_iob="3" ent_type="ORG" head="-1" lemma="newsday" orig_paragraph="1" orth="Newsday" pos="PROPN" prefix="N" shape="Xxxxx" suffix="day" tag="NNP" />
     </node>
     <node ID="0.17" type="Punctuation">
       <attributes paragraph="1" paragraph_position="17" text="." />
-      <extra orig_paragraph="1" />
+      <extra dep="punct" ent_iob="2" ent_type="" head="-5" lemma="." orig_paragraph="1" orth="." pos="PUNCT" prefix="." shape="." suffix="." tag="." />
     </node>
   </layer>
   <layer layerID="1">
@@ -88,22 +88,22 @@
       <edge toID="1.4" type="D">
         <attributes />
       </edge>
-      <edge toID="1.5" type="U">
+      <edge toID="1.5" type="A">
         <attributes />
       </edge>
-      <edge toID="1.6" type="A">
+      <edge toID="1.6" type="D">
         <attributes />
       </edge>
-      <edge toID="1.7" type="D">
+      <edge toID="1.7" type="P">
         <attributes />
       </edge>
-      <edge toID="1.8" type="P">
+      <edge toID="1.8" type="A">
         <attributes />
       </edge>
       <edge toID="1.9" type="A">
         <attributes />
       </edge>
-      <edge toID="1.10" type="A">
+      <edge toID="1.10" type="U">
         <attributes />
       </edge>
     </node>
@@ -121,14 +121,11 @@
       <edge toID="1.19" type="C">
         <attributes />
       </edge>
-    </node>
-    <node ID="1.5" type="PNCT">
-      <attributes />
-      <edge toID="0.6" type="Terminal">
+      <edge toID="1.20" type="U">
         <attributes />
       </edge>
     </node>
-    <node ID="1.6" type="FN">
+    <node ID="1.5" type="FN">
       <attributes />
       <edge toID="1.15" type="C">
         <attributes />
@@ -140,19 +137,19 @@
         <attributes />
       </edge>
     </node>
-    <node ID="1.7" type="FN">
+    <node ID="1.6" type="FN">
       <attributes />
       <edge toID="0.11" type="Terminal">
         <attributes />
       </edge>
     </node>
-    <node ID="1.8" type="FN">
+    <node ID="1.7" type="FN">
       <attributes />
       <edge toID="0.12" type="Terminal">
         <attributes />
       </edge>
     </node>
-    <node ID="1.9" type="FN">
+    <node ID="1.8" type="FN">
       <attributes />
       <edge toID="1.13" type="E">
         <attributes />
@@ -161,12 +158,18 @@
         <attributes />
       </edge>
     </node>
-    <node ID="1.10" type="FN">
+    <node ID="1.9" type="FN">
       <attributes />
       <edge toID="1.11" type="R">
         <attributes />
       </edge>
       <edge toID="1.12" type="C">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.10" type="PNCT">
+      <attributes />
+      <edge toID="0.6" type="Terminal">
         <attributes />
       </edge>
     </node>
@@ -230,9 +233,6 @@
         <attributes />
       </edge>
       <edge toID="0.5" type="Terminal">
-        <attributes />
-      </edge>
-      <edge toID="1.20" type="U">
         <attributes />
       </edge>
     </node>

@@ -5,39 +5,39 @@
     <extra doc="[[], [], []]" />
     <node ID="0.1" type="Word">
       <attributes paragraph="1" paragraph_position="1" text="A" />
-      <extra orig_paragraph="3" />
+      <extra dep="det" ent_iob="2" ent_type="" head="2" lemma="a" orig_paragraph="3" orth="A" pos="DET" prefix="A" shape="X" suffix="A" tag="DT" />
     </node>
     <node ID="0.2" type="Word">
       <attributes paragraph="1" paragraph_position="2" text="security" />
-      <extra orig_paragraph="3" />
+      <extra dep="compound" ent_iob="2" ent_type="" head="1" lemma="security" orig_paragraph="3" orth="security" pos="NOUN" prefix="s" shape="xxxx" suffix="ity" tag="NN" />
     </node>
     <node ID="0.3" type="Word">
       <attributes paragraph="1" paragraph_position="3" text="staff" />
-      <extra orig_paragraph="3" />
+      <extra dep="nsubj" ent_iob="2" ent_type="" head="3" lemma="staff" orig_paragraph="3" orth="staff" pos="NOUN" prefix="s" shape="xxxx" suffix="aff" tag="NN" />
     </node>
     <node ID="0.4" type="Word">
       <attributes paragraph="1" paragraph_position="4" text="of" />
-      <extra orig_paragraph="3" />
+      <extra dep="prep" ent_iob="2" ent_type="" head="-1" lemma="of" orig_paragraph="3" orth="of" pos="ADP" prefix="o" shape="xx" suffix="of" tag="IN" />
     </node>
     <node ID="0.5" type="Word">
       <attributes paragraph="1" paragraph_position="5" text="40" />
-      <extra orig_paragraph="3" />
+      <extra dep="pobj" ent_iob="3" ent_type="CARDINAL" head="-1" lemma="40" orig_paragraph="3" orth="40" pos="NUM" prefix="4" shape="dd" suffix="40" tag="CD" />
     </node>
     <node ID="0.6" type="Word">
       <attributes paragraph="1" paragraph_position="6" text="patrolled" />
-      <extra orig_paragraph="3" />
+      <extra dep="ROOT" ent_iob="2" ent_type="" head="0" lemma="patrol" orig_paragraph="3" orth="patrolled" pos="VERB" prefix="p" shape="xxxx" suffix="led" tag="VBD" />
     </node>
     <node ID="0.7" type="Word">
       <attributes paragraph="1" paragraph_position="7" text="the" />
-      <extra orig_paragraph="3" />
+      <extra dep="det" ent_iob="2" ent_type="" head="1" lemma="the" orig_paragraph="3" orth="the" pos="DET" prefix="t" shape="xxx" suffix="the" tag="DT" />
     </node>
     <node ID="0.8" type="Word">
       <attributes paragraph="1" paragraph_position="8" text="grounds" />
-      <extra orig_paragraph="3" />
+      <extra dep="dobj" ent_iob="2" ent_type="" head="-2" lemma="ground" orig_paragraph="3" orth="grounds" pos="NOUN" prefix="g" shape="xxxx" suffix="nds" tag="NNS" />
     </node>
     <node ID="0.9" type="Punctuation">
       <attributes paragraph="1" paragraph_position="9" text="." />
-      <extra orig_paragraph="3" />
+      <extra dep="punct" ent_iob="2" ent_type="" head="-3" lemma="." orig_paragraph="3" orth="." pos="PUNCT" prefix="." shape="." suffix="." tag="." />
     </node>
   </layer>
   <layer layerID="1">

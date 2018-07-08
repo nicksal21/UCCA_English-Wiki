@@ -5,19 +5,19 @@
     <extra doc="[[], [], [], []]" />
     <node ID="0.1" type="Word">
       <attributes paragraph="1" paragraph_position="1" text="Reviews" />
-      <extra orig_paragraph="4" />
+      <extra dep="nsubj" ent_iob="2" ent_type="" head="1" lemma="review" orig_paragraph="4" orth="Reviews" pos="NOUN" prefix="R" shape="Xxxxx" suffix="ews" tag="NNS" />
     </node>
     <node ID="0.2" type="Word">
       <attributes paragraph="1" paragraph_position="2" text="were" />
-      <extra orig_paragraph="4" />
+      <extra dep="ROOT" ent_iob="2" ent_type="" head="0" lemma="be" orig_paragraph="4" orth="were" pos="VERB" prefix="w" shape="xxxx" suffix="ere" tag="VBD" />
     </node>
     <node ID="0.3" type="Word">
       <attributes paragraph="1" paragraph_position="3" text="mixed" />
-      <extra orig_paragraph="4" />
+      <extra dep="acomp" ent_iob="2" ent_type="" head="-1" lemma="mix" orig_paragraph="4" orth="mixed" pos="VERB" prefix="m" shape="xxxx" suffix="xed" tag="VBN" />
     </node>
     <node ID="0.4" type="Punctuation">
       <attributes paragraph="1" paragraph_position="4" text="." />
-      <extra orig_paragraph="4" />
+      <extra dep="punct" ent_iob="2" ent_type="" head="-2" lemma="." orig_paragraph="4" orth="." pos="PUNCT" prefix="." shape="." suffix="." tag="." />
     </node>
   </layer>
   <layer layerID="1">
@@ -39,6 +39,9 @@
       <edge toID="1.5" type="S">
         <attributes />
       </edge>
+      <edge toID="1.6" type="F">
+        <attributes />
+      </edge>
     </node>
     <node ID="1.3" type="PNCT">
       <attributes />
@@ -54,22 +57,13 @@
     </node>
     <node ID="1.5" type="FN">
       <attributes />
-      <edge toID="1.6" type="F">
-        <attributes />
-      </edge>
-      <edge toID="1.7" type="C">
+      <edge toID="0.3" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.6" type="FN">
       <attributes />
       <edge toID="0.2" type="Terminal">
-        <attributes />
-      </edge>
-    </node>
-    <node ID="1.7" type="FN">
-      <attributes />
-      <edge toID="0.3" type="Terminal">
         <attributes />
       </edge>
     </node>

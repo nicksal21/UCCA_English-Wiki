@@ -5,71 +5,71 @@
     <extra doc="[[], [], []]" />
     <node ID="0.1" type="Word">
       <attributes paragraph="1" paragraph_position="1" text="He" />
-      <extra orig_paragraph="1" />
+      <extra dep="nsubj" ent_iob="2" ent_type="" head="1" lemma="-PRON-" orig_paragraph="1" orth="He" pos="PRON" prefix="H" shape="Xx" suffix="He" tag="PRP" />
     </node>
     <node ID="0.2" type="Word">
       <attributes paragraph="1" paragraph_position="2" text="performed" />
-      <extra orig_paragraph="1" />
+      <extra dep="ROOT" ent_iob="2" ent_type="" head="0" lemma="perform" orig_paragraph="1" orth="performed" pos="VERB" prefix="p" shape="xxxx" suffix="med" tag="VBD" />
     </node>
     <node ID="0.3" type="Word">
       <attributes paragraph="1" paragraph_position="3" text="a" />
-      <extra orig_paragraph="1" />
+      <extra dep="det" ent_iob="2" ent_type="" head="1" lemma="a" orig_paragraph="1" orth="a" pos="DET" prefix="a" shape="x" suffix="a" tag="DT" />
     </node>
     <node ID="0.4" type="Word">
       <attributes paragraph="1" paragraph_position="4" text="total" />
-      <extra orig_paragraph="1" />
+      <extra dep="dobj" ent_iob="2" ent_type="" head="-2" lemma="total" orig_paragraph="1" orth="total" pos="NOUN" prefix="t" shape="xxxx" suffix="tal" tag="NN" />
     </node>
     <node ID="0.5" type="Word">
       <attributes paragraph="1" paragraph_position="5" text="of" />
-      <extra orig_paragraph="1" />
+      <extra dep="prep" ent_iob="2" ent_type="" head="-1" lemma="of" orig_paragraph="1" orth="of" pos="ADP" prefix="o" shape="xx" suffix="of" tag="IN" />
     </node>
     <node ID="0.6" type="Word">
       <attributes paragraph="1" paragraph_position="6" text="123" />
-      <extra orig_paragraph="1" />
+      <extra dep="nummod" ent_iob="3" ent_type="CARDINAL" head="1" lemma="123" orig_paragraph="1" orth="123" pos="NUM" prefix="1" shape="ddd" suffix="123" tag="CD" />
     </node>
     <node ID="0.7" type="Word">
       <attributes paragraph="1" paragraph_position="7" text="concerts" />
-      <extra orig_paragraph="1" />
+      <extra dep="pobj" ent_iob="2" ent_type="" head="-2" lemma="concert" orig_paragraph="1" orth="concerts" pos="NOUN" prefix="c" shape="xxxx" suffix="rts" tag="NNS" />
     </node>
     <node ID="0.8" type="Word">
       <attributes paragraph="1" paragraph_position="8" text="to" />
-      <extra orig_paragraph="1" />
+      <extra dep="prep" ent_iob="2" ent_type="" head="-6" lemma="to" orig_paragraph="1" orth="to" pos="ADP" prefix="t" shape="xx" suffix="to" tag="IN" />
     </node>
     <node ID="0.9" type="Word">
       <attributes paragraph="1" paragraph_position="9" text="an" />
-      <extra orig_paragraph="1" />
+      <extra dep="det" ent_iob="2" ent_type="" head="1" lemma="an" orig_paragraph="1" orth="an" pos="DET" prefix="a" shape="xx" suffix="an" tag="DT" />
     </node>
     <node ID="0.10" type="Word">
       <attributes paragraph="1" paragraph_position="10" text="audience" />
-      <extra orig_paragraph="1" />
+      <extra dep="pobj" ent_iob="2" ent_type="" head="-2" lemma="audience" orig_paragraph="1" orth="audience" pos="NOUN" prefix="a" shape="xxxx" suffix="nce" tag="NN" />
     </node>
     <node ID="0.11" type="Word">
       <attributes paragraph="1" paragraph_position="11" text="of" />
-      <extra orig_paragraph="1" />
+      <extra dep="prep" ent_iob="2" ent_type="" head="-1" lemma="of" orig_paragraph="1" orth="of" pos="ADP" prefix="o" shape="xx" suffix="of" tag="IN" />
     </node>
     <node ID="0.12" type="Word">
       <attributes paragraph="1" paragraph_position="12" text="4" />
-      <extra orig_paragraph="1" />
+      <extra dep="quantmod" ent_iob="3" ent_type="CARDINAL" head="3" lemma="4" orig_paragraph="1" orth="4" pos="NUM" prefix="4" shape="d" suffix="4" tag="CD" />
     </node>
     <node ID="0.13" type="Punctuation">
       <attributes paragraph="1" paragraph_position="13" text="." />
-      <extra orig_paragraph="1" />
+      <extra dep="quantmod" ent_iob="2" ent_type="" head="2" lemma="." orig_paragraph="1" orth="." pos="PUNCT" prefix="." shape="." suffix="." tag="." />
     </node>
     <node ID="0.14" type="Word">
       <attributes paragraph="1" paragraph_position="14" text="4" />
-      <extra orig_paragraph="1" />
+      <extra dep="compound" ent_iob="3" ent_type="CARDINAL" head="1" lemma="4" orig_paragraph="1" orth="4" pos="NUM" prefix="4" shape="d" suffix="4" tag="CD" />
     </node>
     <node ID="0.15" type="Word">
       <attributes paragraph="1" paragraph_position="15" text="million" />
-      <extra orig_paragraph="1" />
+      <extra dep="nummod" ent_iob="1" ent_type="CARDINAL" head="1" lemma="million" orig_paragraph="1" orth="million" pos="NUM" prefix="m" shape="xxxx" suffix="ion" tag="CD" />
     </node>
     <node ID="0.16" type="Word">
       <attributes paragraph="1" paragraph_position="16" text="people" />
-      <extra orig_paragraph="1" />
+      <extra dep="pobj" ent_iob="2" ent_type="" head="-5" lemma="people" orig_paragraph="1" orth="people" pos="NOUN" prefix="p" shape="xxxx" suffix="ple" tag="NNS" />
     </node>
     <node ID="0.17" type="Punctuation">
       <attributes paragraph="1" paragraph_position="17" text="." />
-      <extra orig_paragraph="1" />
+      <extra dep="punct" ent_iob="2" ent_type="" head="-15" lemma="." orig_paragraph="1" orth="." pos="PUNCT" prefix="." shape="." suffix="." tag="." />
     </node>
   </layer>
   <layer layerID="1">
@@ -175,6 +175,9 @@
       <edge toID="1.14" type="C">
         <attributes />
       </edge>
+      <edge toID="1.15" type="U">
+        <attributes />
+      </edge>
     </node>
     <node ID="1.12" type="FN">
       <attributes />
@@ -191,9 +194,6 @@
         <attributes />
       </edge>
       <edge toID="0.15" type="Terminal">
-        <attributes />
-      </edge>
-      <edge toID="1.15" type="U">
         <attributes />
       </edge>
     </node>
