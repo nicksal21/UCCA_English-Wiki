@@ -278,10 +278,10 @@
       <edge toID="1.39" type="A">
         <attributes />
       </edge>
-      <edge toID="1.40" type="P">
+      <edge toID="1.40" type="F">
         <attributes />
       </edge>
-      <edge toID="1.41" type="F">
+      <edge toID="1.41" type="P">
         <attributes />
       </edge>
       <edge toID="1.42" type="A">
@@ -308,13 +308,13 @@
       <edge toID="1.35" type="A">
         <attributes />
       </edge>
-      <edge toID="1.36" type="P">
+      <edge toID="1.36" type="F">
         <attributes />
       </edge>
-      <edge toID="1.37" type="F">
+      <edge toID="1.37" type="D">
         <attributes />
       </edge>
-      <edge toID="1.38" type="D">
+      <edge toID="1.38" type="P">
         <attributes />
       </edge>
     </node>
@@ -323,13 +323,13 @@
       <edge toID="1.27" type="A">
         <attributes />
       </edge>
-      <edge toID="1.28" type="P">
+      <edge toID="1.28" type="F">
         <attributes />
       </edge>
-      <edge toID="1.29" type="F">
+      <edge toID="1.29" type="D">
         <attributes />
       </edge>
-      <edge toID="1.30" type="D">
+      <edge toID="1.30" type="P">
         <attributes />
       </edge>
       <edge toID="1.31" type="D">
@@ -341,10 +341,10 @@
       <edge toID="1.18" type="F">
         <attributes />
       </edge>
-      <edge toID="1.19" type="S">
+      <edge toID="1.19" type="F">
         <attributes />
       </edge>
-      <edge toID="1.20" type="F">
+      <edge toID="1.20" type="S">
         <attributes />
       </edge>
       <edge toID="1.21" type="A">
@@ -386,13 +386,13 @@
     </node>
     <node ID="1.19" type="FN">
       <attributes />
-      <edge toID="0.40" type="Terminal">
+      <edge toID="0.39" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.20" type="FN">
       <attributes />
-      <edge toID="0.39" type="Terminal">
+      <edge toID="0.40" type="Terminal">
         <attributes />
       </edge>
     </node>
@@ -446,19 +446,19 @@
     </node>
     <node ID="1.28" type="FN">
       <attributes />
-      <edge toID="0.33" type="Terminal">
+      <edge toID="0.31" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.29" type="FN">
       <attributes />
-      <edge toID="0.31" type="Terminal">
+      <edge toID="0.32" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.30" type="FN">
       <attributes />
-      <edge toID="0.32" type="Terminal">
+      <edge toID="0.33" type="Terminal">
         <attributes />
       </edge>
     </node>
@@ -500,6 +500,18 @@
     </node>
     <node ID="1.36" type="FN">
       <attributes />
+      <edge toID="0.24" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.37" type="FN">
+      <attributes />
+      <edge toID="0.25" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.38" type="FN">
+      <attributes />
       <edge toID="0.26" type="Terminal">
         <attributes />
       </edge>
@@ -507,18 +519,6 @@
         <attributes />
       </edge>
       <edge toID="0.28" type="Terminal">
-        <attributes />
-      </edge>
-    </node>
-    <node ID="1.37" type="FN">
-      <attributes />
-      <edge toID="0.24" type="Terminal">
-        <attributes />
-      </edge>
-    </node>
-    <node ID="1.38" type="FN">
-      <attributes />
-      <edge toID="0.25" type="Terminal">
         <attributes />
       </edge>
     </node>
@@ -530,16 +530,16 @@
     </node>
     <node ID="1.40" type="FN">
       <attributes />
-      <edge toID="0.7" type="Terminal">
-        <attributes />
-      </edge>
-      <edge toID="0.8" type="Terminal">
+      <edge toID="0.6" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.41" type="FN">
       <attributes />
-      <edge toID="0.6" type="Terminal">
+      <edge toID="0.7" type="Terminal">
+        <attributes />
+      </edge>
+      <edge toID="0.8" type="Terminal">
         <attributes />
       </edge>
     </node>
