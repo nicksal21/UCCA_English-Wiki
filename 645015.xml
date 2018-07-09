@@ -96,7 +96,10 @@
       <edge toID="1.8" type="A">
         <attributes remote="True" />
       </edge>
-      <edge toID="1.20" type="P">
+      <edge toID="1.20" type="A">
+        <attributes />
+      </edge>
+      <edge toID="1.21" type="P">
         <attributes />
       </edge>
     </node>
@@ -233,12 +236,15 @@
       </edge>
     </node>
     <node ID="1.20" type="FN">
+      <attributes implicit="True" />
+    </node>
+    <node ID="1.21" type="FN">
       <attributes />
       <edge toID="0.2" type="Terminal">
         <attributes />
       </edge>
     </node>
-    <node ID="1.21" type="LKG">
+    <node ID="1.22" type="LKG">
       <attributes />
       <edge toID="1.2" type="LR">
         <attributes />
