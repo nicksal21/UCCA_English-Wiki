@@ -1,13 +1,37 @@
 # sent_id = 1026012
-# text = Jackson became the subject of increasingly sensational reports .
+# text = In 1986 , the tabloids ran a story claiming that Jackson slept in a hyperbaric oxygen chamber to slow the aging process ; he was pictured lying down in a glass box .
 # doc_id = 
-1	Jackson	_	Word	Word	_	4	A	4:A	_
-2	became	_	Word	Word	_	4	E	4:E	_
-3	the	_	Word	Word	_	4	E	4:E	_
-4	subject	_	Word	Word	_	0	root	0:root	_
-5	of	_	Word	Word	_	4	R	4:R	_
-6	increasingly	_	Word	Word	_	7	E	7:E	_
-7	sensational	_	Word	Word	_	4	orphan	4:orphan	_
-8	reports	_	Word	Word	_	4	orphan	4:orphan	_
-9	.	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+1	In	in	ADP	IN	_	2	R	2:R	_
+2	1986	1986	NUM	CD	_	0	root	0:root	_
+3	,	,	PUNCT	,	_	6	punct	6:punct	_
+4	the	the	DET	DT	_	5	E	5:E	_
+5	tabloids	tabloid	NOUN	NNS	_	2	orphan	2:orphan	_
+6	ran	run	VERB	VBD	_	2	orphan	2:orphan	_
+7	a	a	DET	DT	_	8	E	8:E	_
+8	story	story	NOUN	NN	_	2	orphan	2:orphan	_
+9	claiming	claim	VERB	VBG	_	2	orphan	2:orphan	_
+10	that	that	ADP	IN	_	12	F	12:F	_
+11	Jackson	jackson	PROPN	NNP	_	12	A	12:A	_
+12	slept	sleep	VERB	VBD	_	2	orphan	2:orphan	_
+13	in	in	ADP	IN	_	12	R	12:R	_
+14	a	a	DET	DT	_	17	E	17:E	_
+15	hyperbaric	hyperbaric	ADJ	JJ	_	17	E	17:E	_
+16	oxygen	oxygen	NOUN	NN	_	17	E	17:E	_
+17	chamber	chamber	NOUN	NN	_	2	orphan	2:orphan	_
+18	to	to	PART	TO	_	12	L	12:L	_
+19	slow	slow	VERB	VB	_	2	orphan	2:orphan	_
+20	the	the	DET	DT	_	22	E	22:E	_
+21	aging	age	VERB	VBG	_	22	E	22:E	_
+22	process	process	NOUN	NN	_	2	orphan	2:orphan	_
+23	;	;	PUNCT	:	_	6	punct	6:punct	_
+24	he	-PRON-	PRON	PRP	_	26	A	26:A	_
+25	was	be	VERB	VBD	_	26	F	26:F	_
+26	pictured	picture	VERB	VBN	_	2	orphan	2:orphan	_
+27	lying	lie	VERB	VBG	_	2	orphan	2:orphan	_
+28	down	down	PART	RP	_	27	R	27:R	_
+29	in	in	ADP	IN	_	32	R	32:R	_
+30	a	a	DET	DT	_	32	E	32:E	_
+31	glass	glass	NOUN	NN	_	32	E	32:E	_
+32	box	box	NOUN	NN	_	2	orphan	2:orphan	_
+33	.	.	PUNCT	.	_	32	punct	32:punct	_
 

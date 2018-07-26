@@ -1,22 +1,20 @@
 # sent_id = 942007
-# text = She won the World 's Best - Selling New Female Artist at the World Music Awards 2005 .
+# text = In 2003 , she debuted her clothing line L . A . M . B .
 # doc_id = 
-1	She	_	Word	Word	_	2	A	2:A	_
-2	won	_	Word	Word	_	0	root	0:root	_
-3	the	_	Word	Word	_	11	E	11:E	_
-4	World	_	Word	Word	_	2	orphan	2:orphan	_
-5	's	_	Word	Word	_	4	R	4:R	_
-6	Best	_	Word	Word	_	8	E	8:E	_
-7	-	_	Punctuation	Punctuation	_	8	punct	8:punct	_
-8	Selling	_	Word	Word	_	2	orphan	2:orphan	_
-9	New	_	Word	Word	_	10	E	10:E	_
-10	Female	_	Word	Word	_	2	orphan	2:orphan	_
-11	Artist	_	Word	Word	_	2	orphan	2:orphan	_
-12	at	_	Word	Word	_	16	R	16:R	_
-13	the	_	Word	Word	_	16	E	16:E	_
-14	World	_	Word	Word	_	15	E	15:E	_
-15	Music	_	Word	Word	_	2	orphan	2:orphan	_
-16	Awards	_	Word	Word	_	2	orphan	2:orphan	_
-17	2005	_	Word	Word	_	16	E	16:E	_
-18	.	_	Punctuation	Punctuation	_	16	punct	16:punct	_
+1	In	in	ADP	IN	_	2	R	2:R	_
+2	2003	2003	NUM	CD	_	0	root	0:root	_
+3	,	,	PUNCT	,	_	5	punct	5:punct	_
+4	she	-PRON-	PRON	PRP	_	5	A	5:A	_
+5	debuted	debut	VERB	VBD	_	2	orphan	2:orphan	_
+6	her	-PRON-	ADJ	PRP$	_	9	E	9:E	_
+7	clothing	clothing	NOUN	NN	_	8	E	8:E	_
+8	line	line	NOUN	NN	_	2	orphan	2:orphan	_
+9	L	l	NOUN	NN	_	2	orphan	2:orphan	_
+10	.	.	PUNCT	.	_	9	punct	9:punct	_
+11	A	a	NOUN	NN	_	9	flat	9:flat	_
+12	.	.	PUNCT	.	_	9	punct	9:punct	_
+13	M	m	NOUN	NN	_	9	flat	9:flat	_
+14	.	.	PUNCT	.	_	9	punct	9:punct	_
+15	B	b	NOUN	NN	_	9	flat	9:flat	_
+16	.	.	PUNCT	.	_	9	punct	9:punct	_
 

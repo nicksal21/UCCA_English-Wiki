@@ -1,15 +1,15 @@
 # sent_id = 522006
 # text = She was self - conscious and anxious about her appearance .
 # doc_id = 
-1	She	_	Word	Word	_	5	A	5:A	_
-2	was	_	Word	Word	_	5	F	5:F	_
-3	self	_	Word	Word	_	5	E	5:E	_
-4	-	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-5	conscious	_	Word	Word	_	0	root	0:root	_
-6	and	_	Word	Word	_	5	N	5:N	_
-7	anxious	_	Word	Word	_	5	C	5:C	_
-8	about	_	Word	Word	_	10	R	10:R	_
-9	her	_	Word	Word	_	10	E	10:E	_
-10	appearance	_	Word	Word	_	5	orphan	5:orphan	_
-11	.	_	Punctuation	Punctuation	_	10	punct	10:punct	_
+1	She	-PRON-	PRON	PRP	_	5	A	5:A	_
+2	was	be	VERB	VBD	_	5	F	5:F	_
+3	self	self	NOUN	NN	_	5	E	5:E	_
+4	-	-	PUNCT	HYPH	_	5	punct	5:punct	_
+5	conscious	conscious	ADJ	JJ	_	0	root	0:root	_
+6	and	and	CCONJ	CC	_	5	N	5:N	_
+7	anxious	anxious	ADJ	JJ	_	5	C	5:C	_
+8	about	about	ADP	IN	_	10	R	10:R	_
+9	her	-PRON-	ADJ	PRP$	_	10	E	10:E	_
+10	appearance	appearance	NOUN	NN	_	5	orphan	5:orphan	_
+11	.	.	PUNCT	.	_	10	punct	10:punct	_
 

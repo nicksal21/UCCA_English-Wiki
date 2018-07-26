@@ -1,33 +1,33 @@
 # sent_id = 466002
-# text = He won a championship and an NBA Finals Most Valuable Player Award in his rookie season , and won four more championships with the Lakers during the 1980s .
+# text = Johnson retired abruptly in 1991 after announcing that he had contracted HIV , but returned to play in the 1992 All-Star Game , winning the All-Star MVP Award .
 # doc_id = 
-1	He	_	Word	Word	_	2	A	2:A	_
-2	won	_	Word	Word	_	0	root	0:root	_
-3	a	_	Word	Word	_	4	E	4:E	_
-4	championship	_	Word	Word	_	2	orphan	2:orphan	_
-5	and	_	Word	Word	_	4	N	4:N	_
-6	an	_	Word	Word	_	12	E	12:E	_
-7	NBA	_	Word	Word	_	12	E	12:E	_
-8	Finals	_	Word	Word	_	7	flat	7:flat	_
-9	Most	_	Word	Word	_	7	flat	7:flat	_
-10	Valuable	_	Word	Word	_	7	flat	7:flat	_
-11	Player	_	Word	Word	_	7	flat	7:flat	_
-12	Award	_	Word	Word	_	2	orphan	2:orphan	_
-13	in	_	Word	Word	_	2	L	2:L	_
-14	his	_	Word	Word	_	16	A	16:A	_
-15	rookie	_	Word	Word	_	16	E	16:E	_
-16	season	_	Word	Word	_	2	orphan	2:orphan	_
-17	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-18	and	_	Word	Word	_	2	L	2:L	_
-19	won	_	Word	Word	_	2	orphan	2:orphan	_
-20	four	_	Word	Word	_	21	E	21:E	_
-21	more	_	Word	Word	_	2	orphan	2:orphan	_
-22	championships	_	Word	Word	_	2	orphan	2:orphan	_
-23	with	_	Word	Word	_	25	R	25:R	_
-24	the	_	Word	Word	_	25	E	25:E	_
-25	Lakers	_	Word	Word	_	2	orphan	2:orphan	_
-26	during	_	Word	Word	_	28	R	28:R	_
-27	the	_	Word	Word	_	28	E	28:E	_
-28	1980s	_	Word	Word	_	2	orphan	2:orphan	_
-29	.	_	Punctuation	Punctuation	_	28	punct	28:punct	_
+1	Johnson	johnson	PROPN	NNP	_	2	A	2:A	_
+2	retired	retire	VERB	VBD	_	0	root	0:root	_
+3	abruptly	abruptly	ADV	RB	_	2	D	2:D	_
+4	in	in	ADP	IN	_	5	R	5:R	_
+5	1991	1991	NUM	CD	_	2	orphan	2:orphan	_
+6	after	after	ADP	IN	_	2	L	2:L	_
+7	announcing	announce	VERB	VBG	_	2	orphan	2:orphan	_
+8	that	that	ADP	IN	_	11	F	11:F	_
+9	he	-PRON-	PRON	PRP	_	11	A	11:A	_
+10	had	have	VERB	VBD	_	11	F	11:F	_
+11	contracted	contract	VERB	VBN	_	2	orphan	2:orphan	_
+12	HIV	hiv	PROPN	NNP	_	11	A	11:A	_
+13	,	,	PUNCT	,	_	2	punct	2:punct	_
+14	but	but	CCONJ	CC	_	2	L	2:L	_
+15	returned	return	VERB	VBD	_	17	D	17:D	_
+16	to	to	PART	TO	_	17	F	17:F	_
+17	play	play	VERB	VB	_	2	orphan	2:orphan	_
+18	in	in	ADP	IN	_	22	R	22:R	_
+19	the	the	DET	DT	_	22	E	22:E	_
+20	1992	1992	NUM	CD	_	22	E	22:E	_
+21	All-Star	all-star	PROPN	NNP	_	22	E	22:E	_
+22	Game	game	PROPN	NNP	_	2	orphan	2:orphan	_
+23	,	,	PUNCT	,	_	2	punct	2:punct	_
+24	winning	win	VERB	VBG	_	2	orphan	2:orphan	_
+25	the	the	DET	DT	_	28	E	28:E	_
+26	All-Star	all-star	PROPN	NNP	_	25	flat	25:flat	_
+27	MVP	mvp	PROPN	NNP	_	25	flat	25:flat	_
+28	Award	award	PROPN	NNP	_	2	orphan	2:orphan	_
+29	.	.	PUNCT	.	_	28	punct	28:punct	_
 

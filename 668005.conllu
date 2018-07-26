@@ -1,20 +1,22 @@
 # sent_id = 668005
-# text = Critics panned Glitter , as well as its accompanying soundtrack ; both were unsuccessful commercially .
+# text = The accompanying soundtrack album , Glitter , became Carey 's lowest - selling album to that point .
 # doc_id = 
-1	Critics	_	Word	Word	_	2	A	2:A	_
-2	panned	_	Word	Word	_	0	root	0:root	_
-3	Glitter	_	Word	Word	_	2	orphan	2:orphan	_
-4	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-5	as	_	Word	Word	_	3	N	3:N	_
-6	well	_	Word	Word	_	5	flat	5:flat	_
-7	as	_	Word	Word	_	5	flat	5:flat	_
-8	its	_	Word	Word	_	10	E	10:E	_
-9	accompanying	_	Word	Word	_	10	E	10:E	_
-10	soundtrack	_	Word	Word	_	2	orphan	2:orphan	_
-11	;	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-12	both	_	Word	Word	_	14	A	14:A	_
-13	were	_	Word	Word	_	14	F	14:F	_
-14	unsuccessful	_	Word	Word	_	2	orphan	2:orphan	_
-15	commercially	_	Word	Word	_	14	A	14:A	_
-16	.	_	Punctuation	Punctuation	_	14	punct	14:punct	_
+1	The	the	DET	DT	_	6	E	6:E	_
+2	accompanying	accompanying	ADJ	JJ	_	6	E	6:E	_
+3	soundtrack	soundtrack	NOUN	NN	_	4	E	4:E	_
+4	album	album	NOUN	NN	_	0	root	0:root	_
+5	,	,	PUNCT	,	_	6	punct	6:punct	_
+6	Glitter	glitter	PROPN	NNP	_	4	orphan	4:orphan	_
+7	,	,	PUNCT	,	_	8	punct	8:punct	_
+8	became	become	VERB	VBD	_	4	orphan	4:orphan	_
+9	Carey	carey	PROPN	NNP	_	4	orphan	4:orphan	_
+10	's	's	PART	POS	_	9	R	9:R	_
+11	lowest	lowest	ADV	RBS	_	13	E	13:E	_
+12	-	-	PUNCT	HYPH	_	13	punct	13:punct	_
+13	selling	sell	VERB	VBG	_	4	orphan	4:orphan	_
+14	album	album	NOUN	NN	_	4	orphan	4:orphan	_
+15	to	to	ADP	IN	_	17	R	17:R	_
+16	that	that	DET	DT	_	17	E	17:E	_
+17	point	point	NOUN	NN	_	4	orphan	4:orphan	_
+18	.	.	PUNCT	.	_	17	punct	17:punct	_
 

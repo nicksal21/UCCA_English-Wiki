@@ -1,20 +1,26 @@
 # sent_id = 947004
-# text = As of January 2011 , Stefani has become the spokesperson for L ' Oréal Paris .
+# text = In 2004 , Stefani showed interest in making film appearances and began auditioning for films such as Mr. & Mrs. Smith .
 # doc_id = 
-1	As	_	Word	Word	_	0	root	0:root	_
-2	of	_	Word	Word	_	1	R	1:R	_
-3	January	_	Word	Word	_	1	orphan	1:orphan	_
-4	2011	_	Word	Word	_	3	flat	3:flat	_
-5	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
-6	Stefani	_	Word	Word	_	8	A	8:A	_
-7	has	_	Word	Word	_	8	E	8:E	_
-8	become	_	Word	Word	_	1	orphan	1:orphan	_
-9	the	_	Word	Word	_	10	E	10:E	_
-10	spokesperson	_	Word	Word	_	1	orphan	1:orphan	_
-11	for	_	Word	Word	_	12	R	12:R	_
-12	L	_	Word	Word	_	1	orphan	1:orphan	_
-13	'	_	Punctuation	Punctuation	_	12	punct	12:punct	_
-14	Oréal	_	Word	Word	_	12	flat	12:flat	_
-15	Paris	_	Word	Word	_	12	flat	12:flat	_
-16	.	_	Punctuation	Punctuation	_	12	punct	12:punct	_
+1	In	in	ADP	IN	_	2	R	2:R	_
+2	2004	2004	NUM	CD	_	0	root	0:root	_
+3	,	,	PUNCT	,	_	6	punct	6:punct	_
+4	Stefani	stefani	PROPN	NNP	_	6	A	6:A	_
+5	showed	show	VERB	VBD	_	6	D	6:D	_
+6	interest	interest	NOUN	NN	_	2	orphan	2:orphan	_
+7	in	in	ADP	IN	_	8	R	8:R	_
+8	making	make	VERB	VBG	_	2	orphan	2:orphan	_
+9	film	film	NOUN	NN	_	10	E	10:E	_
+10	appearances	appearance	NOUN	NNS	_	2	orphan	2:orphan	_
+11	and	and	CCONJ	CC	_	6	L	6:L	_
+12	began	begin	VERB	VBD	_	13	D	13:D	_
+13	auditioning	audition	VERB	VBG	_	2	orphan	2:orphan	_
+14	for	for	ADP	IN	_	15	R	15:R	_
+15	films	film	NOUN	NNS	_	2	orphan	2:orphan	_
+16	such	such	ADJ	JJ	_	18	R	18:R	_
+17	as	as	ADP	IN	_	16	flat	16:flat	_
+18	Mr.	mr.	PROPN	NNP	_	2	orphan	2:orphan	_
+19	&	&	CCONJ	CC	_	18	flat	18:flat	_
+20	Mrs.	mrs.	PROPN	NNP	_	18	flat	18:flat	_
+21	Smith	smith	PROPN	NNP	_	18	flat	18:flat	_
+22	.	.	PUNCT	.	_	18	punct	18:punct	_
 

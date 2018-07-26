@@ -1,29 +1,29 @@
 # sent_id = 965000
 # text = In 1969 , a plaque to Leigh was placed in the Actors ' Church , St Paul ' s , Covent Garden , London .
 # doc_id = 
-1	In	_	Word	Word	_	2	R	2:R	_
-2	1969	_	Word	Word	_	0	root	0:root	_
-3	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
-4	a	_	Word	Word	_	5	E	5:E	_
-5	plaque	_	Word	Word	_	2	orphan	2:orphan	_
-6	to	_	Word	Word	_	5	R	5:R	_
-7	Leigh	_	Word	Word	_	5	E	5:E	_
-8	was	_	Word	Word	_	9	F	9:F	_
-9	placed	_	Word	Word	_	2	orphan	2:orphan	_
-10	in	_	Word	Word	_	9	R	9:R	_
-11	the	_	Word	Word	_	14	E	14:E	_
-12	Actors	_	Word	Word	_	14	E	14:E	_
-13	'	_	Punctuation	Punctuation	_	14	punct	14:punct	_
-14	Church	_	Word	Word	_	2	orphan	2:orphan	_
-15	,	_	Punctuation	Punctuation	_	14	punct	14:punct	_
-16	St	_	Word	Word	_	2	orphan	2:orphan	_
-17	Paul	_	Word	Word	_	16	flat	16:flat	_
-18	'	_	Punctuation	Punctuation	_	16	punct	16:punct	_
-19	s	_	Word	Word	_	16	R	16:R	_
-20	,	_	Punctuation	Punctuation	_	16	punct	16:punct	_
-21	Covent	_	Word	Word	_	22	E	22:E	_
-22	Garden	_	Word	Word	_	2	orphan	2:orphan	_
-23	,	_	Punctuation	Punctuation	_	22	punct	22:punct	_
-24	London	_	Word	Word	_	22	E	22:E	_
-25	.	_	Punctuation	Punctuation	_	22	punct	22:punct	_
+1	In	in	ADP	IN	_	2	R	2:R	_
+2	1969	1969	NUM	CD	_	0	root	0:root	_
+3	,	,	PUNCT	,	_	9	punct	9:punct	_
+4	a	a	DET	DT	_	5	E	5:E	_
+5	plaque	plaque	NOUN	NN	_	2	orphan	2:orphan	_
+6	to	to	ADP	IN	_	5	R	5:R	_
+7	Leigh	leigh	PROPN	NNP	_	5	E	5:E	_
+8	was	be	VERB	VBD	_	9	F	9:F	_
+9	placed	place	VERB	VBN	_	2	orphan	2:orphan	_
+10	in	in	ADP	IN	_	9	R	9:R	_
+11	the	the	DET	DT	_	14	E	14:E	_
+12	Actors	actors	PROPN	NNPS	_	14	E	14:E	_
+13	'	'	PART	POS	_	14	punct	14:punct	_
+14	Church	church	PROPN	NNP	_	2	orphan	2:orphan	_
+15	,	,	PUNCT	,	_	14	punct	14:punct	_
+16	St	st	PROPN	NNP	_	2	orphan	2:orphan	_
+17	Paul	paul	PROPN	NNP	_	16	flat	16:flat	_
+18	'	'	PART	POS	_	16	punct	16:punct	_
+19	s	s	PROPN	NNP	_	16	R	16:R	_
+20	,	,	PUNCT	,	_	16	punct	16:punct	_
+21	Covent	covent	PROPN	NNP	_	22	E	22:E	_
+22	Garden	garden	PROPN	NNP	_	2	orphan	2:orphan	_
+23	,	,	PUNCT	,	_	22	punct	22:punct	_
+24	London	london	PROPN	NNP	_	22	E	22:E	_
+25	.	.	PUNCT	.	_	22	punct	22:punct	_
 

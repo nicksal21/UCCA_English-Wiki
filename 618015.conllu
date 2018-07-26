@@ -1,24 +1,44 @@
 # sent_id = 618015
-# text = McCartney initially owned 20% of Northern Songs , which became 15 % after a public stock offering in 1965 .
+# text = In 1969 , James sold a controlling interest in Northern Songs to Lew Grade 's Associated Television ( ATV ) after which McCartney and John Lennon sold their remaining shares although they remained under contract to ATV until 1973 .
 # doc_id = 
-1	McCartney	_	Word	Word	_	3	A	3:A	_
-2	initially	_	Word	Word	_	3	D	3:D	_
-3	owned	_	Word	Word	_	0	root	0:root	_
-4	20%	_	Word	Word	_	3	orphan	3:orphan	_
-5	of	_	Word	Word	_	4	R	4:R	_
-6	Northern	_	Word	Word	_	3	orphan	3:orphan	_
-7	Songs	_	Word	Word	_	6	flat	6:flat	_
-8	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-9	which	_	Word	Word	_	10	F	10:F	_
-10	became	_	Word	Word	_	3	orphan	3:orphan	_
-11	15	_	Word	Word	_	10	A	10:A	_
-12	%	_	Punctuation	Punctuation	_	11	flat	11:flat	_
-13	after	_	Word	Word	_	10	L	10:L	_
-14	a	_	Word	Word	_	17	E	17:E	_
-15	public	_	Word	Word	_	17	E	17:E	_
-16	stock	_	Word	Word	_	17	E	17:E	_
-17	offering	_	Word	Word	_	3	orphan	3:orphan	_
-18	in	_	Word	Word	_	19	R	19:R	_
-19	1965	_	Word	Word	_	3	orphan	3:orphan	_
-20	.	_	Punctuation	Punctuation	_	19	punct	19:punct	_
+1	In	in	ADP	IN	_	2	R	2:R	_
+2	1969	1969	NUM	CD	_	0	root	0:root	_
+3	,	,	PUNCT	,	_	5	punct	5:punct	_
+4	James	james	PROPN	NNP	_	5	A	5:A	_
+5	sold	sell	VERB	VBD	_	2	orphan	2:orphan	_
+6	a	a	DET	DT	_	8	E	8:E	_
+7	controlling	control	VERB	VBG	_	8	E	8:E	_
+8	interest	interest	NOUN	NN	_	2	orphan	2:orphan	_
+9	in	in	ADP	IN	_	10	R	10:R	_
+10	Northern	northern	PROPN	NNP	_	2	orphan	2:orphan	_
+11	Songs	songs	PROPN	NNP	_	10	flat	10:flat	_
+12	to	to	ADP	IN	_	16	R	16:R	_
+13	Lew	lew	PROPN	NNP	_	2	orphan	2:orphan	_
+14	Grade	grade	PROPN	NNP	_	13	flat	13:flat	_
+15	's	's	PART	POS	_	13	R	13:R	_
+16	Associated	associated	PROPN	NNP	_	2	orphan	2:orphan	_
+17	Television	television	PROPN	NNP	_	16	flat	16:flat	_
+18	(	(	PUNCT	-LRB-	_	16	punct	16:punct	_
+19	ATV	atv	PROPN	NNP	_	16	E	16:E	_
+20	)	)	PUNCT	-RRB-	_	5	punct	5:punct	_
+21	after	after	ADP	IN	_	2	orphan	2:orphan	_
+22	which	which	ADJ	WDT	_	21	F	21:F	_
+23	McCartney	mccartney	PROPN	NNP	_	2	orphan	2:orphan	_
+24	and	and	CCONJ	CC	_	23	N	23:N	_
+25	John	john	PROPN	NNP	_	23	C	23:C	_
+26	Lennon	lennon	PROPN	NNP	_	25	flat	25:flat	_
+27	sold	sell	VERB	VBD	_	2	orphan	2:orphan	_
+28	their	-PRON-	ADJ	PRP$	_	30	E	30:E	_
+29	remaining	remain	VERB	VBG	_	30	E	30:E	_
+30	shares	share	NOUN	NNS	_	2	orphan	2:orphan	_
+31	although	although	ADP	IN	_	5	L	5:L	_
+32	they	-PRON-	PRON	PRP	_	35	A	35:A	_
+33	remained	remain	VERB	VBD	_	35	D	35:D	_
+34	under	under	ADP	IN	_	35	R	35:R	_
+35	contract	contract	NOUN	NN	_	2	orphan	2:orphan	_
+36	to	to	ADP	IN	_	37	R	37:R	_
+37	ATV	atv	PROPN	NNP	_	2	orphan	2:orphan	_
+38	until	until	ADP	IN	_	39	R	39:R	_
+39	1973	1973	NUM	CD	_	2	orphan	2:orphan	_
+40	.	.	PUNCT	.	_	39	punct	39:punct	_
 

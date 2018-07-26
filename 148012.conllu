@@ -1,23 +1,40 @@
 # sent_id = 148012
-# text = With Tracy determined to conceal the relationship with Hepburn from his wife , it had to remain private .
+# text = " Tracy remained married throughout their relationship ; although he and his wife Louise had been living separate lives since the 1930s , there was never an official split and neither party pursued a divorce .
 # doc_id = 
-1	With	_	Word	Word	_	3	L	3:L	_
-2	Tracy	_	Word	Word	_	3	A	3:A	_
-3	determined	_	Word	Word	_	0	root	0:root	_
-4	to	_	Word	Word	_	5	F	5:F	_
-5	conceal	_	Word	Word	_	3	orphan	3:orphan	_
-6	the	_	Word	Word	_	7	E	7:E	_
-7	relationship	_	Word	Word	_	3	orphan	3:orphan	_
-8	with	_	Word	Word	_	9	R	9:R	_
-9	Hepburn	_	Word	Word	_	3	orphan	3:orphan	_
-10	from	_	Word	Word	_	12	R	12:R	_
-11	his	_	Word	Word	_	12	E	12:E	_
-12	wife	_	Word	Word	_	3	orphan	3:orphan	_
-13	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-14	it	_	Word	Word	_	17	A	17:A	_
-15	had	_	Word	Word	_	17	F	17:F	_
-16	to	_	Word	Word	_	17	F	17:F	_
-17	remain	_	Word	Word	_	3	orphan	3:orphan	_
-18	private	_	Word	Word	_	17	A	17:A	_
-19	.	_	Punctuation	Punctuation	_	17	punct	17:punct	_
+1	"	"	PUNCT	''	_	4	punct	4:punct	_
+2	Tracy	tracy	PROPN	NNP	_	4	A	4:A	_
+3	remained	remain	VERB	VBD	_	4	D	4:D	_
+4	married	married	ADJ	JJ	_	0	root	0:root	_
+5	throughout	throughout	ADP	IN	_	4	L	4:L	_
+6	their	-PRON-	ADJ	PRP$	_	7	A	7:A	_
+7	relationship	relationship	NOUN	NN	_	4	orphan	4:orphan	_
+8	;	;	PUNCT	:	_	4	punct	4:punct	_
+9	although	although	ADP	IN	_	4	L	4:L	_
+10	he	-PRON-	PRON	PRP	_	4	orphan	4:orphan	_
+11	and	and	CCONJ	CC	_	10	N	10:N	_
+12	his	-PRON-	ADJ	PRP$	_	13	E	13:E	_
+13	wife	wife	NOUN	NN	_	4	orphan	4:orphan	_
+14	Louise	louise	PROPN	NNP	_	4	orphan	4:orphan	_
+15	had	have	VERB	VBD	_	17	F	17:F	_
+16	been	be	VERB	VBN	_	17	F	17:F	_
+17	living	live	VERB	VBG	_	4	orphan	4:orphan	_
+18	separate	separate	ADJ	JJ	_	19	E	19:E	_
+19	lives	life	NOUN	NNS	_	4	orphan	4:orphan	_
+20	since	since	ADP	IN	_	22	R	22:R	_
+21	the	the	DET	DT	_	22	E	22:E	_
+22	1930s	1930	NOUN	NNS	_	4	orphan	4:orphan	_
+23	,	,	PUNCT	,	_	4	punct	4:punct	_
+24	there	there	ADV	EX	_	25	F	25:F	_
+25	was	be	VERB	VBD	_	4	orphan	4:orphan	_
+26	never	never	ADV	RB	_	25	D	25:D	_
+27	an	an	DET	DT	_	29	E	29:E	_
+28	official	official	ADJ	JJ	_	29	E	29:E	_
+29	split	split	NOUN	NN	_	4	orphan	4:orphan	_
+30	and	and	CCONJ	CC	_	4	L	4:L	_
+31	neither	neither	DET	DT	_	32	E	32:E	_
+32	party	party	NOUN	NN	_	4	orphan	4:orphan	_
+33	pursued	pursue	VERB	VBD	_	4	orphan	4:orphan	_
+34	a	a	DET	DT	_	35	E	35:E	_
+35	divorce	divorce	NOUN	NN	_	4	orphan	4:orphan	_
+36	.	.	PUNCT	.	_	35	punct	35:punct	_
 

@@ -1,17 +1,17 @@
 # sent_id = 1027002
 # text = The $30 million movie was a popular attraction at all three parks .
 # doc_id = 
-1	The	_	Word	Word	_	4	E	4:E	_
-2	$30	_	Word	Word	_	4	E	4:E	_
-3	million	_	Word	Word	_	2	flat	2:flat	_
-4	movie	_	Word	Word	_	0	root	0:root	_
-5	was	_	Word	Word	_	8	F	8:F	_
-6	a	_	Word	Word	_	8	E	8:E	_
-7	popular	_	Word	Word	_	8	E	8:E	_
-8	attraction	_	Word	Word	_	4	orphan	4:orphan	_
-9	at	_	Word	Word	_	12	R	12:R	_
-10	all	_	Word	Word	_	11	E	11:E	_
-11	three	_	Word	Word	_	4	orphan	4:orphan	_
-12	parks	_	Word	Word	_	4	orphan	4:orphan	_
-13	.	_	Punctuation	Punctuation	_	12	punct	12:punct	_
+1	The	the	DET	DT	_	4	E	4:E	_
+2	$30	$30	PROPN	NNP	_	4	E	4:E	_
+3	million	million	NUM	CD	_	2	flat	2:flat	_
+4	movie	movie	NOUN	NN	_	0	root	0:root	_
+5	was	be	VERB	VBD	_	8	F	8:F	_
+6	a	a	DET	DT	_	8	E	8:E	_
+7	popular	popular	ADJ	JJ	_	8	E	8:E	_
+8	attraction	attraction	NOUN	NN	_	4	orphan	4:orphan	_
+9	at	at	ADP	IN	_	12	R	12:R	_
+10	all	all	DET	DT	_	11	E	11:E	_
+11	three	three	NUM	CD	_	4	orphan	4:orphan	_
+12	parks	park	NOUN	NNS	_	4	orphan	4:orphan	_
+13	.	.	PUNCT	.	_	12	punct	12:punct	_
 

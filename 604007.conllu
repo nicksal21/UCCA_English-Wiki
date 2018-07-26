@@ -1,12 +1,12 @@
 # sent_id = 604007
 # text = McCartney agreed , but Lennon did not .
 # doc_id = 
-1	McCartney	_	Word	Word	_	2	A	2:A	_
-2	agreed	_	Word	Word	_	0	root	0:root	_
-3	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-4	but	_	Word	Word	_	2	L	2:L	_
-5	Lennon	_	Word	Word	_	6	A	6:A	_
-6	did	_	Word	Word	_	2	orphan	2:orphan	_
-7	not	_	Word	Word	_	6	D	6:D	_
-8	.	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+1	McCartney	mccartney	PROPN	NNP	_	2	A	2:A	_
+2	agreed	agree	VERB	VBD	_	0	root	0:root	_
+3	,	,	PUNCT	,	_	2	punct	2:punct	_
+4	but	but	CCONJ	CC	_	2	L	2:L	_
+5	Lennon	lennon	PROPN	NNP	_	2	orphan	2:orphan	_
+6	did	do	VERB	VBD	_	5	F	5:F	_
+7	not	not	ADV	RB	_	5	D	5:D	_
+8	.	.	PUNCT	.	_	5	punct	5:punct	_
 

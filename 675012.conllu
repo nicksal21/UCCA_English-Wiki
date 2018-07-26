@@ -1,31 +1,34 @@
 # sent_id = 675012
-# text = In May 2012 , Carey announced that she wrote and recorded a new song titled " Mesmerized " for Lee Daniels 's 2012 movie The Paperboy .
+# text = On June 14 , 2012 , Carey performed a three song set at a special fundraiser for United States President Barack Obama held in New York 's Plaza Hotel .
 # doc_id = 
-1	In	_	Word	Word	_	2	R	2:R	_
-2	May	_	Word	Word	_	0	root	0:root	_
-3	2012	_	Word	Word	_	2	flat	2:flat	_
-4	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-5	Carey	_	Word	Word	_	6	A	6:A	_
-6	announced	_	Word	Word	_	2	orphan	2:orphan	_
-7	that	_	Word	Word	_	9	F	9:F	_
-8	she	_	Word	Word	_	9	A	9:A	_
-9	wrote	_	Word	Word	_	2	orphan	2:orphan	_
-10	and	_	Word	Word	_	9	N	9:N	_
-11	recorded	_	Word	Word	_	9	C	9:C	_
-12	a	_	Word	Word	_	14	E	14:E	_
-13	new	_	Word	Word	_	14	E	14:E	_
-14	song	_	Word	Word	_	2	orphan	2:orphan	_
-15	titled	_	Word	Word	_	2	orphan	2:orphan	_
-16	"	_	Punctuation	Punctuation	_	15	punct	15:punct	_
-17	Mesmerized	_	Word	Word	_	15	A	15:A	_
-18	"	_	Punctuation	Punctuation	_	9	punct	9:punct	_
-19	for	_	Word	Word	_	25	R	25:R	_
-20	Lee	_	Word	Word	_	2	orphan	2:orphan	_
-21	Daniels	_	Word	Word	_	20	flat	20:flat	_
-22	's	_	Word	Word	_	20	R	20:R	_
-23	2012	_	Word	Word	_	24	E	24:E	_
-24	movie	_	Word	Word	_	2	orphan	2:orphan	_
-25	The	_	Word	Word	_	2	orphan	2:orphan	_
-26	Paperboy	_	Word	Word	_	25	flat	25:flat	_
-27	.	_	Punctuation	Punctuation	_	25	punct	25:punct	_
+1	On	on	ADP	IN	_	2	R	2:R	_
+2	June	june	PROPN	NNP	_	0	root	0:root	_
+3	14	14	NUM	CD	_	2	flat	2:flat	_
+4	,	,	PUNCT	,	_	2	punct	2:punct	_
+5	2012	2012	NUM	CD	_	2	flat	2:flat	_
+6	,	,	PUNCT	,	_	8	punct	8:punct	_
+7	Carey	carey	PROPN	NNP	_	8	A	8:A	_
+8	performed	perform	VERB	VBD	_	2	orphan	2:orphan	_
+9	a	a	DET	DT	_	12	E	12:E	_
+10	three	three	NUM	CD	_	11	E	11:E	_
+11	song	song	NOUN	NN	_	2	orphan	2:orphan	_
+12	set	set	VERB	VBN	_	2	orphan	2:orphan	_
+13	at	at	ADP	IN	_	23	R	23:R	_
+14	a	a	DET	DT	_	16	E	16:E	_
+15	special	special	ADJ	JJ	_	16	E	16:E	_
+16	fundraiser	fundraiser	NOUN	NN	_	2	orphan	2:orphan	_
+17	for	for	ADP	IN	_	21	R	21:R	_
+18	United	united	PROPN	NNP	_	20	E	20:E	_
+19	States	states	PROPN	NNP	_	18	flat	18:flat	_
+20	President	president	PROPN	NNP	_	2	orphan	2:orphan	_
+21	Barack	barack	PROPN	NNP	_	2	orphan	2:orphan	_
+22	Obama	obama	PROPN	NNP	_	21	flat	21:flat	_
+23	held	hold	VERB	VBD	_	2	orphan	2:orphan	_
+24	in	in	ADP	IN	_	29	R	29:R	_
+25	New	new	PROPN	NNP	_	2	orphan	2:orphan	_
+26	York	york	PROPN	NNP	_	25	flat	25:flat	_
+27	's	's	PART	POS	_	25	R	25:R	_
+28	Plaza	plaza	PROPN	NNP	_	29	E	29:E	_
+29	Hotel	hotel	PROPN	NNP	_	2	orphan	2:orphan	_
+30	.	.	PUNCT	.	_	29	punct	29:punct	_
 

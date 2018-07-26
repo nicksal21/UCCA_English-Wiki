@@ -1,26 +1,23 @@
 # sent_id = 564008
-# text = Allen 's show with Presley had , for the first time , beaten CBS 's Ed Sullivan Show in the ratings .
+# text = Sullivan , despite his June pronouncement , booked the singer for three appearances for an unprecedented $ 50,000 .
 # doc_id = 
-1	Allen	_	Word	Word	_	0	root	0:root	_
-2	's	_	Word	Word	_	1	R	1:R	_
-3	show	_	Word	Word	_	1	orphan	1:orphan	_
-4	with	_	Word	Word	_	5	R	5:R	_
-5	Presley	_	Word	Word	_	1	orphan	1:orphan	_
-6	had	_	Word	Word	_	13	F	13:F	_
-7	,	_	Punctuation	Punctuation	_	13	punct	13:punct	_
-8	for	_	Word	Word	_	11	R	11:R	_
-9	the	_	Word	Word	_	11	E	11:E	_
-10	first	_	Word	Word	_	11	E	11:E	_
-11	time	_	Word	Word	_	1	orphan	1:orphan	_
-12	,	_	Punctuation	Punctuation	_	13	punct	13:punct	_
-13	beaten	_	Word	Word	_	1	orphan	1:orphan	_
-14	CBS	_	Word	Word	_	1	orphan	1:orphan	_
-15	's	_	Word	Word	_	14	R	14:R	_
-16	Ed	_	Word	Word	_	1	orphan	1:orphan	_
-17	Sullivan	_	Word	Word	_	16	flat	16:flat	_
-18	Show	_	Word	Word	_	16	flat	16:flat	_
-19	in	_	Word	Word	_	21	R	21:R	_
-20	the	_	Word	Word	_	21	E	21:E	_
-21	ratings	_	Word	Word	_	1	orphan	1:orphan	_
-22	.	_	Punctuation	Punctuation	_	21	punct	21:punct	_
+1	Sullivan	sullivan	PROPN	NNP	_	8	A	8:A	_
+2	,	,	PUNCT	,	_	8	punct	8:punct	_
+3	despite	despite	ADP	IN	_	8	L	8:L	_
+4	his	-PRON-	ADJ	PRP$	_	6	E	6:E	_
+5	June	june	PROPN	NNP	_	6	E	6:E	_
+6	pronouncement	pronouncement	NOUN	NN	_	0	root	0:root	_
+7	,	,	PUNCT	,	_	8	punct	8:punct	_
+8	booked	book	VERB	VBD	_	6	orphan	6:orphan	_
+9	the	the	DET	DT	_	10	E	10:E	_
+10	singer	singer	NOUN	NN	_	6	orphan	6:orphan	_
+11	for	for	ADP	IN	_	13	R	13:R	_
+12	three	three	NUM	CD	_	13	E	13:E	_
+13	appearances	appearance	NOUN	NNS	_	6	orphan	6:orphan	_
+14	for	for	ADP	IN	_	18	R	18:R	_
+15	an	an	DET	DT	_	18	E	18:E	_
+16	unprecedented	unprecedented	ADJ	JJ	_	18	E	18:E	_
+17	$	$	SYM	$	_	18	punct	18:punct	_
+18	50,000	50,000	NUM	CD	_	6	orphan	6:orphan	_
+19	.	.	PUNCT	.	_	18	punct	18:punct	_
 

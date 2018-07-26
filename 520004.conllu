@@ -1,26 +1,27 @@
 # sent_id = 520004
-# text = Her parents were vaudevillians who settled in Grand Rapids , MN , to run a movie theatre that featured vaudeville acts .
+# text = Garland 's ancestry on both sides of her family can be traced back to the early colonial days of the United States .
 # doc_id = 
-1	Her	_	Word	Word	_	2	E	2:E	_
-2	parents	_	Word	Word	_	0	root	0:root	_
-3	were	_	Word	Word	_	2	orphan	2:orphan	_
-4	vaudevillians	_	Word	Word	_	2	orphan	2:orphan	_
-5	who	_	Word	Word	_	6	R	6:R	_
-6	settled	_	Word	Word	_	2	orphan	2:orphan	_
-7	in	_	Word	Word	_	8	R	8:R	_
-8	Grand	_	Word	Word	_	2	orphan	2:orphan	_
-9	Rapids	_	Word	Word	_	8	flat	8:flat	_
-10	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
-11	MN	_	Word	Word	_	8	E	8:E	_
-12	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-13	to	_	Word	Word	_	3	L	3:L	_
-14	run	_	Word	Word	_	2	orphan	2:orphan	_
-15	a	_	Word	Word	_	17	E	17:E	_
-16	movie	_	Word	Word	_	17	E	17:E	_
-17	theatre	_	Word	Word	_	2	orphan	2:orphan	_
-18	that	_	Word	Word	_	19	R	19:R	_
-19	featured	_	Word	Word	_	2	orphan	2:orphan	_
-20	vaudeville	_	Word	Word	_	21	E	21:E	_
-21	acts	_	Word	Word	_	2	orphan	2:orphan	_
-22	.	_	Punctuation	Punctuation	_	21	punct	21:punct	_
+1	Garland	garland	NOUN	NN	_	0	root	0:root	_
+2	's	's	PART	POS	_	1	R	1:R	_
+3	ancestry	ancestry	NOUN	NN	_	1	orphan	1:orphan	_
+4	on	on	ADP	IN	_	6	R	6:R	_
+5	both	both	DET	DT	_	6	E	6:E	_
+6	sides	side	NOUN	NNS	_	1	orphan	1:orphan	_
+7	of	of	ADP	IN	_	9	R	9:R	_
+8	her	-PRON-	ADJ	PRP$	_	9	E	9:E	_
+9	family	family	NOUN	NN	_	1	orphan	1:orphan	_
+10	can	can	VERB	MD	_	12	D	12:D	_
+11	be	be	VERB	VB	_	12	F	12:F	_
+12	traced	trace	VERB	VBN	_	1	orphan	1:orphan	_
+13	back	back	ADV	RB	_	12	flat	12:flat	_
+14	to	to	ADP	IN	_	18	R	18:R	_
+15	the	the	DET	DT	_	18	E	18:E	_
+16	early	early	ADJ	JJ	_	18	E	18:E	_
+17	colonial	colonial	ADJ	JJ	_	18	E	18:E	_
+18	days	day	NOUN	NNS	_	1	orphan	1:orphan	_
+19	of	of	ADP	IN	_	21	R	21:R	_
+20	the	the	DET	DT	_	21	E	21:E	_
+21	United	united	PROPN	NNP	_	1	orphan	1:orphan	_
+22	States	states	PROPN	NNP	_	21	flat	21:flat	_
+23	.	.	PUNCT	.	_	21	punct	21:punct	_
 

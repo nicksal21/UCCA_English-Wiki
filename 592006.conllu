@@ -1,20 +1,20 @@
 # sent_id = 592006
 # text = After months of media speculation , Depp and Paradis announced their separation in June 2012 .
 # doc_id = 
-1	After	_	Word	Word	_	5	L	5:L	_
-2	months	_	Word	Word	_	0	root	0:root	_
-3	of	_	Word	Word	_	2	F	2:F	_
-4	media	_	Word	Word	_	5	A	5:A	_
-5	speculation	_	Word	Word	_	2	orphan	2:orphan	_
-6	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-7	Depp	_	Word	Word	_	2	orphan	2:orphan	_
-8	and	_	Word	Word	_	7	N	7:N	_
-9	Paradis	_	Word	Word	_	7	C	7:C	_
-10	announced	_	Word	Word	_	2	orphan	2:orphan	_
-11	their	_	Word	Word	_	12	A	12:A	_
-12	separation	_	Word	Word	_	2	orphan	2:orphan	_
-13	in	_	Word	Word	_	14	R	14:R	_
-14	June	_	Word	Word	_	2	orphan	2:orphan	_
-15	2012	_	Word	Word	_	14	flat	14:flat	_
-16	.	_	Punctuation	Punctuation	_	14	punct	14:punct	_
+1	After	after	ADP	IN	_	5	L	5:L	_
+2	months	month	NOUN	NNS	_	0	root	0:root	_
+3	of	of	ADP	IN	_	2	F	2:F	_
+4	media	medium	NOUN	NNS	_	5	A	5:A	_
+5	speculation	speculation	NOUN	NN	_	2	orphan	2:orphan	_
+6	,	,	PUNCT	,	_	5	punct	5:punct	_
+7	Depp	depp	PROPN	NNP	_	2	orphan	2:orphan	_
+8	and	and	CCONJ	CC	_	7	N	7:N	_
+9	Paradis	paradis	PROPN	NNP	_	7	C	7:C	_
+10	announced	announce	VERB	VBD	_	2	orphan	2:orphan	_
+11	their	-PRON-	ADJ	PRP$	_	12	A	12:A	_
+12	separation	separation	NOUN	NN	_	2	orphan	2:orphan	_
+13	in	in	ADP	IN	_	14	R	14:R	_
+14	June	june	PROPN	NNP	_	2	orphan	2:orphan	_
+15	2012	2012	NUM	CD	_	14	flat	14:flat	_
+16	.	.	PUNCT	.	_	14	punct	14:punct	_
 

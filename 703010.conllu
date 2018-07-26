@@ -1,24 +1,24 @@
 # sent_id = 703010
 # text = After visiting Carter in jail , Dylan wrote " Hurricane " , presenting the case for Carter 's innocence .
 # doc_id = 
-1	After	_	Word	Word	_	2	L	2:L	_
-2	visiting	_	Word	Word	_	0	root	0:root	_
-3	Carter	_	Word	Word	_	2	A	2:A	_
-4	in	_	Word	Word	_	5	R	5:R	_
-5	jail	_	Word	Word	_	2	orphan	2:orphan	_
-6	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-7	Dylan	_	Word	Word	_	8	A	8:A	_
-8	wrote	_	Word	Word	_	2	orphan	2:orphan	_
-9	"	_	Punctuation	Punctuation	_	8	punct	8:punct	_
-10	Hurricane	_	Word	Word	_	8	A	8:A	_
-11	"	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-12	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-13	presenting	_	Word	Word	_	2	orphan	2:orphan	_
-14	the	_	Word	Word	_	15	E	15:E	_
-15	case	_	Word	Word	_	2	orphan	2:orphan	_
-16	for	_	Word	Word	_	19	R	19:R	_
-17	Carter	_	Word	Word	_	2	orphan	2:orphan	_
-18	's	_	Word	Word	_	17	R	17:R	_
-19	innocence	_	Word	Word	_	2	orphan	2:orphan	_
-20	.	_	Punctuation	Punctuation	_	19	punct	19:punct	_
+1	After	after	ADP	IN	_	2	L	2:L	_
+2	visiting	visit	VERB	VBG	_	0	root	0:root	_
+3	Carter	carter	PROPN	NNP	_	2	A	2:A	_
+4	in	in	ADP	IN	_	5	R	5:R	_
+5	jail	jail	NOUN	NN	_	2	orphan	2:orphan	_
+6	,	,	PUNCT	,	_	2	punct	2:punct	_
+7	Dylan	dylan	PROPN	NNP	_	8	A	8:A	_
+8	wrote	write	VERB	VBD	_	2	orphan	2:orphan	_
+9	"	"	PUNCT	``	_	8	punct	8:punct	_
+10	Hurricane	hurricane	PROPN	NNP	_	8	A	8:A	_
+11	"	"	PUNCT	''	_	2	punct	2:punct	_
+12	,	,	PUNCT	,	_	2	punct	2:punct	_
+13	presenting	present	VERB	VBG	_	2	orphan	2:orphan	_
+14	the	the	DET	DT	_	15	E	15:E	_
+15	case	case	NOUN	NN	_	2	orphan	2:orphan	_
+16	for	for	ADP	IN	_	19	R	19:R	_
+17	Carter	carter	PROPN	NNP	_	2	orphan	2:orphan	_
+18	's	's	PART	POS	_	17	R	17:R	_
+19	innocence	innocence	NOUN	NN	_	2	orphan	2:orphan	_
+20	.	.	PUNCT	.	_	19	punct	19:punct	_
 

@@ -1,18 +1,18 @@
 # sent_id = 1027005
 # text = The attraction would later return to Disneyland in 2010 after Jackson 's death .
 # doc_id = 
-1	The	_	Word	Word	_	2	E	2:E	_
-2	attraction	_	Word	Word	_	0	root	0:root	_
-3	would	_	Word	Word	_	5	F	5:F	_
-4	later	_	Word	Word	_	5	D	5:D	_
-5	return	_	Word	Word	_	2	orphan	2:orphan	_
-6	to	_	Word	Word	_	5	R	5:R	_
-7	Disneyland	_	Word	Word	_	5	A	5:A	_
-8	in	_	Word	Word	_	9	R	9:R	_
-9	2010	_	Word	Word	_	2	orphan	2:orphan	_
-10	after	_	Word	Word	_	5	L	5:L	_
-11	Jackson	_	Word	Word	_	2	orphan	2:orphan	_
-12	's	_	Word	Word	_	11	R	11:R	_
-13	death	_	Word	Word	_	2	orphan	2:orphan	_
-14	.	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+1	The	the	DET	DT	_	2	E	2:E	_
+2	attraction	attraction	NOUN	NN	_	0	root	0:root	_
+3	would	would	VERB	MD	_	5	F	5:F	_
+4	later	later	ADV	RB	_	5	D	5:D	_
+5	return	return	VERB	VB	_	2	orphan	2:orphan	_
+6	to	to	ADP	IN	_	5	R	5:R	_
+7	Disneyland	disneyland	PROPN	NNP	_	5	A	5:A	_
+8	in	in	ADP	IN	_	9	R	9:R	_
+9	2010	2010	NUM	CD	_	2	orphan	2:orphan	_
+10	after	after	ADP	IN	_	5	L	5:L	_
+11	Jackson	jackson	PROPN	NNP	_	2	orphan	2:orphan	_
+12	's	's	PART	POS	_	11	R	11:R	_
+13	death	death	NOUN	NN	_	2	orphan	2:orphan	_
+14	.	.	PUNCT	.	_	13	punct	13:punct	_
 

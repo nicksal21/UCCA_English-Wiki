@@ -1,16 +1,26 @@
 # sent_id = 948007
-# text = A second wedding was held in Los Angeles two weeks later .
+# text = They married on September 14 , 2002 , with a wedding in St Paul ' s , Covent Garden , London .
 # doc_id = 
-1	A	_	Word	Word	_	3	E	3:E	_
-2	second	_	Word	Word	_	3	E	3:E	_
-3	wedding	_	Word	Word	_	0	root	0:root	_
-4	was	_	Word	Word	_	5	F	5:F	_
-5	held	_	Word	Word	_	3	orphan	3:orphan	_
-6	in	_	Word	Word	_	7	R	7:R	_
-7	Los	_	Word	Word	_	3	orphan	3:orphan	_
-8	Angeles	_	Word	Word	_	7	flat	7:flat	_
-9	two	_	Word	Word	_	10	E	10:E	_
-10	weeks	_	Word	Word	_	3	orphan	3:orphan	_
-11	later	_	Word	Word	_	10	R	10:R	_
-12	.	_	Punctuation	Punctuation	_	10	punct	10:punct	_
+1	They	-PRON-	PRON	PRP	_	2	A	2:A	_
+2	married	marry	VERB	VBD	_	0	root	0:root	_
+3	on	on	ADP	IN	_	4	R	4:R	_
+4	September	september	PROPN	NNP	_	2	orphan	2:orphan	_
+5	14	14	NUM	CD	_	4	flat	4:flat	_
+6	,	,	PUNCT	,	_	4	punct	4:punct	_
+7	2002	2002	NUM	CD	_	4	flat	4:flat	_
+8	,	,	PUNCT	,	_	2	punct	2:punct	_
+9	with	with	ADP	IN	_	2	L	2:L	_
+10	a	a	DET	DT	_	11	E	11:E	_
+11	wedding	wedding	NOUN	NN	_	2	orphan	2:orphan	_
+12	in	in	ADP	IN	_	13	R	13:R	_
+13	St	st	PROPN	NNP	_	2	orphan	2:orphan	_
+14	Paul	paul	PROPN	NNP	_	13	flat	13:flat	_
+15	'	'	PART	POS	_	13	punct	13:punct	_
+16	s	s	PROPN	NNP	_	13	flat	13:flat	_
+17	,	,	PUNCT	,	_	13	punct	13:punct	_
+18	Covent	covent	PROPN	NNP	_	19	E	19:E	_
+19	Garden	garden	PROPN	NNP	_	2	orphan	2:orphan	_
+20	,	,	PUNCT	,	_	19	punct	19:punct	_
+21	London	london	PROPN	NNP	_	19	E	19:E	_
+22	.	.	PUNCT	.	_	19	punct	19:punct	_
 

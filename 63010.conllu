@@ -1,34 +1,20 @@
 # sent_id = 63010
-# text = He compared working with Redford to playing tennis with a superior player , saying " when you play with somebody better than you , your game gets better . "
+# text = " Pitt believed that he benefited from working with such a talented cast and crew .
 # doc_id = 
-1	He	_	Word	Word	_	2	A	2:A	_
-2	compared	_	Word	Word	_	0	root	0:root	_
-3	working	_	Word	Word	_	2	orphan	2:orphan	_
-4	with	_	Word	Word	_	5	R	5:R	_
-5	Redford	_	Word	Word	_	2	orphan	2:orphan	_
-6	to	_	Word	Word	_	7	F	7:F	_
-7	playing	_	Word	Word	_	2	orphan	2:orphan	_
-8	tennis	_	Word	Word	_	7	A	7:A	_
-9	with	_	Word	Word	_	12	R	12:R	_
-10	a	_	Word	Word	_	12	E	12:E	_
-11	superior	_	Word	Word	_	12	E	12:E	_
-12	player	_	Word	Word	_	2	orphan	2:orphan	_
-13	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-14	saying	_	Word	Word	_	2	orphan	2:orphan	_
-15	"	_	Punctuation	Punctuation	_	14	punct	14:punct	_
-16	when	_	Word	Word	_	18	L	18:L	_
-17	you	_	Word	Word	_	18	A	18:A	_
-18	play	_	Word	Word	_	2	orphan	2:orphan	_
-19	with	_	Word	Word	_	21	R	21:R	_
-20	somebody	_	Word	Word	_	21	A	21:A	_
-21	better	_	Word	Word	_	2	orphan	2:orphan	_
-22	than	_	Word	Word	_	23	R	23:R	_
-23	you	_	Word	Word	_	2	orphan	2:orphan	_
-24	,	_	Punctuation	Punctuation	_	18	punct	18:punct	_
-25	your	_	Word	Word	_	26	E	26:E	_
-26	game	_	Word	Word	_	2	orphan	2:orphan	_
-27	gets	_	Word	Word	_	28	E	28:E	_
-28	better	_	Word	Word	_	2	orphan	2:orphan	_
-29	.	_	Punctuation	Punctuation	_	28	punct	28:punct	_
-30	"	_	Punctuation	Punctuation	_	28	punct	28:punct	_
+1	"	"	PUNCT	''	_	3	punct	3:punct	_
+2	Pitt	pitt	PROPN	NNP	_	3	A	3:A	_
+3	believed	believe	VERB	VBD	_	0	root	0:root	_
+4	that	that	ADP	IN	_	6	R	6:R	_
+5	he	-PRON-	PRON	PRP	_	6	A	6:A	_
+6	benefited	benefit	VERB	VBD	_	3	orphan	3:orphan	_
+7	from	from	ADP	IN	_	8	R	8:R	_
+8	working	work	VERB	VBG	_	3	orphan	3:orphan	_
+9	with	with	ADP	IN	_	13	R	13:R	_
+10	such	such	ADJ	PDT	_	13	E	13:E	_
+11	a	a	DET	DT	_	13	E	13:E	_
+12	talented	talented	ADJ	JJ	_	13	E	13:E	_
+13	cast	cast	NOUN	NN	_	3	orphan	3:orphan	_
+14	and	and	CCONJ	CC	_	13	N	13:N	_
+15	crew	crew	NOUN	NN	_	13	C	13:C	_
+16	.	.	PUNCT	.	_	13	punct	13:punct	_
 

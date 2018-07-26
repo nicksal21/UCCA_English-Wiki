@@ -1,19 +1,22 @@
 # sent_id = 238006
-# text = The concert raised over $3.3 million dollars in just three hours for disaster relief .
+# text = Chan also holds guest lectures at the Shanghai Institute of Visual Art of Fudan University , Shanghai .
 # doc_id = 
-1	The	_	Word	Word	_	2	E	2:E	_
-2	concert	_	Word	Word	_	0	root	0:root	_
-3	raised	_	Word	Word	_	2	orphan	2:orphan	_
-4	over	_	Word	Word	_	7	R	7:R	_
-5	$3.3	_	Word	Word	_	7	E	7:E	_
-6	million	_	Word	Word	_	5	flat	5:flat	_
-7	dollars	_	Word	Word	_	2	orphan	2:orphan	_
-8	in	_	Word	Word	_	11	R	11:R	_
-9	just	_	Word	Word	_	11	E	11:E	_
-10	three	_	Word	Word	_	11	E	11:E	_
-11	hours	_	Word	Word	_	2	orphan	2:orphan	_
-12	for	_	Word	Word	_	14	R	14:R	_
-13	disaster	_	Word	Word	_	14	E	14:E	_
-14	relief	_	Word	Word	_	2	orphan	2:orphan	_
-15	.	_	Punctuation	Punctuation	_	14	punct	14:punct	_
+1	Chan	chan	PROPN	NNP	_	5	A	5:A	_
+2	also	also	ADV	RB	_	5	D	5:D	_
+3	holds	hold	VERB	VBZ	_	5	D	5:D	_
+4	guest	guest	NOUN	NN	_	5	E	5:E	_
+5	lectures	lecture	NOUN	NNS	_	0	root	0:root	_
+6	at	at	ADP	IN	_	8	R	8:R	_
+7	the	the	DET	DT	_	8	E	8:E	_
+8	Shanghai	shanghai	PROPN	NNP	_	5	orphan	5:orphan	_
+9	Institute	institute	PROPN	NNP	_	8	flat	8:flat	_
+10	of	of	ADP	IN	_	8	flat	8:flat	_
+11	Visual	visual	ADJ	JJ	_	8	flat	8:flat	_
+12	Art	art	PROPN	NNP	_	8	flat	8:flat	_
+13	of	of	ADP	IN	_	15	R	15:R	_
+14	Fudan	fudan	PROPN	NNP	_	15	E	15:E	_
+15	University	university	PROPN	NNP	_	5	orphan	5:orphan	_
+16	,	,	PUNCT	,	_	15	punct	15:punct	_
+17	Shanghai	shanghai	PROPN	NNP	_	15	E	15:E	_
+18	.	.	PUNCT	.	_	15	punct	15:punct	_
 

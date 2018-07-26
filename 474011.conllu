@@ -1,30 +1,30 @@
 # sent_id = 474011
 # text = He officially returned to the team on January 29 , 1996 , and played his first game the following day against the Golden State Warriors .
 # doc_id = 
-1	He	_	Word	Word	_	3	A	3:A	_
-2	officially	_	Word	Word	_	3	D	3:D	_
-3	returned	_	Word	Word	_	0	root	0:root	_
-4	to	_	Word	Word	_	6	R	6:R	_
-5	the	_	Word	Word	_	6	E	6:E	_
-6	team	_	Word	Word	_	3	orphan	3:orphan	_
-7	on	_	Word	Word	_	11	R	11:R	_
-8	January	_	Word	Word	_	11	E	11:E	_
-9	29	_	Word	Word	_	11	E	11:E	_
-10	,	_	Punctuation	Punctuation	_	11	punct	11:punct	_
-11	1996	_	Word	Word	_	3	orphan	3:orphan	_
-12	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-13	and	_	Word	Word	_	3	L	3:L	_
-14	played	_	Word	Word	_	3	orphan	3:orphan	_
-15	his	_	Word	Word	_	17	E	17:E	_
-16	first	_	Word	Word	_	17	E	17:E	_
-17	game	_	Word	Word	_	3	orphan	3:orphan	_
-18	the	_	Word	Word	_	20	E	20:E	_
-19	following	_	Word	Word	_	20	E	20:E	_
-20	day	_	Word	Word	_	3	orphan	3:orphan	_
-21	against	_	Word	Word	_	23	R	23:R	_
-22	the	_	Word	Word	_	23	E	23:E	_
-23	Golden	_	Word	Word	_	3	orphan	3:orphan	_
-24	State	_	Word	Word	_	23	flat	23:flat	_
-25	Warriors	_	Word	Word	_	23	flat	23:flat	_
-26	.	_	Punctuation	Punctuation	_	23	punct	23:punct	_
+1	He	-PRON-	PRON	PRP	_	3	A	3:A	_
+2	officially	officially	ADV	RB	_	3	D	3:D	_
+3	returned	return	VERB	VBD	_	0	root	0:root	_
+4	to	to	ADP	IN	_	6	R	6:R	_
+5	the	the	DET	DT	_	6	E	6:E	_
+6	team	team	NOUN	NN	_	3	orphan	3:orphan	_
+7	on	on	ADP	IN	_	11	R	11:R	_
+8	January	january	PROPN	NNP	_	11	E	11:E	_
+9	29	29	NUM	CD	_	11	E	11:E	_
+10	,	,	PUNCT	,	_	11	punct	11:punct	_
+11	1996	1996	NUM	CD	_	3	orphan	3:orphan	_
+12	,	,	PUNCT	,	_	3	punct	3:punct	_
+13	and	and	CCONJ	CC	_	3	L	3:L	_
+14	played	play	VERB	VBD	_	3	orphan	3:orphan	_
+15	his	-PRON-	ADJ	PRP$	_	17	E	17:E	_
+16	first	first	ADJ	JJ	_	17	E	17:E	_
+17	game	game	NOUN	NN	_	3	orphan	3:orphan	_
+18	the	the	DET	DT	_	20	E	20:E	_
+19	following	following	ADJ	JJ	_	20	E	20:E	_
+20	day	day	NOUN	NN	_	3	orphan	3:orphan	_
+21	against	against	ADP	IN	_	23	R	23:R	_
+22	the	the	DET	DT	_	23	E	23:E	_
+23	Golden	golden	PROPN	NNP	_	3	orphan	3:orphan	_
+24	State	state	PROPN	NNP	_	23	flat	23:flat	_
+25	Warriors	warriors	PROPN	NNPS	_	23	flat	23:flat	_
+26	.	.	PUNCT	.	_	23	punct	23:punct	_
 

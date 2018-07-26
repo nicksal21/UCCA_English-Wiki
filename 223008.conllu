@@ -1,31 +1,26 @@
 # sent_id = 223008
-# text = Jackie Chan also appeared in a sex scene in the film The Shinjuku Incident , which was the only other nude scene that he ever filmed .
+# text = Chan joined his parents in Canberra in 1976 , where he briefly attended Dickson College and worked as a construction worker .
 # doc_id = 
-1	Jackie	_	Word	Word	_	4	A	4:A	_
-2	Chan	_	Word	Word	_	1	flat	1:flat	_
-3	also	_	Word	Word	_	4	D	4:D	_
-4	appeared	_	Word	Word	_	0	root	0:root	_
-5	in	_	Word	Word	_	8	R	8:R	_
-6	a	_	Word	Word	_	8	E	8:E	_
-7	sex	_	Word	Word	_	8	E	8:E	_
-8	scene	_	Word	Word	_	4	orphan	4:orphan	_
-9	in	_	Word	Word	_	12	R	12:R	_
-10	the	_	Word	Word	_	12	E	12:E	_
-11	film	_	Word	Word	_	12	E	12:E	_
-12	The	_	Word	Word	_	4	orphan	4:orphan	_
-13	Shinjuku	_	Word	Word	_	12	flat	12:flat	_
-14	Incident	_	Word	Word	_	12	flat	12:flat	_
-15	,	_	Punctuation	Punctuation	_	12	punct	12:punct	_
-16	which	_	Word	Word	_	17	F	17:F	_
-17	was	_	Word	Word	_	4	orphan	4:orphan	_
-18	the	_	Word	Word	_	22	E	22:E	_
-19	only	_	Word	Word	_	22	E	22:E	_
-20	other	_	Word	Word	_	22	E	22:E	_
-21	nude	_	Word	Word	_	22	E	22:E	_
-22	scene	_	Word	Word	_	4	orphan	4:orphan	_
-23	that	_	Word	Word	_	26	F	26:F	_
-24	he	_	Word	Word	_	26	A	26:A	_
-25	ever	_	Word	Word	_	26	D	26:D	_
-26	filmed	_	Word	Word	_	4	orphan	4:orphan	_
-27	.	_	Punctuation	Punctuation	_	26	punct	26:punct	_
+1	Chan	chan	PROPN	NNP	_	2	A	2:A	_
+2	joined	join	VERB	VBD	_	0	root	0:root	_
+3	his	-PRON-	ADJ	PRP$	_	4	E	4:E	_
+4	parents	parent	NOUN	NNS	_	2	orphan	2:orphan	_
+5	in	in	ADP	IN	_	6	R	6:R	_
+6	Canberra	canberra	PROPN	NNP	_	2	orphan	2:orphan	_
+7	in	in	ADP	IN	_	8	R	8:R	_
+8	1976	1976	NUM	CD	_	2	orphan	2:orphan	_
+9	,	,	PUNCT	,	_	2	punct	2:punct	_
+10	where	where	ADV	WRB	_	2	L	2:L	_
+11	he	-PRON-	PRON	PRP	_	13	A	13:A	_
+12	briefly	briefly	ADV	RB	_	13	D	13:D	_
+13	attended	attend	VERB	VBD	_	2	orphan	2:orphan	_
+14	Dickson	dickson	PROPN	NNP	_	15	E	15:E	_
+15	College	college	PROPN	NNP	_	2	orphan	2:orphan	_
+16	and	and	CCONJ	CC	_	2	L	2:L	_
+17	worked	work	VERB	VBD	_	2	orphan	2:orphan	_
+18	as	as	ADP	IN	_	21	R	21:R	_
+19	a	a	DET	DT	_	21	E	21:E	_
+20	construction	construction	NOUN	NN	_	21	E	21:E	_
+21	worker	worker	NOUN	NN	_	2	orphan	2:orphan	_
+22	.	.	PUNCT	.	_	21	punct	21:punct	_
 

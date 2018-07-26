@@ -1,20 +1,16 @@
 # sent_id = 618012
-# text = In 2007 , McCartney signed with Hear Music , becoming the label 's first artist .
+# text = He remains there as of 2012 's Kisses on the Bottom .
 # doc_id = 
-1	In	_	Word	Word	_	2	R	2:R	_
-2	2007	_	Word	Word	_	0	root	0:root	_
-3	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-4	McCartney	_	Word	Word	_	5	A	5:A	_
-5	signed	_	Word	Word	_	2	orphan	2:orphan	_
-6	with	_	Word	Word	_	8	R	8:R	_
-7	Hear	_	Word	Word	_	8	E	8:E	_
-8	Music	_	Word	Word	_	2	orphan	2:orphan	_
-9	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-10	becoming	_	Word	Word	_	2	orphan	2:orphan	_
-11	the	_	Word	Word	_	12	E	12:E	_
-12	label	_	Word	Word	_	2	orphan	2:orphan	_
-13	's	_	Word	Word	_	12	R	12:R	_
-14	first	_	Word	Word	_	15	E	15:E	_
-15	artist	_	Word	Word	_	2	orphan	2:orphan	_
-16	.	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+1	He	-PRON-	PRON	PRP	_	2	A	2:A	_
+2	remains	remain	VERB	VBZ	_	0	root	0:root	_
+3	there	there	ADV	RB	_	2	A	2:A	_
+4	as	as	ADP	IN	_	8	R	8:R	_
+5	of	of	ADP	IN	_	8	F	8:F	_
+6	2012	2012	NUM	CD	_	2	orphan	2:orphan	_
+7	's	's	PART	POS	_	6	R	6:R	_
+8	Kisses	kiss	NOUN	NNS	_	2	orphan	2:orphan	_
+9	on	on	ADP	IN	_	8	flat	8:flat	_
+10	the	the	DET	DT	_	8	flat	8:flat	_
+11	Bottom	bottom	PROPN	NNP	_	8	flat	8:flat	_
+12	.	.	PUNCT	.	_	8	punct	8:punct	_
 

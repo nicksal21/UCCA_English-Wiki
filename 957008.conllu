@@ -1,23 +1,41 @@
 # sent_id = 957008
-# text = They filmed That Hamilton Woman ( 1941 ) with Olivier as Horatio Nelson and Leigh as Emma Hamilton .
+# text = " While most of the blame was attributed to Olivier 's acting and direction , Leigh was also criticised , with Bernard Grebanier commenting on the " thin , shopgirl quality of Miss Leigh 's voice .
 # doc_id = 
-1	They	_	Word	Word	_	2	A	2:A	_
-2	filmed	_	Word	Word	_	0	root	0:root	_
-3	That	_	Word	Word	_	2	orphan	2:orphan	_
-4	Hamilton	_	Word	Word	_	3	flat	3:flat	_
-5	Woman	_	Word	Word	_	3	flat	3:flat	_
-6	(	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-7	1941	_	Word	Word	_	2	orphan	2:orphan	_
-8	)	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-9	with	_	Word	Word	_	10	R	10:R	_
-10	Olivier	_	Word	Word	_	2	orphan	2:orphan	_
-11	as	_	Word	Word	_	12	R	12:R	_
-12	Horatio	_	Word	Word	_	2	orphan	2:orphan	_
-13	Nelson	_	Word	Word	_	12	flat	12:flat	_
-14	and	_	Word	Word	_	10	N	10:N	_
-15	Leigh	_	Word	Word	_	2	orphan	2:orphan	_
-16	as	_	Word	Word	_	17	R	17:R	_
-17	Emma	_	Word	Word	_	2	orphan	2:orphan	_
-18	Hamilton	_	Word	Word	_	17	flat	17:flat	_
-19	.	_	Punctuation	Punctuation	_	17	punct	17:punct	_
+1	"	"	PUNCT	``	_	8	punct	8:punct	_
+2	While	while	ADP	IN	_	8	L	8:L	_
+3	most	most	ADJ	JJS	_	0	root	0:root	_
+4	of	of	ADP	IN	_	3	R	3:R	_
+5	the	the	DET	DT	_	6	E	6:E	_
+6	blame	blame	NOUN	NN	_	3	orphan	3:orphan	_
+7	was	be	VERB	VBD	_	8	F	8:F	_
+8	attributed	attribute	VERB	VBN	_	3	orphan	3:orphan	_
+9	to	to	ADP	IN	_	8	R	8:R	_
+10	Olivier	olivier	PROPN	NNP	_	3	orphan	3:orphan	_
+11	's	's	PART	POS	_	10	R	10:R	_
+12	acting	acting	NOUN	NN	_	3	orphan	3:orphan	_
+13	and	and	CCONJ	CC	_	12	N	12:N	_
+14	direction	direction	NOUN	NN	_	12	C	12:C	_
+15	,	,	PUNCT	,	_	8	punct	8:punct	_
+16	Leigh	leigh	PROPN	NNP	_	19	A	19:A	_
+17	was	be	VERB	VBD	_	19	F	19:F	_
+18	also	also	ADV	RB	_	19	D	19:D	_
+19	criticised	criticise	VERB	VBN	_	3	orphan	3:orphan	_
+20	,	,	PUNCT	,	_	8	punct	8:punct	_
+21	with	with	ADP	IN	_	8	L	8:L	_
+22	Bernard	bernard	PROPN	NNP	_	24	A	24:A	_
+23	Grebanier	grebanier	PROPN	NNP	_	22	flat	22:flat	_
+24	commenting	comment	VERB	VBG	_	3	orphan	3:orphan	_
+25	on	on	ADP	IN	_	24	R	24:R	_
+26	the	the	DET	DT	_	31	E	31:E	_
+27	"	"	PUNCT	``	_	31	punct	31:punct	_
+28	thin	thin	ADJ	JJ	_	31	E	31:E	_
+29	,	,	PUNCT	,	_	31	punct	31:punct	_
+30	shopgirl	shopgirl	NOUN	NN	_	31	E	31:E	_
+31	quality	quality	NOUN	NN	_	3	orphan	3:orphan	_
+32	of	of	ADP	IN	_	31	R	31:R	_
+33	Miss	miss	PROPN	NNP	_	3	orphan	3:orphan	_
+34	Leigh	leigh	PROPN	NNP	_	33	flat	33:flat	_
+35	's	's	PART	POS	_	33	R	33:R	_
+36	voice	voice	NOUN	NN	_	3	orphan	3:orphan	_
+37	.	.	PUNCT	.	_	36	punct	36:punct	_
 

@@ -1,29 +1,29 @@
 # sent_id = 204003
 # text = In 2001 , Sorkin along with colleagues John Spencer and Martin Sheen received the Phoenix Rising Award for their personal victories over substance abuse .
 # doc_id = 
-1	In	_	Word	Word	_	2	R	2:R	_
-2	2001	_	Word	Word	_	0	root	0:root	_
-3	,	_	Punctuation	Punctuation	_	13	punct	13:punct	_
-4	Sorkin	_	Word	Word	_	2	orphan	2:orphan	_
-5	along	_	Word	Word	_	2	orphan	2:orphan	_
-6	with	_	Word	Word	_	5	R	5:R	_
-7	colleagues	_	Word	Word	_	8	E	8:E	_
-8	John	_	Word	Word	_	2	orphan	2:orphan	_
-9	Spencer	_	Word	Word	_	8	flat	8:flat	_
-10	and	_	Word	Word	_	8	N	8:N	_
-11	Martin	_	Word	Word	_	8	C	8:C	_
-12	Sheen	_	Word	Word	_	11	flat	11:flat	_
-13	received	_	Word	Word	_	2	orphan	2:orphan	_
-14	the	_	Word	Word	_	15	E	15:E	_
-15	Phoenix	_	Word	Word	_	2	orphan	2:orphan	_
-16	Rising	_	Word	Word	_	15	flat	15:flat	_
-17	Award	_	Word	Word	_	15	flat	15:flat	_
-18	for	_	Word	Word	_	21	R	21:R	_
-19	their	_	Word	Word	_	21	E	21:E	_
-20	personal	_	Word	Word	_	21	E	21:E	_
-21	victories	_	Word	Word	_	2	orphan	2:orphan	_
-22	over	_	Word	Word	_	24	R	24:R	_
-23	substance	_	Word	Word	_	24	E	24:E	_
-24	abuse	_	Word	Word	_	2	orphan	2:orphan	_
-25	.	_	Punctuation	Punctuation	_	24	punct	24:punct	_
+1	In	in	ADP	IN	_	2	R	2:R	_
+2	2001	2001	NUM	CD	_	0	root	0:root	_
+3	,	,	PUNCT	,	_	13	punct	13:punct	_
+4	Sorkin	sorkin	PROPN	NNP	_	2	orphan	2:orphan	_
+5	along	along	ADP	IN	_	2	orphan	2:orphan	_
+6	with	with	ADP	IN	_	5	R	5:R	_
+7	colleagues	colleague	NOUN	NNS	_	8	E	8:E	_
+8	John	john	PROPN	NNP	_	2	orphan	2:orphan	_
+9	Spencer	spencer	PROPN	NNP	_	8	flat	8:flat	_
+10	and	and	CCONJ	CC	_	8	N	8:N	_
+11	Martin	martin	PROPN	NNP	_	8	C	8:C	_
+12	Sheen	sheen	PROPN	NNP	_	11	flat	11:flat	_
+13	received	receive	VERB	VBD	_	2	orphan	2:orphan	_
+14	the	the	DET	DT	_	15	E	15:E	_
+15	Phoenix	phoenix	PROPN	NNP	_	2	orphan	2:orphan	_
+16	Rising	rising	PROPN	NNP	_	15	flat	15:flat	_
+17	Award	award	PROPN	NNP	_	15	flat	15:flat	_
+18	for	for	ADP	IN	_	21	R	21:R	_
+19	their	-PRON-	ADJ	PRP$	_	21	E	21:E	_
+20	personal	personal	ADJ	JJ	_	21	E	21:E	_
+21	victories	victory	NOUN	NNS	_	2	orphan	2:orphan	_
+22	over	over	ADP	IN	_	24	R	24:R	_
+23	substance	substance	NOUN	NN	_	24	E	24:E	_
+24	abuse	abuse	NOUN	NN	_	2	orphan	2:orphan	_
+25	.	.	PUNCT	.	_	24	punct	24:punct	_
 

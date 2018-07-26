@@ -1,20 +1,39 @@
 # sent_id = 63005
-# text = He played J.D . , a small-time criminal who befriends Thelma ( Geena Davis ) .
+# text = He played J.D . , a small-time criminal who befriends Thelma ( Geena Davis ) . His love scene with Davis has been cited as the event that defined Pitt as a sex symbol .
 # doc_id = 
-1	He	_	Word	Word	_	2	A	2:A	_
-2	played	_	Word	Word	_	0	root	0:root	_
-3	J.D	_	Word	Word	_	2	orphan	2:orphan	_
-4	.	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-5	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-6	a	_	Word	Word	_	8	E	8:E	_
-7	small-time	_	Word	Word	_	8	E	8:E	_
-8	criminal	_	Word	Word	_	2	orphan	2:orphan	_
-9	who	_	Word	Word	_	10	R	10:R	_
-10	befriends	_	Word	Word	_	2	orphan	2:orphan	_
-11	Thelma	_	Word	Word	_	2	orphan	2:orphan	_
-12	(	_	Punctuation	Punctuation	_	11	punct	11:punct	_
-13	Geena	_	Word	Word	_	2	orphan	2:orphan	_
-14	Davis	_	Word	Word	_	13	flat	13:flat	_
-15	)	_	Punctuation	Punctuation	_	13	punct	13:punct	_
-16	.	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+1	He	-PRON-	PRON	PRP	_	2	A	2:A	_
+2	played	play	VERB	VBD	_	0	root	0:root	_
+3	J.D	j.d	PROPN	NNP	_	2	orphan	2:orphan	_
+4	.	.	PUNCT	.	_	3	punct	3:punct	_
+5	,	,	PUNCT	,	_	3	punct	3:punct	_
+6	a	a	DET	DT	_	8	E	8:E	_
+7	small-time	small-time	ADJ	JJ	_	8	E	8:E	_
+8	criminal	criminal	NOUN	NN	_	2	orphan	2:orphan	_
+9	who	who	NOUN	WP	_	10	R	10:R	_
+10	befriends	befriend	VERB	VBZ	_	2	orphan	2:orphan	_
+11	Thelma	thelma	PROPN	NNP	_	2	orphan	2:orphan	_
+12	(	(	PUNCT	-LRB-	_	11	punct	11:punct	_
+13	Geena	geena	PROPN	NNP	_	2	orphan	2:orphan	_
+14	Davis	davis	PROPN	NNP	_	13	flat	13:flat	_
+15	)	)	PUNCT	-RRB-	_	2	punct	2:punct	_
+16	.	.	PUNCT	.	_	2	punct	2:punct	_
+17	His	-PRON-	ADJ	PRP$	_	19	E	19:E	_
+18	love	love	NOUN	NN	_	19	E	19:E	_
+19	scene	scene	NOUN	NN	_	2	orphan	2:orphan	_
+20	with	with	ADP	IN	_	21	R	21:R	_
+21	Davis	davis	PROPN	NNP	_	2	orphan	2:orphan	_
+22	has	have	VERB	VBZ	_	24	F	24:F	_
+23	been	be	VERB	VBN	_	24	F	24:F	_
+24	cited	cite	VERB	VBN	_	2	orphan	2:orphan	_
+25	as	as	ADP	IN	_	27	R	27:R	_
+26	the	the	DET	DT	_	27	E	27:E	_
+27	event	event	NOUN	NN	_	2	orphan	2:orphan	_
+28	that	that	ADJ	WDT	_	29	R	29:R	_
+29	defined	define	VERB	VBD	_	2	orphan	2:orphan	_
+30	Pitt	pitt	PROPN	NNP	_	29	A	29:A	_
+31	as	as	ADP	IN	_	34	R	34:R	_
+32	a	a	DET	DT	_	34	E	34:E	_
+33	sex	sex	NOUN	NN	_	34	E	34:E	_
+34	symbol	symbol	NOUN	NN	_	2	orphan	2:orphan	_
+35	.	.	PUNCT	.	_	34	punct	34:punct	_
 

@@ -1,26 +1,26 @@
 # sent_id = 954001
 # text = Laurence Olivier saw Leigh in The Mask of Virtue , and a friendship developed after he congratulated her on her performance .
 # doc_id = 
-1	Laurence	_	Word	Word	_	3	A	3:A	_
-2	Olivier	_	Word	Word	_	1	flat	1:flat	_
-3	saw	_	Word	Word	_	0	root	0:root	_
-4	Leigh	_	Word	Word	_	3	A	3:A	_
-5	in	_	Word	Word	_	6	R	6:R	_
-6	The	_	Word	Word	_	3	orphan	3:orphan	_
-7	Mask	_	Word	Word	_	6	flat	6:flat	_
-8	of	_	Word	Word	_	6	flat	6:flat	_
-9	Virtue	_	Word	Word	_	6	flat	6:flat	_
-10	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-11	and	_	Word	Word	_	3	L	3:L	_
-12	a	_	Word	Word	_	13	E	13:E	_
-13	friendship	_	Word	Word	_	3	orphan	3:orphan	_
-14	developed	_	Word	Word	_	3	orphan	3:orphan	_
-15	after	_	Word	Word	_	3	L	3:L	_
-16	he	_	Word	Word	_	17	A	17:A	_
-17	congratulated	_	Word	Word	_	3	orphan	3:orphan	_
-18	her	_	Word	Word	_	17	A	17:A	_
-19	on	_	Word	Word	_	21	R	21:R	_
-20	her	_	Word	Word	_	21	E	21:E	_
-21	performance	_	Word	Word	_	3	orphan	3:orphan	_
-22	.	_	Punctuation	Punctuation	_	21	punct	21:punct	_
+1	Laurence	laurence	PROPN	NNP	_	3	A	3:A	_
+2	Olivier	olivier	PROPN	NNP	_	1	flat	1:flat	_
+3	saw	see	VERB	VBD	_	0	root	0:root	_
+4	Leigh	leigh	PROPN	NNP	_	3	A	3:A	_
+5	in	in	ADP	IN	_	6	R	6:R	_
+6	The	the	DET	DT	_	3	orphan	3:orphan	_
+7	Mask	mask	PROPN	NNP	_	6	flat	6:flat	_
+8	of	of	ADP	IN	_	6	flat	6:flat	_
+9	Virtue	virtue	PROPN	NNP	_	6	flat	6:flat	_
+10	,	,	PUNCT	,	_	3	punct	3:punct	_
+11	and	and	CCONJ	CC	_	3	L	3:L	_
+12	a	a	DET	DT	_	13	E	13:E	_
+13	friendship	friendship	NOUN	NN	_	3	orphan	3:orphan	_
+14	developed	develop	VERB	VBN	_	3	orphan	3:orphan	_
+15	after	after	ADP	IN	_	3	L	3:L	_
+16	he	-PRON-	PRON	PRP	_	17	A	17:A	_
+17	congratulated	congratulate	VERB	VBD	_	3	orphan	3:orphan	_
+18	her	-PRON-	PRON	PRP	_	17	A	17:A	_
+19	on	on	ADP	IN	_	21	R	21:R	_
+20	her	-PRON-	ADJ	PRP$	_	21	E	21:E	_
+21	performance	performance	NOUN	NN	_	3	orphan	3:orphan	_
+22	.	.	PUNCT	.	_	21	punct	21:punct	_
 

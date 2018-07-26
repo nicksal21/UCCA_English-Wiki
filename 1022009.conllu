@@ -1,27 +1,32 @@
 # sent_id = 1022009
-# text = The videocassette of the documentary The Making of Michael Jackson 's Thriller sold over 350 , 000 copies in a few months .
+# text = The era saw the arrival of novelties like dolls modeled after Michael Jackson , which appeared in stores in May 1984 at a price of $ 12 .
 # doc_id = 
-1	The	_	Word	Word	_	2	E	2:E	_
-2	videocassette	_	Word	Word	_	0	root	0:root	_
-3	of	_	Word	Word	_	2	R	2:R	_
-4	the	_	Word	Word	_	5	E	5:E	_
-5	documentary	_	Word	Word	_	2	orphan	2:orphan	_
-6	The	_	Word	Word	_	2	orphan	2:orphan	_
-7	Making	_	Word	Word	_	6	flat	6:flat	_
-8	of	_	Word	Word	_	6	flat	6:flat	_
-9	Michael	_	Word	Word	_	6	flat	6:flat	_
-10	Jackson	_	Word	Word	_	6	flat	6:flat	_
-11	's	_	Word	Word	_	6	flat	6:flat	_
-12	Thriller	_	Word	Word	_	6	flat	6:flat	_
-13	sold	_	Word	Word	_	2	orphan	2:orphan	_
-14	over	_	Word	Word	_	18	E	18:E	_
-15	350	_	Word	Word	_	18	E	18:E	_
-16	,	_	Punctuation	Punctuation	_	18	punct	18:punct	_
-17	000	_	Word	Word	_	15	flat	15:flat	_
-18	copies	_	Word	Word	_	2	orphan	2:orphan	_
-19	in	_	Word	Word	_	22	R	22:R	_
-20	a	_	Word	Word	_	22	E	22:E	_
-21	few	_	Word	Word	_	22	E	22:E	_
-22	months	_	Word	Word	_	2	orphan	2:orphan	_
-23	.	_	Punctuation	Punctuation	_	22	punct	22:punct	_
+1	The	the	DET	DT	_	2	E	2:E	_
+2	era	era	NOUN	NN	_	0	root	0:root	_
+3	saw	see	VERB	VBD	_	5	F	5:F	_
+4	the	the	DET	DT	_	5	E	5:E	_
+5	arrival	arrival	NOUN	NN	_	2	orphan	2:orphan	_
+6	of	of	ADP	IN	_	7	R	7:R	_
+7	novelties	novelty	NOUN	NNS	_	2	orphan	2:orphan	_
+8	like	like	ADP	IN	_	10	R	10:R	_
+9	dolls	doll	NOUN	NNS	_	10	A	10:A	_
+10	modeled	model	VERB	VBN	_	2	orphan	2:orphan	_
+11	after	after	ADP	IN	_	12	R	12:R	_
+12	Michael	michael	PROPN	NNP	_	2	orphan	2:orphan	_
+13	Jackson	jackson	PROPN	NNP	_	12	flat	12:flat	_
+14	,	,	PUNCT	,	_	10	punct	10:punct	_
+15	which	which	ADJ	WDT	_	16	F	16:F	_
+16	appeared	appear	VERB	VBD	_	2	orphan	2:orphan	_
+17	in	in	ADP	IN	_	16	R	16:R	_
+18	stores	store	NOUN	NNS	_	16	A	16:A	_
+19	in	in	ADP	IN	_	20	R	20:R	_
+20	May	may	PROPN	NNP	_	2	orphan	2:orphan	_
+21	1984	1984	NUM	CD	_	20	flat	20:flat	_
+22	at	at	ADP	IN	_	24	R	24:R	_
+23	a	a	DET	DT	_	24	E	24:E	_
+24	price	price	NOUN	NN	_	2	orphan	2:orphan	_
+25	of	of	ADP	IN	_	24	R	24:R	_
+26	$	$	SYM	$	_	24	punct	24:punct	_
+27	12	12	NUM	CD	_	24	E	24:E	_
+28	.	.	PUNCT	.	_	24	punct	24:punct	_
 

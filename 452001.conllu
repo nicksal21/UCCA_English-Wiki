@@ -1,30 +1,30 @@
 # sent_id = 452001
 # text = In 1968 , he established ABC 's Middle East bureau in Beirut , Lebanon , the first American television news bureau in the Arab world .
 # doc_id = 
-1	In	_	Word	Word	_	2	R	2:R	_
-2	1968	_	Word	Word	_	0	root	0:root	_
-3	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-4	he	_	Word	Word	_	5	A	5:A	_
-5	established	_	Word	Word	_	2	orphan	2:orphan	_
-6	ABC	_	Word	Word	_	2	orphan	2:orphan	_
-7	's	_	Word	Word	_	6	R	6:R	_
-8	Middle	_	Word	Word	_	9	E	9:E	_
-9	East	_	Word	Word	_	2	orphan	2:orphan	_
-10	bureau	_	Word	Word	_	2	orphan	2:orphan	_
-11	in	_	Word	Word	_	12	R	12:R	_
-12	Beirut	_	Word	Word	_	2	orphan	2:orphan	_
-13	,	_	Punctuation	Punctuation	_	12	punct	12:punct	_
-14	Lebanon	_	Word	Word	_	12	E	12:E	_
-15	,	_	Punctuation	Punctuation	_	10	punct	10:punct	_
-16	the	_	Word	Word	_	21	R	21:R	_
-17	first	_	Word	Word	_	21	E	21:E	_
-18	American	_	Word	Word	_	21	E	21:E	_
-19	television	_	Word	Word	_	21	E	21:E	_
-20	news	_	Word	Word	_	21	E	21:E	_
-21	bureau	_	Word	Word	_	2	orphan	2:orphan	_
-22	in	_	Word	Word	_	25	R	25:R	_
-23	the	_	Word	Word	_	25	E	25:E	_
-24	Arab	_	Word	Word	_	25	E	25:E	_
-25	world	_	Word	Word	_	2	orphan	2:orphan	_
-26	.	_	Punctuation	Punctuation	_	25	punct	25:punct	_
+1	In	in	ADP	IN	_	2	R	2:R	_
+2	1968	1968	NUM	CD	_	0	root	0:root	_
+3	,	,	PUNCT	,	_	5	punct	5:punct	_
+4	he	-PRON-	PRON	PRP	_	5	A	5:A	_
+5	established	establish	VERB	VBD	_	2	orphan	2:orphan	_
+6	ABC	abc	PROPN	NNP	_	2	orphan	2:orphan	_
+7	's	's	PART	POS	_	6	R	6:R	_
+8	Middle	middle	PROPN	NNP	_	9	E	9:E	_
+9	East	east	PROPN	NNP	_	2	orphan	2:orphan	_
+10	bureau	bureau	NOUN	NN	_	2	orphan	2:orphan	_
+11	in	in	ADP	IN	_	12	R	12:R	_
+12	Beirut	beirut	PROPN	NNP	_	2	orphan	2:orphan	_
+13	,	,	PUNCT	,	_	12	punct	12:punct	_
+14	Lebanon	lebanon	PROPN	NNP	_	12	E	12:E	_
+15	,	,	PUNCT	,	_	10	punct	10:punct	_
+16	the	the	DET	DT	_	21	R	21:R	_
+17	first	first	ADJ	JJ	_	21	E	21:E	_
+18	American	american	ADJ	JJ	_	21	E	21:E	_
+19	television	television	NOUN	NN	_	21	E	21:E	_
+20	news	news	NOUN	NN	_	21	E	21:E	_
+21	bureau	bureau	NOUN	NN	_	2	orphan	2:orphan	_
+22	in	in	ADP	IN	_	25	R	25:R	_
+23	the	the	DET	DT	_	25	E	25:E	_
+24	Arab	arab	ADJ	JJ	_	25	E	25:E	_
+25	world	world	NOUN	NN	_	2	orphan	2:orphan	_
+26	.	.	PUNCT	.	_	25	punct	25:punct	_
 

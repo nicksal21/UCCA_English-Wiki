@@ -1,40 +1,24 @@
 # sent_id = 808011
-# text = She became a popular photographer with several rock groups , including the Jimi Hendrix Experience , the Grateful Dead , the Doors and the Beatles , whom she first met at Shea Stadium in 1966 .
+# text = " At times , she skipped school to see artists such as Fabian , Bobby Darin and Chuck Berry .
 # doc_id = 
-1	She	_	Word	Word	_	2	A	2:A	_
-2	became	_	Word	Word	_	0	root	0:root	_
-3	a	_	Word	Word	_	5	E	5:E	_
-4	popular	_	Word	Word	_	5	E	5:E	_
-5	photographer	_	Word	Word	_	2	orphan	2:orphan	_
-6	with	_	Word	Word	_	9	R	9:R	_
-7	several	_	Word	Word	_	9	E	9:E	_
-8	rock	_	Word	Word	_	9	E	9:E	_
-9	groups	_	Word	Word	_	2	orphan	2:orphan	_
-10	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
-11	including	_	Word	Word	_	12	R	12:R	_
-12	the	_	Word	Word	_	2	orphan	2:orphan	_
-13	Jimi	_	Word	Word	_	12	flat	12:flat	_
-14	Hendrix	_	Word	Word	_	12	flat	12:flat	_
-15	Experience	_	Word	Word	_	12	flat	12:flat	_
-16	,	_	Punctuation	Punctuation	_	12	punct	12:punct	_
-17	the	_	Word	Word	_	12	C	12:C	_
-18	Grateful	_	Word	Word	_	17	flat	17:flat	_
-19	Dead	_	Word	Word	_	17	flat	17:flat	_
-20	,	_	Punctuation	Punctuation	_	12	punct	12:punct	_
-21	the	_	Word	Word	_	12	C	12:C	_
-22	Doors	_	Word	Word	_	21	flat	21:flat	_
-23	and	_	Word	Word	_	12	N	12:N	_
-24	the	_	Word	Word	_	25	E	25:E	_
-25	Beatles	_	Word	Word	_	2	orphan	2:orphan	_
-26	,	_	Punctuation	Punctuation	_	25	punct	25:punct	_
-27	whom	_	Word	Word	_	30	F	30:F	_
-28	she	_	Word	Word	_	30	A	30:A	_
-29	first	_	Word	Word	_	30	D	30:D	_
-30	met	_	Word	Word	_	2	orphan	2:orphan	_
-31	at	_	Word	Word	_	33	R	33:R	_
-32	Shea	_	Word	Word	_	33	E	33:E	_
-33	Stadium	_	Word	Word	_	2	orphan	2:orphan	_
-34	in	_	Word	Word	_	35	R	35:R	_
-35	1966	_	Word	Word	_	2	orphan	2:orphan	_
-36	.	_	Punctuation	Punctuation	_	35	punct	35:punct	_
+1	"	"	PUNCT	``	_	6	punct	6:punct	_
+2	At	at	ADP	IN	_	3	R	3:R	_
+3	times	time	NOUN	NNS	_	0	root	0:root	_
+4	,	,	PUNCT	,	_	6	punct	6:punct	_
+5	she	-PRON-	PRON	PRP	_	6	A	6:A	_
+6	skipped	skip	VERB	VBD	_	3	orphan	3:orphan	_
+7	school	school	NOUN	NN	_	6	A	6:A	_
+8	to	to	PART	TO	_	6	L	6:L	_
+9	see	see	VERB	VB	_	3	orphan	3:orphan	_
+10	artists	artist	NOUN	NNS	_	3	orphan	3:orphan	_
+11	such	such	ADJ	JJ	_	10	E	10:E	_
+12	as	as	ADP	IN	_	10	R	10:R	_
+13	Fabian	fabian	PROPN	NNP	_	3	orphan	3:orphan	_
+14	,	,	PUNCT	,	_	13	punct	13:punct	_
+15	Bobby	bobby	PROPN	NNP	_	13	C	13:C	_
+16	Darin	darin	PROPN	NNP	_	15	flat	15:flat	_
+17	and	and	CCONJ	CC	_	13	N	13:N	_
+18	Chuck	chuck	PROPN	NNP	_	13	C	13:C	_
+19	Berry	berry	PROPN	NNP	_	18	flat	18:flat	_
+20	.	.	PUNCT	.	_	13	punct	13:punct	_
 

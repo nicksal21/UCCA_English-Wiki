@@ -1,13 +1,13 @@
 # sent_id = 495011
 # text = It was his last release for two years .
 # doc_id = 
-1	It	_	Word	Word	_	2	A	2:A	_
-2	was	_	Word	Word	_	0	root	0:root	_
-3	his	_	Word	Word	_	5	A	5:A	_
-4	last	_	Word	Word	_	5	D	5:D	_
-5	release	_	Word	Word	_	2	orphan	2:orphan	_
-6	for	_	Word	Word	_	8	R	8:R	_
-7	two	_	Word	Word	_	8	E	8:E	_
-8	years	_	Word	Word	_	2	orphan	2:orphan	_
-9	.	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+1	It	-PRON-	PRON	PRP	_	2	A	2:A	_
+2	was	be	VERB	VBD	_	0	root	0:root	_
+3	his	-PRON-	ADJ	PRP$	_	5	A	5:A	_
+4	last	last	ADJ	JJ	_	5	D	5:D	_
+5	release	release	NOUN	NN	_	2	orphan	2:orphan	_
+6	for	for	ADP	IN	_	8	R	8:R	_
+7	two	two	NUM	CD	_	8	E	8:E	_
+8	years	year	NOUN	NNS	_	2	orphan	2:orphan	_
+9	.	.	PUNCT	.	_	8	punct	8:punct	_
 

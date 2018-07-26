@@ -1,24 +1,34 @@
 # sent_id = 532015
-# text = In February 1967 , Garland was cast as Helen Lawson in Valley of the Dolls for 20th Century Fox .
+# text = The divorce became final on May 19 , 1965 , and she and Herron did not legally marry until November 14 , 1965 ; they separated six months later .
 # doc_id = 
-1	In	_	Word	Word	_	2	R	2:R	_
-2	February	_	Word	Word	_	0	root	0:root	_
-3	1967	_	Word	Word	_	2	flat	2:flat	_
-4	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
-5	Garland	_	Word	Word	_	7	A	7:A	_
-6	was	_	Word	Word	_	7	F	7:F	_
-7	cast	_	Word	Word	_	2	orphan	2:orphan	_
-8	as	_	Word	Word	_	9	R	9:R	_
-9	Helen	_	Word	Word	_	2	orphan	2:orphan	_
-10	Lawson	_	Word	Word	_	9	flat	9:flat	_
-11	in	_	Word	Word	_	12	R	12:R	_
-12	Valley	_	Word	Word	_	2	orphan	2:orphan	_
-13	of	_	Word	Word	_	12	flat	12:flat	_
-14	the	_	Word	Word	_	12	flat	12:flat	_
-15	Dolls	_	Word	Word	_	12	flat	12:flat	_
-16	for	_	Word	Word	_	19	R	19:R	_
-17	20th	_	Word	Word	_	19	E	19:E	_
-18	Century	_	Word	Word	_	19	E	19:E	_
-19	Fox	_	Word	Word	_	2	orphan	2:orphan	_
-20	.	_	Punctuation	Punctuation	_	19	punct	19:punct	_
+1	The	the	DET	DT	_	2	E	2:E	_
+2	divorce	divorce	NOUN	NN	_	0	root	0:root	_
+3	became	become	VERB	VBD	_	4	D	4:D	_
+4	final	final	ADJ	JJ	_	2	orphan	2:orphan	_
+5	on	on	ADP	IN	_	6	R	6:R	_
+6	May	may	PROPN	NNP	_	2	orphan	2:orphan	_
+7	19	19	NUM	CD	_	6	flat	6:flat	_
+8	,	,	PUNCT	,	_	6	punct	6:punct	_
+9	1965	1965	NUM	CD	_	6	flat	6:flat	_
+10	,	,	PUNCT	,	_	4	punct	4:punct	_
+11	and	and	CCONJ	CC	_	4	L	4:L	_
+12	she	-PRON-	PRON	PRP	_	2	orphan	2:orphan	_
+13	and	and	CCONJ	CC	_	12	N	12:N	_
+14	Herron	herron	PROPN	NNP	_	12	C	12:C	_
+15	did	do	VERB	VBD	_	18	F	18:F	_
+16	not	not	ADV	RB	_	18	D	18:D	_
+17	legally	legally	ADV	RB	_	18	D	18:D	_
+18	marry	marry	VERB	VB	_	2	orphan	2:orphan	_
+19	until	until	ADP	IN	_	20	R	20:R	_
+20	November	november	PROPN	NNP	_	2	orphan	2:orphan	_
+21	14	14	NUM	CD	_	20	flat	20:flat	_
+22	,	,	PUNCT	,	_	20	punct	20:punct	_
+23	1965	1965	NUM	CD	_	20	flat	20:flat	_
+24	;	;	PUNCT	:	_	4	punct	4:punct	_
+25	they	-PRON-	PRON	PRP	_	26	A	26:A	_
+26	separated	separate	VERB	VBD	_	2	orphan	2:orphan	_
+27	six	six	NUM	CD	_	28	E	28:E	_
+28	months	month	NOUN	NNS	_	2	orphan	2:orphan	_
+29	later	later	ADV	RB	_	28	R	28:R	_
+30	.	.	PUNCT	.	_	28	punct	28:punct	_
 

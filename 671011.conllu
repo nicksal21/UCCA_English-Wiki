@@ -1,24 +1,24 @@
 # sent_id = 671011
-# text = Carey ultimately sued the promoter , claiming $ 1 million in damages due to the concert 's abrupt cancellation .
+# text = " The Adventures of Mimi " DVD was released in November 2007 internationally and December 2007 in the US .
 # doc_id = 
-1	Carey	_	Word	Word	_	3	A	3:A	_
-2	ultimately	_	Word	Word	_	3	D	3:D	_
-3	sued	_	Word	Word	_	0	root	0:root	_
-4	the	_	Word	Word	_	5	E	5:E	_
-5	promoter	_	Word	Word	_	3	orphan	3:orphan	_
-6	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-7	claiming	_	Word	Word	_	3	orphan	3:orphan	_
-8	$	_	Punctuation	Punctuation	_	7	punct	7:punct	_
-9	1	_	Word	Word	_	7	A	7:A	_
-10	million	_	Word	Word	_	9	flat	9:flat	_
-11	in	_	Word	Word	_	12	R	12:R	_
-12	damages	_	Word	Word	_	3	orphan	3:orphan	_
-13	due	_	Word	Word	_	3	L	3:L	_
-14	to	_	Word	Word	_	13	flat	13:flat	_
-15	the	_	Word	Word	_	16	E	16:E	_
-16	concert	_	Word	Word	_	3	orphan	3:orphan	_
-17	's	_	Word	Word	_	16	R	16:R	_
-18	abrupt	_	Word	Word	_	19	D	19:D	_
-19	cancellation	_	Word	Word	_	3	orphan	3:orphan	_
-20	.	_	Punctuation	Punctuation	_	19	punct	19:punct	_
+1	"	"	PUNCT	``	_	9	punct	9:punct	_
+2	The	the	DET	DT	_	7	E	7:E	_
+3	Adventures	adventures	PROPN	NNPS	_	2	flat	2:flat	_
+4	of	of	ADP	IN	_	2	flat	2:flat	_
+5	Mimi	mimi	PROPN	NNP	_	2	flat	2:flat	_
+6	"	"	PUNCT	``	_	7	punct	7:punct	_
+7	DVD	dvd	PROPN	NNP	_	0	root	0:root	_
+8	was	be	VERB	VBD	_	9	F	9:F	_
+9	released	release	VERB	VBN	_	7	orphan	7:orphan	_
+10	in	in	ADP	IN	_	11	R	11:R	_
+11	November	november	PROPN	NNP	_	7	orphan	7:orphan	_
+12	2007	2007	NUM	CD	_	11	flat	11:flat	_
+13	internationally	internationally	ADV	RB	_	9	A	9:A	_
+14	and	and	CCONJ	CC	_	9	L	9:L	_
+15	December	december	PROPN	NNP	_	19	D	19:D	_
+16	2007	2007	NUM	CD	_	15	flat	15:flat	_
+17	in	in	ADP	IN	_	19	R	19:R	_
+18	the	the	DET	DT	_	19	E	19:E	_
+19	US	us	PROPN	NNP	_	7	orphan	7:orphan	_
+20	.	.	PUNCT	.	_	19	punct	19:punct	_
 

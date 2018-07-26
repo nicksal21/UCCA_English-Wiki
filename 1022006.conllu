@@ -1,27 +1,33 @@
 # sent_id = 1022006
-# text = The album won also another Grammy for Best Engineered Recording – Non Classical in 1984 , awarding Bruce Swedien for his work .
+# text = Jackson 's attorney John Branca noted that Jackson had the highest royalty rate in the music industry at that point : approximately $ 2 for every album sold .
 # doc_id = 
-1	The	_	Word	Word	_	2	E	2:E	_
-2	album	_	Word	Word	_	0	root	0:root	_
-3	won	_	Word	Word	_	2	orphan	2:orphan	_
-4	also	_	Word	Word	_	3	D	3:D	_
-5	another	_	Word	Word	_	6	E	6:E	_
-6	Grammy	_	Word	Word	_	2	orphan	2:orphan	_
-7	for	_	Word	Word	_	6	R	6:R	_
-8	Best	_	Word	Word	_	9	E	9:E	_
-9	Engineered	_	Word	Word	_	2	orphan	2:orphan	_
-10	Recording	_	Word	Word	_	2	orphan	2:orphan	_
-11	–	_	Punctuation	Punctuation	_	10	punct	10:punct	_
-12	Non	_	Word	Word	_	13	E	13:E	_
-13	Classical	_	Word	Word	_	2	orphan	2:orphan	_
-14	in	_	Word	Word	_	15	R	15:R	_
-15	1984	_	Word	Word	_	2	orphan	2:orphan	_
-16	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-17	awarding	_	Word	Word	_	2	orphan	2:orphan	_
-18	Bruce	_	Word	Word	_	17	A	17:A	_
-19	Swedien	_	Word	Word	_	18	flat	18:flat	_
-20	for	_	Word	Word	_	22	R	22:R	_
-21	his	_	Word	Word	_	22	E	22:E	_
-22	work	_	Word	Word	_	2	orphan	2:orphan	_
-23	.	_	Punctuation	Punctuation	_	22	punct	22:punct	_
+1	Jackson	jackson	PROPN	NNP	_	0	root	0:root	_
+2	's	's	PART	POS	_	1	R	1:R	_
+3	attorney	attorney	NOUN	NN	_	1	orphan	1:orphan	_
+4	John	john	PROPN	NNP	_	1	orphan	1:orphan	_
+5	Branca	branca	PROPN	NNP	_	4	flat	4:flat	_
+6	noted	note	VERB	VBD	_	1	orphan	1:orphan	_
+7	that	that	ADP	IN	_	9	F	9:F	_
+8	Jackson	jackson	PROPN	NNP	_	9	A	9:A	_
+9	had	have	VERB	VBD	_	1	orphan	1:orphan	_
+10	the	the	DET	DT	_	13	E	13:E	_
+11	highest	high	ADJ	JJS	_	13	E	13:E	_
+12	royalty	royalty	NOUN	NN	_	13	E	13:E	_
+13	rate	rate	NOUN	NN	_	1	orphan	1:orphan	_
+14	in	in	ADP	IN	_	13	R	13:R	_
+15	the	the	DET	DT	_	17	E	17:E	_
+16	music	music	NOUN	NN	_	17	E	17:E	_
+17	industry	industry	NOUN	NN	_	1	orphan	1:orphan	_
+18	at	at	ADP	IN	_	20	R	20:R	_
+19	that	that	DET	DT	_	20	E	20:E	_
+20	point	point	NOUN	NN	_	1	orphan	1:orphan	_
+21	:	:	PUNCT	:	_	9	punct	9:punct	_
+22	approximately	approximately	ADV	RB	_	24	E	24:E	_
+23	$	$	SYM	$	_	24	punct	24:punct	_
+24	2	2	NUM	CD	_	1	orphan	1:orphan	_
+25	for	for	ADP	IN	_	24	R	24:R	_
+26	every	every	DET	DT	_	27	E	27:E	_
+27	album	album	NOUN	NN	_	1	orphan	1:orphan	_
+28	sold	sell	VERB	VBN	_	1	orphan	1:orphan	_
+29	.	.	PUNCT	.	_	28	punct	28:punct	_
 

@@ -1,29 +1,20 @@
 # sent_id = 590007
-# text = Ed Wood reflected Burton 's relationship with Vincent Price ( very similar with Edward D . Wood , Jr . and Béla Lugosi ) .
+# text = According to Depp , Edward Scissorhands represented Burton 's inability to communicate as a teenager .
 # doc_id = 
-1	Ed	_	Word	Word	_	3	A	3:A	_
-2	Wood	_	Word	Word	_	1	flat	1:flat	_
-3	reflected	_	Word	Word	_	0	root	0:root	_
-4	Burton	_	Word	Word	_	3	orphan	3:orphan	_
-5	's	_	Word	Word	_	4	R	4:R	_
-6	relationship	_	Word	Word	_	3	orphan	3:orphan	_
-7	with	_	Word	Word	_	8	R	8:R	_
-8	Vincent	_	Word	Word	_	3	orphan	3:orphan	_
-9	Price	_	Word	Word	_	8	flat	8:flat	_
-10	(	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-11	very	_	Word	Word	_	12	E	12:E	_
-12	similar	_	Word	Word	_	3	orphan	3:orphan	_
-13	with	_	Word	Word	_	14	R	14:R	_
-14	Edward	_	Word	Word	_	3	orphan	3:orphan	_
-15	D	_	Word	Word	_	14	flat	14:flat	_
-16	.	_	Punctuation	Punctuation	_	14	punct	14:punct	_
-17	Wood	_	Word	Word	_	14	flat	14:flat	_
-18	,	_	Punctuation	Punctuation	_	14	punct	14:punct	_
-19	Jr	_	Word	Word	_	14	flat	14:flat	_
-20	.	_	Punctuation	Punctuation	_	14	punct	14:punct	_
-21	and	_	Word	Word	_	22	R	22:R	_
-22	Béla	_	Word	Word	_	3	orphan	3:orphan	_
-23	Lugosi	_	Word	Word	_	22	flat	22:flat	_
-24	)	_	Punctuation	Punctuation	_	22	punct	22:punct	_
-25	.	_	Punctuation	Punctuation	_	22	punct	22:punct	_
+1	According	accord	VERB	VBG	_	0	root	0:root	_
+2	to	to	ADP	IN	_	1	F	1:F	_
+3	Depp	depp	PROPN	NNP	_	1	A	1:A	_
+4	,	,	PUNCT	,	_	1	punct	1:punct	_
+5	Edward	edward	PROPN	NNP	_	7	A	7:A	_
+6	Scissorhands	scissorhands	PROPN	NNP	_	5	flat	5:flat	_
+7	represented	represent	VERB	VBD	_	1	orphan	1:orphan	_
+8	Burton	burton	PROPN	NNP	_	1	orphan	1:orphan	_
+9	's	's	PART	POS	_	8	R	8:R	_
+10	inability	inability	NOUN	NN	_	1	orphan	1:orphan	_
+11	to	to	PART	TO	_	12	F	12:F	_
+12	communicate	communicate	VERB	VB	_	1	orphan	1:orphan	_
+13	as	as	ADP	IN	_	10	L	10:L	_
+14	a	a	DET	DT	_	15	E	15:E	_
+15	teenager	teenager	NOUN	NN	_	1	orphan	1:orphan	_
+16	.	.	PUNCT	.	_	15	punct	15:punct	_
 

@@ -1,26 +1,26 @@
 # sent_id = 475008
 # text = Magic , at the age of 42 , played with the All - Stars against his alma mater , Michigan State .
 # doc_id = 
-1	Magic	_	Word	Word	_	9	A	9:A	_
-2	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
-3	at	_	Word	Word	_	9	L	9:L	_
-4	the	_	Word	Word	_	5	E	5:E	_
-5	age	_	Word	Word	_	0	root	0:root	_
-6	of	_	Word	Word	_	7	R	7:R	_
-7	42	_	Word	Word	_	5	orphan	5:orphan	_
-8	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
-9	played	_	Word	Word	_	5	orphan	5:orphan	_
-10	with	_	Word	Word	_	12	R	12:R	_
-11	the	_	Word	Word	_	12	E	12:E	_
-12	All	_	Word	Word	_	5	orphan	5:orphan	_
-13	-	_	Punctuation	Punctuation	_	12	punct	12:punct	_
-14	Stars	_	Word	Word	_	12	flat	12:flat	_
-15	against	_	Word	Word	_	17	R	17:R	_
-16	his	_	Word	Word	_	17	E	17:E	_
-17	alma	_	Word	Word	_	5	orphan	5:orphan	_
-18	mater	_	Word	Word	_	17	flat	17:flat	_
-19	,	_	Punctuation	Punctuation	_	17	punct	17:punct	_
-20	Michigan	_	Word	Word	_	17	E	17:E	_
-21	State	_	Word	Word	_	20	flat	20:flat	_
-22	.	_	Punctuation	Punctuation	_	17	punct	17:punct	_
+1	Magic	magic	NOUN	NN	_	9	A	9:A	_
+2	,	,	PUNCT	,	_	9	punct	9:punct	_
+3	at	at	ADP	IN	_	9	L	9:L	_
+4	the	the	DET	DT	_	5	E	5:E	_
+5	age	age	NOUN	NN	_	0	root	0:root	_
+6	of	of	ADP	IN	_	7	R	7:R	_
+7	42	42	NUM	CD	_	5	orphan	5:orphan	_
+8	,	,	PUNCT	,	_	9	punct	9:punct	_
+9	played	play	VERB	VBN	_	5	orphan	5:orphan	_
+10	with	with	ADP	IN	_	12	R	12:R	_
+11	the	the	DET	DT	_	12	E	12:E	_
+12	All	all	PROPN	NNP	_	5	orphan	5:orphan	_
+13	-	-	PUNCT	HYPH	_	12	punct	12:punct	_
+14	Stars	star	NOUN	NNS	_	12	flat	12:flat	_
+15	against	against	ADP	IN	_	17	R	17:R	_
+16	his	-PRON-	ADJ	PRP$	_	17	E	17:E	_
+17	alma	alma	NOUN	NN	_	5	orphan	5:orphan	_
+18	mater	mater	NOUN	NN	_	17	flat	17:flat	_
+19	,	,	PUNCT	,	_	17	punct	17:punct	_
+20	Michigan	michigan	PROPN	NNP	_	17	E	17:E	_
+21	State	state	PROPN	NNP	_	20	flat	20:flat	_
+22	.	.	PUNCT	.	_	17	punct	17:punct	_
 

@@ -1,34 +1,23 @@
 # sent_id = 947012
-# text = Stylist Andrea Lieberman introduced her to haute couture clothing , which led to Stefani launching a fashion line named L . A . M . B . in 2004 .
+# text = The line takes influence from a variety of fashions , including Guatemalan , Japanese , and Jamaican styles .
 # doc_id = 
-1	Stylist	_	Word	Word	_	2	E	2:E	_
-2	Andrea	_	Word	Word	_	0	root	0:root	_
-3	Lieberman	_	Word	Word	_	2	flat	2:flat	_
-4	introduced	_	Word	Word	_	2	orphan	2:orphan	_
-5	her	_	Word	Word	_	4	A	4:A	_
-6	to	_	Word	Word	_	9	R	9:R	_
-7	haute	_	Word	Word	_	9	E	9:E	_
-8	couture	_	Word	Word	_	7	flat	7:flat	_
-9	clothing	_	Word	Word	_	2	orphan	2:orphan	_
-10	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
-11	which	_	Word	Word	_	4	L	4:L	_
-12	led	_	Word	Word	_	2	orphan	2:orphan	_
-13	to	_	Word	Word	_	12	R	12:R	_
-14	Stefani	_	Word	Word	_	15	A	15:A	_
-15	launching	_	Word	Word	_	2	orphan	2:orphan	_
-16	a	_	Word	Word	_	18	E	18:E	_
-17	fashion	_	Word	Word	_	18	E	18:E	_
-18	line	_	Word	Word	_	2	orphan	2:orphan	_
-19	named	_	Word	Word	_	2	orphan	2:orphan	_
-20	L	_	Word	Word	_	19	A	19:A	_
-21	.	_	Punctuation	Punctuation	_	19	punct	19:punct	_
-22	A	_	Word	Word	_	20	flat	20:flat	_
-23	.	_	Punctuation	Punctuation	_	19	punct	19:punct	_
-24	M	_	Word	Word	_	20	flat	20:flat	_
-25	.	_	Punctuation	Punctuation	_	19	punct	19:punct	_
-26	B	_	Word	Word	_	20	flat	20:flat	_
-27	.	_	Punctuation	Punctuation	_	15	punct	15:punct	_
-28	in	_	Word	Word	_	29	R	29:R	_
-29	2004	_	Word	Word	_	2	orphan	2:orphan	_
-30	.	_	Punctuation	Punctuation	_	29	punct	29:punct	_
+1	The	the	DET	DT	_	2	E	2:E	_
+2	line	line	NOUN	NN	_	0	root	0:root	_
+3	takes	take	VERB	VBZ	_	4	F	4:F	_
+4	influence	influence	NOUN	NN	_	2	orphan	2:orphan	_
+5	from	from	ADP	IN	_	4	R	4:R	_
+6	a	a	DET	DT	_	9	E	9:E	_
+7	variety	variety	NOUN	NN	_	2	orphan	2:orphan	_
+8	of	of	ADP	IN	_	7	R	7:R	_
+9	fashions	fashion	NOUN	NNS	_	2	orphan	2:orphan	_
+10	,	,	PUNCT	,	_	9	punct	9:punct	_
+11	including	include	VERB	VBG	_	18	R	18:R	_
+12	Guatemalan	guatemalan	PROPN	NNP	_	2	orphan	2:orphan	_
+13	,	,	PUNCT	,	_	12	punct	12:punct	_
+14	Japanese	japanese	ADJ	JJ	_	12	C	12:C	_
+15	,	,	PUNCT	,	_	12	punct	12:punct	_
+16	and	and	CCONJ	CC	_	12	N	12:N	_
+17	Jamaican	jamaican	ADJ	JJ	_	12	C	12:C	_
+18	styles	style	NOUN	NNS	_	2	orphan	2:orphan	_
+19	.	.	PUNCT	.	_	18	punct	18:punct	_
 

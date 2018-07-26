@@ -1,32 +1,26 @@
 # sent_id = 450006
-# text = " I loved girls , " he said . " I loved comic books . And for reasons I do n't understand , I was pretty lazy .
+# text = " Jennings then briefly attended Carleton University , where he says he " lasted about 10 minutes " before dropping out .
 # doc_id = 
-1	"	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-2	I	_	Word	Word	_	3	A	3:A	_
-3	loved	_	Word	Word	_	0	root	0:root	_
-4	girls	_	Word	Word	_	3	A	3:A	_
-5	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
-6	"	_	Punctuation	Punctuation	_	8	punct	8:punct	_
-7	he	_	Word	Word	_	8	A	8:A	_
-8	said	_	Word	Word	_	3	orphan	3:orphan	_
-9	.	_	Punctuation	Punctuation	_	8	punct	8:punct	_
-10	"	_	Punctuation	Punctuation	_	8	punct	8:punct	_
-11	I	_	Word	Word	_	12	A	12:A	_
-12	loved	_	Word	Word	_	3	orphan	3:orphan	_
-13	comic	_	Word	Word	_	14	E	14:E	_
-14	books	_	Word	Word	_	3	orphan	3:orphan	_
-15	.	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-16	And	_	Word	Word	_	3	L	3:L	_
-17	for	_	Word	Word	_	18	R	18:R	_
-18	reasons	_	Word	Word	_	3	orphan	3:orphan	_
-19	I	_	Word	Word	_	22	A	22:A	_
-20	do	_	Word	Word	_	22	E	22:E	_
-21	n't	_	Word	Word	_	22	D	22:D	_
-22	understand	_	Word	Word	_	3	orphan	3:orphan	_
-23	,	_	Punctuation	Punctuation	_	27	punct	27:punct	_
-24	I	_	Word	Word	_	27	A	27:A	_
-25	was	_	Word	Word	_	27	F	27:F	_
-26	pretty	_	Word	Word	_	27	D	27:D	_
-27	lazy	_	Word	Word	_	3	orphan	3:orphan	_
-28	.	_	Punctuation	Punctuation	_	27	punct	27:punct	_
+1	"	"	PUNCT	''	_	5	punct	5:punct	_
+2	Jennings	jennings	PROPN	NNP	_	5	A	5:A	_
+3	then	then	ADV	RB	_	5	D	5:D	_
+4	briefly	briefly	ADV	RB	_	5	D	5:D	_
+5	attended	attend	VERB	VBD	_	0	root	0:root	_
+6	Carleton	carleton	PROPN	NNP	_	7	E	7:E	_
+7	University	university	PROPN	NNP	_	5	orphan	5:orphan	_
+8	,	,	PUNCT	,	_	5	punct	5:punct	_
+9	where	where	ADV	WRB	_	5	L	5:L	_
+10	he	-PRON-	PRON	PRP	_	11	A	11:A	_
+11	says	say	VERB	VBZ	_	5	orphan	5:orphan	_
+12	he	-PRON-	PRON	PRP	_	14	A	14:A	_
+13	"	"	PUNCT	``	_	14	punct	14:punct	_
+14	lasted	last	VERB	VBD	_	5	orphan	5:orphan	_
+15	about	about	ADV	RB	_	17	E	17:E	_
+16	10	10	NUM	CD	_	17	E	17:E	_
+17	minutes	minute	NOUN	NNS	_	5	orphan	5:orphan	_
+18	"	"	PUNCT	''	_	14	punct	14:punct	_
+19	before	before	ADP	IN	_	14	L	14:L	_
+20	dropping	drop	VERB	VBG	_	5	orphan	5:orphan	_
+21	out	out	PART	RP	_	20	flat	20:flat	_
+22	.	.	PUNCT	.	_	20	punct	20:punct	_
 

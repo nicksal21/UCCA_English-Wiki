@@ -1,24 +1,32 @@
 # sent_id = 607018
-# text = In 1985 , Warner Brothers commissioned McCartney to write a song for the comedic feature film Spies Like Us .
+# text = Equipment technicians resolved the problems and David Bowie , Alison Moyet , Pete Townshend and Bob Geldof joined McCartney on stage , receiving an enthusiastic crowd reaction .
 # doc_id = 
-1	In	_	Word	Word	_	2	R	2:R	_
-2	1985	_	Word	Word	_	0	root	0:root	_
-3	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-4	Warner	_	Word	Word	_	6	A	6:A	_
-5	Brothers	_	Word	Word	_	4	flat	4:flat	_
-6	commissioned	_	Word	Word	_	2	orphan	2:orphan	_
-7	McCartney	_	Word	Word	_	6	A	6:A	_
-8	to	_	Word	Word	_	9	F	9:F	_
-9	write	_	Word	Word	_	2	orphan	2:orphan	_
-10	a	_	Word	Word	_	11	E	11:E	_
-11	song	_	Word	Word	_	2	orphan	2:orphan	_
-12	for	_	Word	Word	_	17	R	17:R	_
-13	the	_	Word	Word	_	16	E	16:E	_
-14	comedic	_	Word	Word	_	16	E	16:E	_
-15	feature	_	Word	Word	_	16	E	16:E	_
-16	film	_	Word	Word	_	2	orphan	2:orphan	_
-17	Spies	_	Word	Word	_	2	orphan	2:orphan	_
-18	Like	_	Word	Word	_	17	flat	17:flat	_
-19	Us	_	Word	Word	_	17	flat	17:flat	_
-20	.	_	Punctuation	Punctuation	_	17	punct	17:punct	_
+1	Equipment	equipment	NOUN	NN	_	2	E	2:E	_
+2	technicians	technician	NOUN	NNS	_	0	root	0:root	_
+3	resolved	resolve	VERB	VBD	_	2	orphan	2:orphan	_
+4	the	the	DET	DT	_	5	E	5:E	_
+5	problems	problem	NOUN	NNS	_	2	orphan	2:orphan	_
+6	and	and	CCONJ	CC	_	3	L	3:L	_
+7	David	david	PROPN	NNP	_	2	orphan	2:orphan	_
+8	Bowie	bowie	PROPN	NNP	_	7	flat	7:flat	_
+9	,	,	PUNCT	,	_	7	punct	7:punct	_
+10	Alison	alison	PROPN	NNP	_	7	C	7:C	_
+11	Moyet	moyet	PROPN	NNP	_	10	flat	10:flat	_
+12	,	,	PUNCT	,	_	7	punct	7:punct	_
+13	Pete	pete	PROPN	NNP	_	7	C	7:C	_
+14	Townshend	townshend	PROPN	NNP	_	13	flat	13:flat	_
+15	and	and	CCONJ	CC	_	7	N	7:N	_
+16	Bob	bob	PROPN	NNP	_	7	C	7:C	_
+17	Geldof	geldof	PROPN	NNP	_	16	flat	16:flat	_
+18	joined	join	VERB	VBD	_	2	orphan	2:orphan	_
+19	McCartney	mccartney	PROPN	NNP	_	18	A	18:A	_
+20	on	on	ADP	IN	_	21	R	21:R	_
+21	stage	stage	NOUN	NN	_	2	orphan	2:orphan	_
+22	,	,	PUNCT	,	_	3	punct	3:punct	_
+23	receiving	receive	VERB	VBG	_	2	orphan	2:orphan	_
+24	an	an	DET	DT	_	27	E	27:E	_
+25	enthusiastic	enthusiastic	ADJ	JJ	_	27	E	27:E	_
+26	crowd	crowd	NOUN	NN	_	27	E	27:E	_
+27	reaction	reaction	NOUN	NN	_	2	orphan	2:orphan	_
+28	.	.	PUNCT	.	_	27	punct	27:punct	_
 

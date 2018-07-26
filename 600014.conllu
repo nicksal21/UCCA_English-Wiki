@@ -1,20 +1,26 @@
 # sent_id = 600014
-# text = Heavily influenced by American rhythm and blues music , Little Richard was his schoolboy idol .
+# text = " Long Tall Sally " was the first song McCartney performed in public , at a Butlins holiday camp talent competition .
 # doc_id = 
-1	Heavily	_	Word	Word	_	2	D	2:D	_
-2	influenced	_	Word	Word	_	0	root	0:root	_
-3	by	_	Word	Word	_	8	R	8:R	_
-4	American	_	Word	Word	_	8	E	8:E	_
-5	rhythm	_	Word	Word	_	2	orphan	2:orphan	_
-6	and	_	Word	Word	_	5	N	5:N	_
-7	blues	_	Word	Word	_	5	C	5:C	_
-8	music	_	Word	Word	_	2	orphan	2:orphan	_
-9	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-10	Little	_	Word	Word	_	12	A	12:A	_
-11	Richard	_	Word	Word	_	10	flat	10:flat	_
-12	was	_	Word	Word	_	2	orphan	2:orphan	_
-13	his	_	Word	Word	_	15	E	15:E	_
-14	schoolboy	_	Word	Word	_	15	E	15:E	_
-15	idol	_	Word	Word	_	2	orphan	2:orphan	_
-16	.	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+1	"	"	PUNCT	``	_	6	punct	6:punct	_
+2	Long	long	PROPN	NNP	_	6	A	6:A	_
+3	Tall	tall	PROPN	NNP	_	2	flat	2:flat	_
+4	Sally	sally	PROPN	NNP	_	2	flat	2:flat	_
+5	"	"	PUNCT	''	_	6	punct	6:punct	_
+6	was	be	VERB	VBD	_	0	root	0:root	_
+7	the	the	DET	DT	_	9	E	9:E	_
+8	first	first	ADJ	JJ	_	9	E	9:E	_
+9	song	song	NOUN	NN	_	6	orphan	6:orphan	_
+10	McCartney	mccartney	PROPN	NNP	_	11	A	11:A	_
+11	performed	perform	VERB	VBN	_	6	orphan	6:orphan	_
+12	in	in	ADP	IN	_	13	R	13:R	_
+13	public	public	NOUN	NN	_	6	orphan	6:orphan	_
+14	,	,	PUNCT	,	_	11	punct	11:punct	_
+15	at	at	ADP	IN	_	21	R	21:R	_
+16	a	a	DET	DT	_	21	E	21:E	_
+17	Butlins	butlins	PROPN	NNP	_	19	E	19:E	_
+18	holiday	holiday	NOUN	NN	_	19	E	19:E	_
+19	camp	camp	NOUN	NN	_	6	orphan	6:orphan	_
+20	talent	talent	NOUN	NN	_	21	E	21:E	_
+21	competition	competition	NOUN	NN	_	6	orphan	6:orphan	_
+22	.	.	PUNCT	.	_	21	punct	21:punct	_
 

@@ -1,18 +1,34 @@
 # sent_id = 603003
-# text = McCartney 's " She 's Leaving Home " was an orchestral pop song .
+# text = The sessions produced the double A - side single " Strawberry Fields Forever " / " Penny Lane " in February 1967 , and the LP followed in June .
 # doc_id = 
-1	McCartney	_	Word	Word	_	0	root	0:root	_
-2	's	_	Word	Word	_	1	R	1:R	_
-3	"	_	Punctuation	Punctuation	_	4	punct	4:punct	_
-4	She	_	Word	Word	_	1	orphan	1:orphan	_
-5	's	_	Word	Word	_	4	flat	4:flat	_
-6	Leaving	_	Word	Word	_	4	flat	4:flat	_
-7	Home	_	Word	Word	_	4	flat	4:flat	_
-8	"	_	Punctuation	Punctuation	_	9	punct	9:punct	_
-9	was	_	Word	Word	_	1	orphan	1:orphan	_
-10	an	_	Word	Word	_	13	E	13:E	_
-11	orchestral	_	Word	Word	_	13	E	13:E	_
-12	pop	_	Word	Word	_	13	E	13:E	_
-13	song	_	Word	Word	_	1	orphan	1:orphan	_
-14	.	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+1	The	the	DET	DT	_	2	E	2:E	_
+2	sessions	session	NOUN	NNS	_	0	root	0:root	_
+3	produced	produce	VERB	VBD	_	2	orphan	2:orphan	_
+4	the	the	DET	DT	_	9	E	9:E	_
+5	double	double	ADJ	JJ	_	8	E	8:E	_
+6	A	a	DET	DT	_	8	E	8:E	_
+7	-	-	PUNCT	HYPH	_	8	punct	8:punct	_
+8	side	side	NOUN	NN	_	2	orphan	2:orphan	_
+9	single	single	ADJ	JJ	_	2	orphan	2:orphan	_
+10	"	"	PUNCT	``	_	11	punct	11:punct	_
+11	Strawberry	strawberry	PROPN	NNP	_	2	orphan	2:orphan	_
+12	Fields	fields	PROPN	NNPS	_	11	flat	11:flat	_
+13	Forever	forever	PROPN	NNP	_	11	flat	11:flat	_
+14	"	"	PUNCT	''	_	11	punct	11:punct	_
+15	/	/	SYM	SYM	_	11	punct	11:punct	_
+16	"	"	PUNCT	``	_	11	punct	11:punct	_
+17	Penny	penny	PROPN	NNP	_	11	flat	11:flat	_
+18	Lane	lane	PROPN	NNP	_	11	flat	11:flat	_
+19	"	"	PUNCT	''	_	3	punct	3:punct	_
+20	in	in	ADP	IN	_	21	R	21:R	_
+21	February	february	PROPN	NNP	_	2	orphan	2:orphan	_
+22	1967	1967	NUM	CD	_	21	flat	21:flat	_
+23	,	,	PUNCT	,	_	3	punct	3:punct	_
+24	and	and	CCONJ	CC	_	3	L	3:L	_
+25	the	the	DET	DT	_	26	E	26:E	_
+26	LP	lp	NOUN	NN	_	2	orphan	2:orphan	_
+27	followed	follow	VERB	VBD	_	2	orphan	2:orphan	_
+28	in	in	ADP	IN	_	29	R	29:R	_
+29	June	june	PROPN	NNP	_	2	orphan	2:orphan	_
+30	.	.	PUNCT	.	_	29	punct	29:punct	_
 

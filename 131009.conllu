@@ -1,21 +1,30 @@
 # sent_id = 131009
-# text = Following this decline in her career , Hepburn took action to create her own comeback vehicle .
+# text = She left Hollywood to look for a stage project , and signed on to star in Philip Barry 's new play , The Philadelphia Story .
 # doc_id = 
-1	Following	_	Word	Word	_	3	L	3:L	_
-2	this	_	Word	Word	_	3	F	3:F	_
-3	decline	_	Word	Word	_	0	root	0:root	_
-4	in	_	Word	Word	_	6	R	6:R	_
-5	her	_	Word	Word	_	6	E	6:E	_
-6	career	_	Word	Word	_	3	orphan	3:orphan	_
-7	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-8	Hepburn	_	Word	Word	_	10	A	10:A	_
-9	took	_	Word	Word	_	10	E	10:E	_
-10	action	_	Word	Word	_	3	orphan	3:orphan	_
-11	to	_	Word	Word	_	12	R	12:R	_
-12	create	_	Word	Word	_	3	orphan	3:orphan	_
-13	her	_	Word	Word	_	16	E	16:E	_
-14	own	_	Word	Word	_	16	E	16:E	_
-15	comeback	_	Word	Word	_	16	E	16:E	_
-16	vehicle	_	Word	Word	_	3	orphan	3:orphan	_
-17	.	_	Punctuation	Punctuation	_	16	punct	16:punct	_
+1	She	-PRON-	PRON	PRP	_	2	A	2:A	_
+2	left	leave	VERB	VBD	_	0	root	0:root	_
+3	Hollywood	hollywood	PROPN	NNP	_	2	A	2:A	_
+4	to	to	PART	TO	_	2	L	2:L	_
+5	look	look	VERB	VB	_	2	orphan	2:orphan	_
+6	for	for	ADP	IN	_	9	R	9:R	_
+7	a	a	DET	DT	_	9	E	9:E	_
+8	stage	stage	NOUN	NN	_	9	E	9:E	_
+9	project	project	NOUN	NN	_	2	orphan	2:orphan	_
+10	,	,	PUNCT	,	_	2	punct	2:punct	_
+11	and	and	CCONJ	CC	_	2	L	2:L	_
+12	signed	sign	VERB	VBD	_	2	orphan	2:orphan	_
+13	on	on	PART	RP	_	12	E	12:E	_
+14	to	to	PART	TO	_	15	R	15:R	_
+15	star	star	VERB	VB	_	2	orphan	2:orphan	_
+16	in	in	ADP	IN	_	23	R	23:R	_
+17	Philip	philip	PROPN	NNP	_	2	orphan	2:orphan	_
+18	Barry	barry	PROPN	NNP	_	17	flat	17:flat	_
+19	's	's	PART	POS	_	17	R	17:R	_
+20	new	new	ADJ	JJ	_	23	E	23:E	_
+21	play	play	NOUN	NN	_	23	E	23:E	_
+22	,	,	PUNCT	,	_	23	punct	23:punct	_
+23	The	the	DET	DT	_	2	orphan	2:orphan	_
+24	Philadelphia	philadelphia	PROPN	NNP	_	23	flat	23:flat	_
+25	Story	story	PROPN	NNP	_	23	flat	23:flat	_
+26	.	.	PUNCT	.	_	23	punct	23:punct	_
 

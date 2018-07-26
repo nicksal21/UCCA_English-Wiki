@@ -1,25 +1,25 @@
 # sent_id = 472009
 # text = After a physical before the 1991 - 92 NBA season , Johnson discovered that he had tested positive for HIV .
 # doc_id = 
-1	After	_	Word	Word	_	3	L	3:L	_
-2	a	_	Word	Word	_	3	E	3:E	_
-3	physical	_	Word	Word	_	0	root	0:root	_
-4	before	_	Word	Word	_	3	L	3:L	_
-5	the	_	Word	Word	_	6	E	6:E	_
-6	1991	_	Word	Word	_	3	orphan	3:orphan	_
-7	-	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-8	92	_	Word	Word	_	6	C	6:C	_
-9	NBA	_	Word	Word	_	10	E	10:E	_
-10	season	_	Word	Word	_	3	orphan	3:orphan	_
-11	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-12	Johnson	_	Word	Word	_	13	A	13:A	_
-13	discovered	_	Word	Word	_	3	orphan	3:orphan	_
-14	that	_	Word	Word	_	17	F	17:F	_
-15	he	_	Word	Word	_	17	A	17:A	_
-16	had	_	Word	Word	_	17	F	17:F	_
-17	tested	_	Word	Word	_	3	orphan	3:orphan	_
-18	positive	_	Word	Word	_	17	A	17:A	_
-19	for	_	Word	Word	_	20	R	20:R	_
-20	HIV	_	Word	Word	_	3	orphan	3:orphan	_
-21	.	_	Punctuation	Punctuation	_	20	punct	20:punct	_
+1	After	after	ADP	IN	_	3	L	3:L	_
+2	a	a	DET	DT	_	3	E	3:E	_
+3	physical	physical	NOUN	NN	_	0	root	0:root	_
+4	before	before	ADP	IN	_	3	L	3:L	_
+5	the	the	DET	DT	_	6	E	6:E	_
+6	1991	1991	NUM	CD	_	3	orphan	3:orphan	_
+7	-	-	SYM	SYM	_	6	punct	6:punct	_
+8	92	92	NUM	CD	_	6	C	6:C	_
+9	NBA	nba	PROPN	NNP	_	10	E	10:E	_
+10	season	season	NOUN	NN	_	3	orphan	3:orphan	_
+11	,	,	PUNCT	,	_	3	punct	3:punct	_
+12	Johnson	johnson	PROPN	NNP	_	13	A	13:A	_
+13	discovered	discover	VERB	VBD	_	3	orphan	3:orphan	_
+14	that	that	ADP	IN	_	17	F	17:F	_
+15	he	-PRON-	PRON	PRP	_	17	A	17:A	_
+16	had	have	VERB	VBD	_	17	F	17:F	_
+17	tested	test	VERB	VBN	_	3	orphan	3:orphan	_
+18	positive	positive	ADJ	JJ	_	17	A	17:A	_
+19	for	for	ADP	IN	_	20	R	20:R	_
+20	HIV	hiv	PROPN	NNP	_	3	orphan	3:orphan	_
+21	.	.	PUNCT	.	_	20	punct	20:punct	_
 

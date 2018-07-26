@@ -1,17 +1,16 @@
 # sent_id = 180008
-# text = Gyllenhaal has been in a relationship with actor Peter Sarsgaard since 2002 .
+# text = On May 2 , 2009 , she married Sarsgaard in Italy .
 # doc_id = 
-1	Gyllenhaal	_	Word	Word	_	6	A	6:A	_
-2	has	_	Word	Word	_	6	F	6:F	_
-3	been	_	Word	Word	_	6	E	6:E	_
-4	in	_	Word	Word	_	6	R	6:R	_
-5	a	_	Word	Word	_	6	E	6:E	_
-6	relationship	_	Word	Word	_	0	root	0:root	_
-7	with	_	Word	Word	_	9	R	9:R	_
-8	actor	_	Word	Word	_	9	E	9:E	_
-9	Peter	_	Word	Word	_	6	orphan	6:orphan	_
-10	Sarsgaard	_	Word	Word	_	9	flat	9:flat	_
-11	since	_	Word	Word	_	12	R	12:R	_
-12	2002	_	Word	Word	_	6	orphan	6:orphan	_
-13	.	_	Punctuation	Punctuation	_	12	punct	12:punct	_
+1	On	on	ADP	IN	_	2	R	2:R	_
+2	May	may	PROPN	NNP	_	0	root	0:root	_
+3	2	2	NUM	CD	_	2	flat	2:flat	_
+4	,	,	PUNCT	,	_	2	punct	2:punct	_
+5	2009	2009	NUM	CD	_	2	flat	2:flat	_
+6	,	,	PUNCT	,	_	8	punct	8:punct	_
+7	she	-PRON-	PRON	PRP	_	8	A	8:A	_
+8	married	marry	VERB	VBD	_	2	orphan	2:orphan	_
+9	Sarsgaard	sarsgaard	PROPN	NNP	_	8	A	8:A	_
+10	in	in	ADP	IN	_	11	R	11:R	_
+11	Italy	italy	PROPN	NNP	_	2	orphan	2:orphan	_
+12	.	.	PUNCT	.	_	11	punct	11:punct	_
 

@@ -1,30 +1,40 @@
 # sent_id = 806007
-# text = Following McCartney 's marriage to Mills , he joined her in a campaign against landmines , becoming a patron of Adopt - A - Minefield .
+# text = " McCartney has also supported campaigns headed by the Humane Society of the United States , Humane Society International , the World Society for the Protection of Animals , and the David Shepherd Wildlife Foundation .
 # doc_id = 
-1	Following	_	Word	Word	_	4	L	4:L	_
-2	McCartney	_	Word	Word	_	0	root	0:root	_
-3	's	_	Word	Word	_	2	R	2:R	_
-4	marriage	_	Word	Word	_	2	orphan	2:orphan	_
-5	to	_	Word	Word	_	6	R	6:R	_
-6	Mills	_	Word	Word	_	2	orphan	2:orphan	_
-7	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
-8	he	_	Word	Word	_	9	A	9:A	_
-9	joined	_	Word	Word	_	2	orphan	2:orphan	_
-10	her	_	Word	Word	_	9	A	9:A	_
-11	in	_	Word	Word	_	13	R	13:R	_
-12	a	_	Word	Word	_	13	E	13:E	_
-13	campaign	_	Word	Word	_	2	orphan	2:orphan	_
-14	against	_	Word	Word	_	15	R	15:R	_
-15	landmines	_	Word	Word	_	2	orphan	2:orphan	_
-16	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
-17	becoming	_	Word	Word	_	2	orphan	2:orphan	_
-18	a	_	Word	Word	_	19	E	19:E	_
-19	patron	_	Word	Word	_	2	orphan	2:orphan	_
-20	of	_	Word	Word	_	21	R	21:R	_
-21	Adopt	_	Word	Word	_	2	orphan	2:orphan	_
-22	-	_	Punctuation	Punctuation	_	21	punct	21:punct	_
-23	A	_	Word	Word	_	21	flat	21:flat	_
-24	-	_	Punctuation	Punctuation	_	21	punct	21:punct	_
-25	Minefield	_	Word	Word	_	21	flat	21:flat	_
-26	.	_	Punctuation	Punctuation	_	21	punct	21:punct	_
+1	"	"	PUNCT	''	_	5	punct	5:punct	_
+2	McCartney	mccartney	PROPN	NNP	_	5	A	5:A	_
+3	has	have	VERB	VBZ	_	5	F	5:F	_
+4	also	also	ADV	RB	_	5	D	5:D	_
+5	supported	support	VERB	VBN	_	0	root	0:root	_
+6	campaigns	campaign	NOUN	NNS	_	5	orphan	5:orphan	_
+7	headed	head	VERB	VBN	_	5	orphan	5:orphan	_
+8	by	by	ADP	IN	_	11	R	11:R	_
+9	the	the	DET	DT	_	11	E	11:E	_
+10	Humane	humane	PROPN	NNP	_	11	E	11:E	_
+11	Society	society	PROPN	NNP	_	5	orphan	5:orphan	_
+12	of	of	ADP	IN	_	14	R	14:R	_
+13	the	the	DET	DT	_	14	E	14:E	_
+14	United	united	PROPN	NNP	_	5	orphan	5:orphan	_
+15	States	states	PROPN	NNP	_	14	flat	14:flat	_
+16	,	,	PUNCT	,	_	11	punct	11:punct	_
+17	Humane	humane	PROPN	NNP	_	18	E	18:E	_
+18	Society	society	PROPN	NNP	_	5	orphan	5:orphan	_
+19	International	international	PROPN	NNP	_	18	E	18:E	_
+20	,	,	PUNCT	,	_	11	punct	11:punct	_
+21	the	the	DET	DT	_	23	E	23:E	_
+22	World	world	PROPN	NNP	_	23	E	23:E	_
+23	Society	society	PROPN	NNP	_	5	orphan	5:orphan	_
+24	for	for	ADP	IN	_	26	R	26:R	_
+25	the	the	DET	DT	_	26	E	26:E	_
+26	Protection	protection	PROPN	NNP	_	5	orphan	5:orphan	_
+27	of	of	ADP	IN	_	28	R	28:R	_
+28	Animals	animals	PROPN	NNPS	_	5	orphan	5:orphan	_
+29	,	,	PUNCT	,	_	11	punct	11:punct	_
+30	and	and	CCONJ	CC	_	11	N	11:N	_
+31	the	the	DET	DT	_	35	E	35:E	_
+32	David	david	PROPN	NNP	_	35	E	35:E	_
+33	Shepherd	shepherd	PROPN	NNP	_	32	flat	32:flat	_
+34	Wildlife	wildlife	PROPN	NNP	_	35	E	35:E	_
+35	Foundation	foundation	PROPN	NNP	_	5	orphan	5:orphan	_
+36	.	.	PUNCT	.	_	35	punct	35:punct	_
 

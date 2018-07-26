@@ -1,23 +1,27 @@
 # sent_id = 217008
-# text = She was part of an ensemble cast that included Julia Roberts , Maggie Gyllenhaal , and Julia Stiles .
+# text = The film generated mostly negative reviews , with Manohla Dargis of the Los Angeles Times describing it as " smug and reductive .
 # doc_id = 
-1	She	_	Word	Word	_	3	A	3:A	_
-2	was	_	Word	Word	_	3	F	3:F	_
-3	part	_	Word	Word	_	0	root	0:root	_
-4	of	_	Word	Word	_	3	R	3:R	_
-5	an	_	Word	Word	_	7	E	7:E	_
-6	ensemble	_	Word	Word	_	7	E	7:E	_
-7	cast	_	Word	Word	_	3	orphan	3:orphan	_
-8	that	_	Word	Word	_	9	F	9:F	_
-9	included	_	Word	Word	_	3	orphan	3:orphan	_
-10	Julia	_	Word	Word	_	3	orphan	3:orphan	_
-11	Roberts	_	Word	Word	_	10	flat	10:flat	_
-12	,	_	Punctuation	Punctuation	_	10	punct	10:punct	_
-13	Maggie	_	Word	Word	_	10	C	10:C	_
-14	Gyllenhaal	_	Word	Word	_	13	flat	13:flat	_
-15	,	_	Punctuation	Punctuation	_	10	punct	10:punct	_
-16	and	_	Word	Word	_	10	N	10:N	_
-17	Julia	_	Word	Word	_	10	C	10:C	_
-18	Stiles	_	Word	Word	_	17	flat	17:flat	_
-19	.	_	Punctuation	Punctuation	_	10	punct	10:punct	_
+1	The	the	DET	DT	_	2	E	2:E	_
+2	film	film	NOUN	NN	_	0	root	0:root	_
+3	generated	generate	VERB	VBD	_	2	orphan	2:orphan	_
+4	mostly	mostly	ADV	RB	_	6	E	6:E	_
+5	negative	negative	ADJ	JJ	_	6	E	6:E	_
+6	reviews	review	NOUN	NNS	_	2	orphan	2:orphan	_
+7	,	,	PUNCT	,	_	3	punct	3:punct	_
+8	with	with	ADP	IN	_	3	L	3:L	_
+9	Manohla	manohla	PROPN	NNP	_	2	orphan	2:orphan	_
+10	Dargis	dargis	PROPN	NNP	_	9	flat	9:flat	_
+11	of	of	ADP	IN	_	13	R	13:R	_
+12	the	the	DET	DT	_	13	E	13:E	_
+13	Los	los	PROPN	NNP	_	2	orphan	2:orphan	_
+14	Angeles	angeles	PROPN	NNP	_	13	flat	13:flat	_
+15	Times	times	PROPN	NNP	_	13	flat	13:flat	_
+16	describing	describe	VERB	VBG	_	2	orphan	2:orphan	_
+17	it	-PRON-	PRON	PRP	_	16	A	16:A	_
+18	as	as	ADP	IN	_	20	R	20:R	_
+19	"	"	PUNCT	``	_	20	punct	20:punct	_
+20	smug	smug	ADJ	JJ	_	2	orphan	2:orphan	_
+21	and	and	CCONJ	CC	_	20	N	20:N	_
+22	reductive	reductive	ADJ	JJ	_	20	C	20:C	_
+23	.	.	PUNCT	.	_	20	punct	20:punct	_
 

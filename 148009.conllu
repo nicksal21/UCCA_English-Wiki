@@ -1,26 +1,27 @@
 # sent_id = 148009
-# text = The relationship has subsequently received much publicity , and it is often cited as one of Hollywood 's legendary love affairs .
+# text = " Lauren Bacall , a close friend , later wrote of how " blindingly " in love Hepburn was with the actor .
 # doc_id = 
-1	The	_	Word	Word	_	2	E	2:E	_
-2	relationship	_	Word	Word	_	0	root	0:root	_
-3	has	_	Word	Word	_	5	F	5:F	_
-4	subsequently	_	Word	Word	_	5	D	5:D	_
-5	received	_	Word	Word	_	2	orphan	2:orphan	_
-6	much	_	Word	Word	_	7	E	7:E	_
-7	publicity	_	Word	Word	_	2	orphan	2:orphan	_
-8	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-9	and	_	Word	Word	_	5	L	5:L	_
-10	it	_	Word	Word	_	13	A	13:A	_
-11	is	_	Word	Word	_	13	F	13:F	_
-12	often	_	Word	Word	_	13	D	13:D	_
-13	cited	_	Word	Word	_	2	orphan	2:orphan	_
-14	as	_	Word	Word	_	21	R	21:R	_
-15	one	_	Word	Word	_	2	orphan	2:orphan	_
-16	of	_	Word	Word	_	15	F	15:F	_
-17	Hollywood	_	Word	Word	_	2	orphan	2:orphan	_
-18	's	_	Word	Word	_	17	R	17:R	_
-19	legendary	_	Word	Word	_	21	E	21:E	_
-20	love	_	Word	Word	_	21	E	21:E	_
-21	affairs	_	Word	Word	_	2	orphan	2:orphan	_
-22	.	_	Punctuation	Punctuation	_	21	punct	21:punct	_
+1	"	"	PUNCT	''	_	10	punct	10:punct	_
+2	Lauren	lauren	PROPN	NNP	_	0	root	0:root	_
+3	Bacall	bacall	PROPN	NNP	_	2	flat	2:flat	_
+4	,	,	PUNCT	,	_	2	punct	2:punct	_
+5	a	a	DET	DT	_	7	E	7:E	_
+6	close	close	ADJ	JJ	_	7	E	7:E	_
+7	friend	friend	NOUN	NN	_	2	orphan	2:orphan	_
+8	,	,	PUNCT	,	_	10	punct	10:punct	_
+9	later	later	ADV	RB	_	10	D	10:D	_
+10	wrote	write	VERB	VBD	_	2	orphan	2:orphan	_
+11	of	of	ADP	IN	_	16	R	16:R	_
+12	how	how	ADV	WRB	_	16	D	16:D	_
+13	"	"	PUNCT	``	_	16	punct	16:punct	_
+14	blindingly	blindingly	ADV	RB	_	16	D	16:D	_
+15	"	"	PUNCT	''	_	16	punct	16:punct	_
+16	in	in	ADP	IN	_	2	orphan	2:orphan	_
+17	love	love	NOUN	NN	_	16	flat	16:flat	_
+18	Hepburn	hepburn	PROPN	NNP	_	16	A	16:A	_
+19	was	be	VERB	VBD	_	16	F	16:F	_
+20	with	with	ADP	IN	_	22	R	22:R	_
+21	the	the	DET	DT	_	22	E	22:E	_
+22	actor	actor	NOUN	NN	_	2	orphan	2:orphan	_
+23	.	.	PUNCT	.	_	22	punct	22:punct	_
 

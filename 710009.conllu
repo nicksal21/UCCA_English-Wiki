@@ -1,24 +1,24 @@
 # sent_id = 710009
 # text = " This collection of complex songs won him his first solo " Album of the Year " Grammy Award .
 # doc_id = 
-1	"	_	Punctuation	Punctuation	_	7	punct	7:punct	_
-2	This	_	Word	Word	_	3	E	3:E	_
-3	collection	_	Word	Word	_	0	root	0:root	_
-4	of	_	Word	Word	_	6	R	6:R	_
-5	complex	_	Word	Word	_	6	E	6:E	_
-6	songs	_	Word	Word	_	3	orphan	3:orphan	_
-7	won	_	Word	Word	_	3	orphan	3:orphan	_
-8	him	_	Word	Word	_	7	A	7:A	_
-9	his	_	Word	Word	_	19	E	19:E	_
-10	first	_	Word	Word	_	19	E	19:E	_
-11	solo	_	Word	Word	_	19	E	19:E	_
-12	"	_	Punctuation	Punctuation	_	19	punct	19:punct	_
-13	Album	_	Word	Word	_	19	E	19:E	_
-14	of	_	Word	Word	_	13	flat	13:flat	_
-15	the	_	Word	Word	_	13	flat	13:flat	_
-16	Year	_	Word	Word	_	13	flat	13:flat	_
-17	"	_	Punctuation	Punctuation	_	19	punct	19:punct	_
-18	Grammy	_	Word	Word	_	19	E	19:E	_
-19	Award	_	Word	Word	_	3	orphan	3:orphan	_
-20	.	_	Punctuation	Punctuation	_	19	punct	19:punct	_
+1	"	"	PUNCT	``	_	7	punct	7:punct	_
+2	This	this	DET	DT	_	3	E	3:E	_
+3	collection	collection	NOUN	NN	_	0	root	0:root	_
+4	of	of	ADP	IN	_	6	R	6:R	_
+5	complex	complex	ADJ	JJ	_	6	E	6:E	_
+6	songs	song	NOUN	NNS	_	3	orphan	3:orphan	_
+7	won	win	VERB	VBD	_	3	orphan	3:orphan	_
+8	him	-PRON-	PRON	PRP	_	7	A	7:A	_
+9	his	-PRON-	ADJ	PRP$	_	19	E	19:E	_
+10	first	first	ADJ	JJ	_	19	E	19:E	_
+11	solo	solo	NOUN	NN	_	19	E	19:E	_
+12	"	"	PUNCT	``	_	19	punct	19:punct	_
+13	Album	album	PROPN	NNP	_	19	E	19:E	_
+14	of	of	ADP	IN	_	13	flat	13:flat	_
+15	the	the	DET	DT	_	13	flat	13:flat	_
+16	Year	year	PROPN	NNP	_	13	flat	13:flat	_
+17	"	"	PUNCT	''	_	19	punct	19:punct	_
+18	Grammy	grammy	PROPN	NNP	_	19	E	19:E	_
+19	Award	award	PROPN	NNP	_	3	orphan	3:orphan	_
+20	.	.	PUNCT	.	_	19	punct	19:punct	_
 

@@ -1,31 +1,32 @@
 # sent_id = 668010
-# text = To add further to Carey 's emotional burdens , her father , with whom she had little contact since childhood , died of cancer that year .
+# text = " Later that year , she signed a contract with Island Records , valued at more than $ 24 million , and launched the record label MonarC .
 # doc_id = 
-1	To	_	Word	Word	_	2	F	2:F	_
-2	add	_	Word	Word	_	0	root	0:root	_
-3	further	_	Word	Word	_	2	D	2:D	_
-4	to	_	Word	Word	_	8	R	8:R	_
-5	Carey	_	Word	Word	_	2	orphan	2:orphan	_
-6	's	_	Word	Word	_	5	R	5:R	_
-7	emotional	_	Word	Word	_	8	E	8:E	_
-8	burdens	_	Word	Word	_	2	orphan	2:orphan	_
-9	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-10	her	_	Word	Word	_	11	E	11:E	_
-11	father	_	Word	Word	_	2	orphan	2:orphan	_
-12	,	_	Punctuation	Punctuation	_	11	punct	11:punct	_
-13	with	_	Word	Word	_	18	R	18:R	_
-14	whom	_	Word	Word	_	18	F	18:F	_
-15	she	_	Word	Word	_	18	A	18:A	_
-16	had	_	Word	Word	_	18	E	18:E	_
-17	little	_	Word	Word	_	18	D	18:D	_
-18	contact	_	Word	Word	_	2	orphan	2:orphan	_
-19	since	_	Word	Word	_	20	R	20:R	_
-20	childhood	_	Word	Word	_	2	orphan	2:orphan	_
-21	,	_	Punctuation	Punctuation	_	22	punct	22:punct	_
-22	died	_	Word	Word	_	2	orphan	2:orphan	_
-23	of	_	Word	Word	_	24	R	24:R	_
-24	cancer	_	Word	Word	_	2	orphan	2:orphan	_
-25	that	_	Word	Word	_	26	E	26:E	_
-26	year	_	Word	Word	_	2	orphan	2:orphan	_
-27	.	_	Punctuation	Punctuation	_	26	punct	26:punct	_
+1	"	"	PUNCT	''	_	7	punct	7:punct	_
+2	Later	later	ADV	RBR	_	4	R	4:R	_
+3	that	that	DET	DT	_	4	E	4:E	_
+4	year	year	NOUN	NN	_	0	root	0:root	_
+5	,	,	PUNCT	,	_	7	punct	7:punct	_
+6	she	-PRON-	PRON	PRP	_	7	A	7:A	_
+7	signed	sign	VERB	VBD	_	4	orphan	4:orphan	_
+8	a	a	DET	DT	_	9	E	9:E	_
+9	contract	contract	NOUN	NN	_	4	orphan	4:orphan	_
+10	with	with	ADP	IN	_	11	R	11:R	_
+11	Island	island	PROPN	NNP	_	4	orphan	4:orphan	_
+12	Records	records	PROPN	NNPS	_	11	flat	11:flat	_
+13	,	,	PUNCT	,	_	9	punct	9:punct	_
+14	valued	value	VERB	VBN	_	4	orphan	4:orphan	_
+15	at	at	ADP	IN	_	19	R	19:R	_
+16	more	more	ADJ	JJR	_	4	orphan	4:orphan	_
+17	than	than	ADP	IN	_	16	R	16:R	_
+18	$	$	SYM	$	_	19	punct	19:punct	_
+19	24	24	NUM	CD	_	4	orphan	4:orphan	_
+20	million	million	NUM	CD	_	19	flat	19:flat	_
+21	,	,	PUNCT	,	_	7	punct	7:punct	_
+22	and	and	CCONJ	CC	_	7	L	7:L	_
+23	launched	launch	VERB	VBD	_	4	orphan	4:orphan	_
+24	the	the	DET	DT	_	27	E	27:E	_
+25	record	record	NOUN	NN	_	26	E	26:E	_
+26	label	label	NOUN	NN	_	4	orphan	4:orphan	_
+27	MonarC	monarc	PROPN	NNP	_	4	orphan	4:orphan	_
+28	.	.	PUNCT	.	_	27	punct	27:punct	_
 

@@ -1,21 +1,24 @@
 # sent_id = 618014
-# text = In 1963 , Dick James established Northern Songs to publish the songs of Lennon – McCartney .
+# text = McCartney initially owned 20% of Northern Songs , which became 15 % after a public stock offering in 1965 .
 # doc_id = 
-1	In	_	Word	Word	_	2	R	2:R	_
-2	1963	_	Word	Word	_	0	root	0:root	_
-3	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-4	Dick	_	Word	Word	_	6	A	6:A	_
-5	James	_	Word	Word	_	4	flat	4:flat	_
-6	established	_	Word	Word	_	2	orphan	2:orphan	_
-7	Northern	_	Word	Word	_	6	A	6:A	_
-8	Songs	_	Word	Word	_	7	flat	7:flat	_
-9	to	_	Word	Word	_	6	L	6:L	_
-10	publish	_	Word	Word	_	2	orphan	2:orphan	_
-11	the	_	Word	Word	_	12	E	12:E	_
-12	songs	_	Word	Word	_	2	orphan	2:orphan	_
-13	of	_	Word	Word	_	14	R	14:R	_
-14	Lennon	_	Word	Word	_	2	orphan	2:orphan	_
-15	–	_	Punctuation	Punctuation	_	14	punct	14:punct	_
-16	McCartney	_	Word	Word	_	14	C	14:C	_
-17	.	_	Punctuation	Punctuation	_	14	punct	14:punct	_
+1	McCartney	mccartney	PROPN	NNP	_	3	A	3:A	_
+2	initially	initially	ADV	RB	_	3	D	3:D	_
+3	owned	own	VERB	VBD	_	0	root	0:root	_
+4	20%	20%	NUM	CD	_	3	orphan	3:orphan	_
+5	of	of	ADP	IN	_	4	R	4:R	_
+6	Northern	northern	PROPN	NNP	_	3	orphan	3:orphan	_
+7	Songs	songs	PROPN	NNP	_	6	flat	6:flat	_
+8	,	,	PUNCT	,	_	6	punct	6:punct	_
+9	which	which	ADJ	WDT	_	10	F	10:F	_
+10	became	become	VERB	VBD	_	3	orphan	3:orphan	_
+11	15	15	NUM	CD	_	10	A	10:A	_
+12	%	%	NOUN	NN	_	11	flat	11:flat	_
+13	after	after	ADP	IN	_	10	L	10:L	_
+14	a	a	DET	DT	_	17	E	17:E	_
+15	public	public	ADJ	JJ	_	17	E	17:E	_
+16	stock	stock	NOUN	NN	_	17	E	17:E	_
+17	offering	offering	NOUN	NN	_	3	orphan	3:orphan	_
+18	in	in	ADP	IN	_	19	R	19:R	_
+19	1965	1965	NUM	CD	_	3	orphan	3:orphan	_
+20	.	.	PUNCT	.	_	19	punct	19:punct	_
 

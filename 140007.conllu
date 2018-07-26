@@ -1,31 +1,26 @@
 # sent_id = 140007
-# text = Hepburn 's next appearance was in The Madwoman of Chaillot ( 1969 ) , which she filmed in Nice immediately after completing The Lion in Winter .
+# text = From December 1969 to August 1970 , Hepburn starred in the Broadway musical Coco , about the life of Coco Chanel .
 # doc_id = 
-1	Hepburn	_	Word	Word	_	0	root	0:root	_
-2	's	_	Word	Word	_	1	R	1:R	_
-3	next	_	Word	Word	_	4	D	4:D	_
-4	appearance	_	Word	Word	_	1	orphan	1:orphan	_
-5	was	_	Word	Word	_	1	orphan	1:orphan	_
-6	in	_	Word	Word	_	7	R	7:R	_
-7	The	_	Word	Word	_	1	orphan	1:orphan	_
-8	Madwoman	_	Word	Word	_	7	flat	7:flat	_
-9	of	_	Word	Word	_	7	flat	7:flat	_
-10	Chaillot	_	Word	Word	_	7	flat	7:flat	_
-11	(	_	Punctuation	Punctuation	_	7	punct	7:punct	_
-12	1969	_	Word	Word	_	1	orphan	1:orphan	_
-13	)	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-14	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-15	which	_	Word	Word	_	5	L	5:L	_
-16	she	_	Word	Word	_	17	A	17:A	_
-17	filmed	_	Word	Word	_	1	orphan	1:orphan	_
-18	in	_	Word	Word	_	19	R	19:R	_
-19	Nice	_	Word	Word	_	1	orphan	1:orphan	_
-20	immediately	_	Word	Word	_	17	D	17:D	_
-21	after	_	Word	Word	_	5	L	5:L	_
-22	completing	_	Word	Word	_	1	orphan	1:orphan	_
-23	The	_	Word	Word	_	22	A	22:A	_
-24	Lion	_	Word	Word	_	23	flat	23:flat	_
-25	in	_	Word	Word	_	23	flat	23:flat	_
-26	Winter	_	Word	Word	_	23	flat	23:flat	_
-27	.	_	Punctuation	Punctuation	_	22	punct	22:punct	_
+1	From	from	ADP	IN	_	2	R	2:R	_
+2	December	december	PROPN	NNP	_	0	root	0:root	_
+3	1969	1969	NUM	CD	_	2	flat	2:flat	_
+4	to	to	ADP	IN	_	2	R	2:R	_
+5	August	august	PROPN	NNP	_	2	C	2:C	_
+6	1970	1970	NUM	CD	_	5	flat	5:flat	_
+7	,	,	PUNCT	,	_	9	punct	9:punct	_
+8	Hepburn	hepburn	PROPN	NNP	_	9	A	9:A	_
+9	starred	star	VERB	VBN	_	2	orphan	2:orphan	_
+10	in	in	ADP	IN	_	14	R	14:R	_
+11	the	the	DET	DT	_	14	E	14:E	_
+12	Broadway	broadway	PROPN	NNP	_	13	E	13:E	_
+13	musical	musical	ADJ	JJ	_	2	orphan	2:orphan	_
+14	Coco	coco	PROPN	NNP	_	2	orphan	2:orphan	_
+15	,	,	PUNCT	,	_	14	punct	14:punct	_
+16	about	about	ADP	IN	_	18	R	18:R	_
+17	the	the	DET	DT	_	18	E	18:E	_
+18	life	life	NOUN	NN	_	2	orphan	2:orphan	_
+19	of	of	ADP	IN	_	20	R	20:R	_
+20	Coco	coco	PROPN	NNP	_	2	orphan	2:orphan	_
+21	Chanel	chanel	PROPN	NNP	_	20	flat	20:flat	_
+22	.	.	PUNCT	.	_	20	punct	20:punct	_
 

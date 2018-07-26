@@ -1,27 +1,38 @@
 # sent_id = 224012
-# text = When Willie Chan left the company , he advised Jackie to decide for himself whether or not to stay with Lo Wei .
+# text = During the shooting of Fearless Hyena Part II , Chan broke his contract and joined Golden Harvest , prompting Lo to blackmail Chan with triads , blaming Willie for his star 's departure .
 # doc_id = 
-1	When	_	Word	Word	_	4	L	4:L	_
-2	Willie	_	Word	Word	_	4	A	4:A	_
-3	Chan	_	Word	Word	_	2	flat	2:flat	_
-4	left	_	Word	Word	_	0	root	0:root	_
-5	the	_	Word	Word	_	6	E	6:E	_
-6	company	_	Word	Word	_	4	orphan	4:orphan	_
-7	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
-8	he	_	Word	Word	_	9	A	9:A	_
-9	advised	_	Word	Word	_	4	orphan	4:orphan	_
-10	Jackie	_	Word	Word	_	9	A	9:A	_
-11	to	_	Word	Word	_	12	F	12:F	_
-12	decide	_	Word	Word	_	4	orphan	4:orphan	_
-13	for	_	Word	Word	_	14	R	14:R	_
-14	himself	_	Word	Word	_	4	orphan	4:orphan	_
-15	whether	_	Word	Word	_	4	orphan	4:orphan	_
-16	or	_	Word	Word	_	15	N	15:N	_
-17	not	_	Word	Word	_	15	C	15:C	_
-18	to	_	Word	Word	_	19	F	19:F	_
-19	stay	_	Word	Word	_	4	orphan	4:orphan	_
-20	with	_	Word	Word	_	21	R	21:R	_
-21	Lo	_	Word	Word	_	4	orphan	4:orphan	_
-22	Wei	_	Word	Word	_	21	flat	21:flat	_
-23	.	_	Punctuation	Punctuation	_	21	punct	21:punct	_
+1	During	during	ADP	IN	_	3	L	3:L	_
+2	the	the	DET	DT	_	3	E	3:E	_
+3	shooting	shooting	NOUN	NN	_	0	root	0:root	_
+4	of	of	ADP	IN	_	5	R	5:R	_
+5	Fearless	fearless	PROPN	NNP	_	3	orphan	3:orphan	_
+6	Hyena	hyena	PROPN	NNP	_	5	flat	5:flat	_
+7	Part	part	PROPN	NNP	_	5	flat	5:flat	_
+8	II	ii	PROPN	NNP	_	5	flat	5:flat	_
+9	,	,	PUNCT	,	_	3	punct	3:punct	_
+10	Chan	chan	PROPN	NNP	_	11	A	11:A	_
+11	broke	break	VERB	VBD	_	3	orphan	3:orphan	_
+12	his	-PRON-	ADJ	PRP$	_	13	E	13:E	_
+13	contract	contract	NOUN	NN	_	3	orphan	3:orphan	_
+14	and	and	CCONJ	CC	_	3	L	3:L	_
+15	joined	join	VERB	VBD	_	3	orphan	3:orphan	_
+16	Golden	golden	PROPN	NNP	_	15	A	15:A	_
+17	Harvest	harvest	PROPN	NNP	_	16	flat	16:flat	_
+18	,	,	PUNCT	,	_	3	punct	3:punct	_
+19	prompting	prompt	VERB	VBG	_	3	L	3:L	_
+20	Lo	lo	PROPN	NNP	_	22	A	22:A	_
+21	to	to	PART	TO	_	22	F	22:F	_
+22	blackmail	blackmail	VERB	VB	_	3	orphan	3:orphan	_
+23	Chan	chan	PROPN	NNP	_	22	A	22:A	_
+24	with	with	ADP	IN	_	25	R	25:R	_
+25	triads	triad	NOUN	NNS	_	3	orphan	3:orphan	_
+26	,	,	PUNCT	,	_	3	punct	3:punct	_
+27	blaming	blame	VERB	VBG	_	3	orphan	3:orphan	_
+28	Willie	willie	PROPN	NNP	_	27	A	27:A	_
+29	for	for	ADP	IN	_	33	R	33:R	_
+30	his	-PRON-	ADJ	PRP$	_	31	E	31:E	_
+31	star	star	NOUN	NN	_	3	orphan	3:orphan	_
+32	's	's	PART	POS	_	31	R	31:R	_
+33	departure	departure	NOUN	NN	_	3	orphan	3:orphan	_
+34	.	.	PUNCT	.	_	33	punct	33:punct	_
 

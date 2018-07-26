@@ -1,23 +1,12 @@
 # sent_id = 147011
-# text = In 1936 , while she was touring Jane Eyre , Hepburn began a relationship with entrepreneur Howard Hughes .
+# text = " They were involved for four years .
 # doc_id = 
-1	In	_	Word	Word	_	2	R	2:R	_
-2	1936	_	Word	Word	_	0	root	0:root	_
-3	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
-4	while	_	Word	Word	_	7	L	7:L	_
-5	she	_	Word	Word	_	7	A	7:A	_
-6	was	_	Word	Word	_	7	F	7:F	_
-7	touring	_	Word	Word	_	2	orphan	2:orphan	_
-8	Jane	_	Word	Word	_	7	A	7:A	_
-9	Eyre	_	Word	Word	_	8	flat	8:flat	_
-10	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
-11	Hepburn	_	Word	Word	_	14	A	14:A	_
-12	began	_	Word	Word	_	14	E	14:E	_
-13	a	_	Word	Word	_	14	E	14:E	_
-14	relationship	_	Word	Word	_	2	orphan	2:orphan	_
-15	with	_	Word	Word	_	17	R	17:R	_
-16	entrepreneur	_	Word	Word	_	17	E	17:E	_
-17	Howard	_	Word	Word	_	2	orphan	2:orphan	_
-18	Hughes	_	Word	Word	_	17	flat	17:flat	_
-19	.	_	Punctuation	Punctuation	_	17	punct	17:punct	_
+1	"	"	PUNCT	''	_	4	punct	4:punct	_
+2	They	-PRON-	PRON	PRP	_	4	A	4:A	_
+3	were	be	VERB	VBD	_	4	F	4:F	_
+4	involved	involve	VERB	VBN	_	0	root	0:root	_
+5	for	for	ADP	IN	_	7	R	7:R	_
+6	four	four	NUM	CD	_	7	E	7:E	_
+7	years	year	NOUN	NNS	_	4	orphan	4:orphan	_
+8	.	.	PUNCT	.	_	7	punct	7:punct	_
 

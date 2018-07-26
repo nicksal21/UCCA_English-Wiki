@@ -1,21 +1,30 @@
 # sent_id = 558022
-# text = Presley had another attack of nerves during the first set , which drew a muted reaction .
+# text = House drummer D.J . Fontana brought a new element , complementing Presley 's movements with accented beats that he had mastered playing in strip clubs .
 # doc_id = 
-1	Presley	_	Word	Word	_	2	A	2:A	_
-2	had	_	Word	Word	_	0	root	0:root	_
-3	another	_	Word	Word	_	4	E	4:E	_
-4	attack	_	Word	Word	_	2	orphan	2:orphan	_
-5	of	_	Word	Word	_	6	R	6:R	_
-6	nerves	_	Word	Word	_	2	orphan	2:orphan	_
-7	during	_	Word	Word	_	10	R	10:R	_
-8	the	_	Word	Word	_	10	E	10:E	_
-9	first	_	Word	Word	_	10	E	10:E	_
-10	set	_	Word	Word	_	2	orphan	2:orphan	_
-11	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-12	which	_	Word	Word	_	13	F	13:F	_
-13	drew	_	Word	Word	_	2	orphan	2:orphan	_
-14	a	_	Word	Word	_	13	flat	13:flat	_
-15	muted	_	Word	Word	_	13	E	13:E	_
-16	reaction	_	Word	Word	_	13	flat	13:flat	_
-17	.	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+1	House	house	NOUN	NN	_	2	E	2:E	_
+2	drummer	drummer	NOUN	NN	_	0	root	0:root	_
+3	D.J	d.j	PROPN	NNP	_	2	orphan	2:orphan	_
+4	.	.	PUNCT	.	_	11	punct	11:punct	_
+5	Fontana	fontana	PROPN	NNP	_	3	flat	3:flat	_
+6	brought	bring	VERB	VBD	_	2	orphan	2:orphan	_
+7	a	a	DET	DT	_	9	E	9:E	_
+8	new	new	ADJ	JJ	_	9	E	9:E	_
+9	element	element	NOUN	NN	_	2	orphan	2:orphan	_
+10	,	,	PUNCT	,	_	6	punct	6:punct	_
+11	complementing	complement	VERB	VBG	_	2	orphan	2:orphan	_
+12	Presley	presley	PROPN	NNP	_	2	orphan	2:orphan	_
+13	's	's	PART	POS	_	12	R	12:R	_
+14	movements	movement	NOUN	NNS	_	2	orphan	2:orphan	_
+15	with	with	ADP	IN	_	17	R	17:R	_
+16	accented	accented	ADJ	JJ	_	17	E	17:E	_
+17	beats	beat	NOUN	NNS	_	2	orphan	2:orphan	_
+18	that	that	ADJ	WDT	_	22	F	22:F	_
+19	he	-PRON-	PRON	PRP	_	22	A	22:A	_
+20	had	have	VERB	VBD	_	22	F	22:F	_
+21	mastered	master	VERB	VBN	_	22	D	22:D	_
+22	playing	playing	NOUN	NN	_	2	orphan	2:orphan	_
+23	in	in	ADP	IN	_	25	R	25:R	_
+24	strip	strip	NOUN	NN	_	25	E	25:E	_
+25	clubs	club	NOUN	NNS	_	2	orphan	2:orphan	_
+26	.	.	PUNCT	.	_	25	punct	25:punct	_
 

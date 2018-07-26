@@ -1,26 +1,26 @@
 # sent_id = 472010
 # text = In a press conference held on November 7 , 1991 , Johnson made a public announcement that he would retire immediately .
 # doc_id = 
-1	In	_	Word	Word	_	5	L	5:L	_
-2	a	_	Word	Word	_	3	E	3:E	_
-3	press	_	Word	Word	_	0	root	0:root	_
-4	conference	_	Word	Word	_	3	flat	3:flat	_
-5	held	_	Word	Word	_	3	orphan	3:orphan	_
-6	on	_	Word	Word	_	10	R	10:R	_
-7	November	_	Word	Word	_	10	E	10:E	_
-8	7	_	Word	Word	_	10	E	10:E	_
-9	,	_	Punctuation	Punctuation	_	10	punct	10:punct	_
-10	1991	_	Word	Word	_	3	orphan	3:orphan	_
-11	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-12	Johnson	_	Word	Word	_	16	A	16:A	_
-13	made	_	Word	Word	_	16	E	16:E	_
-14	a	_	Word	Word	_	16	E	16:E	_
-15	public	_	Word	Word	_	16	E	16:E	_
-16	announcement	_	Word	Word	_	3	orphan	3:orphan	_
-17	that	_	Word	Word	_	20	F	20:F	_
-18	he	_	Word	Word	_	20	A	20:A	_
-19	would	_	Word	Word	_	20	F	20:F	_
-20	retire	_	Word	Word	_	3	orphan	3:orphan	_
-21	immediately	_	Word	Word	_	20	D	20:D	_
-22	.	_	Punctuation	Punctuation	_	20	punct	20:punct	_
+1	In	in	ADP	IN	_	5	L	5:L	_
+2	a	a	DET	DT	_	3	E	3:E	_
+3	press	press	NOUN	NN	_	0	root	0:root	_
+4	conference	conference	NOUN	NN	_	3	flat	3:flat	_
+5	held	hold	VERB	VBN	_	3	orphan	3:orphan	_
+6	on	on	ADP	IN	_	10	R	10:R	_
+7	November	november	PROPN	NNP	_	10	E	10:E	_
+8	7	7	NUM	CD	_	10	E	10:E	_
+9	,	,	PUNCT	,	_	10	punct	10:punct	_
+10	1991	1991	NUM	CD	_	3	orphan	3:orphan	_
+11	,	,	PUNCT	,	_	5	punct	5:punct	_
+12	Johnson	johnson	PROPN	NNP	_	16	A	16:A	_
+13	made	make	VERB	VBD	_	16	F	16:F	_
+14	a	a	DET	DT	_	16	E	16:E	_
+15	public	public	ADJ	JJ	_	16	E	16:E	_
+16	announcement	announcement	NOUN	NN	_	3	orphan	3:orphan	_
+17	that	that	ADP	IN	_	20	F	20:F	_
+18	he	-PRON-	PRON	PRP	_	20	A	20:A	_
+19	would	would	VERB	MD	_	20	F	20:F	_
+20	retire	retire	VERB	VB	_	3	orphan	3:orphan	_
+21	immediately	immediately	ADV	RB	_	20	D	20:D	_
+22	.	.	PUNCT	.	_	20	punct	20:punct	_
 

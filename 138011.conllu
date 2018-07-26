@@ -1,22 +1,26 @@
 # sent_id = 138011
-# text = The movie was shot in London , and was " a completely miserable experience " for Hepburn .
+# text = The picture was a financial success , and her work as creepy aunt Violet Venable gave Hepburn her eighth Oscar nomination .
 # doc_id = 
-1	The	_	Word	Word	_	2	E	2:E	_
-2	movie	_	Word	Word	_	0	root	0:root	_
-3	was	_	Word	Word	_	4	F	4:F	_
-4	shot	_	Word	Word	_	2	orphan	2:orphan	_
-5	in	_	Word	Word	_	6	R	6:R	_
-6	London	_	Word	Word	_	2	orphan	2:orphan	_
-7	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
-8	and	_	Word	Word	_	4	L	4:L	_
-9	was	_	Word	Word	_	14	F	14:F	_
-10	"	_	Punctuation	Punctuation	_	14	punct	14:punct	_
-11	a	_	Word	Word	_	14	E	14:E	_
-12	completely	_	Word	Word	_	14	E	14:E	_
-13	miserable	_	Word	Word	_	14	E	14:E	_
-14	experience	_	Word	Word	_	2	orphan	2:orphan	_
-15	"	_	Punctuation	Punctuation	_	14	punct	14:punct	_
-16	for	_	Word	Word	_	17	R	17:R	_
-17	Hepburn	_	Word	Word	_	2	orphan	2:orphan	_
-18	.	_	Punctuation	Punctuation	_	17	punct	17:punct	_
+1	The	the	DET	DT	_	2	E	2:E	_
+2	picture	picture	NOUN	NN	_	0	root	0:root	_
+3	was	be	VERB	VBD	_	6	F	6:F	_
+4	a	a	DET	DT	_	5	E	5:E	_
+5	financial	financial	ADJ	JJ	_	2	orphan	2:orphan	_
+6	success	success	NOUN	NN	_	2	orphan	2:orphan	_
+7	,	,	PUNCT	,	_	6	punct	6:punct	_
+8	and	and	CCONJ	CC	_	6	L	6:L	_
+9	her	-PRON-	ADJ	PRP$	_	10	E	10:E	_
+10	work	work	NOUN	NN	_	2	orphan	2:orphan	_
+11	as	as	ADP	IN	_	14	R	14:R	_
+12	creepy	creepy	ADJ	JJ	_	13	E	13:E	_
+13	aunt	aunt	NOUN	NN	_	2	orphan	2:orphan	_
+14	Violet	violet	PROPN	NNP	_	2	orphan	2:orphan	_
+15	Venable	venable	PROPN	NNP	_	14	flat	14:flat	_
+16	gave	give	VERB	VBD	_	2	orphan	2:orphan	_
+17	Hepburn	hepburn	PROPN	NNP	_	16	A	16:A	_
+18	her	-PRON-	ADJ	PRP$	_	21	E	21:E	_
+19	eighth	eighth	ADJ	JJ	_	21	E	21:E	_
+20	Oscar	oscar	PROPN	NNP	_	21	E	21:E	_
+21	nomination	nomination	NOUN	NN	_	2	orphan	2:orphan	_
+22	.	.	PUNCT	.	_	21	punct	21:punct	_
 

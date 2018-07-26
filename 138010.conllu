@@ -1,38 +1,25 @@
 # sent_id = 138010
-# text = After two years away from the screen , she starred in a film adaptation of Tennessee Williams ' controversial play Suddenly , Last Summer ( 1959 ) with Elizabeth Taylor and Montgomery Clift .
+# text = She clashed with director Joseph L . Mankiewicz during filming , which culminated with her spitting at him in disgust .
 # doc_id = 
-1	After	_	Word	Word	_	4	L	4:L	_
-2	two	_	Word	Word	_	3	E	3:E	_
-3	years	_	Word	Word	_	0	root	0:root	_
-4	away	_	Word	Word	_	3	orphan	3:orphan	_
-5	from	_	Word	Word	_	7	R	7:R	_
-6	the	_	Word	Word	_	7	E	7:E	_
-7	screen	_	Word	Word	_	3	orphan	3:orphan	_
-8	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
-9	she	_	Word	Word	_	10	A	10:A	_
-10	starred	_	Word	Word	_	3	orphan	3:orphan	_
-11	in	_	Word	Word	_	21	R	21:R	_
-12	a	_	Word	Word	_	21	E	21:E	_
-13	film	_	Word	Word	_	14	E	14:E	_
-14	adaptation	_	Word	Word	_	3	orphan	3:orphan	_
-15	of	_	Word	Word	_	14	R	14:R	_
-16	Tennessee	_	Word	Word	_	20	E	20:E	_
-17	Williams	_	Word	Word	_	16	flat	16:flat	_
-18	'	_	Punctuation	Punctuation	_	20	punct	20:punct	_
-19	controversial	_	Word	Word	_	20	E	20:E	_
-20	play	_	Word	Word	_	3	orphan	3:orphan	_
-21	Suddenly	_	Word	Word	_	3	orphan	3:orphan	_
-22	,	_	Punctuation	Punctuation	_	21	punct	21:punct	_
-23	Last	_	Word	Word	_	21	flat	21:flat	_
-24	Summer	_	Word	Word	_	21	flat	21:flat	_
-25	(	_	Punctuation	Punctuation	_	21	punct	21:punct	_
-26	1959	_	Word	Word	_	3	orphan	3:orphan	_
-27	)	_	Punctuation	Punctuation	_	21	punct	21:punct	_
-28	with	_	Word	Word	_	29	R	29:R	_
-29	Elizabeth	_	Word	Word	_	3	orphan	3:orphan	_
-30	Taylor	_	Word	Word	_	29	flat	29:flat	_
-31	and	_	Word	Word	_	29	N	29:N	_
-32	Montgomery	_	Word	Word	_	29	C	29:C	_
-33	Clift	_	Word	Word	_	32	flat	32:flat	_
-34	.	_	Punctuation	Punctuation	_	29	punct	29:punct	_
+1	She	-PRON-	PRON	PRP	_	2	A	2:A	_
+2	clashed	clash	VERB	VBD	_	0	root	0:root	_
+3	with	with	ADP	IN	_	5	R	5:R	_
+4	director	director	NOUN	NN	_	5	E	5:E	_
+5	Joseph	joseph	PROPN	NNP	_	2	orphan	2:orphan	_
+6	L	l	PROPN	NNP	_	5	flat	5:flat	_
+7	.	.	PUNCT	.	_	5	punct	5:punct	_
+8	Mankiewicz	mankiewicz	PROPN	NNP	_	5	flat	5:flat	_
+9	during	during	ADP	IN	_	2	L	2:L	_
+10	filming	filming	NOUN	NN	_	2	orphan	2:orphan	_
+11	,	,	PUNCT	,	_	2	punct	2:punct	_
+12	which	which	ADJ	WDT	_	2	L	2:L	_
+13	culminated	culminate	VERB	VBD	_	2	orphan	2:orphan	_
+14	with	with	ADP	IN	_	16	R	16:R	_
+15	her	-PRON-	ADJ	PRP$	_	16	A	16:A	_
+16	spitting	spitting	NOUN	NN	_	2	orphan	2:orphan	_
+17	at	at	ADP	IN	_	18	R	18:R	_
+18	him	-PRON-	PRON	PRP	_	2	orphan	2:orphan	_
+19	in	in	ADP	IN	_	20	R	20:R	_
+20	disgust	disgust	NOUN	NN	_	2	orphan	2:orphan	_
+21	.	.	PUNCT	.	_	20	punct	20:punct	_
 

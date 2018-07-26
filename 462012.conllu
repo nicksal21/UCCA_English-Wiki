@@ -1,22 +1,29 @@
 # sent_id = 462012
-# text = The next morning , Brokaw and Rather fondly remembered their former rival on the morning news shows .
+# text = The anchor 's ABC colleagues , including Barbara Walters , Diane Sawyer , and Ted Koppel . shared their thoughts on Jennings 's death .
 # doc_id = 
-1	The	_	Word	Word	_	3	E	3:E	_
-2	next	_	Word	Word	_	3	E	3:E	_
-3	morning	_	Word	Word	_	0	root	0:root	_
-4	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
-5	Brokaw	_	Word	Word	_	3	orphan	3:orphan	_
-6	and	_	Word	Word	_	5	N	5:N	_
-7	Rather	_	Word	Word	_	5	C	5:C	_
-8	fondly	_	Word	Word	_	9	D	9:D	_
-9	remembered	_	Word	Word	_	3	orphan	3:orphan	_
-10	their	_	Word	Word	_	12	E	12:E	_
-11	former	_	Word	Word	_	12	E	12:E	_
-12	rival	_	Word	Word	_	3	orphan	3:orphan	_
-13	on	_	Word	Word	_	17	R	17:R	_
-14	the	_	Word	Word	_	17	E	17:E	_
-15	morning	_	Word	Word	_	16	E	16:E	_
-16	news	_	Word	Word	_	3	orphan	3:orphan	_
-17	shows	_	Word	Word	_	3	orphan	3:orphan	_
-18	.	_	Punctuation	Punctuation	_	17	punct	17:punct	_
+1	The	the	DET	DT	_	5	E	5:E	_
+2	anchor	anchor	NOUN	NN	_	0	root	0:root	_
+3	's	's	PART	POS	_	2	R	2:R	_
+4	ABC	abc	PROPN	NNP	_	5	E	5:E	_
+5	colleagues	colleague	NOUN	NNS	_	2	orphan	2:orphan	_
+6	,	,	PUNCT	,	_	5	punct	5:punct	_
+7	including	include	VERB	VBG	_	8	R	8:R	_
+8	Barbara	barbara	PROPN	NNP	_	2	orphan	2:orphan	_
+9	Walters	walters	PROPN	NNP	_	8	flat	8:flat	_
+10	,	,	PUNCT	,	_	8	punct	8:punct	_
+11	Diane	diane	PROPN	NNP	_	8	C	8:C	_
+12	Sawyer	sawyer	PROPN	NNP	_	11	flat	11:flat	_
+13	,	,	PUNCT	,	_	8	punct	8:punct	_
+14	and	and	CCONJ	CC	_	8	N	8:N	_
+15	Ted	ted	PROPN	NNP	_	8	C	8:C	_
+16	Koppel	koppel	PROPN	NNP	_	15	flat	15:flat	_
+17	.	.	PUNCT	.	_	18	punct	18:punct	_
+18	shared	share	VERB	VBD	_	2	orphan	2:orphan	_
+19	their	-PRON-	ADJ	PRP$	_	20	E	20:E	_
+20	thoughts	thought	NOUN	NNS	_	2	orphan	2:orphan	_
+21	on	on	ADP	IN	_	24	R	24:R	_
+22	Jennings	jennings	PROPN	NNP	_	2	orphan	2:orphan	_
+23	's	's	PART	POS	_	22	R	22:R	_
+24	death	death	NOUN	NN	_	2	orphan	2:orphan	_
+25	.	.	PUNCT	.	_	24	punct	24:punct	_
 

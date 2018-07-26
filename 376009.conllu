@@ -1,30 +1,33 @@
 # sent_id = 376009
-# text = Gyllenhaal was born in Los Angeles , the son of film director Stephen Gyllenhaal and film producer and screenwriter Naomi Foner ( née Achs ) .
+# text = Gyllenhaal 's father , who was raised as a Swedenborgian , is of Swedish and English descent , and is a descendant of the Swedish noble Gyllenhaal family .
 # doc_id = 
-1	Gyllenhaal	_	Word	Word	_	3	A	3:A	_
-2	was	_	Word	Word	_	3	F	3:F	_
-3	born	_	Word	Word	_	0	root	0:root	_
-4	in	_	Word	Word	_	5	R	5:R	_
-5	Los	_	Word	Word	_	3	orphan	3:orphan	_
-6	Angeles	_	Word	Word	_	5	flat	5:flat	_
-7	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-8	the	_	Word	Word	_	9	E	9:E	_
-9	son	_	Word	Word	_	3	orphan	3:orphan	_
-10	of	_	Word	Word	_	13	R	13:R	_
-11	film	_	Word	Word	_	12	E	12:E	_
-12	director	_	Word	Word	_	3	orphan	3:orphan	_
-13	Stephen	_	Word	Word	_	3	orphan	3:orphan	_
-14	Gyllenhaal	_	Word	Word	_	13	flat	13:flat	_
-15	and	_	Word	Word	_	13	N	13:N	_
-16	film	_	Word	Word	_	3	orphan	3:orphan	_
-17	producer	_	Word	Word	_	3	orphan	3:orphan	_
-18	and	_	Word	Word	_	17	N	17:N	_
-19	screenwriter	_	Word	Word	_	17	C	17:C	_
-20	Naomi	_	Word	Word	_	3	orphan	3:orphan	_
-21	Foner	_	Word	Word	_	20	flat	20:flat	_
-22	(	_	Punctuation	Punctuation	_	20	punct	20:punct	_
-23	née	_	Word	Word	_	24	R	24:R	_
-24	Achs	_	Word	Word	_	3	orphan	3:orphan	_
-25	)	_	Punctuation	Punctuation	_	24	punct	24:punct	_
-26	.	_	Punctuation	Punctuation	_	24	punct	24:punct	_
+1	Gyllenhaal	gyllenhaal	PROPN	NNP	_	0	root	0:root	_
+2	's	's	PART	POS	_	1	R	1:R	_
+3	father	father	NOUN	NN	_	1	orphan	1:orphan	_
+4	,	,	PUNCT	,	_	3	punct	3:punct	_
+5	who	who	NOUN	WP	_	7	G	7:G	_
+6	was	be	VERB	VBD	_	7	F	7:F	_
+7	raised	raise	VERB	VBN	_	1	orphan	1:orphan	_
+8	as	as	ADP	IN	_	10	R	10:R	_
+9	a	a	DET	DT	_	10	E	10:E	_
+10	Swedenborgian	swedenborgian	PROPN	NNP	_	1	orphan	1:orphan	_
+11	,	,	PUNCT	,	_	12	punct	12:punct	_
+12	is	be	VERB	VBZ	_	1	orphan	1:orphan	_
+13	of	of	ADP	IN	_	17	R	17:R	_
+14	Swedish	swedish	ADJ	JJ	_	1	orphan	1:orphan	_
+15	and	and	CCONJ	CC	_	14	N	14:N	_
+16	English	english	ADJ	JJ	_	14	C	14:C	_
+17	descent	descent	NOUN	NN	_	1	orphan	1:orphan	_
+18	,	,	PUNCT	,	_	12	punct	12:punct	_
+19	and	and	CCONJ	CC	_	12	L	12:L	_
+20	is	be	VERB	VBZ	_	1	orphan	1:orphan	_
+21	a	a	DET	DT	_	22	E	22:E	_
+22	descendant	descendant	NOUN	NN	_	1	orphan	1:orphan	_
+23	of	of	ADP	IN	_	28	R	28:R	_
+24	the	the	DET	DT	_	28	E	28:E	_
+25	Swedish	swedish	ADJ	JJ	_	28	E	28:E	_
+26	noble	noble	ADJ	JJ	_	28	E	28:E	_
+27	Gyllenhaal	gyllenhaal	PROPN	NNP	_	28	E	28:E	_
+28	family	family	NOUN	NN	_	1	orphan	1:orphan	_
+29	.	.	PUNCT	.	_	28	punct	28:punct	_
 

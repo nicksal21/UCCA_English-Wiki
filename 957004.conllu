@@ -1,18 +1,18 @@
 # sent_id = 957004
 # text = She and Olivier mounted a stage production of Romeo and Juliet for Broadway .
 # doc_id = 
-1	She	_	Word	Word	_	0	root	0:root	_
-2	and	_	Word	Word	_	1	N	1:N	_
-3	Olivier	_	Word	Word	_	1	C	1:C	_
-4	mounted	_	Word	Word	_	1	orphan	1:orphan	_
-5	a	_	Word	Word	_	7	E	7:E	_
-6	stage	_	Word	Word	_	7	E	7:E	_
-7	production	_	Word	Word	_	1	orphan	1:orphan	_
-8	of	_	Word	Word	_	9	R	9:R	_
-9	Romeo	_	Word	Word	_	1	orphan	1:orphan	_
-10	and	_	Word	Word	_	9	flat	9:flat	_
-11	Juliet	_	Word	Word	_	9	flat	9:flat	_
-12	for	_	Word	Word	_	13	R	13:R	_
-13	Broadway	_	Word	Word	_	1	orphan	1:orphan	_
-14	.	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+1	She	-PRON-	PRON	PRP	_	0	root	0:root	_
+2	and	and	CCONJ	CC	_	1	N	1:N	_
+3	Olivier	olivier	PROPN	NNP	_	1	C	1:C	_
+4	mounted	mount	VERB	VBD	_	1	orphan	1:orphan	_
+5	a	a	DET	DT	_	7	E	7:E	_
+6	stage	stage	NOUN	NN	_	7	E	7:E	_
+7	production	production	NOUN	NN	_	1	orphan	1:orphan	_
+8	of	of	ADP	IN	_	9	R	9:R	_
+9	Romeo	romeo	PROPN	NNP	_	1	orphan	1:orphan	_
+10	and	and	CCONJ	CC	_	9	flat	9:flat	_
+11	Juliet	juliet	PROPN	NNP	_	9	flat	9:flat	_
+12	for	for	ADP	IN	_	13	R	13:R	_
+13	Broadway	broadway	PROPN	NNP	_	1	orphan	1:orphan	_
+14	.	.	PUNCT	.	_	13	punct	13:punct	_
 

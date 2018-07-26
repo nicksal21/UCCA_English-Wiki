@@ -1,25 +1,34 @@
 # sent_id = 947011
-# text = Stefani made most of the clothing that she wore on stage with No Doubt , resulting in increasingly eclectic combinations .
+# text = Stylist Andrea Lieberman introduced her to haute couture clothing , which led to Stefani launching a fashion line named L . A . M . B . in 2004 .
 # doc_id = 
-1	Stefani	_	Word	Word	_	2	A	2:A	_
-2	made	_	Word	Word	_	0	root	0:root	_
-3	most	_	Word	Word	_	2	orphan	2:orphan	_
-4	of	_	Word	Word	_	3	R	3:R	_
-5	the	_	Word	Word	_	6	E	6:E	_
-6	clothing	_	Word	Word	_	2	orphan	2:orphan	_
-7	that	_	Word	Word	_	9	R	9:R	_
-8	she	_	Word	Word	_	9	A	9:A	_
-9	wore	_	Word	Word	_	2	orphan	2:orphan	_
-10	on	_	Word	Word	_	11	R	11:R	_
-11	stage	_	Word	Word	_	2	orphan	2:orphan	_
-12	with	_	Word	Word	_	13	R	13:R	_
-13	No	_	Word	Word	_	2	orphan	2:orphan	_
-14	Doubt	_	Word	Word	_	13	flat	13:flat	_
-15	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-16	resulting	_	Word	Word	_	2	orphan	2:orphan	_
-17	in	_	Word	Word	_	16	R	16:R	_
-18	increasingly	_	Word	Word	_	20	E	20:E	_
-19	eclectic	_	Word	Word	_	20	E	20:E	_
-20	combinations	_	Word	Word	_	2	orphan	2:orphan	_
-21	.	_	Punctuation	Punctuation	_	20	punct	20:punct	_
+1	Stylist	stylist	NOUN	NN	_	2	E	2:E	_
+2	Andrea	andrea	PROPN	NNP	_	0	root	0:root	_
+3	Lieberman	lieberman	PROPN	NNP	_	2	flat	2:flat	_
+4	introduced	introduce	VERB	VBD	_	2	orphan	2:orphan	_
+5	her	-PRON-	PRON	PRP	_	4	A	4:A	_
+6	to	to	ADP	IN	_	9	R	9:R	_
+7	haute	haute	X	FW	_	9	E	9:E	_
+8	couture	couture	NOUN	NN	_	7	flat	7:flat	_
+9	clothing	clothing	NOUN	NN	_	2	orphan	2:orphan	_
+10	,	,	PUNCT	,	_	4	punct	4:punct	_
+11	which	which	ADJ	WDT	_	4	L	4:L	_
+12	led	lead	VERB	VBD	_	2	orphan	2:orphan	_
+13	to	to	ADP	IN	_	12	R	12:R	_
+14	Stefani	stefani	PROPN	NNP	_	15	A	15:A	_
+15	launching	launch	VERB	VBG	_	2	orphan	2:orphan	_
+16	a	a	DET	DT	_	18	E	18:E	_
+17	fashion	fashion	NOUN	NN	_	18	E	18:E	_
+18	line	line	NOUN	NN	_	2	orphan	2:orphan	_
+19	named	name	VERB	VBN	_	2	orphan	2:orphan	_
+20	L	l	PROPN	NNP	_	19	A	19:A	_
+21	.	.	PUNCT	.	_	19	punct	19:punct	_
+22	A	a	NOUN	NN	_	20	flat	20:flat	_
+23	.	.	PUNCT	.	_	19	punct	19:punct	_
+24	M	m	NOUN	NN	_	20	flat	20:flat	_
+25	.	.	PUNCT	.	_	19	punct	19:punct	_
+26	B	b	NOUN	NN	_	20	flat	20:flat	_
+27	.	.	PUNCT	.	_	15	punct	15:punct	_
+28	in	in	ADP	IN	_	29	R	29:R	_
+29	2004	2004	NUM	CD	_	2	orphan	2:orphan	_
+30	.	.	PUNCT	.	_	29	punct	29:punct	_
 

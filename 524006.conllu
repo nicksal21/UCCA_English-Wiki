@@ -1,30 +1,32 @@
 # sent_id = 524006
-# text = With the conclusion of filming , MGM kept Garland busy with promotional tours and the shooting of Babes in Arms , directed by Busby Berkeley .
+# text = Shooting commenced on October 13 , 1938 , and was completed on March 16 , 1939 , with a final cost of more than US $2 million .
 # doc_id = 
-1	With	_	Word	Word	_	3	L	3:L	_
-2	the	_	Word	Word	_	3	E	3:E	_
-3	conclusion	_	Word	Word	_	0	root	0:root	_
-4	of	_	Word	Word	_	5	R	5:R	_
-5	filming	_	Word	Word	_	3	orphan	3:orphan	_
-6	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-7	MGM	_	Word	Word	_	10	A	10:A	_
-8	kept	_	Word	Word	_	10	E	10:E	_
-9	Garland	_	Word	Word	_	10	A	10:A	_
-10	busy	_	Word	Word	_	3	orphan	3:orphan	_
-11	with	_	Word	Word	_	13	R	13:R	_
-12	promotional	_	Word	Word	_	13	E	13:E	_
-13	tours	_	Word	Word	_	3	orphan	3:orphan	_
-14	and	_	Word	Word	_	13	N	13:N	_
-15	the	_	Word	Word	_	16	E	16:E	_
-16	shooting	_	Word	Word	_	3	orphan	3:orphan	_
-17	of	_	Word	Word	_	18	R	18:R	_
-18	Babes	_	Word	Word	_	3	orphan	3:orphan	_
-19	in	_	Word	Word	_	18	flat	18:flat	_
-20	Arms	_	Word	Word	_	18	flat	18:flat	_
-21	,	_	Punctuation	Punctuation	_	18	punct	18:punct	_
-22	directed	_	Word	Word	_	3	orphan	3:orphan	_
-23	by	_	Word	Word	_	24	R	24:R	_
-24	Busby	_	Word	Word	_	3	orphan	3:orphan	_
-25	Berkeley	_	Word	Word	_	24	flat	24:flat	_
-26	.	_	Punctuation	Punctuation	_	24	punct	24:punct	_
+1	Shooting	shooting	NOUN	NN	_	2	A	2:A	_
+2	commenced	commence	VERB	VBD	_	0	root	0:root	_
+3	on	on	ADP	IN	_	4	R	4:R	_
+4	October	october	PROPN	NNP	_	2	orphan	2:orphan	_
+5	13	13	NUM	CD	_	4	flat	4:flat	_
+6	,	,	PUNCT	,	_	4	punct	4:punct	_
+7	1938	1938	NUM	CD	_	4	flat	4:flat	_
+8	,	,	PUNCT	,	_	2	punct	2:punct	_
+9	and	and	CCONJ	CC	_	2	L	2:L	_
+10	was	be	VERB	VBD	_	11	F	11:F	_
+11	completed	complete	VERB	VBN	_	2	orphan	2:orphan	_
+12	on	on	ADP	IN	_	13	R	13:R	_
+13	March	march	PROPN	NNP	_	2	orphan	2:orphan	_
+14	16	16	NUM	CD	_	13	flat	13:flat	_
+15	,	,	PUNCT	,	_	13	punct	13:punct	_
+16	1939	1939	NUM	CD	_	13	flat	13:flat	_
+17	,	,	PUNCT	,	_	2	punct	2:punct	_
+18	with	with	ADP	IN	_	2	L	2:L	_
+19	a	a	DET	DT	_	21	E	21:E	_
+20	final	final	ADJ	JJ	_	21	E	21:E	_
+21	cost	cost	NOUN	NN	_	2	orphan	2:orphan	_
+22	of	of	ADP	IN	_	25	R	25:R	_
+23	more	more	ADJ	JJR	_	2	orphan	2:orphan	_
+24	than	than	ADP	IN	_	23	R	23:R	_
+25	US	us	PROPN	NNP	_	2	orphan	2:orphan	_
+26	$2	$2	PROPN	NNP	_	25	flat	25:flat	_
+27	million	million	NUM	CD	_	25	flat	25:flat	_
+28	.	.	PUNCT	.	_	25	punct	25:punct	_
 

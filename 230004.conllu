@@ -1,25 +1,39 @@
 # sent_id = 230004
-# text = He came closest to death filming Armour of God , when he fell from a tree and fractured his skull .
+# text = Over the years , Chan has dislocated his pelvis and broken his fingers , toes , nose , both cheekbones , hips , sternum , neck , ankle , and ribs on numerous occasions .
 # doc_id = 
-1	He	_	Word	Word	_	5	A	5:A	_
-2	came	_	Word	Word	_	5	F	5:F	_
-3	closest	_	Word	Word	_	5	D	5:D	_
-4	to	_	Word	Word	_	5	F	5:F	_
-5	death	_	Word	Word	_	0	root	0:root	_
-6	filming	_	Word	Word	_	5	orphan	5:orphan	_
-7	Armour	_	Word	Word	_	6	A	6:A	_
-8	of	_	Word	Word	_	7	flat	7:flat	_
-9	God	_	Word	Word	_	7	flat	7:flat	_
-10	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-11	when	_	Word	Word	_	5	L	5:L	_
-12	he	_	Word	Word	_	13	A	13:A	_
-13	fell	_	Word	Word	_	5	orphan	5:orphan	_
-14	from	_	Word	Word	_	16	R	16:R	_
-15	a	_	Word	Word	_	16	E	16:E	_
-16	tree	_	Word	Word	_	5	orphan	5:orphan	_
-17	and	_	Word	Word	_	5	L	5:L	_
-18	fractured	_	Word	Word	_	5	orphan	5:orphan	_
-19	his	_	Word	Word	_	20	E	20:E	_
-20	skull	_	Word	Word	_	5	orphan	5:orphan	_
-21	.	_	Punctuation	Punctuation	_	20	punct	20:punct	_
+1	Over	over	ADP	IN	_	3	R	3:R	_
+2	the	the	DET	DT	_	3	E	3:E	_
+3	years	year	NOUN	NNS	_	0	root	0:root	_
+4	,	,	PUNCT	,	_	7	punct	7:punct	_
+5	Chan	chan	PROPN	NNP	_	7	A	7:A	_
+6	has	have	VERB	VBZ	_	7	F	7:F	_
+7	dislocated	dislocate	VERB	VBN	_	3	orphan	3:orphan	_
+8	his	-PRON-	ADJ	PRP$	_	9	E	9:E	_
+9	pelvis	pelvis	NOUN	NN	_	3	orphan	3:orphan	_
+10	and	and	CCONJ	CC	_	7	L	7:L	_
+11	broken	break	VERB	VBD	_	3	orphan	3:orphan	_
+12	his	-PRON-	ADJ	PRP$	_	13	E	13:E	_
+13	fingers	finger	NOUN	NNS	_	3	orphan	3:orphan	_
+14	,	,	PUNCT	,	_	13	punct	13:punct	_
+15	toes	toe	NOUN	NNS	_	13	C	13:C	_
+16	,	,	PUNCT	,	_	13	punct	13:punct	_
+17	nose	nose	NOUN	NN	_	13	C	13:C	_
+18	,	,	PUNCT	,	_	13	punct	13:punct	_
+19	both	both	DET	DT	_	20	E	20:E	_
+20	cheekbones	cheekbone	NOUN	NNS	_	3	orphan	3:orphan	_
+21	,	,	PUNCT	,	_	13	punct	13:punct	_
+22	hips	hip	NOUN	NNS	_	13	C	13:C	_
+23	,	,	PUNCT	,	_	13	punct	13:punct	_
+24	sternum	sternum	NOUN	NN	_	13	C	13:C	_
+25	,	,	PUNCT	,	_	13	punct	13:punct	_
+26	neck	neck	NOUN	NN	_	13	C	13:C	_
+27	,	,	PUNCT	,	_	13	punct	13:punct	_
+28	ankle	ankle	NOUN	NN	_	13	C	13:C	_
+29	,	,	PUNCT	,	_	13	punct	13:punct	_
+30	and	and	CCONJ	CC	_	13	N	13:N	_
+31	ribs	rib	NOUN	NNS	_	13	C	13:C	_
+32	on	on	ADP	IN	_	34	R	34:R	_
+33	numerous	numerous	ADJ	JJ	_	34	E	34:E	_
+34	occasions	occasion	NOUN	NNS	_	3	orphan	3:orphan	_
+35	.	.	PUNCT	.	_	34	punct	34:punct	_
 

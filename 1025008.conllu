@@ -1,25 +1,32 @@
 # sent_id = 1025008
-# text = Jackson 's agents thought they had a deal several times , but encountered new bidders or new areas of debate .
+# text = In May 1985 , Jackson 's team walked away from talks after having spent over $1 million on four months of due diligence and on the negotiations .
 # doc_id = 
-1	Jackson	_	Word	Word	_	0	root	0:root	_
-2	's	_	Word	Word	_	1	R	1:R	_
-3	agents	_	Word	Word	_	1	orphan	1:orphan	_
-4	thought	_	Word	Word	_	1	orphan	1:orphan	_
-5	they	_	Word	Word	_	8	A	8:A	_
-6	had	_	Word	Word	_	8	E	8:E	_
-7	a	_	Word	Word	_	8	E	8:E	_
-8	deal	_	Word	Word	_	1	orphan	1:orphan	_
-9	several	_	Word	Word	_	10	E	10:E	_
-10	times	_	Word	Word	_	1	orphan	1:orphan	_
-11	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
-12	but	_	Word	Word	_	4	L	4:L	_
-13	encountered	_	Word	Word	_	1	orphan	1:orphan	_
-14	new	_	Word	Word	_	15	E	15:E	_
-15	bidders	_	Word	Word	_	1	orphan	1:orphan	_
-16	or	_	Word	Word	_	15	N	15:N	_
-17	new	_	Word	Word	_	18	E	18:E	_
-18	areas	_	Word	Word	_	1	orphan	1:orphan	_
-19	of	_	Word	Word	_	18	R	18:R	_
-20	debate	_	Word	Word	_	18	E	18:E	_
-21	.	_	Punctuation	Punctuation	_	18	punct	18:punct	_
+1	In	in	ADP	IN	_	2	R	2:R	_
+2	May	may	PROPN	NNP	_	0	root	0:root	_
+3	1985	1985	NUM	CD	_	2	flat	2:flat	_
+4	,	,	PUNCT	,	_	8	punct	8:punct	_
+5	Jackson	jackson	PROPN	NNP	_	2	orphan	2:orphan	_
+6	's	's	PART	POS	_	5	R	5:R	_
+7	team	team	NOUN	NN	_	2	orphan	2:orphan	_
+8	walked	walk	VERB	VBD	_	2	orphan	2:orphan	_
+9	away	away	ADV	RB	_	8	R	8:R	_
+10	from	from	ADP	IN	_	8	R	8:R	_
+11	talks	talk	NOUN	NNS	_	8	A	8:A	_
+12	after	after	ADP	IN	_	8	L	8:L	_
+13	having	have	VERB	VBG	_	14	F	14:F	_
+14	spent	spend	VERB	VBN	_	2	orphan	2:orphan	_
+15	over	over	ADP	IN	_	16	E	16:E	_
+16	$1	$1	NUM	CD	_	2	orphan	2:orphan	_
+17	million	million	NUM	CD	_	16	flat	16:flat	_
+18	on	on	ADP	IN	_	23	R	23:R	_
+19	four	four	NUM	CD	_	20	E	20:E	_
+20	months	month	NOUN	NNS	_	2	orphan	2:orphan	_
+21	of	of	ADP	IN	_	20	R	20:R	_
+22	due	due	ADJ	JJ	_	23	E	23:E	_
+23	diligence	diligence	NOUN	NN	_	2	orphan	2:orphan	_
+24	and	and	CCONJ	CC	_	23	N	23:N	_
+25	on	on	ADP	IN	_	27	R	27:R	_
+26	the	the	DET	DT	_	27	E	27:E	_
+27	negotiations	negotiation	NOUN	NNS	_	2	orphan	2:orphan	_
+28	.	.	PUNCT	.	_	27	punct	27:punct	_
 

@@ -1,30 +1,23 @@
 # sent_id = 530016
-# text = The two - record Judy at Carnegie Hall was certified gold , charting for 95 weeks on Billboard , including 13 weeks at number one .
+# text = The album won four Grammy Awards including Album of the Year and Best Female Vocal of the Year .
 # doc_id = 
-1	The	_	Word	Word	_	5	E	5:E	_
-2	two	_	Word	Word	_	4	E	4:E	_
-3	-	_	Punctuation	Punctuation	_	4	punct	4:punct	_
-4	record	_	Word	Word	_	0	root	0:root	_
-5	Judy	_	Word	Word	_	4	orphan	4:orphan	_
-6	at	_	Word	Word	_	8	R	8:R	_
-7	Carnegie	_	Word	Word	_	8	E	8:E	_
-8	Hall	_	Word	Word	_	4	orphan	4:orphan	_
-9	was	_	Word	Word	_	10	F	10:F	_
-10	certified	_	Word	Word	_	4	orphan	4:orphan	_
-11	gold	_	Word	Word	_	10	A	10:A	_
-12	,	_	Punctuation	Punctuation	_	10	punct	10:punct	_
-13	charting	_	Word	Word	_	4	orphan	4:orphan	_
-14	for	_	Word	Word	_	18	R	18:R	_
-15	95	_	Word	Word	_	16	E	16:E	_
-16	weeks	_	Word	Word	_	4	orphan	4:orphan	_
-17	on	_	Word	Word	_	16	R	16:R	_
-18	Billboard	_	Word	Word	_	4	orphan	4:orphan	_
-19	,	_	Punctuation	Punctuation	_	18	punct	18:punct	_
-20	including	_	Word	Word	_	18	N	18:N	_
-21	13	_	Word	Word	_	22	E	22:E	_
-22	weeks	_	Word	Word	_	4	orphan	4:orphan	_
-23	at	_	Word	Word	_	25	R	25:R	_
-24	number	_	Word	Word	_	25	E	25:E	_
-25	one	_	Word	Word	_	4	orphan	4:orphan	_
-26	.	_	Punctuation	Punctuation	_	25	punct	25:punct	_
+1	The	the	DET	DT	_	2	E	2:E	_
+2	album	album	NOUN	NN	_	0	root	0:root	_
+3	won	win	VERB	VBD	_	2	orphan	2:orphan	_
+4	four	four	NUM	CD	_	6	E	6:E	_
+5	Grammy	grammy	PROPN	NNP	_	6	E	6:E	_
+6	Awards	awards	PROPN	NNPS	_	2	orphan	2:orphan	_
+7	including	include	VERB	VBG	_	8	R	8:R	_
+8	Album	album	PROPN	NNP	_	2	orphan	2:orphan	_
+9	of	of	ADP	IN	_	11	R	11:R	_
+10	the	the	DET	DT	_	11	E	11:E	_
+11	Year	year	PROPN	NNP	_	2	orphan	2:orphan	_
+12	and	and	CCONJ	CC	_	8	N	8:N	_
+13	Best	good	ADJ	JJS	_	15	E	15:E	_
+14	Female	female	ADJ	JJ	_	15	E	15:E	_
+15	Vocal	vocal	PROPN	NNP	_	2	orphan	2:orphan	_
+16	of	of	ADP	IN	_	18	R	18:R	_
+17	the	the	DET	DT	_	18	E	18:E	_
+18	Year	year	PROPN	NNP	_	2	orphan	2:orphan	_
+19	.	.	PUNCT	.	_	18	punct	18:punct	_
 

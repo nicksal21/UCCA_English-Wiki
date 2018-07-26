@@ -1,22 +1,22 @@
 # sent_id = 187000
 # text = Sorkin attended Scarsdale High School where he became involved in his high school drama and theatre club .
 # doc_id = 
-1	Sorkin	_	Word	Word	_	2	A	2:A	_
-2	attended	_	Word	Word	_	0	root	0:root	_
-3	Scarsdale	_	Word	Word	_	2	orphan	2:orphan	_
-4	High	_	Word	Word	_	5	E	5:E	_
-5	School	_	Word	Word	_	2	orphan	2:orphan	_
-6	where	_	Word	Word	_	9	F	9:F	_
-7	he	_	Word	Word	_	9	A	9:A	_
-8	became	_	Word	Word	_	9	E	9:E	_
-9	involved	_	Word	Word	_	2	orphan	2:orphan	_
-10	in	_	Word	Word	_	17	R	17:R	_
-11	his	_	Word	Word	_	17	E	17:E	_
-12	high	_	Word	Word	_	13	E	13:E	_
-13	school	_	Word	Word	_	2	orphan	2:orphan	_
-14	drama	_	Word	Word	_	2	orphan	2:orphan	_
-15	and	_	Word	Word	_	14	N	14:N	_
-16	theatre	_	Word	Word	_	14	C	14:C	_
-17	club	_	Word	Word	_	2	orphan	2:orphan	_
-18	.	_	Punctuation	Punctuation	_	17	punct	17:punct	_
+1	Sorkin	sorkin	PROPN	NNP	_	2	A	2:A	_
+2	attended	attend	VERB	VBD	_	0	root	0:root	_
+3	Scarsdale	scarsdale	PROPN	NNP	_	2	orphan	2:orphan	_
+4	High	high	PROPN	NNP	_	5	E	5:E	_
+5	School	school	PROPN	NNP	_	2	orphan	2:orphan	_
+6	where	where	ADV	WRB	_	9	F	9:F	_
+7	he	-PRON-	PRON	PRP	_	9	A	9:A	_
+8	became	become	VERB	VBD	_	9	D	9:D	_
+9	involved	involved	ADJ	JJ	_	2	orphan	2:orphan	_
+10	in	in	ADP	IN	_	17	R	17:R	_
+11	his	-PRON-	ADJ	PRP$	_	17	E	17:E	_
+12	high	high	ADJ	JJ	_	13	E	13:E	_
+13	school	school	NOUN	NN	_	2	orphan	2:orphan	_
+14	drama	drama	NOUN	NN	_	2	orphan	2:orphan	_
+15	and	and	CCONJ	CC	_	14	N	14:N	_
+16	theatre	theatre	NOUN	NN	_	14	C	14:C	_
+17	club	club	NOUN	NN	_	2	orphan	2:orphan	_
+18	.	.	PUNCT	.	_	17	punct	17:punct	_
 

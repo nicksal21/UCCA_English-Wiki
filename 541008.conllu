@@ -1,29 +1,35 @@
 # sent_id = 541008
-# text = Warner Bros . became best known , however , for its hard - hitting social dramas , whose production Jack Warner tended to support .
+# text = These included gangster classics such as Little Caesar and The Public Enemy as well as the critically acclaimed I Am a Fugitive from a Chain Gang , starring Paul Muni .
 # doc_id = 
-1	Warner	_	Word	Word	_	0	root	0:root	_
-2	Bros	_	Word	Word	_	1	E	1:E	_
-3	.	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-4	became	_	Word	Word	_	6	E	6:E	_
-5	best	_	Word	Word	_	6	D	6:D	_
-6	known	_	Word	Word	_	1	orphan	1:orphan	_
-7	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-8	however	_	Word	Word	_	6	L	6:L	_
-9	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-10	for	_	Word	Word	_	16	R	16:R	_
-11	its	_	Word	Word	_	16	E	16:E	_
-12	hard	_	Word	Word	_	14	D	14:D	_
-13	-	_	Punctuation	Punctuation	_	14	punct	14:punct	_
-14	hitting	_	Word	Word	_	1	orphan	1:orphan	_
-15	social	_	Word	Word	_	16	E	16:E	_
-16	dramas	_	Word	Word	_	1	orphan	1:orphan	_
-17	,	_	Punctuation	Punctuation	_	16	punct	16:punct	_
-18	whose	_	Word	Word	_	19	F	19:F	_
-19	production	_	Word	Word	_	1	orphan	1:orphan	_
-20	Jack	_	Word	Word	_	24	A	24:A	_
-21	Warner	_	Word	Word	_	20	flat	20:flat	_
-22	tended	_	Word	Word	_	24	E	24:E	_
-23	to	_	Word	Word	_	24	F	24:F	_
-24	support	_	Word	Word	_	1	orphan	1:orphan	_
-25	.	_	Punctuation	Punctuation	_	24	punct	24:punct	_
+1	These	these	DET	DT	_	2	A	2:A	_
+2	included	include	VERB	VBN	_	0	root	0:root	_
+3	gangster	gangster	NOUN	NN	_	4	E	4:E	_
+4	classics	classic	NOUN	NNS	_	2	orphan	2:orphan	_
+5	such	such	ADJ	JJ	_	7	R	7:R	_
+6	as	as	ADP	IN	_	5	flat	5:flat	_
+7	Little	little	PROPN	NNP	_	2	orphan	2:orphan	_
+8	Caesar	caesar	PROPN	NNP	_	7	flat	7:flat	_
+9	and	and	CCONJ	CC	_	7	N	7:N	_
+10	The	the	DET	DT	_	7	C	7:C	_
+11	Public	public	PROPN	NNP	_	10	flat	10:flat	_
+12	Enemy	enemy	PROPN	NNP	_	10	flat	10:flat	_
+13	as	as	ADV	RB	_	7	N	7:N	_
+14	well	well	ADV	RB	_	13	flat	13:flat	_
+15	as	as	ADP	IN	_	13	flat	13:flat	_
+16	the	the	DET	DT	_	2	orphan	2:orphan	_
+17	critically	critically	ADV	RB	_	18	A	18:A	_
+18	acclaimed	acclaim	VERB	VBN	_	2	orphan	2:orphan	_
+19	I	-PRON-	PRON	PRP	_	2	orphan	2:orphan	_
+20	Am	be	VERB	VBP	_	19	flat	19:flat	_
+21	a	a	DET	DT	_	19	flat	19:flat	_
+22	Fugitive	fugitive	PROPN	NNP	_	19	flat	19:flat	_
+23	from	from	ADP	IN	_	19	flat	19:flat	_
+24	a	a	DET	DT	_	19	flat	19:flat	_
+25	Chain	chain	PROPN	NNP	_	19	flat	19:flat	_
+26	Gang	gang	PROPN	NNP	_	19	flat	19:flat	_
+27	,	,	PUNCT	,	_	19	punct	19:punct	_
+28	starring	star	VERB	VBG	_	2	orphan	2:orphan	_
+29	Paul	paul	PROPN	NNP	_	28	A	28:A	_
+30	Muni	muni	PROPN	NNP	_	29	flat	29:flat	_
+31	.	.	PUNCT	.	_	28	punct	28:punct	_
 

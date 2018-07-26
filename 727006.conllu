@@ -1,27 +1,24 @@
 # sent_id = 727006
-# text = She appeared in the music video for Korn 's " Did My Time " , which was used to promote the film .
+# text = The sequel was not as lucrative as the original , earning $ 156 million at the international box office .
 # doc_id = 
-1	She	_	Word	Word	_	2	A	2:A	_
-2	appeared	_	Word	Word	_	0	root	0:root	_
-3	in	_	Word	Word	_	6	R	6:R	_
-4	the	_	Word	Word	_	6	E	6:E	_
-5	music	_	Word	Word	_	6	E	6:E	_
-6	video	_	Word	Word	_	2	orphan	2:orphan	_
-7	for	_	Word	Word	_	11	R	11:R	_
-8	Korn	_	Word	Word	_	2	orphan	2:orphan	_
-9	's	_	Word	Word	_	8	R	8:R	_
-10	"	_	Punctuation	Punctuation	_	11	punct	11:punct	_
-11	Did	_	Word	Word	_	2	orphan	2:orphan	_
-12	My	_	Word	Word	_	11	flat	11:flat	_
-13	Time	_	Word	Word	_	11	flat	11:flat	_
-14	"	_	Punctuation	Punctuation	_	11	punct	11:punct	_
-15	,	_	Punctuation	Punctuation	_	11	punct	11:punct	_
-16	which	_	Word	Word	_	18	F	18:F	_
-17	was	_	Word	Word	_	18	F	18:F	_
-18	used	_	Word	Word	_	2	orphan	2:orphan	_
-19	to	_	Word	Word	_	18	L	18:L	_
-20	promote	_	Word	Word	_	2	orphan	2:orphan	_
-21	the	_	Word	Word	_	22	E	22:E	_
-22	film	_	Word	Word	_	2	orphan	2:orphan	_
-23	.	_	Punctuation	Punctuation	_	22	punct	22:punct	_
+1	The	the	DET	DT	_	2	E	2:E	_
+2	sequel	sequel	NOUN	NN	_	0	root	0:root	_
+3	was	be	VERB	VBD	_	6	F	6:F	_
+4	not	not	ADV	RB	_	6	D	6:D	_
+5	as	as	ADV	RB	_	6	R	6:R	_
+6	lucrative	lucrative	ADJ	JJ	_	2	orphan	2:orphan	_
+7	as	as	ADP	IN	_	9	R	9:R	_
+8	the	the	DET	DT	_	9	E	9:E	_
+9	original	original	ADJ	JJ	_	2	orphan	2:orphan	_
+10	,	,	PUNCT	,	_	6	punct	6:punct	_
+11	earning	earn	VERB	VBG	_	2	orphan	2:orphan	_
+12	$	$	SYM	$	_	11	punct	11:punct	_
+13	156	156	NUM	CD	_	11	A	11:A	_
+14	million	million	NUM	CD	_	13	flat	13:flat	_
+15	at	at	ADP	IN	_	18	R	18:R	_
+16	the	the	DET	DT	_	18	E	18:E	_
+17	international	international	ADJ	JJ	_	18	E	18:E	_
+18	box	box	NOUN	NN	_	2	orphan	2:orphan	_
+19	office	office	NOUN	NN	_	18	flat	18:flat	_
+20	.	.	PUNCT	.	_	18	punct	18:punct	_
 

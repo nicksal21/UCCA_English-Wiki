@@ -1,14 +1,14 @@
 # sent_id = 494005
 # text = Doctors feared he would become blind in that eye .
 # doc_id = 
-1	Doctors	_	Word	Word	_	2	A	2:A	_
-2	feared	_	Word	Word	_	0	root	0:root	_
-3	he	_	Word	Word	_	6	A	6:A	_
-4	would	_	Word	Word	_	6	F	6:F	_
-5	become	_	Word	Word	_	6	E	6:E	_
-6	blind	_	Word	Word	_	2	orphan	2:orphan	_
-7	in	_	Word	Word	_	9	R	9:R	_
-8	that	_	Word	Word	_	9	E	9:E	_
-9	eye	_	Word	Word	_	2	orphan	2:orphan	_
-10	.	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+1	Doctors	doctor	NOUN	NNS	_	2	A	2:A	_
+2	feared	fear	VERB	VBD	_	0	root	0:root	_
+3	he	-PRON-	PRON	PRP	_	6	A	6:A	_
+4	would	would	VERB	MD	_	6	F	6:F	_
+5	become	become	VERB	VB	_	6	D	6:D	_
+6	blind	blind	ADJ	JJ	_	2	orphan	2:orphan	_
+7	in	in	ADP	IN	_	9	R	9:R	_
+8	that	that	DET	DT	_	9	E	9:E	_
+9	eye	eye	NOUN	NN	_	2	orphan	2:orphan	_
+10	.	.	PUNCT	.	_	9	punct	9:punct	_
 

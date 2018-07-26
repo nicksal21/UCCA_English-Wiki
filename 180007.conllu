@@ -1,30 +1,28 @@
 # sent_id = 180007
-# text = Gyllenhaal has also appeared in such theatrical plays as Closer ( 2000 ) as well as in television productions like Strip Search ( 2004 ) .
+# text = In 2006 , the two became engaged , and Gyllenhaal gave birth to their daughter , Ramona , on October 3 , 2006 .
 # doc_id = 
-1	Gyllenhaal	_	Word	Word	_	4	A	4:A	_
-2	has	_	Word	Word	_	4	F	4:F	_
-3	also	_	Word	Word	_	4	D	4:D	_
-4	appeared	_	Word	Word	_	0	root	0:root	_
-5	in	_	Word	Word	_	8	R	8:R	_
-6	such	_	Word	Word	_	8	R	8:R	_
-7	theatrical	_	Word	Word	_	8	E	8:E	_
-8	plays	_	Word	Word	_	4	orphan	4:orphan	_
-9	as	_	Word	Word	_	6	flat	6:flat	_
-10	Closer	_	Word	Word	_	4	orphan	4:orphan	_
-11	(	_	Punctuation	Punctuation	_	10	punct	10:punct	_
-12	2000	_	Word	Word	_	10	E	10:E	_
-13	)	_	Punctuation	Punctuation	_	8	punct	8:punct	_
-14	as	_	Word	Word	_	4	orphan	4:orphan	_
-15	well	_	Word	Word	_	14	flat	14:flat	_
-16	as	_	Word	Word	_	14	flat	14:flat	_
-17	in	_	Word	Word	_	14	R	14:R	_
-18	television	_	Word	Word	_	19	E	19:E	_
-19	productions	_	Word	Word	_	4	orphan	4:orphan	_
-20	like	_	Word	Word	_	21	R	21:R	_
-21	Strip	_	Word	Word	_	4	orphan	4:orphan	_
-22	Search	_	Word	Word	_	21	flat	21:flat	_
-23	(	_	Punctuation	Punctuation	_	21	punct	21:punct	_
-24	2004	_	Word	Word	_	21	E	21:E	_
-25	)	_	Punctuation	Punctuation	_	21	punct	21:punct	_
-26	.	_	Punctuation	Punctuation	_	21	punct	21:punct	_
+1	In	in	ADP	IN	_	2	R	2:R	_
+2	2006	2006	NUM	CD	_	0	root	0:root	_
+3	,	,	PUNCT	,	_	7	punct	7:punct	_
+4	the	the	DET	DT	_	5	E	5:E	_
+5	two	two	NUM	CD	_	2	orphan	2:orphan	_
+6	became	become	VERB	VBD	_	7	D	7:D	_
+7	engaged	engaged	ADJ	JJ	_	2	orphan	2:orphan	_
+8	,	,	PUNCT	,	_	7	punct	7:punct	_
+9	and	and	CCONJ	CC	_	7	L	7:L	_
+10	Gyllenhaal	gyllenhaal	PROPN	NNP	_	11	A	11:A	_
+11	gave	give	VERB	VBD	_	2	orphan	2:orphan	_
+12	birth	birth	NOUN	NN	_	11	flat	11:flat	_
+13	to	to	ADP	IN	_	17	R	17:R	_
+14	their	-PRON-	ADJ	PRP$	_	15	E	15:E	_
+15	daughter	daughter	NOUN	NN	_	2	orphan	2:orphan	_
+16	,	,	PUNCT	,	_	17	punct	17:punct	_
+17	Ramona	ramona	PROPN	NNP	_	2	orphan	2:orphan	_
+18	,	,	PUNCT	,	_	11	punct	11:punct	_
+19	on	on	ADP	IN	_	20	R	20:R	_
+20	October	october	PROPN	NNP	_	2	orphan	2:orphan	_
+21	3	3	NUM	CD	_	20	flat	20:flat	_
+22	,	,	PUNCT	,	_	20	punct	20:punct	_
+23	2006	2006	NUM	CD	_	20	flat	20:flat	_
+24	.	.	PUNCT	.	_	20	punct	20:punct	_
 

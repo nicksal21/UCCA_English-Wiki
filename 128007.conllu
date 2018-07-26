@@ -1,21 +1,21 @@
 # sent_id = 128007
-# text = The Lake previewed in Washington , D.C . , where there was a large advance sale .
+# text = Harris 's poor direction had eroded Hepburn 's confidence , and she struggled with the performance .
 # doc_id = 
-1	The	_	Word	Word	_	3	A	3:A	_
-2	Lake	_	Word	Word	_	1	flat	1:flat	_
-3	previewed	_	Word	Word	_	0	root	0:root	_
-4	in	_	Word	Word	_	5	R	5:R	_
-5	Washington	_	Word	Word	_	3	orphan	3:orphan	_
-6	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-7	D.C	_	Word	Word	_	5	E	5:E	_
-8	.	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-9	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-10	where	_	Word	Word	_	12	R	12:R	_
-11	there	_	Word	Word	_	12	F	12:F	_
-12	was	_	Word	Word	_	3	orphan	3:orphan	_
-13	a	_	Word	Word	_	16	E	16:E	_
-14	large	_	Word	Word	_	16	E	16:E	_
-15	advance	_	Word	Word	_	16	E	16:E	_
-16	sale	_	Word	Word	_	3	orphan	3:orphan	_
-17	.	_	Punctuation	Punctuation	_	16	punct	16:punct	_
+1	Harris	harris	PROPN	NNP	_	0	root	0:root	_
+2	's	's	PART	POS	_	1	R	1:R	_
+3	poor	poor	ADJ	JJ	_	4	D	4:D	_
+4	direction	direction	NOUN	NN	_	1	orphan	1:orphan	_
+5	had	have	VERB	VBD	_	6	F	6:F	_
+6	eroded	erode	VERB	VBN	_	1	orphan	1:orphan	_
+7	Hepburn	hepburn	PROPN	NNP	_	1	orphan	1:orphan	_
+8	's	's	PART	POS	_	7	R	7:R	_
+9	confidence	confidence	NOUN	NN	_	1	orphan	1:orphan	_
+10	,	,	PUNCT	,	_	6	punct	6:punct	_
+11	and	and	CCONJ	CC	_	6	L	6:L	_
+12	she	-PRON-	PRON	PRP	_	13	A	13:A	_
+13	struggled	struggle	VERB	VBD	_	1	orphan	1:orphan	_
+14	with	with	ADP	IN	_	16	R	16:R	_
+15	the	the	DET	DT	_	16	E	16:E	_
+16	performance	performance	NOUN	NN	_	1	orphan	1:orphan	_
+17	.	.	PUNCT	.	_	16	punct	16:punct	_
 

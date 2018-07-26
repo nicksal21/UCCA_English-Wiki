@@ -1,32 +1,31 @@
 # sent_id = 140005
-# text = The movie was nominated in all the major categories at the Academy Awards , and for the second year running Hepburn won the Oscar for Best Actress .
+# text = Hepburn 's next appearance was in The Madwoman of Chaillot ( 1969 ) , which she filmed in Nice immediately after completing The Lion in Winter .
 # doc_id = 
-1	The	_	Word	Word	_	2	E	2:E	_
-2	movie	_	Word	Word	_	0	root	0:root	_
-3	was	_	Word	Word	_	4	F	4:F	_
-4	nominated	_	Word	Word	_	2	orphan	2:orphan	_
-5	in	_	Word	Word	_	9	R	9:R	_
-6	all	_	Word	Word	_	9	E	9:E	_
-7	the	_	Word	Word	_	9	E	9:E	_
-8	major	_	Word	Word	_	9	E	9:E	_
-9	categories	_	Word	Word	_	2	orphan	2:orphan	_
-10	at	_	Word	Word	_	13	R	13:R	_
-11	the	_	Word	Word	_	13	E	13:E	_
-12	Academy	_	Word	Word	_	13	E	13:E	_
-13	Awards	_	Word	Word	_	2	orphan	2:orphan	_
-14	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
-15	and	_	Word	Word	_	4	L	4:L	_
-16	for	_	Word	Word	_	19	R	19:R	_
-17	the	_	Word	Word	_	19	E	19:E	_
-18	second	_	Word	Word	_	19	E	19:E	_
-19	year	_	Word	Word	_	2	orphan	2:orphan	_
-20	running	_	Word	Word	_	19	E	19:E	_
-21	Hepburn	_	Word	Word	_	22	A	22:A	_
-22	won	_	Word	Word	_	2	orphan	2:orphan	_
-23	the	_	Word	Word	_	24	E	24:E	_
-24	Oscar	_	Word	Word	_	2	orphan	2:orphan	_
-25	for	_	Word	Word	_	27	R	27:R	_
-26	Best	_	Word	Word	_	27	E	27:E	_
-27	Actress	_	Word	Word	_	2	orphan	2:orphan	_
-28	.	_	Punctuation	Punctuation	_	27	punct	27:punct	_
+1	Hepburn	hepburn	PROPN	NNP	_	0	root	0:root	_
+2	's	's	PART	POS	_	1	R	1:R	_
+3	next	next	ADJ	JJ	_	4	D	4:D	_
+4	appearance	appearance	NOUN	NN	_	1	orphan	1:orphan	_
+5	was	be	VERB	VBD	_	1	orphan	1:orphan	_
+6	in	in	ADP	IN	_	7	R	7:R	_
+7	The	the	DET	DT	_	1	orphan	1:orphan	_
+8	Madwoman	madwoman	PROPN	NNP	_	7	flat	7:flat	_
+9	of	of	ADP	IN	_	7	flat	7:flat	_
+10	Chaillot	chaillot	PROPN	NNP	_	7	flat	7:flat	_
+11	(	(	PUNCT	-LRB-	_	7	punct	7:punct	_
+12	1969	1969	NUM	CD	_	1	orphan	1:orphan	_
+13	)	)	PUNCT	-RRB-	_	5	punct	5:punct	_
+14	,	,	PUNCT	,	_	5	punct	5:punct	_
+15	which	which	ADJ	WDT	_	5	L	5:L	_
+16	she	-PRON-	PRON	PRP	_	17	A	17:A	_
+17	filmed	film	VERB	VBD	_	1	orphan	1:orphan	_
+18	in	in	ADP	IN	_	19	R	19:R	_
+19	Nice	nice	PROPN	NNP	_	1	orphan	1:orphan	_
+20	immediately	immediately	ADV	RB	_	17	D	17:D	_
+21	after	after	ADP	IN	_	5	L	5:L	_
+22	completing	complete	VERB	VBG	_	1	orphan	1:orphan	_
+23	The	the	DET	DT	_	22	A	22:A	_
+24	Lion	lion	PROPN	NNP	_	23	flat	23:flat	_
+25	in	in	ADP	IN	_	23	flat	23:flat	_
+26	Winter	winter	PROPN	NNP	_	23	flat	23:flat	_
+27	.	.	PUNCT	.	_	22	punct	22:punct	_
 

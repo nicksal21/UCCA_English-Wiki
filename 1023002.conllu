@@ -1,37 +1,33 @@
 # sent_id = 1023002
-# text = On March 25 , 1983 , Michael Jackson reunited with his brothers for a legendary live performance which was taped for a Motown 25 : Yesterday , Today , Forever television special .
+# text = The show aired on May 16 , 1983 , to an audience of 47 million viewers , and featured the Jacksons and a number of other Motown stars .
 # doc_id = 
-1	On	_	Word	Word	_	2	R	2:R	_
-2	March	_	Word	Word	_	0	root	0:root	_
-3	25	_	Word	Word	_	2	flat	2:flat	_
-4	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-5	1983	_	Word	Word	_	2	flat	2:flat	_
-6	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
-7	Michael	_	Word	Word	_	9	A	9:A	_
-8	Jackson	_	Word	Word	_	7	flat	7:flat	_
-9	reunited	_	Word	Word	_	2	orphan	2:orphan	_
-10	with	_	Word	Word	_	9	R	9:R	_
-11	his	_	Word	Word	_	12	E	12:E	_
-12	brothers	_	Word	Word	_	2	orphan	2:orphan	_
-13	for	_	Word	Word	_	17	R	17:R	_
-14	a	_	Word	Word	_	17	E	17:E	_
-15	legendary	_	Word	Word	_	17	E	17:E	_
-16	live	_	Word	Word	_	17	E	17:E	_
-17	performance	_	Word	Word	_	2	orphan	2:orphan	_
-18	which	_	Word	Word	_	20	F	20:F	_
-19	was	_	Word	Word	_	20	F	20:F	_
-20	taped	_	Word	Word	_	2	orphan	2:orphan	_
-21	for	_	Word	Word	_	20	R	20:R	_
-22	a	_	Word	Word	_	32	E	32:E	_
-23	Motown	_	Word	Word	_	32	E	32:E	_
-24	25	_	Word	Word	_	23	flat	23:flat	_
-25	:	_	Punctuation	Punctuation	_	32	punct	32:punct	_
-26	Yesterday	_	Word	Word	_	2	orphan	2:orphan	_
-27	,	_	Punctuation	Punctuation	_	26	punct	26:punct	_
-28	Today	_	Word	Word	_	26	C	26:C	_
-29	,	_	Punctuation	Punctuation	_	26	punct	26:punct	_
-30	Forever	_	Word	Word	_	26	C	26:C	_
-31	television	_	Word	Word	_	32	E	32:E	_
-32	special	_	Word	Word	_	2	orphan	2:orphan	_
-33	.	_	Punctuation	Punctuation	_	32	punct	32:punct	_
+1	The	the	DET	DT	_	2	E	2:E	_
+2	show	show	NOUN	NN	_	0	root	0:root	_
+3	aired	air	VERB	VBN	_	2	orphan	2:orphan	_
+4	on	on	ADP	IN	_	5	R	5:R	_
+5	May	may	PROPN	NNP	_	2	orphan	2:orphan	_
+6	16	16	NUM	CD	_	5	flat	5:flat	_
+7	,	,	PUNCT	,	_	5	punct	5:punct	_
+8	1983	1983	NUM	CD	_	5	flat	5:flat	_
+9	,	,	PUNCT	,	_	3	punct	3:punct	_
+10	to	to	ADP	IN	_	12	R	12:R	_
+11	an	an	DET	DT	_	12	E	12:E	_
+12	audience	audience	NOUN	NN	_	2	orphan	2:orphan	_
+13	of	of	ADP	IN	_	12	R	12:R	_
+14	47	47	NUM	CD	_	16	E	16:E	_
+15	million	million	NUM	CD	_	14	flat	14:flat	_
+16	viewers	viewer	NOUN	NNS	_	2	orphan	2:orphan	_
+17	,	,	PUNCT	,	_	3	punct	3:punct	_
+18	and	and	CCONJ	CC	_	3	L	3:L	_
+19	featured	feature	VERB	VBD	_	2	orphan	2:orphan	_
+20	the	the	DET	DT	_	21	E	21:E	_
+21	Jacksons	jacksons	PROPN	NNPS	_	2	orphan	2:orphan	_
+22	and	and	CCONJ	CC	_	21	N	21:N	_
+23	a	a	DET	DT	_	28	E	28:E	_
+24	number	number	NOUN	NN	_	2	orphan	2:orphan	_
+25	of	of	ADP	IN	_	24	R	24:R	_
+26	other	other	ADJ	JJ	_	28	E	28:E	_
+27	Motown	motown	PROPN	NNP	_	28	E	28:E	_
+28	stars	star	NOUN	NNS	_	2	orphan	2:orphan	_
+29	.	.	PUNCT	.	_	28	punct	28:punct	_
 

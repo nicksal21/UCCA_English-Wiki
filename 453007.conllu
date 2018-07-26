@@ -1,30 +1,30 @@
 # sent_id = 453007
 # text = In the late 1970s , a disastrous pairing of Harry Reasoner and Barbara Walters at the anchor desk left the network searching for new ideas .
 # doc_id = 
-1	In	_	Word	Word	_	4	R	4:R	_
-2	the	_	Word	Word	_	4	E	4:E	_
-3	late	_	Word	Word	_	4	E	4:E	_
-4	1970s	_	Word	Word	_	0	root	0:root	_
-5	,	_	Punctuation	Punctuation	_	22	punct	22:punct	_
-6	a	_	Word	Word	_	7	E	7:E	_
-7	disastrous	_	Word	Word	_	4	orphan	4:orphan	_
-8	pairing	_	Word	Word	_	4	orphan	4:orphan	_
-9	of	_	Word	Word	_	10	R	10:R	_
-10	Harry	_	Word	Word	_	4	orphan	4:orphan	_
-11	Reasoner	_	Word	Word	_	10	flat	10:flat	_
-12	and	_	Word	Word	_	10	N	10:N	_
-13	Barbara	_	Word	Word	_	10	C	10:C	_
-14	Walters	_	Word	Word	_	13	flat	13:flat	_
-15	at	_	Word	Word	_	18	R	18:R	_
-16	the	_	Word	Word	_	18	E	18:E	_
-17	anchor	_	Word	Word	_	18	E	18:E	_
-18	desk	_	Word	Word	_	4	orphan	4:orphan	_
-19	left	_	Word	Word	_	22	E	22:E	_
-20	the	_	Word	Word	_	21	E	21:E	_
-21	network	_	Word	Word	_	4	orphan	4:orphan	_
-22	searching	_	Word	Word	_	4	orphan	4:orphan	_
-23	for	_	Word	Word	_	25	R	25:R	_
-24	new	_	Word	Word	_	25	E	25:E	_
-25	ideas	_	Word	Word	_	4	orphan	4:orphan	_
-26	.	_	Punctuation	Punctuation	_	25	punct	25:punct	_
+1	In	in	ADP	IN	_	4	R	4:R	_
+2	the	the	DET	DT	_	4	E	4:E	_
+3	late	late	ADJ	JJ	_	4	E	4:E	_
+4	1970s	1970	NOUN	NNS	_	0	root	0:root	_
+5	,	,	PUNCT	,	_	22	punct	22:punct	_
+6	a	a	DET	DT	_	7	E	7:E	_
+7	disastrous	disastrous	ADJ	JJ	_	4	orphan	4:orphan	_
+8	pairing	pairing	NOUN	NN	_	4	orphan	4:orphan	_
+9	of	of	ADP	IN	_	10	R	10:R	_
+10	Harry	harry	PROPN	NNP	_	4	orphan	4:orphan	_
+11	Reasoner	reasoner	PROPN	NNP	_	10	flat	10:flat	_
+12	and	and	CCONJ	CC	_	10	N	10:N	_
+13	Barbara	barbara	PROPN	NNP	_	10	C	10:C	_
+14	Walters	walters	PROPN	NNP	_	13	flat	13:flat	_
+15	at	at	ADP	IN	_	18	R	18:R	_
+16	the	the	DET	DT	_	18	E	18:E	_
+17	anchor	anchor	NOUN	NN	_	18	E	18:E	_
+18	desk	desk	NOUN	NN	_	4	orphan	4:orphan	_
+19	left	leave	VERB	VBD	_	22	D	22:D	_
+20	the	the	DET	DT	_	21	E	21:E	_
+21	network	network	NOUN	NN	_	4	orphan	4:orphan	_
+22	searching	search	VERB	VBG	_	4	orphan	4:orphan	_
+23	for	for	ADP	IN	_	25	R	25:R	_
+24	new	new	ADJ	JJ	_	25	E	25:E	_
+25	ideas	idea	NOUN	NNS	_	4	orphan	4:orphan	_
+26	.	.	PUNCT	.	_	25	punct	25:punct	_
 

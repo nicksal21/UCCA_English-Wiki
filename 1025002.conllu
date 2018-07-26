@@ -1,20 +1,20 @@
 # sent_id = 1025002
 # text = Jackson had learned McCartney made approximately $40 million a year from other people 's songs .
 # doc_id = 
-1	Jackson	_	Word	Word	_	3	A	3:A	_
-2	had	_	Word	Word	_	3	E	3:E	_
-3	learned	_	Word	Word	_	0	root	0:root	_
-4	McCartney	_	Word	Word	_	5	A	5:A	_
-5	made	_	Word	Word	_	3	orphan	3:orphan	_
-6	approximately	_	Word	Word	_	7	E	7:E	_
-7	$40	_	Word	Word	_	3	orphan	3:orphan	_
-8	million	_	Word	Word	_	7	flat	7:flat	_
-9	a	_	Word	Word	_	10	R	10:R	_
-10	year	_	Word	Word	_	3	orphan	3:orphan	_
-11	from	_	Word	Word	_	15	R	15:R	_
-12	other	_	Word	Word	_	13	E	13:E	_
-13	people	_	Word	Word	_	3	orphan	3:orphan	_
-14	's	_	Word	Word	_	13	R	13:R	_
-15	songs	_	Word	Word	_	3	orphan	3:orphan	_
-16	.	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+1	Jackson	jackson	PROPN	NNP	_	3	A	3:A	_
+2	had	have	VERB	VBD	_	3	F	3:F	_
+3	learned	learn	VERB	VBN	_	0	root	0:root	_
+4	McCartney	mccartney	PROPN	NNP	_	5	A	5:A	_
+5	made	make	VERB	VBD	_	3	orphan	3:orphan	_
+6	approximately	approximately	ADV	RB	_	7	E	7:E	_
+7	$40	$40	X	ADD	_	3	orphan	3:orphan	_
+8	million	million	NUM	CD	_	7	flat	7:flat	_
+9	a	a	DET	DT	_	10	R	10:R	_
+10	year	year	NOUN	NN	_	3	orphan	3:orphan	_
+11	from	from	ADP	IN	_	15	R	15:R	_
+12	other	other	ADJ	JJ	_	13	E	13:E	_
+13	people	people	NOUN	NNS	_	3	orphan	3:orphan	_
+14	's	's	PART	POS	_	13	R	13:R	_
+15	songs	song	NOUN	NNS	_	3	orphan	3:orphan	_
+16	.	.	PUNCT	.	_	15	punct	15:punct	_
 

@@ -1,28 +1,36 @@
 # sent_id = 224005
-# text = Despite the film 's failure , Lo Wei continued producing films with similar themes , resulting in little improvement at the box office .
+# text = Chan 's first major breakthrough was the 1978 film Snake in the Eagle 's Shadow , shot while he was loaned to Seasonal Film Corporation under a two - picture deal .
 # doc_id = 
-1	Despite	_	Word	Word	_	5	L	5:L	_
-2	the	_	Word	Word	_	3	E	3:E	_
-3	film	_	Word	Word	_	0	root	0:root	_
-4	's	_	Word	Word	_	3	R	3:R	_
-5	failure	_	Word	Word	_	3	orphan	3:orphan	_
-6	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-7	Lo	_	Word	Word	_	10	A	10:A	_
-8	Wei	_	Word	Word	_	7	flat	7:flat	_
-9	continued	_	Word	Word	_	10	E	10:E	_
-10	producing	_	Word	Word	_	3	orphan	3:orphan	_
-11	films	_	Word	Word	_	3	orphan	3:orphan	_
-12	with	_	Word	Word	_	14	R	14:R	_
-13	similar	_	Word	Word	_	14	E	14:E	_
-14	themes	_	Word	Word	_	3	orphan	3:orphan	_
-15	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-16	resulting	_	Word	Word	_	3	orphan	3:orphan	_
-17	in	_	Word	Word	_	16	F	16:F	_
-18	little	_	Word	Word	_	19	D	19:D	_
-19	improvement	_	Word	Word	_	3	orphan	3:orphan	_
-20	at	_	Word	Word	_	23	R	23:R	_
-21	the	_	Word	Word	_	23	E	23:E	_
-22	box	_	Word	Word	_	23	E	23:E	_
-23	office	_	Word	Word	_	3	orphan	3:orphan	_
-24	.	_	Punctuation	Punctuation	_	23	punct	23:punct	_
+1	Chan	chan	PROPN	NNP	_	0	root	0:root	_
+2	's	's	PART	POS	_	1	R	1:R	_
+3	first	first	ADJ	JJ	_	5	D	5:D	_
+4	major	major	ADJ	JJ	_	5	D	5:D	_
+5	breakthrough	breakthrough	NOUN	NN	_	1	orphan	1:orphan	_
+6	was	be	VERB	VBD	_	1	orphan	1:orphan	_
+7	the	the	DET	DT	_	10	E	10:E	_
+8	1978	1978	NUM	CD	_	10	E	10:E	_
+9	film	film	NOUN	NN	_	10	E	10:E	_
+10	Snake	snake	PROPN	NNP	_	1	orphan	1:orphan	_
+11	in	in	ADP	IN	_	10	flat	10:flat	_
+12	the	the	DET	DT	_	10	flat	10:flat	_
+13	Eagle	eagle	PROPN	NNP	_	10	flat	10:flat	_
+14	's	's	PART	POS	_	10	flat	10:flat	_
+15	Shadow	shadow	PROPN	NNP	_	10	flat	10:flat	_
+16	,	,	PUNCT	,	_	10	punct	10:punct	_
+17	shot	shoot	VERB	VBD	_	1	orphan	1:orphan	_
+18	while	while	ADP	IN	_	17	L	17:L	_
+19	he	-PRON-	PRON	PRP	_	21	A	21:A	_
+20	was	be	VERB	VBD	_	21	F	21:F	_
+21	loaned	loan	VERB	VBN	_	1	orphan	1:orphan	_
+22	to	to	ADP	IN	_	23	R	23:R	_
+23	Seasonal	seasonal	PROPN	NNP	_	1	orphan	1:orphan	_
+24	Film	film	PROPN	NNP	_	23	flat	23:flat	_
+25	Corporation	corporation	PROPN	NNP	_	23	flat	23:flat	_
+26	under	under	ADP	IN	_	31	R	31:R	_
+27	a	a	DET	DT	_	31	E	31:E	_
+28	two	two	NUM	CD	_	30	E	30:E	_
+29	-	-	PUNCT	HYPH	_	30	punct	30:punct	_
+30	picture	picture	NOUN	NN	_	1	orphan	1:orphan	_
+31	deal	deal	NOUN	NN	_	1	orphan	1:orphan	_
+32	.	.	PUNCT	.	_	31	punct	31:punct	_
 

@@ -1,21 +1,19 @@
 # sent_id = 564011
-# text = Actor Charles Laughton hosted the show , filling in while Sullivan recuperated from a car accident .
+# text = Presley appeared in two segments that night from CBS Television City in Los Angeles .
 # doc_id = 
-1	Actor	_	Word	Word	_	2	E	2:E	_
-2	Charles	_	Word	Word	_	0	root	0:root	_
-3	Laughton	_	Word	Word	_	2	flat	2:flat	_
-4	hosted	_	Word	Word	_	2	orphan	2:orphan	_
-5	the	_	Word	Word	_	6	E	6:E	_
-6	show	_	Word	Word	_	2	orphan	2:orphan	_
-7	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
-8	filling	_	Word	Word	_	2	orphan	2:orphan	_
-9	in	_	Word	Word	_	8	flat	8:flat	_
-10	while	_	Word	Word	_	4	L	4:L	_
-11	Sullivan	_	Word	Word	_	12	A	12:A	_
-12	recuperated	_	Word	Word	_	2	orphan	2:orphan	_
-13	from	_	Word	Word	_	16	R	16:R	_
-14	a	_	Word	Word	_	16	E	16:E	_
-15	car	_	Word	Word	_	16	E	16:E	_
-16	accident	_	Word	Word	_	2	orphan	2:orphan	_
-17	.	_	Punctuation	Punctuation	_	16	punct	16:punct	_
+1	Presley	presley	PROPN	NNP	_	2	A	2:A	_
+2	appeared	appear	VERB	VBD	_	0	root	0:root	_
+3	in	in	ADP	IN	_	5	R	5:R	_
+4	two	two	NUM	CD	_	5	E	5:E	_
+5	segments	segment	NOUN	NNS	_	2	orphan	2:orphan	_
+6	that	that	DET	DT	_	7	R	7:R	_
+7	night	night	NOUN	NN	_	2	orphan	2:orphan	_
+8	from	from	ADP	IN	_	10	R	10:R	_
+9	CBS	cbs	PROPN	NNP	_	10	E	10:E	_
+10	Television	television	PROPN	NNP	_	2	orphan	2:orphan	_
+11	City	city	PROPN	NNP	_	10	flat	10:flat	_
+12	in	in	ADP	IN	_	13	R	13:R	_
+13	Los	los	PROPN	NNP	_	2	orphan	2:orphan	_
+14	Angeles	angeles	PROPN	NNP	_	13	flat	13:flat	_
+15	.	.	PUNCT	.	_	13	punct	13:punct	_
 

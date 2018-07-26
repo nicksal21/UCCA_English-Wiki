@@ -1,30 +1,28 @@
 # sent_id = 563007
-# text = The Berle shows drew such high ratings that Presley was booked for a July 1 appearance on NBC 's Steve Allen Show in New York .
+# text = Allen , no fan of rock and roll , introduced a " new Elvis " in a white bow tie and black tails .
 # doc_id = 
-1	The	_	Word	Word	_	3	E	3:E	_
-2	Berle	_	Word	Word	_	3	E	3:E	_
-3	shows	_	Word	Word	_	0	root	0:root	_
-4	drew	_	Word	Word	_	3	orphan	3:orphan	_
-5	such	_	Word	Word	_	4	L	4:L	_
-6	high	_	Word	Word	_	7	E	7:E	_
-7	ratings	_	Word	Word	_	3	orphan	3:orphan	_
-8	that	_	Word	Word	_	5	flat	5:flat	_
-9	Presley	_	Word	Word	_	11	A	11:A	_
-10	was	_	Word	Word	_	11	E	11:E	_
-11	booked	_	Word	Word	_	3	orphan	3:orphan	_
-12	for	_	Word	Word	_	16	R	16:R	_
-13	a	_	Word	Word	_	16	E	16:E	_
-14	July	_	Word	Word	_	16	E	16:E	_
-15	1	_	Word	Word	_	14	flat	14:flat	_
-16	appearance	_	Word	Word	_	3	orphan	3:orphan	_
-17	on	_	Word	Word	_	22	R	22:R	_
-18	NBC	_	Word	Word	_	3	orphan	3:orphan	_
-19	's	_	Word	Word	_	18	R	18:R	_
-20	Steve	_	Word	Word	_	22	E	22:E	_
-21	Allen	_	Word	Word	_	20	flat	20:flat	_
-22	Show	_	Word	Word	_	3	orphan	3:orphan	_
-23	in	_	Word	Word	_	24	R	24:R	_
-24	New	_	Word	Word	_	3	orphan	3:orphan	_
-25	York	_	Word	Word	_	24	flat	24:flat	_
-26	.	_	Punctuation	Punctuation	_	24	punct	24:punct	_
+1	Allen	allen	PROPN	NNP	_	0	root	0:root	_
+2	,	,	PUNCT	,	_	1	punct	1:punct	_
+3	no	no	DET	DT	_	4	D	4:D	_
+4	fan	fan	NOUN	NN	_	1	orphan	1:orphan	_
+5	of	of	ADP	IN	_	6	R	6:R	_
+6	rock	rock	NOUN	NN	_	1	orphan	1:orphan	_
+7	and	and	CCONJ	CC	_	6	flat	6:flat	_
+8	roll	roll	NOUN	NN	_	6	flat	6:flat	_
+9	,	,	PUNCT	,	_	10	punct	10:punct	_
+10	introduced	introduce	VERB	VBD	_	1	orphan	1:orphan	_
+11	a	a	DET	DT	_	14	E	14:E	_
+12	"	"	PUNCT	``	_	14	punct	14:punct	_
+13	new	new	ADJ	JJ	_	14	E	14:E	_
+14	Elvis	elvis	PROPN	NNP	_	1	orphan	1:orphan	_
+15	"	"	PUNCT	''	_	14	punct	14:punct	_
+16	in	in	ADP	IN	_	19	R	19:R	_
+17	a	a	DET	DT	_	19	E	19:E	_
+18	white	white	ADJ	JJ	_	19	E	19:E	_
+19	bow	bow	NOUN	NN	_	1	orphan	1:orphan	_
+20	tie	tie	NOUN	NN	_	19	flat	19:flat	_
+21	and	and	CCONJ	CC	_	19	N	19:N	_
+22	black	black	ADJ	JJ	_	23	E	23:E	_
+23	tails	tail	NOUN	NNS	_	1	orphan	1:orphan	_
+24	.	.	PUNCT	.	_	23	punct	23:punct	_
 

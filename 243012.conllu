@@ -1,28 +1,26 @@
 # sent_id = 243012
-# text = His maternal grandfather , Howard Lemuel Green , served five terms in the Texas Legislature and was a minor - league baseball commissioner .
+# text = Hawke 's parents were students at the University of Texas at the time of his birth , and separated in 1974 .
 # doc_id = 
-1	His	_	Word	Word	_	3	E	3:E	_
-2	maternal	_	Word	Word	_	3	E	3:E	_
-3	grandfather	_	Word	Word	_	0	root	0:root	_
-4	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-5	Howard	_	Word	Word	_	3	orphan	3:orphan	_
-6	Lemuel	_	Word	Word	_	5	flat	5:flat	_
-7	Green	_	Word	Word	_	5	flat	5:flat	_
-8	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
-9	served	_	Word	Word	_	3	orphan	3:orphan	_
-10	five	_	Word	Word	_	11	E	11:E	_
-11	terms	_	Word	Word	_	3	orphan	3:orphan	_
-12	in	_	Word	Word	_	15	R	15:R	_
-13	the	_	Word	Word	_	15	E	15:E	_
-14	Texas	_	Word	Word	_	15	E	15:E	_
-15	Legislature	_	Word	Word	_	3	orphan	3:orphan	_
-16	and	_	Word	Word	_	9	L	9:L	_
-17	was	_	Word	Word	_	3	orphan	3:orphan	_
-18	a	_	Word	Word	_	23	E	23:E	_
-19	minor	_	Word	Word	_	21	E	21:E	_
-20	-	_	Punctuation	Punctuation	_	21	punct	21:punct	_
-21	league	_	Word	Word	_	3	orphan	3:orphan	_
-22	baseball	_	Word	Word	_	3	orphan	3:orphan	_
-23	commissioner	_	Word	Word	_	3	orphan	3:orphan	_
-24	.	_	Punctuation	Punctuation	_	23	punct	23:punct	_
+1	Hawke	hawke	PROPN	NNP	_	0	root	0:root	_
+2	's	's	PART	POS	_	1	R	1:R	_
+3	parents	parent	NOUN	NNS	_	1	orphan	1:orphan	_
+4	were	be	VERB	VBD	_	1	orphan	1:orphan	_
+5	students	student	NOUN	NNS	_	4	A	4:A	_
+6	at	at	ADP	IN	_	8	R	8:R	_
+7	the	the	DET	DT	_	8	E	8:E	_
+8	University	university	PROPN	NNP	_	1	orphan	1:orphan	_
+9	of	of	ADP	IN	_	10	R	10:R	_
+10	Texas	texas	PROPN	NNP	_	1	orphan	1:orphan	_
+11	at	at	ADP	IN	_	16	R	16:R	_
+12	the	the	DET	DT	_	13	E	13:E	_
+13	time	time	NOUN	NN	_	1	orphan	1:orphan	_
+14	of	of	ADP	IN	_	13	R	13:R	_
+15	his	-PRON-	ADJ	PRP$	_	16	A	16:A	_
+16	birth	birth	NOUN	NN	_	1	orphan	1:orphan	_
+17	,	,	PUNCT	,	_	4	punct	4:punct	_
+18	and	and	CCONJ	CC	_	4	L	4:L	_
+19	separated	separate	VERB	VBN	_	1	orphan	1:orphan	_
+20	in	in	ADP	IN	_	21	R	21:R	_
+21	1974	1974	NUM	CD	_	1	orphan	1:orphan	_
+22	.	.	PUNCT	.	_	21	punct	21:punct	_
 

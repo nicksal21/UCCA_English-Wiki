@@ -1,36 +1,31 @@
 # sent_id = 617009
-# text = McCartney also produced and hosted The Real Buddy Holly Story , a 1985 documentary featuring interviews with Keith Richards , Phil and Don Everly , the Holly family , and others .
+# text = In 1995 , he made a guest appearance on the Simpsons episode " Lisa the Vegetarian " and directed a short documentary about the Grateful Dead .
 # doc_id = 
-1	McCartney	_	Word	Word	_	3	A	3:A	_
-2	also	_	Word	Word	_	3	D	3:D	_
-3	produced	_	Word	Word	_	0	root	0:root	_
-4	and	_	Word	Word	_	3	N	3:N	_
-5	hosted	_	Word	Word	_	3	C	3:C	_
-6	The	_	Word	Word	_	3	orphan	3:orphan	_
-7	Real	_	Word	Word	_	6	flat	6:flat	_
-8	Buddy	_	Word	Word	_	6	flat	6:flat	_
-9	Holly	_	Word	Word	_	6	flat	6:flat	_
-10	Story	_	Word	Word	_	6	flat	6:flat	_
-11	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-12	a	_	Word	Word	_	14	E	14:E	_
-13	1985	_	Word	Word	_	14	E	14:E	_
-14	documentary	_	Word	Word	_	3	orphan	3:orphan	_
-15	featuring	_	Word	Word	_	3	orphan	3:orphan	_
-16	interviews	_	Word	Word	_	3	orphan	3:orphan	_
-17	with	_	Word	Word	_	18	R	18:R	_
-18	Keith	_	Word	Word	_	3	orphan	3:orphan	_
-19	Richards	_	Word	Word	_	18	flat	18:flat	_
-20	,	_	Punctuation	Punctuation	_	18	punct	18:punct	_
-21	Phil	_	Word	Word	_	3	orphan	3:orphan	_
-22	and	_	Word	Word	_	21	N	21:N	_
-23	Don	_	Word	Word	_	21	C	21:C	_
-24	Everly	_	Word	Word	_	23	flat	23:flat	_
-25	,	_	Punctuation	Punctuation	_	18	punct	18:punct	_
-26	the	_	Word	Word	_	28	E	28:E	_
-27	Holly	_	Word	Word	_	28	E	28:E	_
-28	family	_	Word	Word	_	3	orphan	3:orphan	_
-29	,	_	Punctuation	Punctuation	_	18	punct	18:punct	_
-30	and	_	Word	Word	_	18	N	18:N	_
-31	others	_	Word	Word	_	18	C	18:C	_
-32	.	_	Punctuation	Punctuation	_	18	punct	18:punct	_
+1	In	in	ADP	IN	_	2	R	2:R	_
+2	1995	1995	NUM	CD	_	0	root	0:root	_
+3	,	,	PUNCT	,	_	8	punct	8:punct	_
+4	he	-PRON-	PRON	PRP	_	8	A	8:A	_
+5	made	make	VERB	VBD	_	8	F	8:F	_
+6	a	a	DET	DT	_	8	E	8:E	_
+7	guest	guest	ADJ	JJ	_	8	E	8:E	_
+8	appearance	appearance	NOUN	NN	_	2	orphan	2:orphan	_
+9	on	on	ADP	IN	_	14	R	14:R	_
+10	the	the	DET	DT	_	14	E	14:E	_
+11	Simpsons	simpsons	PROPN	NNPS	_	12	E	12:E	_
+12	episode	episode	NOUN	NN	_	2	orphan	2:orphan	_
+13	"	"	PUNCT	''	_	14	punct	14:punct	_
+14	Lisa	lisa	PROPN	NNP	_	2	orphan	2:orphan	_
+15	the	the	DET	DT	_	14	flat	14:flat	_
+16	Vegetarian	vegetarian	PROPN	NNP	_	14	flat	14:flat	_
+17	"	"	PUNCT	''	_	8	punct	8:punct	_
+18	and	and	CCONJ	CC	_	8	L	8:L	_
+19	directed	direct	VERB	VBD	_	2	orphan	2:orphan	_
+20	a	a	DET	DT	_	22	E	22:E	_
+21	short	short	ADJ	JJ	_	22	E	22:E	_
+22	documentary	documentary	NOUN	NN	_	2	orphan	2:orphan	_
+23	about	about	ADP	IN	_	25	R	25:R	_
+24	the	the	DET	DT	_	25	E	25:E	_
+25	Grateful	grateful	PROPN	NNP	_	2	orphan	2:orphan	_
+26	Dead	dead	PROPN	NNP	_	25	flat	25:flat	_
+27	.	.	PUNCT	.	_	25	punct	25:punct	_
 

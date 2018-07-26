@@ -1,33 +1,31 @@
 # sent_id = 561014
-# text = Unlike many white artists ... who watered down the gritty edges of the original R & B versions of songs in the ' 50s , Presley reshaped them .
+# text = He not only injected the tunes with his own vocal character but also made guitar , not piano , the lead instrument in all three cases .
 # doc_id = 
-1	Unlike	_	Word	Word	_	4	L	4:L	_
-2	many	_	Word	Word	_	4	E	4:E	_
-3	white	_	Word	Word	_	4	E	4:E	_
-4	artists	_	Word	Word	_	0	root	0:root	_
-5	...	_	Punctuation	Punctuation	_	4	punct	4:punct	_
-6	who	_	Word	Word	_	7	R	7:R	_
-7	watered	_	Word	Word	_	4	orphan	4:orphan	_
-8	down	_	Word	Word	_	7	flat	7:flat	_
-9	the	_	Word	Word	_	11	E	11:E	_
-10	gritty	_	Word	Word	_	11	E	11:E	_
-11	edges	_	Word	Word	_	4	orphan	4:orphan	_
-12	of	_	Word	Word	_	18	R	18:R	_
-13	the	_	Word	Word	_	18	E	18:E	_
-14	original	_	Word	Word	_	18	E	18:E	_
-15	R	_	Word	Word	_	18	E	18:E	_
-16	&	_	Punctuation	Punctuation	_	15	flat	15:flat	_
-17	B	_	Word	Word	_	15	flat	15:flat	_
-18	versions	_	Word	Word	_	4	orphan	4:orphan	_
-19	of	_	Word	Word	_	20	R	20:R	_
-20	songs	_	Word	Word	_	4	orphan	4:orphan	_
-21	in	_	Word	Word	_	24	R	24:R	_
-22	the	_	Word	Word	_	24	E	24:E	_
-23	'	_	Punctuation	Punctuation	_	24	punct	24:punct	_
-24	50s	_	Word	Word	_	4	orphan	4:orphan	_
-25	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
-26	Presley	_	Word	Word	_	27	A	27:A	_
-27	reshaped	_	Word	Word	_	4	orphan	4:orphan	_
-28	them	_	Word	Word	_	4	orphan	4:orphan	_
-29	.	_	Punctuation	Punctuation	_	28	punct	28:punct	_
+1	He	-PRON-	PRON	PRP	_	4	A	4:A	_
+2	not	not	ADV	RB	_	4	L	4:L	_
+3	only	only	ADV	RB	_	2	flat	2:flat	_
+4	injected	inject	VERB	VBD	_	0	root	0:root	_
+5	the	the	DET	DT	_	6	E	6:E	_
+6	tunes	tune	NOUN	NNS	_	4	orphan	4:orphan	_
+7	with	with	ADP	IN	_	11	R	11:R	_
+8	his	-PRON-	ADJ	PRP$	_	9	E	9:E	_
+9	own	own	ADJ	JJ	_	4	orphan	4:orphan	_
+10	vocal	vocal	ADJ	JJ	_	11	E	11:E	_
+11	character	character	NOUN	NN	_	4	orphan	4:orphan	_
+12	but	but	CCONJ	CC	_	2	flat	2:flat	_
+13	also	also	ADV	RB	_	14	D	14:D	_
+14	made	make	VERB	VBD	_	4	orphan	4:orphan	_
+15	guitar	guitar	NOUN	NN	_	4	orphan	4:orphan	_
+16	,	,	PUNCT	,	_	15	punct	15:punct	_
+17	not	not	ADV	RB	_	15	N	15:N	_
+18	piano	piano	NOUN	NN	_	15	C	15:C	_
+19	,	,	PUNCT	,	_	14	punct	14:punct	_
+20	the	the	DET	DT	_	22	E	22:E	_
+21	lead	lead	ADJ	JJ	_	22	E	22:E	_
+22	instrument	instrument	NOUN	NN	_	4	orphan	4:orphan	_
+23	in	in	ADP	IN	_	26	R	26:R	_
+24	all	all	DET	DT	_	26	E	26:E	_
+25	three	three	NUM	CD	_	26	E	26:E	_
+26	cases	case	NOUN	NNS	_	4	orphan	4:orphan	_
+27	.	.	PUNCT	.	_	26	punct	26:punct	_
 

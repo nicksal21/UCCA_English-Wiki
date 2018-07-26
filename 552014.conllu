@@ -1,30 +1,27 @@
 # sent_id = 552014
-# text = Several months after Warner 's death , a more personal tribute was organized by the Friends of the Libraries at the University of Southern California .
+# text = The late movie [ mogul ] was widely eulogized for his role in " shaping Hollywood 's ' Golden Age ' " .
 # doc_id = 
-1	Several	_	Word	Word	_	2	E	2:E	_
-2	months	_	Word	Word	_	0	root	0:root	_
-3	after	_	Word	Word	_	2	R	2:R	_
-4	Warner	_	Word	Word	_	2	orphan	2:orphan	_
-5	's	_	Word	Word	_	4	R	4:R	_
-6	death	_	Word	Word	_	2	orphan	2:orphan	_
-7	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-8	a	_	Word	Word	_	11	E	11:E	_
-9	more	_	Word	Word	_	10	E	10:E	_
-10	personal	_	Word	Word	_	2	orphan	2:orphan	_
-11	tribute	_	Word	Word	_	2	orphan	2:orphan	_
-12	was	_	Word	Word	_	13	F	13:F	_
-13	organized	_	Word	Word	_	2	orphan	2:orphan	_
-14	by	_	Word	Word	_	16	R	16:R	_
-15	the	_	Word	Word	_	16	E	16:E	_
-16	Friends	_	Word	Word	_	2	orphan	2:orphan	_
-17	of	_	Word	Word	_	16	flat	16:flat	_
-18	the	_	Word	Word	_	16	flat	16:flat	_
-19	Libraries	_	Word	Word	_	16	flat	16:flat	_
-20	at	_	Word	Word	_	22	R	22:R	_
-21	the	_	Word	Word	_	22	E	22:E	_
-22	University	_	Word	Word	_	2	orphan	2:orphan	_
-23	of	_	Word	Word	_	25	R	25:R	_
-24	Southern	_	Word	Word	_	25	E	25:E	_
-25	California	_	Word	Word	_	2	orphan	2:orphan	_
-26	.	_	Punctuation	Punctuation	_	25	punct	25:punct	_
+1	The	the	DET	DT	_	3	E	3:E	_
+2	late	late	ADJ	JJ	_	3	E	3:E	_
+3	movie	movie	NOUN	NN	_	0	root	0:root	_
+4	[	[	PUNCT	-LRB-	_	3	punct	3:punct	_
+5	mogul	mogul	NOUN	NN	_	3	E	3:E	_
+6	]	]	PUNCT	-RRB-	_	9	punct	9:punct	_
+7	was	be	VERB	VBD	_	9	F	9:F	_
+8	widely	widely	ADV	RB	_	9	D	9:D	_
+9	eulogized	eulogize	VERB	VBN	_	3	orphan	3:orphan	_
+10	for	for	ADP	IN	_	12	R	12:R	_
+11	his	-PRON-	ADJ	PRP$	_	12	E	12:E	_
+12	role	role	NOUN	NN	_	3	orphan	3:orphan	_
+13	in	in	ADP	IN	_	15	F	15:F	_
+14	"	"	PUNCT	``	_	15	punct	15:punct	_
+15	shaping	shape	VERB	VBG	_	3	orphan	3:orphan	_
+16	Hollywood	hollywood	PROPN	NNP	_	3	orphan	3:orphan	_
+17	's	's	PART	POS	_	16	R	16:R	_
+18	'	'	PUNCT	``	_	20	punct	20:punct	_
+19	Golden	golden	PROPN	NNP	_	20	E	20:E	_
+20	Age	age	PROPN	NNP	_	3	orphan	3:orphan	_
+21	'	'	PUNCT	''	_	20	punct	20:punct	_
+22	"	"	PUNCT	''	_	20	punct	20:punct	_
+23	.	.	PUNCT	.	_	20	punct	20:punct	_
 

@@ -1,27 +1,26 @@
 # sent_id = 567009
-# text = A Detroit newspaper suggested that " the trouble with going to see Elvis Presley is that you 're liable to get killed .
+# text = Frank Sinatra , who had famously inspired the swooning of teenaged girls in the 1940s , condemned the new musical phenomenon .
 # doc_id = 
-1	A	_	Word	Word	_	3	E	3:E	_
-2	Detroit	_	Word	Word	_	3	E	3:E	_
-3	newspaper	_	Word	Word	_	0	root	0:root	_
-4	suggested	_	Word	Word	_	3	orphan	3:orphan	_
-5	that	_	Word	Word	_	15	R	15:R	_
-6	"	_	Punctuation	Punctuation	_	15	punct	15:punct	_
-7	the	_	Word	Word	_	8	E	8:E	_
-8	trouble	_	Word	Word	_	3	orphan	3:orphan	_
-9	with	_	Word	Word	_	12	R	12:R	_
-10	going	_	Word	Word	_	12	E	12:E	_
-11	to	_	Word	Word	_	12	F	12:F	_
-12	see	_	Word	Word	_	3	orphan	3:orphan	_
-13	Elvis	_	Word	Word	_	12	A	12:A	_
-14	Presley	_	Word	Word	_	13	flat	13:flat	_
-15	is	_	Word	Word	_	3	orphan	3:orphan	_
-16	that	_	Word	Word	_	22	R	22:R	_
-17	you	_	Word	Word	_	22	A	22:A	_
-18	're	_	Word	Word	_	22	F	22:F	_
-19	liable	_	Word	Word	_	22	E	22:E	_
-20	to	_	Word	Word	_	22	F	22:F	_
-21	get	_	Word	Word	_	22	E	22:E	_
-22	killed	_	Word	Word	_	3	orphan	3:orphan	_
-23	.	_	Punctuation	Punctuation	_	22	punct	22:punct	_
+1	Frank	frank	PROPN	NNP	_	0	root	0:root	_
+2	Sinatra	sinatra	PROPN	NNP	_	1	flat	1:flat	_
+3	,	,	PUNCT	,	_	1	punct	1:punct	_
+4	who	who	NOUN	WP	_	7	R	7:R	_
+5	had	have	VERB	VBD	_	7	F	7:F	_
+6	famously	famously	ADV	RB	_	7	D	7:D	_
+7	inspired	inspire	VERB	VBN	_	1	orphan	1:orphan	_
+8	the	the	DET	DT	_	9	E	9:E	_
+9	swooning	swooning	NOUN	NN	_	1	orphan	1:orphan	_
+10	of	of	ADP	IN	_	12	R	12:R	_
+11	teenaged	teenaged	ADJ	JJ	_	12	E	12:E	_
+12	girls	girl	NOUN	NNS	_	1	orphan	1:orphan	_
+13	in	in	ADP	IN	_	15	R	15:R	_
+14	the	the	DET	DT	_	15	E	15:E	_
+15	1940s	1940	NOUN	NNS	_	1	orphan	1:orphan	_
+16	,	,	PUNCT	,	_	17	punct	17:punct	_
+17	condemned	condemn	VERB	VBD	_	1	orphan	1:orphan	_
+18	the	the	DET	DT	_	21	E	21:E	_
+19	new	new	ADJ	JJ	_	21	E	21:E	_
+20	musical	musical	ADJ	JJ	_	21	E	21:E	_
+21	phenomenon	phenomenon	NOUN	NN	_	1	orphan	1:orphan	_
+22	.	.	PUNCT	.	_	21	punct	21:punct	_
 

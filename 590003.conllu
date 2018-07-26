@@ -1,33 +1,18 @@
 # sent_id = 590003
-# text = This part gave him a " chance to stretch out and have some fun " ; he said working with Landau " rejuvenated my love for acting " .
+# text = " At the time , the actor was depressed about films and filmmaking .
 # doc_id = 
-1	This	_	Word	Word	_	2	E	2:E	_
-2	part	_	Word	Word	_	0	root	0:root	_
-3	gave	_	Word	Word	_	2	orphan	2:orphan	_
-4	him	_	Word	Word	_	3	A	3:A	_
-5	a	_	Word	Word	_	7	E	7:E	_
-6	"	_	Punctuation	Punctuation	_	7	punct	7:punct	_
-7	chance	_	Word	Word	_	2	orphan	2:orphan	_
-8	to	_	Word	Word	_	9	F	9:F	_
-9	stretch	_	Word	Word	_	2	orphan	2:orphan	_
-10	out	_	Word	Word	_	9	E	9:E	_
-11	and	_	Word	Word	_	9	N	9:N	_
-12	have	_	Word	Word	_	14	F	14:F	_
-13	some	_	Word	Word	_	14	E	14:E	_
-14	fun	_	Word	Word	_	2	orphan	2:orphan	_
-15	"	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-16	;	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-17	he	_	Word	Word	_	18	A	18:A	_
-18	said	_	Word	Word	_	2	orphan	2:orphan	_
-19	working	_	Word	Word	_	2	orphan	2:orphan	_
-20	with	_	Word	Word	_	21	R	21:R	_
-21	Landau	_	Word	Word	_	2	orphan	2:orphan	_
-22	"	_	Punctuation	Punctuation	_	23	punct	23:punct	_
-23	rejuvenated	_	Word	Word	_	2	orphan	2:orphan	_
-24	my	_	Word	Word	_	25	A	25:A	_
-25	love	_	Word	Word	_	2	orphan	2:orphan	_
-26	for	_	Word	Word	_	27	R	27:R	_
-27	acting	_	Word	Word	_	2	orphan	2:orphan	_
-28	"	_	Punctuation	Punctuation	_	27	punct	27:punct	_
-29	.	_	Punctuation	Punctuation	_	27	punct	27:punct	_
+1	"	"	PUNCT	``	_	9	punct	9:punct	_
+2	At	at	ADP	IN	_	4	R	4:R	_
+3	the	the	DET	DT	_	4	E	4:E	_
+4	time	time	NOUN	NN	_	0	root	0:root	_
+5	,	,	PUNCT	,	_	9	punct	9:punct	_
+6	the	the	DET	DT	_	7	E	7:E	_
+7	actor	actor	NOUN	NN	_	4	orphan	4:orphan	_
+8	was	be	VERB	VBD	_	9	F	9:F	_
+9	depressed	depress	VERB	VBN	_	4	orphan	4:orphan	_
+10	about	about	ADP	IN	_	11	R	11:R	_
+11	films	film	NOUN	NNS	_	4	orphan	4:orphan	_
+12	and	and	CCONJ	CC	_	11	N	11:N	_
+13	filmmaking	filmmaking	NOUN	NN	_	11	C	11:C	_
+14	.	.	PUNCT	.	_	11	punct	11:punct	_
 

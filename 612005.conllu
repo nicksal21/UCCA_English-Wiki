@@ -1,27 +1,35 @@
 # sent_id = 612005
-# text = He was strongly influenced by Motown artists , in particular James Jamerson , who McCartney called a hero for his melodic style .
+# text = He was also influenced by Brian Wilson , as he commented : " because he went to very unusual places " . Another favourite bassist of his is Stanley Clarke .
 # doc_id = 
-1	He	_	Word	Word	_	4	A	4:A	_
-2	was	_	Word	Word	_	4	F	4:F	_
-3	strongly	_	Word	Word	_	4	D	4:D	_
-4	influenced	_	Word	Word	_	0	root	0:root	_
-5	by	_	Word	Word	_	7	R	7:R	_
-6	Motown	_	Word	Word	_	7	E	7:E	_
-7	artists	_	Word	Word	_	4	orphan	4:orphan	_
-8	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
-9	in	_	Word	Word	_	10	E	10:E	_
-10	particular	_	Word	Word	_	4	orphan	4:orphan	_
-11	James	_	Word	Word	_	4	orphan	4:orphan	_
-12	Jamerson	_	Word	Word	_	11	flat	11:flat	_
-13	,	_	Punctuation	Punctuation	_	11	punct	11:punct	_
-14	who	_	Word	Word	_	16	F	16:F	_
-15	McCartney	_	Word	Word	_	16	A	16:A	_
-16	called	_	Word	Word	_	4	orphan	4:orphan	_
-17	a	_	Word	Word	_	18	E	18:E	_
-18	hero	_	Word	Word	_	4	orphan	4:orphan	_
-19	for	_	Word	Word	_	16	L	16:L	_
-20	his	_	Word	Word	_	4	orphan	4:orphan	_
-21	melodic	_	Word	Word	_	22	E	22:E	_
-22	style	_	Word	Word	_	4	orphan	4:orphan	_
-23	.	_	Punctuation	Punctuation	_	22	punct	22:punct	_
+1	He	-PRON-	PRON	PRP	_	4	A	4:A	_
+2	was	be	VERB	VBD	_	4	F	4:F	_
+3	also	also	ADV	RB	_	4	D	4:D	_
+4	influenced	influence	VERB	VBN	_	0	root	0:root	_
+5	by	by	ADP	IN	_	6	R	6:R	_
+6	Brian	brian	PROPN	NNP	_	4	orphan	4:orphan	_
+7	Wilson	wilson	PROPN	NNP	_	6	flat	6:flat	_
+8	,	,	PUNCT	,	_	4	punct	4:punct	_
+9	as	as	ADP	IN	_	4	L	4:L	_
+10	he	-PRON-	PRON	PRP	_	11	A	11:A	_
+11	commented	comment	VERB	VBD	_	4	orphan	4:orphan	_
+12	:	:	PUNCT	:	_	11	punct	11:punct	_
+13	"	"	PUNCT	``	_	11	punct	11:punct	_
+14	because	because	ADP	IN	_	16	R	16:R	_
+15	he	-PRON-	PRON	PRP	_	16	A	16:A	_
+16	went	go	VERB	VBD	_	4	orphan	4:orphan	_
+17	to	to	ADP	IN	_	20	R	20:R	_
+18	very	very	ADV	RB	_	19	E	19:E	_
+19	unusual	unusual	ADJ	JJ	_	4	orphan	4:orphan	_
+20	places	place	NOUN	NNS	_	4	orphan	4:orphan	_
+21	"	"	PUNCT	''	_	4	punct	4:punct	_
+22	.	.	PUNCT	.	_	4	punct	4:punct	_
+23	Another	another	DET	DT	_	25	E	25:E	_
+24	favourite	favourite	ADJ	JJ	_	25	E	25:E	_
+25	bassist	bassist	NOUN	NN	_	4	orphan	4:orphan	_
+26	of	of	ADP	IN	_	27	R	27:R	_
+27	his	-PRON-	ADJ	PRP$	_	4	orphan	4:orphan	_
+28	is	be	VERB	VBZ	_	4	orphan	4:orphan	_
+29	Stanley	stanley	PROPN	NNP	_	28	A	28:A	_
+30	Clarke	clarke	PROPN	NNP	_	29	flat	29:flat	_
+31	.	.	PUNCT	.	_	28	punct	28:punct	_
 

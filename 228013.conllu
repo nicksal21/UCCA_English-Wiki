@@ -1,15 +1,15 @@
 # sent_id = 228013
 # text = His 100th movie 1911 was released on 26 September 2011 .
 # doc_id = 
-1	His	_	Word	Word	_	4	E	4:E	_
-2	100th	_	Word	Word	_	4	E	4:E	_
-3	movie	_	Word	Word	_	4	E	4:E	_
-4	1911	_	Word	Word	_	0	root	0:root	_
-5	was	_	Word	Word	_	6	F	6:F	_
-6	released	_	Word	Word	_	4	orphan	4:orphan	_
-7	on	_	Word	Word	_	8	R	8:R	_
-8	26	_	Word	Word	_	4	orphan	4:orphan	_
-9	September	_	Word	Word	_	8	flat	8:flat	_
-10	2011	_	Word	Word	_	8	flat	8:flat	_
-11	.	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+1	His	-PRON-	ADJ	PRP$	_	4	E	4:E	_
+2	100th	100th	ADJ	JJ	_	4	E	4:E	_
+3	movie	movie	NOUN	NN	_	4	E	4:E	_
+4	1911	1911	NUM	CD	_	0	root	0:root	_
+5	was	be	VERB	VBD	_	6	F	6:F	_
+6	released	release	VERB	VBN	_	4	orphan	4:orphan	_
+7	on	on	ADP	IN	_	8	R	8:R	_
+8	26	26	NUM	CD	_	4	orphan	4:orphan	_
+9	September	september	PROPN	NNP	_	8	flat	8:flat	_
+10	2011	2011	NUM	CD	_	8	flat	8:flat	_
+11	.	.	PUNCT	.	_	8	punct	8:punct	_
 
