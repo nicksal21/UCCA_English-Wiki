@@ -1,25 +1,65 @@
-1	Hepburn	_	Word	-	-	_	A	_	_	_	_	_	_	_
-2	received	_	Word	-	+	_	_	_	_	_	_	_	_	_
-3	an	_	Word	-	-	_	_	_	E	_	_	_	_	_
-4	Academy	_	Word	-	-	_	_	E	_	_	_	_	_	_
-5	Award	_	Word	-	+	_	_	_	_	_	_	_	_	_
-6	nomination	_	Word	-	+	_	_	_	_	_	_	_	_	_
-7	for	_	Word	-	-	_	_	_	_	R	_	_	_	_
-8	the	_	Word	-	-	_	_	_	_	E	_	_	_	_
-9	second	_	Word	-	-	_	_	_	_	E	_	_	_	_
-10	year	_	Word	-	+	_	_	_	_	_	_	_	_	_
-11	running	_	Word	-	-	_	_	_	_	E	_	_	_	_
-12	for	_	Word	-	-	_	_	_	_	_	R	_	_	_
-13	her	_	Word	-	-	_	_	_	_	_	A	_	_	_
-14	work	_	Word	-	+	_	_	_	_	_	_	_	_	_
-15	opposite	_	Word	-	-	_	_	_	_	_	_	R	_	_
-16	Burt	_	Word	-	+	_	_	_	_	_	_	_	_	_
-17	Lancaster	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_
-18	in	_	Word	-	-	_	_	_	_	_	_	_	R	_
-19	The	_	Word	-	+	_	_	_	_	_	_	_	_	A
-20	Rainmaker	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_
-21	(	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_
-22	1956	_	Word	-	+	_	_	_	_	_	_	_	_	_
-23	)	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
-24	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+1	Hepburn	hepburn	NNP	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	received	receive	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	an	an	DT	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	Academy	academy	NNP	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	Award	award	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	nomination	nomination	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	for	for	IN	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	the	the	DT	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	second	second	JJ	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	year	year	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	running	run	VBG	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	for	for	IN	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	her	-PRON-	PRP$	-	-	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	work	work	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	opposite	opposite	IN	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	Burt	burt	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	Lancaster	lancaster	NNP	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	in	in	IN	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	The	the	DT	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+20	Rainmaker	rainmaker	NNP	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	(	(	-LRB-	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	1956	1956	CD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	)	)	-RRB-	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	.	.	.	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	Again	again	RB	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	she	-PRON-	PRP	-	-	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+27	played	play	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	a	a	DT	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+29	lonely	lonely	JJ	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+30	woman	woman	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	empowered	empower	VBN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	by	by	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
+33	a	a	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+34	love	love	NN	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+35	affair	affair	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+36	,	,	,	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+37	and	and	CC	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+38	it	-PRON-	PRP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+39	seemed	seem	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+40	that	that	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
+41	Hepburn	hepburn	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+42	had	have	VBD	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_
+43	found	find	VBN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+44	a	a	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+45	niche	niche	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+46	in	in	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
+47	playing	play	VBG	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+48	"	"	``	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_
+49	love	love	NN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+50	-	-	HYPH	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_
+51	starved	starve	VBN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+52	spinsters	spinster	NNS	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+53	"	"	''	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
+54	that	that	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F
+55	critics	critic	NNS	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+56	,	,	,	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_
+57	audiences	audience	NNS	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	C	_	_
+58	,	,	,	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_
+59	and	and	CC	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	N	_	_
+60	her	-PRON-	PRP$	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+61	peers	peer	NNS	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+62	clearly	clearly	RB	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D
+63	enjoyed	enjoy	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+64	.	.	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

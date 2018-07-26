@@ -1,29 +1,31 @@
-1	McCartney	_	Word	-	-	_	A	_	_	_	_	_	_	_	_
-2	commented	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-3	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
-4	"	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
-5	I	_	Word	-	-	_	_	A	A	_	_	_	_	_	_
-6	prefer	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-7	to	_	Word	-	-	_	_	_	F	_	_	_	_	_	_
-8	think	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-9	of	_	Word	-	-	_	_	_	_	R	_	_	_	_	_
-10	my	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
-11	approach	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-12	to	_	Word	-	-	_	_	_	_	_	R	_	_	_	_
-13	music	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-14	as	_	Word	-	-	_	_	_	_	_	_	_	R	_	_
-15	...	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_
-16	rather	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
-17	like	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-18	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_
-19	primitive	_	Word	-	-	_	_	_	_	_	_	_	E	_	_
-20	cave	_	Word	-	-	_	_	_	_	_	_	_	E	_	_
-21	artists	_	Word	-	+	_	_	_	_	_	_	_	_	A	_
-22	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_
-23	who	_	Word	-	-	_	_	_	_	_	_	_	_	F	_
-24	drew	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-25	without	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
-26	training	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-27	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
-28	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+1	McCartney	mccartney	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_
+2	's	's	POS	-	-	_	R	_	_	_	_	_	_	_	_	_
+3	skill	skill	NN	-	-	_	_	_	_	_	_	_	_	_	_	_
+4	as	as	IN	-	-	_	_	R	_	_	_	_	_	_	_	_
+5	a	a	DT	-	-	_	_	E	_	_	_	_	_	_	_	_
+6	bass	bass	NN	-	-	_	_	E	_	_	_	_	_	_	_	_
+7	player	player	NN	-	+	_	_	_	_	_	_	_	_	_	_	_
+8	has	have	VBZ	-	-	_	_	_	F	_	_	_	_	_	_	_
+9	been	be	VBN	-	-	_	_	_	F	_	_	_	_	_	_	_
+10	acknowledged	acknowledge	VBN	-	+	_	_	_	_	_	_	_	_	_	_	_
+11	by	by	IN	-	-	_	_	_	_	R	_	_	_	_	_	_
+12	other	other	JJ	-	-	_	_	_	_	E	_	_	_	_	_	_
+13	bassists	bassist	NNS	-	+	_	_	_	_	_	_	_	_	_	_	_
+14	,	,	,	-	-	_	_	_	_	U	_	_	_	_	_	_
+15	including	include	VBG	-	-	_	_	_	_	_	R	_	_	_	_	_
+16	Sting	sting	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_
+17	,	,	,	-	-	_	_	_	_	_	U	_	_	_	_	_
+18	Dr	dr	NNP	-	+	_	_	_	_	_	_	_	E	_	_	_
+19	.	.	.	-	-	_	_	_	_	_	_	_	U	_	_	_
+20	Dre	dre	NNP	-	-	_	_	_	_	_	_	Terminal	_	_	_	_
+21	bassist	bassist	NN	-	+	_	_	_	_	_	_	_	_	_	_	_
+22	Mike	mike	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_
+23	Elizondo	elizondo	NNP	-	-	_	_	_	_	_	_	_	_	Terminal	_	_
+24	,	,	,	-	-	_	_	_	_	_	U	_	_	_	_	_
+25	and	and	CC	-	-	_	_	_	_	_	N	_	_	_	_	_
+26	Colin	colin	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_
+27	Moulding	moulding	NNP	-	-	_	_	_	_	_	_	_	_	_	Terminal	_
+28	of	of	IN	-	-	_	_	_	_	_	_	_	_	_	_	R
+29	XTC	xtc	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_
+30	.	.	.	-	-	_	_	_	_	_	_	_	_	_	_	U
 

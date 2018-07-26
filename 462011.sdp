@@ -1,26 +1,34 @@
-1	The	_	Word	-	-	_	_	E	_	_	_	_	_	_	_
-2	anchor	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-3	's	_	Word	-	-	_	R	_	_	_	_	_	_	_	_
-4	ABC	_	Word	-	-	_	_	E	_	_	_	_	_	_	_
-5	colleagues	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-6	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
-7	including	_	Word	-	-	_	_	_	R	_	_	_	_	_	_
-8	Barbara	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-9	Walters	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_
-10	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_
-11	Diane	_	Word	-	+	_	_	_	C	_	_	_	_	_	_
-12	Sawyer	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_
-13	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_
-14	and	_	Word	-	-	_	_	_	N	_	_	_	_	_	_
-15	Ted	_	Word	-	+	_	_	_	C	_	_	_	_	_	_
-16	Koppel	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_
-17	.	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_
-18	shared	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-19	their	_	Word	-	-	_	_	_	_	_	_	_	E	_	_
-20	thoughts	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-21	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
-22	Jennings	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-23	's	_	Word	-	-	_	_	_	_	_	_	_	_	R	_
-24	death	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-25	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+1	He	-PRON-	PRP	-	-	_	A	_	_	A	_	_	_	_	_	_
+2	read	read	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_
+3	a	a	DT	-	-	_	_	E	_	_	_	_	_	_	_	_
+4	short	short	JJ	-	-	_	_	E	_	_	_	_	_	_	_	_
+5	statement	statement	NN	-	+	_	_	_	_	_	_	_	_	_	_	_
+6	from	from	IN	-	-	_	_	_	R	_	_	_	_	_	_	_
+7	the	the	DT	-	-	_	_	_	E	_	_	_	_	_	_	_
+8	family	family	NN	-	+	_	_	_	_	_	_	_	_	_	_	_
+9	,	,	,	-	-	_	U	_	_	_	_	_	_	_	_	_
+10	and	and	CC	-	-	_	L	_	_	_	_	_	_	_	_	_
+11	disclosed	disclose	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_
+12	that	that	IN	-	-	_	_	_	_	_	F	_	_	_	_	_
+13	Jennings	jennings	NNP	-	-	_	_	_	_	_	A	_	_	_	_	_
+14	had	have	VBD	-	-	_	_	_	_	_	F	_	_	_	_	_
+15	died	die	VBN	-	+	_	_	_	_	_	_	_	_	_	_	_
+16	in	in	IN	-	-	_	_	_	_	_	_	_	R	_	_	_
+17	his	-PRON-	PRP$	-	-	_	_	_	_	_	_	_	E	_	_	_
+18	New	new	NNP	-	+	_	_	_	_	_	_	_	E	_	_	_
+19	York	york	NNP	-	-	_	_	_	_	_	_	Terminal	_	_	_	_
+20	apartment	apartment	NN	-	+	_	_	_	_	_	_	_	_	_	_	_
+21	with	with	IN	-	-	_	_	_	_	_	_	_	_	R	_	_
+22	his	-PRON-	PRP$	-	-	_	_	_	_	_	_	_	_	E	_	_
+23	wife	wife	NN	-	+	_	_	_	_	_	_	_	_	_	_	_
+24	,	,	,	-	-	_	_	_	_	_	_	_	_	U	_	_
+25	two	two	CD	-	-	_	_	_	_	_	_	_	_	_	E	_
+26	children	child	NNS	-	+	_	_	_	_	_	_	_	_	_	_	_
+27	,	,	,	-	-	_	_	_	_	_	_	_	_	U	_	_
+28	and	and	CC	-	-	_	_	_	_	_	_	_	_	N	_	_
+29	sister	sister	NN	-	-	_	_	_	_	_	_	_	_	C	_	_
+30	at	at	IN	-	-	_	_	_	_	_	_	_	_	_	_	R
+31	his	-PRON-	PRP$	-	-	_	_	_	_	_	_	_	_	_	_	E
+32	side	side	NN	-	+	_	_	_	_	_	_	_	_	_	_	_
+33	.	.	.	-	-	_	_	_	_	_	_	_	_	_	_	U
 

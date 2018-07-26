@@ -1,22 +1,66 @@
-1	On	_	Word	-	-	_	R	_	_	_	_
-2	September	_	Word	-	+	_	_	_	_	_	_
-3	25	_	Word	-	-	_	Terminal	_	_	_	_
-4	,	_	Punctuation	-	-	_	U	_	_	_	_
-5	2009	_	Word	-	-	_	Terminal	_	_	_	_
-6	,	_	Punctuation	-	-	_	_	_	_	_	U
-7	Carey	_	Word	-	+	_	_	_	_	_	_
-8	's	_	Word	-	-	_	_	R	_	_	_
-9	twelfth	_	Word	-	-	_	_	_	_	E	_
-10	studio	_	Word	-	-	_	_	_	E	_	_
-11	album	_	Word	-	+	_	_	_	_	_	_
-12	,	_	Punctuation	-	-	_	_	_	_	U	_
-13	Memoirs	_	Word	-	+	_	_	_	_	_	_
-14	of	_	Word	-	-	_	_	_	_	Terminal	_
-15	an	_	Word	-	-	_	_	_	_	Terminal	_
-16	Imperfect	_	Word	-	-	_	_	_	_	Terminal	_
-17	Angel	_	Word	-	-	_	_	_	_	Terminal	_
-18	,	_	Punctuation	-	-	_	_	_	_	_	U
-19	was	_	Word	-	-	_	_	_	_	_	F
-20	released	_	Word	-	+	_	_	_	_	_	_
-21	.	_	Punctuation	-	-	_	_	_	_	_	U
+1	Reception	reception	NN	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	for	for	IN	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	the	the	DT	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	album	album	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	was	be	VBD	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	generally	generally	RB	-	-	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	positive	positive	JJ	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	,	,	,	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	but	but	CC	-	-	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	mixed	mix	VBN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	in	in	IN	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	certain	certain	JJ	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	aspects	aspect	NNS	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	;	;	:	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	Stephen	stephen	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	Thomas	thomas	NNP	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	Erlewine	erlewine	NNP	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	of	of	IN	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	Allmusic	allmusic	NNP	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	called	call	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	it	-PRON-	PRP	-	-	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	"	"	``	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	her	-PRON-	PRP$	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+24	most	most	RBS	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+25	interesting	interesting	JJ	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	album	album	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+27	in	in	IN	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
+28	a	a	DT	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+29	decade	decade	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	"	"	''	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	,	,	,	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	while	while	IN	-	-	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	Jon	jon	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	Caramanica	caramanica	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
+35	from	from	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_
+36	The	the	DT	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+37	New	new	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
+38	York	york	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
+39	Times	times	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
+40	criticized	criticize	VBD	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+41	Carey	carey	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+42	's	's	POS	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
+43	vocal	vocal	JJ	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+44	performances	performance	NNS	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+45	,	,	,	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+46	decrying	decry	VBG	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+47	her	-PRON-	PRP$	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+48	overuse	overuse	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+49	of	of	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
+50	her	-PRON-	PRP$	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+51	softer	soft	JJR	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+52	vocal	vocal	JJ	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+53	registers	register	NNS	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+54	at	at	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
+55	the	the	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+56	expense	expense	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+57	of	of	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
+58	her	-PRON-	PRP$	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+59	more	more	RBR	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+60	powerful	powerful	JJ	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+61	lower	low	JJR	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+62	and	and	CC	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	N	_
+63	upper	upper	JJ	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	C	_
+64	registers	register	NNS	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+65	.	.	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

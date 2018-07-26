@@ -1,29 +1,51 @@
-1	Her	_	Word	-	-	_	E	_	_	_	_	_	_	_
-2	repertoire	_	Word	-	+	_	_	_	_	_	_	_	_	_
-3	was	_	Word	-	-	_	_	F	_	_	_	_	_	_
-4	further	_	Word	-	-	_	_	D	_	_	_	_	_	_
-5	improved	_	Word	-	+	_	_	_	_	_	_	_	_	_
-6	when	_	Word	-	-	_	_	L	_	_	_	_	_	_
-7	she	_	Word	-	-	_	_	_	A	_	_	_	_	_
-8	appeared	_	Word	-	+	_	_	_	_	_	_	_	_	_
-9	in	_	Word	-	-	_	_	_	_	_	_	_	R	_
-10	Sidney	_	Word	-	+	_	_	_	_	_	_	_	_	_
-11	Lumet	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_
-12	's	_	Word	-	-	_	_	_	_	R	_	_	_	_
-13	film	_	Word	-	-	_	_	_	_	_	E	_	_	_
-14	version	_	Word	-	+	_	_	_	_	_	_	_	_	_
-15	of	_	Word	-	-	_	_	_	_	_	R	_	_	_
-16	Eugene	_	Word	-	+	_	_	_	_	_	_	_	_	_
-17	O'Neill	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_
-18	's	_	Word	-	-	_	_	_	_	_	_	E	_	_
-19	Long	_	Word	-	+	_	_	_	_	_	_	_	_	A
-20	Day	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_
-21	's	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_
-22	Journey	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_
-23	Into	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_
-24	Night	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_
-25	(	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_
-26	1962	_	Word	-	+	_	_	_	_	_	_	_	_	_
-27	)	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
-28	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+1	Her	-PRON-	PRP$	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	repertoire	repertoire	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	was	be	VBD	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	further	further	RB	-	-	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	improved	improve	VBN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	when	when	WRB	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	she	-PRON-	PRP	-	-	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+8	appeared	appear	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	in	in	IN	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_
+10	Sidney	sidney	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	Lumet	lumet	NNP	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
+12	's	's	POS	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
+13	film	film	NN	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+14	version	version	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	of	of	IN	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
+16	Eugene	eugene	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	O'Neill	o'neill	NNP	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
+18	's	's	POS	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+19	Long	long	NNP	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+20	Day	day	NNP	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
+21	's	's	POS	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
+22	Journey	journey	NNP	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
+23	Into	into	RB	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
+24	Night	night	NN	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
+25	(	(	-LRB-	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
+26	1962	1962	CD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+27	)	)	-RRB-	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	.	.	.	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	It	-PRON-	PRP	-	-	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+30	was	be	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	a	a	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+32	low	low	JJ	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+33	-	-	HYPH	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_
+34	budget	budget	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+35	production	production	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+36	,	,	,	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+37	and	and	CC	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
+38	Hepburn	hepburn	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+39	appeared	appear	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+40	in	in	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
+41	the	the	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+42	film	film	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+43	for	for	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+44	a	a	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+45	tenth	tenth	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+46	of	of	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+47	her	-PRON-	PRP$	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+48	established	establish	VBN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+49	salary	salary	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+50	.	.	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

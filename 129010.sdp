@@ -1,20 +1,28 @@
-1	For	_	Word	-	-	_	R	_	_	_	_	_
-2	her	_	Word	-	-	_	E	_	_	_	_	_
-3	next	_	Word	-	-	_	E	_	_	_	_	_
-4	film	_	Word	-	+	_	_	_	_	_	_	_
-5	she	_	Word	-	-	_	_	A	_	_	_	_
-6	played	_	Word	-	+	_	_	_	_	_	_	_
-7	Mary	_	Word	-	+	_	_	A	_	_	_	_
-8	Stuart	_	Word	-	-	_	_	_	Terminal	_	_	_
-9	in	_	Word	-	-	_	_	_	_	_	R	_
-10	John	_	Word	-	+	_	_	_	_	_	_	_
-11	Ford	_	Word	-	-	_	_	_	_	Terminal	_	_
-12	's	_	Word	-	-	_	_	_	_	R	_	_
-13	Mary	_	Word	-	+	_	_	_	_	_	_	A
-14	of	_	Word	-	-	_	_	_	_	_	Terminal	_
-15	Scotland	_	Word	-	-	_	_	_	_	_	Terminal	_
-16	(	_	Punctuation	-	-	_	_	_	_	_	U	_
-17	1936	_	Word	-	+	_	_	_	_	_	_	_
-18	)	_	Punctuation	-	-	_	_	_	_	_	_	U
-19	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+1	For	for	IN	-	-	_	R	_	_	_	_	_	_	_	_
+2	her	-PRON-	PRP$	-	-	_	E	_	_	_	_	_	_	_	_
+3	next	next	JJ	-	-	_	E	_	_	_	_	_	_	_	_
+4	film	film	NN	-	+	_	_	_	_	_	_	_	_	_	_
+5	she	-PRON-	PRP	-	-	_	_	A	_	_	_	_	_	_	_
+6	played	play	VBD	-	+	_	_	_	_	_	_	_	_	_	_
+7	Mary	mary	NNP	-	+	_	_	A	_	_	_	_	_	_	_
+8	Stuart	stuart	NNP	-	-	_	_	_	Terminal	_	_	_	_	_	_
+9	in	in	IN	-	-	_	_	_	_	_	R	_	_	_	_
+10	John	john	NNP	-	+	_	_	_	_	_	_	_	_	_	_
+11	Ford	ford	NNP	-	-	_	_	_	_	Terminal	_	_	_	_	_
+12	's	's	POS	-	-	_	_	_	_	R	_	_	_	_	_
+13	Mary	mary	NNP	-	+	_	_	_	_	_	_	A	_	_	_
+14	of	of	IN	-	-	_	_	_	_	_	Terminal	_	_	_	_
+15	Scotland	scotland	NNP	-	-	_	_	_	_	_	Terminal	_	_	_	_
+16	(	(	-LRB-	-	-	_	_	_	_	_	U	_	_	_	_
+17	1936	1936	CD	-	+	_	_	_	_	_	_	_	_	_	_
+18	)	)	-RRB-	-	-	_	_	U	_	_	_	_	_	_	_
+19	.	.	.	-	-	_	_	U	_	_	_	_	_	_	_
+20	It	-PRON-	PRP	-	-	_	_	_	_	_	_	_	A	_	_
+21	met	meet	VBD	-	+	_	_	_	_	_	_	_	_	_	_
+22	with	with	IN	-	-	_	_	_	_	_	_	_	_	_	R
+23	a	a	DT	-	-	_	_	_	_	_	_	_	_	_	E
+24	similarly	similarly	RB	-	-	_	_	_	_	_	_	_	_	E	_
+25	poor	poor	JJ	-	+	_	_	_	_	_	_	_	_	_	_
+26	reception	reception	NN	-	+	_	_	_	_	_	_	_	_	_	_
+27	.	.	.	-	-	_	_	_	_	_	_	_	_	_	U
 

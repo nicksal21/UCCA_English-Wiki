@@ -1,32 +1,53 @@
-1	She	_	Word	-	-	_	A	_	_	_	_	_	_	_
-2	attended	_	Word	-	+	_	_	_	_	_	_	_	_	_
-3	Cushing	_	Word	-	-	_	_	E	_	_	_	_	_	_
-4	Academy	_	Word	-	+	_	_	_	_	_	_	_	_	_
-5	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
-6	a	_	Word	-	-	_	_	_	E	_	_	_	_	_
-7	boarding	_	Word	-	-	_	_	_	E	_	_	_	_	_
-8	school	_	Word	-	+	_	_	_	_	_	_	_	_	_
-9	in	_	Word	-	-	_	_	_	_	R	_	_	_	_
-10	Ashburnham	_	Word	-	+	_	_	_	_	_	_	_	_	_
-11	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_
-12	Massachusetts	_	Word	-	-	_	_	_	_	E	_	_	_	_
-13	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
-14	where	_	Word	-	-	_	L	_	_	_	_	_	_	_
-15	she	_	Word	-	-	_	_	_	_	_	A	_	_	_
-16	met	_	Word	-	+	_	_	_	_	_	_	_	_	_
-17	her	_	Word	-	-	_	_	_	_	_	_	E	_	_
-18	future	_	Word	-	-	_	_	_	_	_	_	E	_	_
-19	husband	_	Word	-	+	_	_	_	_	_	_	_	_	_
-20	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_
-21	Harmon	_	Word	-	+	_	_	_	_	_	_	_	_	_
-22	O	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_
-23	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_
-24	Nelson	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_
-25	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_
-26	known	_	Word	-	-	_	_	_	_	_	_	_	_	_
-27	as	_	Word	-	-	_	_	_	_	_	_	_	_	R
-28	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
-29	Ham	_	Word	-	+	_	_	_	_	_	_	_	_	_
-30	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
-31	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+1	She	-PRON-	PRP	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	attended	attend	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	Cushing	cushing	NNP	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	Academy	academy	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	,	,	,	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	a	a	DT	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+7	boarding	boarding	NN	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+8	school	school	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	in	in	IN	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
+10	Ashburnham	ashburnham	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	,	,	,	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+12	Massachusetts	massachusetts	NNP	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+13	,	,	,	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	where	where	WRB	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	she	-PRON-	PRP	-	-	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+16	met	meet	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	her	-PRON-	PRP$	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+18	future	future	JJ	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+19	husband	husband	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	,	,	,	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
+21	Harmon	harmon	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	O	o	NNP	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
+23	.	.	.	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
+24	Nelson	nelson	NNP	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
+25	,	,	,	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
+26	known	know	VBN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+27	as	as	IN	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
+28	"	"	``	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_
+29	Ham	ham	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	"	"	''	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	.	.	.	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	In	in	IN	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
+33	1926	1926	CD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	,	,	,	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_
+35	she	-PRON-	PRP	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+36	saw	see	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+37	a	a	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+38	production	production	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+39	of	of	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
+40	Henrik	henrik	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+41	Ibsen	ibsen	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
+42	's	's	POS	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
+43	The	the	DT	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+44	Wild	wild	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
+45	Duck	duck	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
+46	with	with	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+47	Blanche	blanche	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+48	Yurka	yurka	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
+49	and	and	CC	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	N	_
+50	Peg	peg	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	C	_
+51	Entwistle	entwistle	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
+52	.	.	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_
 

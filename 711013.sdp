@@ -1,31 +1,35 @@
-1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_
-2	book	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_
-3	reached	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
-4	number	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
-5	two	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_
-6	on	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_
-7	The	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_
-8	New	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_
-9	York	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_
-10	Times	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_
-11	'	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_
-12	Hardcover	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_
-13	Non	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
-14	-	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_
-15	Fiction	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
-16	best	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_
-17	seller	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
-18	list	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
-19	in	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_
-20	December	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_
-21	2004	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
-22	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_
-23	was	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_
-24	nominated	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
-25	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
-26	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E
-27	National	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
-28	Book	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal
-29	Award	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal
-30	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
+1	No	no	DT	-	+	_	_	_	_	_	_	_	_	_	_
+2	Direction	direction	NNP	-	-	_	Terminal	_	_	_	_	_	_	_	_
+3	Home	home	NNP	-	-	_	Terminal	_	_	_	_	_	_	_	_
+4	,	,	,	-	-	_	U	_	_	_	_	_	_	_	_
+5	Martin	martin	NNP	-	+	_	_	_	_	_	_	_	_	_	_
+6	Scorsese	scorsese	NNP	-	-	_	_	Terminal	_	_	_	_	_	_	_
+7	's	's	POS	-	-	_	_	R	_	_	_	_	_	_	_
+8	acclaimed	acclaimed	JJ	-	-	_	_	_	E	_	_	_	_	_	_
+9	film	film	NN	-	-	_	_	_	E	_	_	_	_	_	_
+10	biography	biography	NN	-	+	_	_	_	_	_	_	_	_	_	_
+11	of	of	IN	-	-	_	_	_	_	R	_	_	_	_	_
+12	Dylan	dylan	NNP	-	+	_	_	_	_	_	_	_	_	_	_
+13	,	,	,	-	-	_	_	_	_	_	U	_	_	_	_
+14	was	be	VBD	-	-	_	_	_	_	_	F	_	_	_	_
+15	first	first	JJ	-	-	_	_	_	_	_	D	_	_	_	_
+16	broadcast	broadcast	NN	-	+	_	_	_	_	_	_	_	_	_	_
+17	on	on	IN	-	-	_	_	_	_	_	_	R	_	_	_
+18	September	september	NNP	-	-	_	_	_	_	_	_	E	_	_	_
+19	26–27	26–27	CD	-	-	_	_	_	_	_	_	E	_	_	_
+20	,	,	,	-	-	_	_	_	_	_	_	U	_	_	_
+21	2005	2005	CD	-	+	_	_	_	_	_	_	_	_	_	_
+22	,	,	,	-	-	_	_	_	_	_	U	_	_	_	_
+23	on	on	IN	-	-	_	_	_	_	_	_	_	_	R	_
+24	BBC	bbc	NNP	-	+	_	_	_	_	_	_	_	_	E	_
+25	Two	two	NNP	-	-	_	_	_	_	_	_	_	Terminal	_	_
+26	in	in	IN	-	-	_	_	_	_	_	_	_	_	R	_
+27	the	the	DT	-	-	_	_	_	_	_	_	_	_	E	_
+28	UK	uk	NNP	-	+	_	_	_	_	_	_	_	_	_	_
+29	and	and	CC	-	-	_	_	_	_	_	_	_	_	N	_
+30	PBS	pbs	NNP	-	-	_	_	_	_	_	_	_	_	_	E
+31	in	in	IN	-	-	_	_	_	_	_	_	_	_	_	R
+32	the	the	DT	-	-	_	_	_	_	_	_	_	_	_	E
+33	US	us	NNP	-	+	_	_	_	_	_	_	_	_	_	_
+34	.	.	.	-	-	_	_	_	_	_	_	_	_	_	U
 

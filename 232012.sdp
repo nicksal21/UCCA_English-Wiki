@@ -1,42 +1,36 @@
-1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_
-2	day	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-3	before	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_
-4	the	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_
-5	Beijing	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_
-6	Olympics	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-7	opened	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-8	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_
-9	Chan	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_
-10	released	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-11	one	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-12	of	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_
-13	the	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_
-14	two	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-15	official	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_
-16	Olympics	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_
-17	albums	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-18	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_
-19	Official	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_
-20	Album	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_
-21	for	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_
-22	the	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_
-23	Beijing	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_
-24	2008	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_
-25	Olympic	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_
-26	Games	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_
-27	–	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_
-28	Jackie	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_
-29	Chan	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_
-30	's	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_
-31	Version	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_
-32	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_
-33	which	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_
-34	featured	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-35	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E
-36	number	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-37	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_
-38	special	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E
-39	guest	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E
-40	appearances	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-41	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+1	Jackie	jackie	NNP	-	+	_	_	A	_	_	A	_	_	_	_	_	_	_	_
+2	Chan	chan	NNP	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_
+3	has	have	VBZ	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_	_
+4	received	receive	VBN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	worldwide	worldwide	JJ	-	-	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+6	recognition	recognition	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	for	for	IN	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_
+8	his	-PRON-	PRP$	-	-	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+9	acting	acting	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	,	,	,	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+11	having	have	VBG	-	-	_	_	_	_	_	F	_	_	_	_	_	_	_	_
+12	won	win	VBN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	several	several	JJ	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+14	awards	award	NNS	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	including	include	VBG	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_
+16	an	an	DT	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+17	Innovator	innovator	NNP	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+18	Award	award	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	from	from	IN	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_
+20	the	the	DT	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+21	American	american	NNP	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+22	Choreography	choreography	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	Awards	awards	NNPS	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	and	and	CC	-	-	_	_	_	_	_	_	_	N	_	_	_	_	_	_
+25	a	a	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+26	lifetime	lifetime	NN	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+27	achievement	achievement	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	award	award	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	from	from	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+30	the	the	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+31	Taurus	taurus	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+32	World	world	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
+33	Stunt	stunt	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
+34	Awards	awards	NNPS	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+35	.	.	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

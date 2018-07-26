@@ -1,22 +1,54 @@
-1	The	_	Word	-	-	_	E	_	_	_	_	_
-2	sessions	_	Word	-	+	_	_	_	_	_	_	_
-3	yielded	_	Word	-	-	_	_	_	_	_	_	_
-4	eight	_	Word	-	-	_	_	E	_	_	_	_
-5	songs	_	Word	-	+	_	_	_	_	_	_	_
-6	,	_	Punctuation	-	-	_	_	U	_	_	_	_
-7	including	_	Word	-	-	_	_	_	R	_	_	_
-8	a	_	Word	-	-	_	_	_	E	_	_	_
-9	cover	_	Word	-	+	_	_	_	_	_	_	_
-10	of	_	Word	-	-	_	_	_	_	_	_	R
-11	Carl	_	Word	-	+	_	_	_	_	_	E	_
-12	Perkins	_	Word	-	-	_	_	_	_	Terminal	_	_
-13	'	_	Punctuation	-	-	_	_	_	_	_	U	_
-14	rockabilly	_	Word	-	-	_	_	_	_	_	E	_
-15	anthem	_	Word	-	+	_	_	_	_	_	_	_
-16	"	_	Punctuation	-	-	_	_	_	_	_	_	U
-17	Blue	_	Word	-	+	_	_	_	_	_	_	_
-18	Suede	_	Word	-	-	_	_	_	_	_	_	Terminal
-19	Shoes	_	Word	-	-	_	_	_	_	_	_	Terminal
-20	"	_	Punctuation	-	-	_	_	_	_	_	_	U
-21	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+1	The	the	DT	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	sessions	session	NNS	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	yielded	yield	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	eight	eight	CD	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	songs	song	NNS	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	,	,	,	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	including	include	VBG	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
+8	a	a	DT	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+9	cover	cover	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	of	of	IN	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
+11	Carl	carl	NNP	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+12	Perkins	perkins	NNP	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
+13	'	'	POS	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+14	rockabilly	rockabilly	RB	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+15	anthem	anthem	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	"	"	``	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
+17	Blue	blue	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	Suede	suede	NNP	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
+19	Shoes	shoes	NNPS	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
+20	"	"	''	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	.	.	.	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	In	in	IN	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+23	February	february	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	,	,	,	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_
+25	Presley	presley	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	's	's	POS	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
+27	"	"	``	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
+28	I	-PRON-	PRP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	Forgot	forgot	VBP	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
+30	to	to	TO	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
+31	Remember	remember	VB	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
+32	to	to	TO	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
+33	Forget	forget	VB	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
+34	"	"	''	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
+35	,	,	,	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
+36	a	a	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+37	Sun	sun	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+38	recording	recording	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+39	initially	initially	RB	-	-	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_
+40	released	release	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+41	the	the	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+42	previous	previous	JJ	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+43	August	august	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+44	,	,	,	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_
+45	reached	reach	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+46	the	the	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+47	top	top	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+48	of	of	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+49	the	the	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+50	Billboard	billboard	NN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+51	country	country	NN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+52	chart	chart	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+53	.	.	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

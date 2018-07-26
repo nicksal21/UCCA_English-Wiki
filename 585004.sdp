@@ -1,24 +1,56 @@
-1	He	_	Word	-	-	_	A	_	_	_	_	_	_	_
-2	has	_	Word	-	-	_	F	_	_	_	_	_	_	_
-3	collaborated	_	Word	-	+	_	_	_	_	_	_	_	_	_
-4	with	_	Word	-	-	_	_	_	R	_	_	_	_	_
-5	director	_	Word	-	+	_	_	_	_	_	_	_	_	_
-6	and	_	Word	-	-	_	_	N	_	_	_	_	_	_
-7	friend	_	Word	-	-	_	_	C	_	_	_	_	_	_
-8	Tim	_	Word	-	+	_	_	_	_	_	_	_	_	_
-9	Burton	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_
-10	in	_	Word	-	-	_	_	_	_	R	_	_	_	_
-11	eight	_	Word	-	-	_	_	_	_	E	_	_	_	_
-12	films	_	Word	-	+	_	_	_	_	_	C	_	_	_
-13	;	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_
-14	the	_	Word	-	+	_	_	_	_	_	_	_	_	_
-15	most	_	Word	-	-	_	_	_	_	_	_	E	_	_
-16	recent	_	Word	-	+	_	_	_	_	_	_	_	_	_
-17	being	_	Word	-	-	_	_	_	_	_	_	_	_	_
-18	Dark	_	Word	-	+	_	_	_	_	_	_	_	_	A
-19	Shadows	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_
-20	(	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_
-21	2012	_	Word	-	+	_	_	_	_	_	_	_	_	_
-22	)	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
-23	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+1	Depp	depp	NNP	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	has	have	VBZ	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	gained	gain	VBN	-	-	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	acclaim	acclaim	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	for	for	IN	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	his	-PRON-	PRP$	-	-	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	portrayals	portrayal	NNS	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	of	of	IN	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
+9	such	such	JJ	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+10	people	people	NNS	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	as	as	IN	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
+12	Ed	ed	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	Wood	wood	NNP	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
+14	in	in	IN	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
+15	Ed	ed	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	Wood	wood	NNP	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
+17	,	,	,	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+18	Joseph	joseph	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	D	d	NNP	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
+20	.	.	.	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
+21	Pistone	pistone	NNP	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
+22	in	in	IN	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_
+23	Donnie	donnie	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	Brasco	brasco	NNP	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
+25	,	,	,	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+26	Hunter	hunter	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+27	S	s	NNP	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_
+28	.	.	.	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_
+29	Thompson	thompson	NNP	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_
+30	in	in	IN	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
+31	Fear	fear	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	and	and	CC	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
+33	Loathing	loathing	NN	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
+34	in	in	IN	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
+35	Las	las	NNP	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
+36	Vegas	vegas	NNP	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
+37	,	,	,	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+38	George	george	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+39	Jung	jung	NNP	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
+40	in	in	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
+41	Blow	blow	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+42	,	,	,	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+43	and	and	CC	-	-	_	_	_	_	N	_	_	_	_	_	_	_	_	_	_	_
+44	the	the	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+45	bank	bank	NN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+46	robber	robber	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+47	John	john	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+48	Dillinger	dillinger	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
+49	in	in	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+50	Michael	michael	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+51	Mann	mann	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
+52	's	's	POS	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+53	Public	public	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+54	Enemies	enemies	NNPS	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
+55	.	.	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

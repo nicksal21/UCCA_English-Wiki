@@ -1,20 +1,42 @@
-1	The	_	Word	-	-	_	E	_	_	_	_
-2	following	_	Word	-	-	_	E	_	_	_	_
-3	year	_	Word	-	+	_	_	_	_	_	_
-4	,	_	Punctuation	-	-	_	_	U	_	_	_
-5	Dunst	_	Word	-	-	_	_	A	_	_	_
-6	had	_	Word	-	-	_	_	E	_	_	_
-7	the	_	Word	-	-	_	_	E	_	_	_
-8	lead	_	Word	-	+	_	_	_	_	_	_
-9	in	_	Word	-	-	_	_	_	_	R	_
-10	the	_	Word	-	-	_	_	_	_	E	_
-11	teen	_	Word	-	-	_	_	_	E	_	_
-12	comedy	_	Word	-	+	_	_	_	_	_	_
-13	Get	_	Word	-	+	_	_	_	_	_	A
-14	Over	_	Word	-	-	_	_	_	_	Terminal	_
-15	It	_	Word	-	-	_	_	_	_	Terminal	_
-16	(	_	Punctuation	-	-	_	_	_	_	U	_
-17	2001	_	Word	-	+	_	_	_	_	_	_
-18	)	_	Punctuation	-	-	_	_	_	_	_	U
-19	.	_	Punctuation	-	-	_	_	_	_	_	U
+1	The	the	DT	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+2	following	following	JJ	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+3	year	year	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	,	,	,	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+5	Dunst	dunst	NNP	-	-	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+6	had	have	VBD	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_	_
+7	the	the	DT	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+8	lead	lead	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	in	in	IN	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_
+10	the	the	DT	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+11	teen	teen	NN	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+12	comedy	comedy	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	Get	get	VB	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+14	Over	over	IN	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
+15	It	-PRON-	PRP	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
+16	(	(	-LRB-	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_
+17	2001	2001	CD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	)	)	-RRB-	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+19	.	.	.	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+20	She	-PRON-	PRP	-	-	_	_	_	_	_	_	A	_	_	A	_	_	_	_
+21	later	later	RB	-	-	_	_	_	_	_	_	D	_	_	_	_	_	_	_
+22	explained	explain	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	that	that	IN	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_	_
+24	one	one	CD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	of	of	IN	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_
+26	the	the	DT	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+27	reasons	reason	NNS	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	for	for	IN	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_
+29	accepting	accept	VBG	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	the	the	DT	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+31	role	role	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	was	be	VBD	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	that	that	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_	_
+34	it	-PRON-	PRP	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+35	gave	give	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+36	her	-PRON-	PRP	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_	A
+37	the	the	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+38	opportunity	opportunity	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+39	to	to	TO	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F
+40	sing	sing	VB	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+41	.	.	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

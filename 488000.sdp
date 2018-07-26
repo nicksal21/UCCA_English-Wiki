@@ -1,18 +1,43 @@
-1	Bana	_	Word	-	+	_	_	_	_	_	_	_
-2	's	_	Word	-	-	_	R	_	_	_	_	_
-3	next	_	Word	-	-	_	_	D	_	_	_	_
-4	project	_	Word	-	+	_	_	_	_	_	_	_
-5	was	_	Word	-	-	_	_	_	_	_	_	_
-6	the	_	Word	-	-	_	_	_	_	_	E	_
-7	low	_	Word	-	-	_	_	_	E	_	_	_
-8	-	_	Punctuation	-	-	_	_	_	U	_	_	_
-9	budget	_	Word	-	+	_	_	_	_	_	_	_
-10	Australian	_	Word	-	-	_	_	_	_	E	_	_
-11	film	_	Word	-	+	_	_	_	_	_	_	_
-12	The	_	Word	-	+	_	_	_	_	_	_	A
-13	Nugget	_	Word	-	-	_	_	_	_	_	Terminal	_
-14	(	_	Punctuation	-	-	_	_	_	_	_	U	_
-15	2002	_	Word	-	+	_	_	_	_	_	_	_
-16	)	_	Punctuation	-	-	_	_	_	_	_	_	U
-17	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+1	Bana	bana	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	's	's	POS	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	next	next	JJ	-	-	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	project	project	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	was	be	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	the	the	DT	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+7	low	low	JJ	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+8	-	-	HYPH	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+9	budget	budget	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	Australian	australian	JJ	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+11	film	film	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	The	the	DT	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+13	Nugget	nugget	NNP	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
+14	(	(	-LRB-	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+15	2002	2002	CD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	)	)	-RRB-	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	.	.	.	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	A	a	DT	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+19	comedy	comedy	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	,	,	,	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	the	the	DT	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+22	film	film	NN	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	A	A	_
+23	portrays	portray	VBZ	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	the	the	DT	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+25	effect	effect	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	of	of	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
+27	instant	instant	JJ	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+28	wealth	wealth	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	on	on	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
+30	three	three	CD	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+31	working	work	VBG	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+32	class	class	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	men	man	NNS	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	and	and	CC	-	-	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
+35	was	be	VBD	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_
+36	released	release	VBN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+37	with	with	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+38	moderate	moderate	JJ	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_
+39	success	success	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+40	in	in	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+41	Australia	australia	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+42	.	.	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

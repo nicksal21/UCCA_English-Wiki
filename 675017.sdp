@@ -1,23 +1,61 @@
-1	The	_	Word	-	-	_	E	_	_	_	_	_
-2	song	_	Word	-	+	_	_	_	_	_	_	_
-3	was	_	Word	-	-	_	_	F	_	_	_	_
-4	co	_	Word	-	-	_	_	E	_	_	_	_
-5	-	_	Punctuation	-	-	_	_	U	_	_	_	_
-6	written	_	Word	-	+	_	_	_	_	_	_	_
-7	and	_	Word	-	-	_	_	N	_	_	_	_
-8	co	_	Word	-	-	_	_	_	E	_	_	_
-9	-	_	Punctuation	-	-	_	_	_	U	_	_	_
-10	produced	_	Word	-	+	_	_	_	_	_	_	_
-11	by	_	Word	-	-	_	_	_	_	R	_	_
-12	Carey	_	Word	-	+	_	_	_	_	_	_	_
-13	,	_	Punctuation	-	-	_	_	_	_	U	_	_
-14	Jermaine	_	Word	-	+	_	_	_	_	C	_	_
-15	Dupri	_	Word	-	-	_	_	_	_	_	Terminal	_
-16	,	_	Punctuation	-	-	_	_	_	_	U	_	_
-17	and	_	Word	-	-	_	_	_	_	N	_	_
-18	Bryan	_	Word	-	+	_	_	_	_	C	_	_
-19	-	_	Punctuation	-	-	_	_	_	_	U	_	_
-20	Michael	_	Word	-	-	_	_	_	_	_	_	Terminal
-21	Cox	_	Word	-	-	_	_	_	_	_	_	Terminal
-22	.	_	Punctuation	-	-	_	_	_	_	U	_	_
+1	Walt	walt	NNP	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	Disney	disney	NNP	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	Studios	studios	NNP	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	revealed	reveal	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	that	that	IN	-	-	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	Mariah	mariah	NNP	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	Carey	carey	NNP	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	recorded	record	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	a	a	DT	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	song	song	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	called	call	VBN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	"	"	``	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	Almost	almost	RB	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	Home	home	NN	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	"	"	''	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+16	co	co	NNP	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+17	-	-	HYPH	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+18	written	write	VBN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	and	and	CC	-	-	_	_	_	_	_	_	_	_	N	_	_	_	_	_	_	_	_	_	_	_	_
+20	co	co	NNP	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+21	-	-	HYPH	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+22	produced	produce	VBN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	by	by	IN	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
+24	Carey	carey	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	herself	-PRON-	PRP	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+26	along	along	RP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_
+27	with	with	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
+28	Simone	simone	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	Porter	porter	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
+30	,	,	,	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
+31	Justin	justin	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	C	_	_	_	_	_	_	_	_
+32	Gray	gray	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_
+33	,	,	,	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
+34	Lindsey	lindsey	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	C	_	_	_	_	_	_	_	_
+35	Ray	ray	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
+36	,	,	,	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
+37	Tor	tor	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	C	_	_	_	_	_	_	_	_
+38	Erik	erik	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
+39	Hermansen	hermansen	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
+40	,	,	,	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
+41	and	and	CC	-	-	_	_	_	_	_	_	_	_	_	_	_	_	N	_	_	_	_	_	_	_	_
+42	Mikkel	mikkel	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+43	Eriksen	eriksen	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
+44	(	(	-LRB-	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_
+45	a.k.a	a.k.a	JJ	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
+46	.	.	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
+47	Stargate	stargate	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+48	)	)	-RRB-	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+49	for	for	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
+50	the	the	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+51	soundtrack	soundtrack	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+52	of	of	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+53	the	the	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+54	film	film	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+55	Oz	oz	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+56	the	the	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
+57	Great	great	JJ	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
+58	and	and	CC	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
+59	Powerful	powerful	JJ	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
+60	.	.	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

@@ -1,23 +1,44 @@
-1	He	_	Word	-	-	_	A	_	_	_	A	_	_	A	A
-2	graduated	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-3	from	_	Word	-	-	_	_	_	R	_	_	_	_	_	_
-4	Los	_	Word	-	+	_	_	_	E	_	_	_	_	_	_
-5	Angeles	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_
-6	High	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-7	School	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_
-8	in	_	Word	-	-	_	_	_	_	R	_	_	_	_	_
-9	1955	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-10	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
-11	enrolled	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-12	at	_	Word	-	-	_	_	_	_	_	_	_	R	_	_
-13	Santa	_	Word	-	+	_	_	_	_	_	_	_	E	_	_
-14	Monica	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_
-15	College	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-16	with	_	Word	-	-	_	_	_	_	_	_	_	_	F	_
-17	the	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
-18	intention	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-19	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	F
-20	studying	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-21	medicine	_	Word	-	-	_	_	_	_	_	_	_	_	_	A
-22	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+1	Hoffman	hoffman	NNP	-	-	_	A	_	A	_	_	_	_	_	_	_	_	_
+2	left	leave	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	after	after	IN	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_
+4	a	a	DT	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_
+5	year	year	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	to	to	TO	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_
+7	join	join	VB	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	the	the	DT	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_
+9	Pasadena	pasadena	NNP	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_
+10	Playhouse	playhouse	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	,	,	,	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
+12	although	although	IN	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_
+13	when	when	WRB	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_
+14	he	-PRON-	PRP	-	-	_	_	_	_	_	A	_	_	_	_	_	_	_
+15	told	tell	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	his	-PRON-	PRP$	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_
+17	family	family	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	about	about	IN	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_
+19	his	-PRON-	PRP$	-	-	_	_	_	_	_	_	_	A	_	_	_	_	_
+20	career	career	NN	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_
+21	goal	goal	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	,	,	,	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
+23	an	an	DT	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_
+24	aunt	aunt	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	warned	warn	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	him	-PRON-	PRP	-	-	_	_	_	_	_	_	_	_	_	A	_	_	_
+27	"	"	``	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_
+28	You	-PRON-	PRP	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_
+29	ca	ca	MD	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_
+30	n't	n't	RB	-	-	_	_	_	_	_	_	_	_	_	_	D	_	_
+31	be	be	VB	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	an	an	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_
+33	actor	actor	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	.	.	.	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_
+35	You	-PRON-	PRP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	A
+36	are	be	VBP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F
+37	not	not	RB	-	-	_	_	_	_	_	_	_	_	_	_	_	_	D
+38	good	good	JJ	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E
+39	-	-	HYPH	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
+40	looking	look	VBG	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+41	enough	enough	RB	-	-	_	_	_	_	_	_	_	_	_	_	_	_	D
+42	.	.	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
+43	"	"	''	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
 

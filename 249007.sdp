@@ -1,32 +1,64 @@
-1	Hawke	_	Word	-	-	_	A	_	_	_	_	_	_
-2	then	_	Word	-	-	_	L	_	_	_	_	_	_
-3	appeared	_	Word	-	+	_	_	_	_	_	_	_	_
-4	alongside	_	Word	-	-	_	_	R	_	_	_	_	_
-5	Philip	_	Word	-	+	_	_	_	_	_	_	_	_
-6	Seymour	_	Word	-	-	_	_	Terminal	_	_	_	_	_
-7	Hoffman	_	Word	-	-	_	_	Terminal	_	_	_	_	_
-8	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_
-9	Marisa	_	Word	-	+	_	_	C	_	_	_	_	_
-10	Tomei	_	Word	-	-	_	_	_	Terminal	_	_	_	_
-11	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_
-12	and	_	Word	-	-	_	_	N	_	_	_	_	_
-13	Albert	_	Word	-	+	_	_	C	_	_	_	_	_
-14	Finney	_	Word	-	-	_	_	_	_	Terminal	_	_	_
-15	in	_	Word	-	-	_	_	_	_	_	_	_	R
-16	Sidney	_	Word	-	+	_	_	_	_	_	_	_	_
-17	Lumet	_	Word	-	-	_	_	_	_	_	Terminal	_	_
-18	's	_	Word	-	-	_	_	_	_	_	R	_	_
-19	crime	_	Word	-	+	_	_	_	_	_	_	_	_
-20	drama	_	Word	-	-	_	_	_	_	_	_	C	_
-21	Before	_	Word	-	+	_	_	_	_	_	_	_	_
-22	the	_	Word	-	-	_	_	_	_	_	_	_	Terminal
-23	Devil	_	Word	-	-	_	_	_	_	_	_	_	Terminal
-24	Knows	_	Word	-	-	_	_	_	_	_	_	_	Terminal
-25	You	_	Word	-	-	_	_	_	_	_	_	_	Terminal
-26	're	_	Word	-	-	_	_	_	_	_	_	_	Terminal
-27	Dead	_	Word	-	-	_	_	_	_	_	_	_	Terminal
-28	(	_	Punctuation	-	-	_	_	_	_	_	_	_	U
-29	2007	_	Word	-	-	_	_	_	_	_	_	_	E
-30	)	_	Punctuation	-	-	_	_	_	_	_	_	_	U
-31	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+1	Hawke	hawke	NNP	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	then	then	RB	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	appeared	appear	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	alongside	alongside	IN	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	Philip	philip	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	Seymour	seymour	NNP	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	Hoffman	hoffman	NNP	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	,	,	,	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	Marisa	marisa	NNP	-	+	_	_	C	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	Tomei	tomei	NNP	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	,	,	,	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	and	and	CC	-	-	_	_	N	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	Albert	albert	NNP	-	+	_	_	C	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	Finney	finney	NNP	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	in	in	IN	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
+16	Sidney	sidney	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	Lumet	lumet	NNP	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_
+18	's	's	POS	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
+19	crime	crime	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	drama	drama	NN	-	-	_	_	_	_	_	_	C	_	_	_	_	_	_	_	_	_	_	_
+21	Before	before	IN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	the	the	DT	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
+23	Devil	devil	NNP	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
+24	Knows	knows	NNP	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
+25	You	-PRON-	PRP	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
+26	're	be	VBP	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
+27	Dead	dead	JJ	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
+28	(	(	-LRB-	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+29	2007	2007	CD	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+30	)	)	-RRB-	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	.	.	.	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	Hawke	hawke	NNP	-	-	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+33	played	play	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	an	an	DT	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+35	ex	ex	FW	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+36	-	-	HYPH	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
+37	husband	husband	NN	-	+	_	_	_	_	_	_	_	_	_	_	A	_	A	A	_	_	_	_
+38	in	in	IN	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
+39	desperate	desperate	JJ	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+40	need	need	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+41	of	of	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
+42	child	child	NN	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+43	support	support	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+44	who	who	WP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_
+45	decides	decide	VBZ	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+46	to	to	TO	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_
+47	rob	rob	VB	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A
+48	his	-PRON-	PRP$	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+49	parent	parent	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+50	's	's	POS	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
+51	jewelry	jewelry	NN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+52	store	store	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+53	with	with	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+54	his	-PRON-	PRP$	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+55	brother	brother	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+56	(	(	-LRB-	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_
+57	Hoffman	hoffman	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+58	)	)	-RRB-	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_
+59	,	,	,	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_
+60	with	with	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	L	_	_	_	_	_
+61	disastrous	disastrous	JJ	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+62	consequences	consequence	NNS	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+63	.	.	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

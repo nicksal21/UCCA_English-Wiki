@@ -1,26 +1,39 @@
-1	Following	_	Word	-	-	_	L	_	_	_	_	_	_
-2	the	_	Word	-	-	_	E	_	_	_	_	_	_
-3	formal	_	Word	-	-	_	E	_	_	_	_	_	_
-4	dissolution	_	Word	-	+	_	_	_	_	_	_	_	_
-5	of	_	Word	-	-	_	_	_	R	_	_	_	_
-6	the	_	Word	-	-	_	_	E	_	_	_	_	_
-7	Beatles	_	Word	-	+	_	_	_	_	_	_	_	_
-8	'	_	Punctuation	-	-	_	_	_	U	_	_	_	_
-9	partnership	_	Word	-	+	_	_	_	_	_	_	_	_
-10	in	_	Word	-	-	_	_	_	_	R	_	_	_
-11	1975	_	Word	-	+	_	_	_	_	_	_	_	_
-12	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
-13	McCartney	_	Word	-	-	_	_	_	_	_	A	_	_
-14	re-signed	_	Word	-	+	_	_	_	_	_	_	_	_
-15	with	_	Word	-	-	_	_	_	_	_	_	R	_
-16	EMI	_	Word	-	+	_	_	_	_	_	_	_	_
-17	worldwide	_	Word	-	-	_	_	_	_	_	_	E	_
-18	and	_	Word	-	-	_	_	_	_	_	_	N	_
-19	Capitol	_	Word	-	-	_	_	_	_	_	_	_	_
-20	in	_	Word	-	-	_	_	_	_	_	_	_	R
-21	the	_	Word	-	-	_	_	_	_	_	_	_	E
-22	US	_	Word	-	+	_	_	_	_	_	_	_	_
-23	and	_	Word	-	-	_	_	_	_	_	_	_	N
-24	Canada	_	Word	-	-	_	_	_	_	_	_	_	C
-25	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+1	In	in	IN	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	1979	1979	CD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	,	,	,	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+4	McCartney	mccartney	NNP	-	-	_	_	A	_	_	A	_	_	_	_	A	_	_	_	_
+5	signed	sign	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	with	with	IN	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
+7	Columbia	columbia	NNP	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+8	Records	records	NNPS	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	in	in	IN	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
+10	the	the	DT	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+11	US	us	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	and	and	CC	-	-	_	_	_	_	N	_	_	_	_	_	_	_	_	_	_
+13	Canada	canada	NNP	-	-	_	_	_	_	C	_	_	_	_	_	_	_	_	_	_
+14	reportedly	reportedly	RB	-	-	_	_	_	_	_	D	_	_	_	_	_	_	_	_	_
+15	receiving	receive	VBG	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	the	the	DT	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+17	industry	industry	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	's	's	POS	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_
+19	most	most	RBS	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+20	lucrative	lucrative	JJ	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	recording	recording	NN	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+22	contract	contract	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	to	to	IN	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
+24	date	date	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	,	,	,	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+26	while	while	IN	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_
+27	remaining	remain	VBG	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	with	with	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
+29	EMI	emi	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	for	for	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
+31	distribution	distribution	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	throughout	throughout	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+33	the	the	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+34	rest	rest	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+35	of	of	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+36	the	the	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+37	world	world	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+38	.	.	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

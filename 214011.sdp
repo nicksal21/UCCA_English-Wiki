@@ -1,28 +1,49 @@
-1	In	_	Word	-	-	_	R	_	_	_	_	_
-2	1993	_	Word	-	+	_	_	_	_	_	_	_
-3	,	_	Punctuation	-	-	_	_	U	_	_	_	_
-4	Dunst	_	Word	-	-	_	_	A	_	_	_	_
-5	played	_	Word	-	+	_	_	_	_	_	_	_
-6	Hedril	_	Word	-	-	_	_	A	_	_	_	_
-7	in	_	Word	-	-	_	_	_	R	_	_	_
-8	"	_	Punctuation	-	-	_	_	_	U	_	_	_
-9	Dark	_	Word	-	+	_	_	_	_	_	_	_
-10	Page	_	Word	-	-	_	_	_	Terminal	_	_	_
-11	"	_	Punctuation	-	-	_	_	_	U	_	_	_
-12	,	_	Punctuation	-	-	_	_	_	U	_	_	_
-13	the	_	Word	-	-	_	_	_	_	E	_	_
-14	seventh	_	Word	-	-	_	_	_	_	E	_	_
-15	episode	_	Word	-	+	_	_	_	_	_	_	_
-16	of	_	Word	-	-	_	_	_	_	_	_	R
-17	the	_	Word	-	-	_	_	_	_	_	_	E
-18	seventh	_	Word	-	-	_	_	_	_	_	E	_
-19	season	_	Word	-	+	_	_	_	_	_	_	_
-20	of	_	Word	-	-	_	_	_	_	_	R	_
-21	Star	_	Word	-	+	_	_	_	_	_	_	_
-22	Trek	_	Word	-	-	_	_	_	_	_	_	Terminal
-23	:	_	Punctuation	-	-	_	_	_	_	_	_	U
-24	The	_	Word	-	-	_	_	_	_	_	_	Terminal
-25	Next	_	Word	-	-	_	_	_	_	_	_	Terminal
-26	Generation	_	Word	-	-	_	_	_	_	_	_	Terminal
-27	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+1	The	the	DT	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	breakthrough	breakthrough	NN	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	role	role	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	in	in	IN	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	Dunst	dunst	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	's	's	POS	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	career	career	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	came	come	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	in	in	IN	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
+10	Interview	interview	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	with	with	IN	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_
+12	the	the	DT	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_
+13	Vampire	vampire	NNP	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_
+14	,	,	,	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+15	a	a	DT	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+16	1994	1994	CD	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+17	film	film	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	based	base	VBN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	on	on	IN	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
+20	Anne	anne	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	Rice	rice	NNP	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
+22	's	's	POS	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
+23	novel	novel	NN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	,	,	,	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	in	in	IN	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_
+26	which	which	WDT	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+27	she	-PRON-	PRP	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+28	played	play	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	the	the	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+30	child	child	NN	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+31	vampire	vampire	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	Claudia	claudia	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+33	,	,	,	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_
+34	a	a	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+35	surrogate	surrogate	JJ	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+36	daughter	daughter	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+37	to	to	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+38	Tom	tom	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+39	Cruise	cruise	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
+40	and	and	CC	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	N	_	_	_
+41	Brad	brad	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	C	_	_	_
+42	Pitt	pitt	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
+43	's	's	POS	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
+44	characters	character	NNS	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+45	in	in	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+46	the	the	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+47	film	film	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+48	.	.	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

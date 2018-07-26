@@ -1,22 +1,45 @@
-1	Back	_	Word	-	+	_	_	A	_	_	_	_	_
-2	to	_	Word	-	-	_	Terminal	_	_	_	_	_	_
-3	the	_	Word	-	-	_	Terminal	_	_	_	_	_	_
-4	Egg	_	Word	-	-	_	Terminal	_	_	_	_	_	_
-5	(	_	Punctuation	-	-	_	U	_	_	_	_	_	_
-6	1979	_	Word	-	+	_	_	_	_	_	_	_	_
-7	)	_	Punctuation	-	-	_	_	_	U	_	_	_	_
-8	featured	_	Word	-	+	_	_	_	_	_	_	_	_
-9	McCartney	_	Word	-	+	_	_	_	_	_	_	_	_
-10	's	_	Word	-	-	_	_	_	_	R	_	_	_
-11	collaboration	_	Word	-	-	_	_	_	_	_	_	_	_
-12	with	_	Word	-	-	_	_	_	_	_	R	_	_
-13	a	_	Word	-	-	_	_	_	_	_	E	_	_
-14	rock	_	Word	-	-	_	_	_	_	_	E	_	_
-15	supergroup	_	Word	-	+	_	_	_	_	_	_	A	_
-16	dubbed	_	Word	-	+	_	_	_	_	_	_	_	_
-17	"	_	Punctuation	-	-	_	_	_	_	_	_	U	_
-18	the	_	Word	-	+	_	_	_	_	_	_	A	_
-19	Rockestra	_	Word	-	-	_	_	_	_	_	_	_	Terminal
-20	"	_	Punctuation	-	-	_	_	_	_	_	_	U	_
-21	.	_	Punctuation	-	-	_	_	_	_	_	_	U	_
+1	Back	back	RB	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	to	to	IN	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	the	the	DT	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	Egg	egg	NNP	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	(	(	-LRB-	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	1979	1979	CD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	)	)	-RRB-	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+8	featured	feature	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	McCartney	mccartney	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	's	's	POS	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
+11	collaboration	collaboration	NN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	with	with	IN	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
+13	a	a	DT	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+14	rock	rock	NN	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+15	supergroup	supergroup	NN	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+16	dubbed	dub	VBN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	"	"	``	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
+18	the	the	DT	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+19	Rockestra	rockestra	NNP	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
+20	"	"	''	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+21	.	.	.	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+22	Credited	credit	VBN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	to	to	IN	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
+24	Wings	wings	NNPS	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	,	,	,	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+26	the	the	DT	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+27	band	band	NN	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+28	included	include	VBD	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	Pete	pete	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	Townshend	townshend	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
+31	,	,	,	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_
+32	David	david	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	C	_	_	_	_
+33	Gilmour	gilmour	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
+34	,	,	,	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_
+35	Gary	gary	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	C	_	_	_	_
+36	Brooker	brooker	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
+37	,	,	,	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_
+38	John	john	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	C	_	_	_	_
+39	Paul	paul	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
+40	Jones	jones	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
+41	and	and	CC	-	-	_	_	_	_	_	_	_	_	_	_	_	N	_	_	_	_
+42	John	john	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	C	_	_	_	_
+43	Bonham	bonham	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
+44	.	.	.	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_
 

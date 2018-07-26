@@ -1,27 +1,52 @@
-1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_
-2	the	_	Word	-	-	_	E	_	_	_	_	_	_	_
-3	United	_	Word	-	+	_	_	_	_	_	_	_	_	_
-4	States	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_
-5	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
-6	she	_	Word	-	-	_	_	A	_	_	_	_	_	_
-7	became	_	Word	-	+	_	_	_	_	_	_	_	_	_
-8	the	_	Word	-	-	_	_	_	E	_	_	_	_	_
-9	first	_	Word	-	-	_	_	_	E	_	_	_	_	_
-10	actress	_	Word	-	+	_	_	_	_	A	_	_	_	_
-11	honoured	_	Word	-	+	_	_	_	_	_	_	_	_	_
-12	by	_	Word	-	-	_	_	_	_	R	_	_	_	_
-13	"	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_
-14	The	_	Word	-	-	_	_	_	_	_	E	_	_	_
-15	Friends	_	Word	-	+	_	_	_	_	_	_	_	_	_
-16	of	_	Word	-	-	_	_	_	_	_	R	_	_	_
-17	the	_	Word	-	-	_	_	_	_	_	_	E	_	_
-18	Libraries	_	Word	-	+	_	_	_	_	_	_	_	_	_
-19	at	_	Word	-	-	_	_	_	_	_	_	R	_	_
-20	the	_	Word	-	-	_	_	_	_	_	_	_	E	_
-21	University	_	Word	-	+	_	_	_	_	_	_	_	_	_
-22	of	_	Word	-	-	_	_	_	_	_	_	_	R	_
-23	Southern	_	Word	-	-	_	_	_	_	_	_	_	_	E
-24	California	_	Word	-	+	_	_	_	_	_	_	_	_	_
-25	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
-26	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+1	In	in	IN	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	the	the	DT	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	United	united	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	States	states	NNP	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	,	,	,	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	she	-PRON-	PRP	-	-	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	became	become	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	the	the	DT	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	first	first	JJ	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	actress	actress	NN	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+11	honoured	honour	VBN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	by	by	IN	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
+13	"	"	``	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+14	The	the	DT	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+15	Friends	friends	NNPS	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	of	of	IN	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
+17	the	the	DT	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+18	Libraries	libraries	NNPS	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	at	at	IN	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
+20	the	the	DT	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+21	University	university	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	of	of	IN	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
+23	Southern	southern	NNP	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+24	California	california	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	"	"	''	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	.	.	.	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+27	The	the	DT	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+28	ceremony	ceremony	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	was	be	VBD	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_
+30	conducted	conduct	VBN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	as	as	IN	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
+32	a	a	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+33	memorial	memorial	JJ	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+34	service	service	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+35	,	,	,	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+36	with	with	IN	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+37	selections	selection	NNS	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+38	from	from	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
+39	her	-PRON-	PRP$	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+40	films	film	NNS	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+41	shown	show	VBN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+42	and	and	CC	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+43	tributes	tribute	NNS	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+44	provided	provide	VBN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+45	by	by	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
+46	such	such	JJ	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+47	associates	associate	NNS	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+48	as	as	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+49	George	george	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+50	Cukor	cukor	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
+51	.	.	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_
 

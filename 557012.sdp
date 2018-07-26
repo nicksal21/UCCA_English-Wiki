@@ -1,29 +1,36 @@
-1	Bond	_	Word	-	-	_	A	_	A	_	_	_
-2	rejected	_	Word	-	+	_	_	_	_	_	_	_
-3	him	_	Word	-	-	_	A	A	_	_	_	_
-4	after	_	Word	-	-	_	L	_	_	_	_	_
-5	a	_	Word	-	-	_	_	E	_	_	_	_
-6	tryout	_	Word	-	+	_	_	_	_	_	_	_
-7	,	_	Punctuation	-	-	_	U	_	_	_	_	_
-8	advising	_	Word	-	+	_	_	_	_	_	_	_
-9	Presley	_	Word	-	-	_	_	_	A	A	_	_
-10	to	_	Word	-	-	_	_	_	_	F	_	_
-11	stick	_	Word	-	-	_	_	_	_	E	_	_
-12	to	_	Word	-	-	_	_	_	_	F	_	_
-13	truck	_	Word	-	-	_	_	_	_	E	_	_
-14	driving	_	Word	-	+	_	_	_	_	_	_	_
-15	"	_	Punctuation	-	-	_	U	_	_	_	_	_
-16	because	_	Word	-	-	_	L	_	_	_	_	_
-17	you	_	Word	-	-	_	_	_	_	_	A	_
-18	're	_	Word	-	-	_	_	_	_	_	F	_
-19	never	_	Word	-	-	_	_	_	_	_	D	_
-20	going	_	Word	-	-	_	_	_	_	_	E	_
-21	to	_	Word	-	-	_	_	_	_	_	F	_
-22	make	_	Word	-	+	_	_	_	_	_	_	_
-23	it	_	Word	-	-	_	_	_	_	_	Terminal	_
-24	as	_	Word	-	-	_	_	_	_	_	_	R
-25	a	_	Word	-	-	_	_	_	_	_	_	E
-26	singer	_	Word	-	+	_	_	_	_	_	_	_
-27	.	_	Punctuation	-	-	_	_	_	_	_	_	U
-28	"	_	Punctuation	-	-	_	_	_	_	_	_	U
+1	His	-PRON-	PRP$	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_
+2	friend	friend	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	Ronnie	ronnie	NNP	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_
+4	Smith	smith	NNP	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
+5	,	,	,	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_
+6	after	after	IN	-	-	_	_	_	L	_	_	_	_	_	_	_	_	_
+7	playing	play	VBG	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	a	a	DT	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_
+9	few	few	JJ	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_
+10	local	local	JJ	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_
+11	gigs	gig	NNS	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	with	with	IN	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_
+13	him	-PRON-	PRP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	,	,	,	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_
+15	suggested	suggest	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	he	-PRON-	PRP	-	-	_	_	_	_	_	_	_	A	_	_	_	_	_
+17	contact	contact	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	Eddie	eddie	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	Bond	bond	NNP	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
+20	,	,	,	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_
+21	leader	leader	NN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	of	of	IN	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_
+23	Smith	smith	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	's	's	POS	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_
+25	professional	professional	JJ	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_
+26	band	band	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_
+27	,	,	,	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_
+28	which	which	WDT	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_
+29	had	have	VBD	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_
+30	an	an	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_
+31	opening	opening	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	for	for	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R
+33	a	a	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E
+34	vocalist	vocalist	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+35	.	.	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
 

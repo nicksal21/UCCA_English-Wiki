@@ -1,40 +1,29 @@
-1	In	_	Word	-	+	_	_	L	_	_	_	_	_	_	_	_	_	_	_
-2	addition	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_
-3	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
-4	he	_	Word	-	-	_	_	A	_	_	_	_	_	A	_	_	_	_	_
-5	holds	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	an	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-7	unrecognised	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-8	record	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-9	for	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_
-10	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-11	most	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-12	number	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-13	of	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_
-14	takes	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-15	for	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_
-16	a	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-17	single	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-18	shot	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-19	in	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_
-20	a	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-21	film	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-22	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
-23	having	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_	_
-24	shot	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-25	over	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-26	2900	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-27	retakes	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-28	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_
-29	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-30	complex	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-31	scene	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_
-32	involving	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-33	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-34	Jianzi	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-35	game	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-36	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-37	Dragon	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-38	Lord	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
-39	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	Chan	chan	NNP	-	-	_	A	_	A	_	_	_	_	_	_
+2	has	have	VBZ	-	-	_	F	_	_	_	_	_	_	_	_
+3	been	be	VBN	-	-	_	F	_	_	_	_	_	_	_	_
+4	injured	injure	VBN	-	+	_	_	_	_	_	_	_	_	_	_
+5	numerous	numerous	JJ	-	-	_	_	E	_	_	_	_	_	_	_
+6	times	time	NNS	-	+	_	_	_	_	_	_	_	_	_	_
+7	attempting	attempt	VBG	-	+	_	_	_	_	_	_	_	_	_	_
+8	stunts	stunt	NNS	-	-	_	_	_	A	_	_	_	_	_	_
+9	;	;	:	-	-	_	U	_	_	_	_	_	_	_	_
+10	many	many	JJ	-	+	_	_	_	_	_	_	_	_	_	_
+11	of	of	IN	-	-	_	_	_	_	R	_	_	_	_	_
+12	them	-PRON-	PRP	-	-	_	_	_	_	_	_	_	_	_	_
+13	have	have	VBP	-	-	_	_	_	_	_	F	_	_	_	_
+14	been	be	VBN	-	-	_	_	_	_	_	F	_	_	_	_
+15	shown	show	VBN	-	+	_	_	_	_	_	_	_	_	_	_
+16	as	as	IN	-	-	_	_	_	_	_	_	R	_	_	_
+17	outtakes	outtake	NNS	-	+	_	_	_	_	_	_	_	_	_	_
+18	or	or	CC	-	-	_	_	_	_	_	_	N	_	_	_
+19	as	as	IN	-	-	_	_	_	_	_	_	_	R	_	_
+20	bloopers	blooper	NNS	-	+	_	_	_	_	_	_	_	_	_	_
+21	during	during	IN	-	-	_	L	_	_	_	_	_	_	_	_
+22	the	the	DT	-	-	_	_	_	_	_	_	_	_	E	_
+23	closing	closing	NN	-	-	_	_	_	_	_	_	_	_	E	_
+24	credits	credit	NNS	-	+	_	_	_	_	_	_	_	_	_	_
+25	of	of	IN	-	-	_	_	_	_	_	_	_	_	_	R
+26	his	-PRON-	PRP$	-	-	_	_	_	_	_	_	_	_	_	E
+27	films	film	NNS	-	+	_	_	_	_	_	_	_	_	_	_
+28	.	.	.	-	-	_	_	_	_	_	_	_	_	_	U
 

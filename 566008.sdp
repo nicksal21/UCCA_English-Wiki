@@ -1,20 +1,71 @@
-1	At	_	Word	-	-	_	R	_	_	_	_
-2	the	_	Word	-	-	_	E	_	_	_	_
-3	end	_	Word	-	+	_	_	_	_	_	_
-4	of	_	Word	-	-	_	_	R	_	_	_
-5	the	_	Word	-	-	_	_	E	_	_	_
-6	show	_	Word	-	+	_	_	_	_	_	_
-7	,	_	Punctuation	-	-	_	_	_	U	_	_
-8	Sullivan	_	Word	-	-	_	_	_	A	_	_
-9	declared	_	Word	-	+	_	_	_	_	_	_
-10	Presley	_	Word	-	-	_	_	_	A	_	_
-11	"	_	Punctuation	-	-	_	_	_	U	_	_
-12	a	_	Word	-	-	_	_	_	_	_	E
-13	real	_	Word	-	-	_	_	_	_	_	E
-14	decent	_	Word	-	+	_	_	_	_	_	_
-15	,	_	Punctuation	-	-	_	_	_	_	U	_
-16	fine	_	Word	-	-	_	_	_	_	C	_
-17	boy	_	Word	-	+	_	_	_	_	_	_
-18	"	_	Punctuation	-	-	_	_	_	_	_	U
-19	.	_	Punctuation	-	-	_	_	_	_	_	U
+1	"	"	''	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	To	to	TO	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	close	close	VB	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	,	,	,	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	displaying	display	VBG	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	his	-PRON-	PRP$	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	range	range	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	and	and	CC	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	defying	defy	VBG	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	Sullivan	sullivan	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	's	's	POS	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	wishes	wish	NNS	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	,	,	,	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	Presley	presley	NNP	-	-	_	A	_	A	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	sang	sing	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	a	a	DT	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+17	gentle	gentle	JJ	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+18	black	black	JJ	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+19	spiritual	spiritual	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	,	,	,	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+21	"	"	''	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+22	Peace	peace	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	in	in	IN	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
+24	the	the	DT	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
+25	Valley	valley	NNP	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
+26	"	"	''	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+27	.	.	.	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	At	at	IN	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
+29	the	the	DT	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+30	end	end	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	of	of	IN	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
+32	the	the	DT	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+33	show	show	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	,	,	,	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
+35	Sullivan	sullivan	NNP	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+36	declared	declare	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+37	Presley	presley	NNP	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+38	"	"	``	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
+39	a	a	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+40	real	real	RB	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+41	decent	decent	JJ	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+42	,	,	,	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_
+43	fine	fine	JJ	-	-	_	_	_	_	_	_	_	_	_	_	_	C	_	_	_	_	_	_	_
+44	boy	boy	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+45	"	"	''	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+46	.	.	.	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+47	Two	two	CD	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+48	days	day	NNS	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+49	later	later	RB	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
+50	,	,	,	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
+51	the	the	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+52	Memphis	memphis	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+53	draft	draft	NN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+54	board	board	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+55	announced	announce	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+56	that	that	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
+57	Presley	presley	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	A	_
+58	would	would	MD	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_
+59	be	be	VB	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_
+60	classified	classify	VBN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+61	1A	1a	NN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+62	and	and	CC	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	L	_	_
+63	would	would	MD	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_
+64	probably	probably	RB	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_
+65	be	be	VB	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_
+66	drafted	draft	VBN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+67	sometime	sometime	RB	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+68	that	that	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+69	year	year	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+70	.	.	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

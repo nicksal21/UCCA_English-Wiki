@@ -1,27 +1,83 @@
-1	Her	_	Word	-	-	_	A	_	_	_	_	_	_
-2	breakthrough	_	Word	-	-	_	E	_	_	_	_	_	_
-3	role	_	Word	-	+	_	_	_	_	_	_	_	_
-4	was	_	Word	-	-	_	_	_	F	_	_	_	_
-5	in	_	Word	-	-	_	_	_	R	_	_	_	_
-6	the	_	Word	-	-	_	_	E	_	_	_	_	_
-7	sadomasochistic	_	Word	-	-	_	_	E	_	_	_	_	_
-8	romance	_	Word	-	+	_	_	_	_	_	_	_	_
-9	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_
-10	Secretary	_	Word	-	+	_	_	_	_	_	_	_	_
-11	(	_	Punctuation	-	-	_	_	_	U	_	_	_	_
-12	2002	_	Word	-	-	_	_	_	E	_	_	_	_
-13	)	_	Punctuation	-	-	_	_	_	U	_	_	_	_
-14	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_
-15	for	_	Word	-	+	_	_	_	_	_	_	_	_
-16	which	_	Word	-	-	_	_	_	_	F	_	_	_
-17	she	_	Word	-	-	_	_	_	_	_	A	_	_
-18	received	_	Word	-	+	_	_	_	_	_	_	_	_
-19	critical	_	Word	-	-	_	_	_	_	_	_	E	_
-20	acclaim	_	Word	-	+	_	_	_	_	_	_	_	_
-21	and	_	Word	-	-	_	_	_	_	_	_	N	_
-22	a	_	Word	-	-	_	_	_	_	_	_	_	E
-23	Golden	_	Word	-	+	_	_	_	_	_	_	_	_
-24	Globe	_	Word	-	-	_	_	_	_	_	_	_	Terminal
-25	nomination	_	Word	-	-	_	_	_	_	_	_	_	E
-26	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+1	Gyllenhaal	gyllenhaal	NNP	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	has	have	VBZ	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	appeared	appear	VBN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	in	in	IN	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	an	an	DT	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	eclectic	eclectic	JJ	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	range	range	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	of	of	IN	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	films	film	NNS	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	including	include	VBG	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	Sherrybaby	sherrybaby	NNP	-	+	_	_	_	_	_	C	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	(	(	-LRB-	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	2006	2006	CD	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	)	)	-RRB-	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	for	for	IN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	which	which	WDT	-	-	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	she	-PRON-	PRP	-	-	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	was	be	VBD	-	-	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	nominated	nominate	VBN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	for	for	IN	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
+21	a	a	DT	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+22	Golden	golden	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	Globe	globe	NNP	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_
+24	;	;	:	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	the	the	DT	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+26	romantic	romantic	JJ	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+27	comedy	comedy	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	,	,	,	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+29	Trust	trust	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	The	the	DT	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
+31	Man	man	NNP	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
+32	(	(	-LRB-	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+33	2006	2006	CD	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+34	)	)	-RRB-	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+35	;	;	:	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+36	and	and	CC	-	-	_	_	_	_	N	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+37	numerous	numerous	JJ	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+38	big-budget	big-budget	JJ	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+39	films	film	NNS	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+40	such	such	JJ	-	+	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
+41	as	as	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
+42	World	world	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+43	Trade	trade	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_
+44	Center	center	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_
+45	(	(	-LRB-	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_
+46	2006	2006	CD	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+47	)	)	-RRB-	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_
+48	and	and	CC	-	-	_	_	_	_	_	_	_	_	_	_	_	_	N	_	_	_	_	_	_	_
+49	The	the	DT	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+50	Dark	dark	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
+51	Knight	knight	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
+52	(	(	-LRB-	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
+53	2008	2008	CD	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+54	)	)	-RRB-	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+55	.	.	.	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+56	She	-PRON-	PRP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+57	next	next	RB	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_
+58	starred	star	VBN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+59	in	in	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
+60	the	the	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+61	musical-drama	musical-drama	NN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+62	,	,	,	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_
+63	Crazy	crazy	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	C	_	_	_
+64	Heart	heart	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
+65	(	(	-LRB-	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_
+66	2009	2009	CD	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+67	)	)	-RRB-	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_
+68	,	,	,	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_
+69	for	for	IN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+70	which	which	WDT	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_
+71	she	-PRON-	PRP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+72	was	be	VBD	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_
+73	nominated	nominate	VBN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+74	for	for	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+75	an	an	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+76	Academy	academy	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+77	Award	award	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+78	for	for	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+79	Best	best	RBS	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+80	Supporting	supporting	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+81	Actress	actress	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+82	.	.	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

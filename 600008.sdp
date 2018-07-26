@@ -1,26 +1,38 @@
-1	McCartney	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-2	's	_	Word	-	-	_	R	_	_	_	_	_	_	_	_
-3	loss	_	Word	-	-	_	_	_	_	_	_	_	_	_	_
-4	later	_	Word	-	-	_	_	D	_	_	_	_	_	_	_
-5	became	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-6	a	_	Word	-	-	_	_	_	E	_	_	_	_	_	_
-7	point	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-8	of	_	Word	-	-	_	_	_	_	R	_	_	_	_	_
-9	connection	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-10	with	_	Word	-	-	_	_	_	_	_	R	_	_	_	_
-11	John	_	Word	-	+	_	_	_	_	_	_	E	_	_	_
-12	Lennon	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_
-13	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_
-14	whose	_	Word	-	-	_	_	_	_	_	_	_	_	F	_
-15	mother	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-16	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_
-17	Julia	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-18	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_
-19	had	_	Word	-	-	_	_	_	_	_	_	_	_	F	_
-20	died	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-21	when	_	Word	-	-	_	_	_	_	_	_	_	_	L	_
-22	he	_	Word	-	-	_	_	_	_	_	_	_	_	_	A
-23	was	_	Word	-	-	_	_	_	_	_	_	_	_	_	F
-24	seventeen	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-25	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+1	A	a	DT	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_
+2	trumpet	trumpet	NN	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_
+3	player	player	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	and	and	CC	-	-	_	N	_	_	_	_	_	_	_	_	_	_	_
+5	pianist	pianist	NN	-	-	_	C	_	_	_	_	_	_	_	_	_	_	_
+6	who	who	WP	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_
+7	led	lead	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	Jim	jim	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	Mac	mac	NNP	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
+10	's	's	POS	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_
+11	Jazz	jazz	NNP	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_
+12	Band	band	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	in	in	IN	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_
+14	the	the	DT	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_
+15	1920s	1920	NNS	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	,	,	,	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
+17	McCartney	mccartney	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	's	's	POS	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_
+19	father	father	NN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	kept	keep	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	an	an	DT	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_
+22	upright	upright	JJ	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_
+23	piano	piano	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	in	in	IN	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_
+25	the	the	DT	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_
+26	front	front	JJ	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_
+27	room	room	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	,	,	,	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_
+29	and	and	CC	-	-	_	_	_	_	_	_	_	L	_	_	_	_	_
+30	he	-PRON-	PRP	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_
+31	encouraged	encourage	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	his	-PRON-	PRP$	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_
+33	sons	son	NNS	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	to	to	TO	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F
+35	be	be	VB	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F
+36	musical	musical	JJ	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+37	.	.	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
 

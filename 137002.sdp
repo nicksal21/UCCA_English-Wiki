@@ -1,32 +1,42 @@
-1	Two	_	Word	-	-	_	E	_	_	_	_	_	_	_
-2	years	_	Word	-	+	_	_	_	_	_	_	_	_	_
-3	of	_	Word	-	-	_	R	_	_	_	_	_	_	_
-4	intense	_	Word	-	-	_	_	E	_	_	_	_	_	_
-5	work	_	Word	-	+	_	_	_	_	_	_	_	_	_
-6	had	_	Word	-	-	_	_	_	F	_	_	_	_	_
-7	left	_	Word	-	-	_	_	_	E	_	_	_	_	_
-8	her	_	Word	-	-	_	_	_	A	_	_	_	_	_
-9	exhausted	_	Word	-	+	_	_	_	_	_	_	_	_	_
-10	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_
-11	however	_	Word	-	-	_	_	_	L	_	_	_	_	_
-12	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_
-13	and	_	Word	-	-	_	_	_	L	_	_	_	_	_
-14	her	_	Word	-	-	_	_	_	_	E	_	_	_	_
-15	friend	_	Word	-	+	_	_	_	_	_	_	_	_	_
-16	Constance	_	Word	-	+	_	_	_	_	_	_	_	_	_
-17	Collier	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_
-18	wrote	_	Word	-	-	_	_	_	_	_	_	_	_	_
-19	that	_	Word	-	-	_	_	_	_	_	_	F	_	_
-20	Hepburn	_	Word	-	-	_	_	_	_	_	_	A	_	_
-21	was	_	Word	-	+	_	_	_	_	_	_	_	_	_
-22	"	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_
-23	on	_	Word	-	-	_	_	_	_	_	_	_	R	_
-24	the	_	Word	-	-	_	_	_	_	_	_	_	E	_
-25	verge	_	Word	-	+	_	_	_	_	_	_	_	_	_
-26	of	_	Word	-	-	_	_	_	_	_	_	_	_	R
-27	a	_	Word	-	-	_	_	_	_	_	_	_	_	E
-28	nervous	_	Word	-	-	_	_	_	_	_	_	_	_	E
-29	breakdown	_	Word	-	+	_	_	_	_	_	_	_	_	_
-30	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
-31	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+1	Two	two	CD	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_
+2	years	year	NNS	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	of	of	IN	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_
+4	intense	intense	JJ	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_
+5	work	work	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	had	have	VBD	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_
+7	left	leave	VBN	-	-	_	_	_	D	_	_	_	_	_	_	_	_	_
+8	her	-PRON-	PRP	-	-	_	_	_	A	_	_	_	_	_	_	_	_	_
+9	exhausted	exhausted	JJ	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	,	,	,	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_
+11	however	however	RB	-	-	_	_	_	L	_	_	_	_	_	_	_	_	_
+12	,	,	,	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_
+13	and	and	CC	-	-	_	_	_	L	_	_	_	_	_	_	_	_	_
+14	her	-PRON-	PRP$	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_
+15	friend	friend	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	Constance	constance	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	Collier	collier	NNP	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_
+18	wrote	write	VBD	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	that	that	IN	-	-	_	_	_	_	_	_	F	_	_	_	_	_	_
+20	Hepburn	hepburn	NNP	-	-	_	_	_	_	_	_	A	_	_	_	_	_	_
+21	was	be	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	"	"	``	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_
+23	on	on	IN	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_
+24	the	the	DT	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_
+25	verge	verge	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	of	of	IN	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_
+27	a	a	DT	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_
+28	nervous	nervous	JJ	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_
+29	breakdown	breakdown	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	"	"	''	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_
+31	.	.	.	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_
+32	Widely	widely	RB	-	-	_	_	_	_	_	_	_	_	_	D	_	_	_
+33	acclaimed	acclaim	VBN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	,	,	,	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_
+35	The	the	DT	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_
+36	Millionairess	millionairess	NNP	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
+37	was	be	VBD	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_
+38	brought	bring	VBN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+39	to	to	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R
+40	Broadway	broadway	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+41	.	.	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
 

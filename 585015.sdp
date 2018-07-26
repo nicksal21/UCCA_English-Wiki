@@ -1,27 +1,57 @@
-1	His	_	Word	-	-	_	E	_	_	_	_	_	_	_	_
-2	mother	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-3	married	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-4	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
-5	as	_	Word	-	-	_	_	_	_	R	_	_	_	_	_
-6	her	_	Word	-	-	_	_	_	E	_	_	_	_	_	_
-7	second	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-8	husband	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-9	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
-10	Robert	_	Word	-	+	_	_	_	_	_	_	A	A	A	_
-11	Palmer	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_
-12	(	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_
-13	died	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-14	2000	_	Word	-	-	_	_	_	_	_	_	D	_	_	_
-15	)	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_
-16	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_
-17	whom	_	Word	-	-	_	_	_	_	_	_	_	R	_	_
-18	Depp	_	Word	-	-	_	_	_	_	_	_	_	A	_	_
-19	called	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-20	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_
-21	an	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
-22	inspiration	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-23	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
-24	me	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-25	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
-26	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+1	His	-PRON-	PRP$	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	mother	mother	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	married	marry	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	,	,	,	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	as	as	IN	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	her	-PRON-	PRP$	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	second	second	JJ	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	husband	husband	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	,	,	,	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	Robert	robert	NNP	-	+	_	_	_	_	_	_	A	A	A	_	_	_	_	_	_	_	_	_
+11	Palmer	palmer	NNP	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_
+12	(	(	-LRB-	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+13	died	die	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	2000	2000	CD	-	-	_	_	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_
+15	)	)	-RRB-	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+16	,	,	,	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+17	whom	whom	WP	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
+18	Depp	depp	NNP	-	-	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+19	called	call	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	"	"	``	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+21	an	an	DT	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+22	inspiration	inspiration	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	to	to	IN	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_
+24	me	-PRON-	PRP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	"	"	''	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	.	.	.	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+27	Depp	depp	NNP	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_	_	A	_	_	_
+28	engaged	engage	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	in	in	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
+30	self	self	NN	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+31	-	-	HYPH	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
+32	harm	harm	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	when	when	WRB	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	he	-PRON-	PRP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+35	was	be	VBD	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_
+36	young	young	JJ	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+37	,	,	,	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+38	due	due	JJ	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+39	to	to	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_
+40	the	the	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+41	stress	stress	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+42	of	of	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
+43	dealing	deal	VBG	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+44	with	with	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
+45	family	family	NN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+46	problems	problem	NNS	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+47	,	,	,	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+48	which	which	WDT	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+49	resulted	result	VBD	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+50	in	in	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+51	several	several	JJ	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+52	self	self	NN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+53	-	-	HYPH	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_
+54	inflicted	inflict	VBN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+55	scars	scar	NNS	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+56	.	.	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

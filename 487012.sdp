@@ -1,23 +1,49 @@
-1	In	_	Word	-	-	_	R	_	_	_	_	_
-2	2001	_	Word	-	+	_	_	_	_	_	_	_
-3	,	_	Punctuation	-	-	_	_	_	U	_	_	_
-4	director	_	Word	-	-	_	_	E	_	_	_	_
-5	Ridley	_	Word	-	+	_	_	_	_	_	_	_
-6	Scott	_	Word	-	-	_	_	Terminal	_	_	_	_
-7	cast	_	Word	-	+	_	_	_	_	_	_	_
-8	Bana	_	Word	-	-	_	_	_	A	_	_	_
-9	as	_	Word	-	-	_	_	_	_	R	_	_
-10	an	_	Word	-	-	_	_	_	_	E	_	_
-11	American	_	Word	-	-	_	_	_	_	E	_	_
-12	soldier	_	Word	-	+	_	_	_	_	_	_	_
-13	in	_	Word	-	-	_	_	_	_	_	R	_
-14	the	_	Word	-	-	_	_	_	_	_	E	_
-15	film	_	Word	-	-	_	_	_	_	_	E	_
-16	Black	_	Word	-	+	_	_	_	_	_	_	A
-17	Hawk	_	Word	-	-	_	_	_	_	_	Terminal	_
-18	Down	_	Word	-	-	_	_	_	_	_	Terminal	_
-19	(	_	Punctuation	-	-	_	_	_	_	_	U	_
-20	2001	_	Word	-	+	_	_	_	_	_	_	_
-21	)	_	Punctuation	-	-	_	_	_	_	_	_	U
-22	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+1	In	in	IN	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	the	the	DT	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	film	film	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	,	,	,	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	he	-PRON-	PRP	-	-	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	played	play	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	Sergeant	sergeant	NNP	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+8	First	first	NNP	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_
+9	Class	class	NNP	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_
+10	Norm	norm	NNP	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+11	'	'	''	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+12	Hoot	hoot	NNP	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
+13	'	'	''	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+14	Gibson	gibson	NNP	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
+15	,	,	,	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+16	an	an	DT	-	-	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_
+17	elite	elite	JJ	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+18	Delta	delta	NNP	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+19	Force	force	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	soldier	soldier	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	,	,	,	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+22	who	who	WP	-	-	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_
+23	fights	fight	VBZ	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	his	-PRON-	PRP$	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+25	way	way	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	out	out	IN	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
+27	of	of	IN	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_
+28	a	a	DT	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+29	battle	battle	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	in	in	IN	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
+31	Mogadishu	mogadishu	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	,	,	,	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_
+33	Somalia	somalia	NNP	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
+34	after	after	IN	-	-	_	_	_	_	_	_	_	L	_	_	_	_	_	_	_	_
+35	a	a	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+36	mission	mission	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+37	to	to	TO	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_
+38	capture	capture	VB	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+39	two	two	CD	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+40	top	top	JJ	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+41	lieutenants	lieutenant	NNS	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+42	of	of	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+43	a	a	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+44	renegade	renegade	JJ	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+45	warlord	warlord	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+46	goes	go	VBZ	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+47	awry	awry	JJ	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
+48	.	.	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

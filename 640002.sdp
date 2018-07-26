@@ -1,21 +1,23 @@
-1	A	_	Word	-	-	_	E	_	_	_	_	_
-2	second	_	Word	-	-	_	E	_	_	_	_	_
-3	single	_	Word	-	+	_	_	_	_	_	_	_
-4	from	_	Word	-	-	_	_	R	_	_	_	_
-5	the	_	Word	-	-	_	_	E	_	_	_	_
-6	album	_	Word	-	+	_	_	_	_	_	_	_
-7	,	_	Punctuation	-	-	_	U	_	_	_	_	_
-8	"	_	Punctuation	-	-	_	U	_	_	_	_	_
-9	#9	_	Word	-	+	_	E	_	_	_	_	_
-10	Dream	_	Word	-	-	_	_	_	Terminal	_	_	_
-11	"	_	Punctuation	-	-	_	_	_	_	U	_	_
-12	,	_	Punctuation	-	-	_	_	_	_	U	_	_
-13	followed	_	Word	-	+	_	_	_	_	_	_	_
-14	before	_	Word	-	-	_	_	_	_	_	_	R
-15	the	_	Word	-	-	_	_	_	_	_	E	_
-16	end	_	Word	-	+	_	_	_	_	_	_	_
-17	of	_	Word	-	-	_	_	_	_	_	_	R
-18	the	_	Word	-	-	_	_	_	_	_	_	E
-19	year	_	Word	-	+	_	_	_	_	_	_	_
-20	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+1	Starr	starr	NNP	-	+	_	_	_	_	_	_	_	_
+2	's	's	POS	-	-	_	R	_	_	_	_	_	_
+3	Goodnight	goodnight	NNP	-	+	_	_	_	_	_	_	_	_
+4	Vienna	vienna	NNP	-	-	_	_	Terminal	_	_	_	_	_
+5	(	(	-LRB-	-	-	_	_	U	_	_	_	_	_
+6	1974	1974	CD	-	-	_	_	E	_	_	_	_	_
+7	)	)	-RRB-	-	-	_	_	_	U	_	_	_	_
+8	again	again	RB	-	-	_	_	_	D	_	_	_	_
+9	saw	see	VBD	-	-	_	_	_	F	_	_	_	_
+10	assistance	assistance	NN	-	+	_	_	_	_	_	_	_	_
+11	from	from	IN	-	-	_	_	_	_	R	_	_	_
+12	Lennon	lennon	NNP	-	+	_	_	_	_	_	A	_	A
+13	,	,	,	-	-	_	_	_	_	U	_	_	_
+14	who	who	WP	-	-	_	_	_	_	_	F	_	_
+15	wrote	write	VBD	-	+	_	_	_	_	_	_	_	_
+16	the	the	DT	-	-	_	_	_	_	_	_	E	_
+17	title	title	NN	-	-	_	_	_	_	_	_	E	_
+18	track	track	NN	-	+	_	_	_	_	_	_	_	_
+19	and	and	CC	-	-	_	_	_	_	_	L	_	_
+20	played	play	VBD	-	+	_	_	_	_	_	_	_	_
+21	piano	piano	NN	-	-	_	_	_	_	_	_	_	A
+22	.	.	.	-	-	_	_	_	_	_	_	_	U
 

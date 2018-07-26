@@ -1,15 +1,53 @@
-1	Settled	_	Word	-	+	_	_	_	_	_	_
-2	back	_	Word	-	-	_	Terminal	_	_	_	_
-3	in	_	Word	-	-	_	_	R	_	_	_
-4	New	_	Word	-	+	_	_	_	_	_	_
-5	York	_	Word	-	-	_	_	Terminal	_	_	_
-6	,	_	Punctuation	-	-	_	U	_	_	_	_
-7	Lennon	_	Word	-	-	_	A	_	A	_	_
-8	recorded	_	Word	-	+	_	_	_	_	_	_
-9	the	_	Word	-	-	_	_	_	_	E	_
-10	album	_	Word	-	+	_	_	_	_	_	_
-11	Walls	_	Word	-	+	_	_	_	_	_	_
-12	and	_	Word	-	-	_	_	_	_	_	Terminal
-13	Bridges	_	Word	-	-	_	_	_	_	_	Terminal
-14	.	_	Punctuation	-	-	_	_	_	_	_	U
+1	Settled	settle	VBN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	back	back	RB	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	in	in	IN	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	New	new	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	York	york	NNP	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	,	,	,	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	Lennon	lennon	NNP	-	-	_	A	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	recorded	record	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	the	the	DT	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+10	album	album	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	Walls	walls	NNP	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+12	and	and	CC	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
+13	Bridges	bridges	NNPS	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
+14	.	.	.	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+15	Released	release	VBN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	in	in	IN	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
+17	October	october	NNP	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+18	1974	1974	CD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	,	,	,	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	it	-PRON-	PRP	-	-	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+21	yielded	yield	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	his	-PRON-	PRP$	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	only	only	JJ	-	-	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_
+24	number	number	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	-	-	HYPH	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
+26	one	one	CD	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+27	non	non	JJ	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+28	-	-	HYPH	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_
+29	Beatles	beatles	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	single	single	JJ	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	in	in	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
+32	his	-PRON-	PRP$	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+33	lifetime	lifetime	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	,	,	,	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_
+35	"	"	``	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_
+36	Whatever	whatev	WDT	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+37	Gets	get	VBZ	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
+38	You	-PRON-	PRP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
+39	Thru	thru	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
+40	the	the	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
+41	Night	night	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
+42	"	"	''	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
+43	,	,	,	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
+44	featuring	feature	VBG	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+45	Elton	elton	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A
+46	John	john	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
+47	on	on	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+48	backing	back	VBG	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D
+49	vocals	vocal	NNS	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+50	and	and	CC	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	N
+51	piano	piano	NN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	C
+52	.	.	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

@@ -1,44 +1,68 @@
-1	At	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_
-2	the	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_
-3	age	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	of	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_
-5	six	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_
-6	years	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_
-7	old	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-8	she	_	Word	-	-	_	A	_	A	_	_	_	_	_	_	_	_	_
-9	made	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_
-10	her	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_
-11	film	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_
-12	debut	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-13	in	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_
-14	a	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_
-15	minor	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_
-16	role	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-17	in	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_
-18	Woody	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-19	Allen	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_
-20	's	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_
-21	Oedipus	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-22	Wrecks	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
-23	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_
-24	a	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_
-25	short	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_
-26	film	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-27	that	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_
-28	was	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_
-29	released	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-30	as	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_
-31	one	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-32	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_
-33	third	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
-34	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_
-35	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_
-36	anthology	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-37	New	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A
-38	York	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
-39	Stories	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
-40	(	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_
-41	1989	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-42	)	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
-43	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	At	at	IN	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	the	the	DT	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	age	age	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	of	of	IN	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	six	six	CD	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	years	year	NNS	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	old	old	JJ	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	she	-PRON-	PRP	-	-	_	A	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	made	make	VBD	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	her	-PRON-	PRP$	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	film	film	NN	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	debut	debut	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	in	in	IN	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	a	a	DT	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	minor	minor	JJ	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	role	role	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	in	in	IN	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	Woody	woody	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	Allen	allen	NNP	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	's	's	POS	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	Oedipus	oedipus	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	Wrecks	wrecks	NNP	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	,	,	,	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	a	a	DT	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+25	short	short	JJ	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+26	film	film	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+27	that	that	WDT	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_
+28	was	be	VBD	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_
+29	released	release	VBN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	as	as	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_
+31	one	one	CD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	-	-	HYPH	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+33	third	third	NN	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
+34	of	of	IN	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
+35	the	the	DT	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+36	anthology	anthology	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+37	New	new	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+38	York	york	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
+39	Stories	stories	NNPS	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
+40	(	(	-LRB-	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
+41	1989	1989	CD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+42	)	)	-RRB-	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+43	.	.	.	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+44	Soon	soon	RB	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+45	after	after	RB	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+46	,	,	,	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_
+47	she	-PRON-	PRP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+48	landed	land	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+49	a	a	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+50	small	small	JJ	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+51	part	part	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+52	in	in	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
+53	The	the	DT	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+54	Bonfire	bonfire	NN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
+55	of	of	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
+56	the	the	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
+57	Vanities	vanity	NNS	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
+58	(	(	-LRB-	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
+59	1990	1990	CD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+60	)	)	-RRB-	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_
+61	,	,	,	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_
+62	as	as	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+63	Tom	tom	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+64	Hanks	hanks	NNP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
+65	's	's	POS	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+66	daughter	daughter	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+67	.	.	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

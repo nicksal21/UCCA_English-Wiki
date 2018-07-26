@@ -1,24 +1,45 @@
-1	During	_	Word	-	-	_	R	_	_	_	_	_	_	_
-2	mid	_	Word	-	-	_	E	_	_	_	_	_	_	_
-3	-	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
-4	1995	_	Word	-	+	_	_	_	_	_	_	_	_	_
-5	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_
-6	No	_	Word	-	+	_	_	_	_	_	_	_	_	_
-7	Doubt	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_
-8	and	_	Word	-	-	_	_	N	_	_	_	_	_	_
-9	rock	_	Word	-	-	_	_	_	E	_	_	_	_	_
-10	band	_	Word	-	+	_	_	_	_	_	_	_	_	_
-11	Goo	_	Word	-	+	_	_	_	_	_	_	_	_	_
-12	Goo	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_
-13	Dolls	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_
-14	went	_	Word	-	-	_	_	_	_	_	_	E	_	_
-15	on	_	Word	-	-	_	_	_	_	_	R	_	_	_
-16	tour	_	Word	-	+	_	_	_	_	_	_	_	_	_
-17	opening	_	Word	-	+	_	_	_	_	_	_	_	_	_
-18	for	_	Word	-	-	_	_	_	_	_	_	_	_	R
-19	alternative	_	Word	-	-	_	_	_	_	_	_	_	E	_
-20	rock	_	Word	-	-	_	_	_	_	_	_	_	E	_
-21	band	_	Word	-	+	_	_	_	_	_	_	_	_	_
-22	Bush	_	Word	-	+	_	_	_	_	_	_	_	_	_
-23	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+1	Their	-PRON-	PRP$	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_
+2	break	break	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	-	-	HYPH	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
+4	up	up	NN	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_
+5	inspired	inspire	VBN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	Stefani	stefani	NNP	-	-	_	_	A	_	_	_	_	_	_	_	_	_	_
+7	lyrically	lyrically	RB	-	-	_	_	D	_	_	_	_	_	_	_	_	_	_
+8	,	,	,	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
+9	and	and	CC	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_
+10	many	many	JJ	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	of	of	IN	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_
+12	the	the	DT	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_
+13	album	album	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	's	's	POS	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_
+15	songs	song	NNS	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	,	,	,	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_
+17	such	such	JJ	-	+	_	_	_	_	_	_	_	R	_	_	_	_	_
+18	as	as	IN	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
+19	"	"	``	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_
+20	Do	do	VB	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	n't	n't	RB	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
+22	Speak	speak	VB	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
+23	"	"	''	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_
+24	,	,	,	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_
+25	"	"	''	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_
+26	Sunday	sunday	NNP	-	+	_	_	_	_	_	_	_	C	_	_	_	_	_
+27	Morning	morning	NNP	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
+28	"	"	''	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_
+29	,	,	,	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_
+30	and	and	CC	-	-	_	_	_	_	_	_	_	N	_	_	_	_	_
+31	"	"	``	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_
+32	Hey	hey	UH	-	+	_	_	_	_	_	_	_	C	_	_	_	_	_
+33	You	-PRON-	PRP	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
+34	"	"	''	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_
+35	,	,	,	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_
+36	chronicle	chronicle	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+37	the	the	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_
+38	ups	up	NNS	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+39	and	and	CC	-	-	_	_	_	_	_	_	_	_	_	_	_	N	_
+40	downs	down	NNS	-	-	_	_	_	_	_	_	_	_	_	_	_	C	_
+41	of	of	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R
+42	their	-PRON-	PRP$	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E
+43	relationship	relationship	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+44	.	.	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
 

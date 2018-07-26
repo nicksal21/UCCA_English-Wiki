@@ -1,24 +1,40 @@
-1	Lennon	_	Word	-	+	_	_	_	A	A	_	_	_	_
-2	's	_	Word	-	-	_	R	_	_	_	_	_	_	_
-3	playing	_	Word	-	-	_	_	_	_	_	_	_	_	_
-4	of	_	Word	-	-	_	_	R	_	_	_	_	_	_
-5	a	_	Word	-	-	_	_	E	_	_	_	_	_	_
-6	mouth	_	Word	-	-	_	_	E	_	_	_	_	_	_
-7	organ	_	Word	-	+	_	_	_	_	_	_	_	_	_
-8	during	_	Word	-	-	_	_	_	_	_	_	_	L	_
-9	a	_	Word	-	-	_	_	_	E	_	_	_	_	_
-10	bus	_	Word	-	-	_	_	_	E	_	_	_	_	_
-11	journey	_	Word	-	+	_	_	_	_	_	_	_	_	_
-12	to	_	Word	-	-	_	_	_	_	_	_	_	L	_
-13	visit	_	Word	-	+	_	_	_	_	_	_	_	_	_
-14	his	_	Word	-	-	_	_	_	_	_	E	_	_	_
-15	cousin	_	Word	-	+	_	_	_	_	_	_	_	_	_
-16	in	_	Word	-	-	_	_	_	_	_	_	R	_	_
-17	Scotland	_	Word	-	+	_	_	_	_	_	_	_	_	_
-18	caught	_	Word	-	+	_	_	_	_	_	_	_	_	_
-19	the	_	Word	-	-	_	_	_	_	_	_	_	_	E
-20	driver	_	Word	-	+	_	_	_	_	_	_	_	_	_
-21	's	_	Word	-	-	_	_	_	_	_	_	_	_	R
-22	ear	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_
-23	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_
+1	Impressed	impress	VBN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	,	,	,	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+3	the	the	DT	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+4	driver	driver	NN	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+5	told	tell	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	Lennon	lennon	NNP	-	-	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+7	of	of	IN	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_
+8	a	a	DT	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+9	harmonica	harmonica	NN	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+10	he	-PRON-	PRP	-	-	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+11	could	could	MD	-	-	_	_	_	_	_	D	_	_	_	_	_	_	_	_
+12	have	have	VB	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	if	if	IN	-	-	_	_	_	_	_	L	_	_	_	_	_	_	_	_
+14	he	-PRON-	PRP	-	-	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+15	came	come	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	to	to	IN	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_
+17	Edinburgh	edinburgh	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	the	the	DT	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+19	following	following	JJ	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+20	day	day	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	,	,	,	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_
+22	where	where	WRB	-	-	_	_	_	_	_	L	_	_	_	_	_	_	_	_
+23	one	one	CD	-	-	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+24	had	have	VBD	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_	_
+25	been	be	VBN	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_	_
+26	stored	store	VBN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+27	in	in	IN	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_
+28	the	the	DT	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+29	bus	bus	NN	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+30	depot	depot	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	since	since	IN	-	-	_	_	_	_	_	L	_	_	_	_	_	_	_	_
+32	a	a	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+33	passenger	passenger	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	left	leave	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+35	it	-PRON-	PRP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	A	_
+36	on	on	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+37	a	a	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+38	bus	bus	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+39	.	.	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

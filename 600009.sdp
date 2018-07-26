@@ -1,38 +1,53 @@
-1	A	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_
-2	trumpet	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_
-3	player	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	and	_	Word	-	-	_	N	_	_	_	_	_	_	_	_	_	_	_
-5	pianist	_	Word	-	-	_	C	_	_	_	_	_	_	_	_	_	_	_
-6	who	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_
-7	led	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-8	Jim	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-9	Mac	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
-10	's	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_
-11	Jazz	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_
-12	Band	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-13	in	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_
-14	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_
-15	1920s	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-16	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
-17	McCartney	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-18	's	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_
-19	father	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_
-20	kept	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-21	an	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_
-22	upright	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_
-23	piano	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-24	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_
-25	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_
-26	front	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_
-27	room	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-28	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_
-29	and	_	Word	-	-	_	_	_	_	_	_	_	L	_	_	_	_	_
-30	he	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_
-31	encouraged	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-32	his	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_
-33	sons	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-34	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F
-35	be	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F
-36	musical	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-37	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	Jim	jim	NNP	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	gave	give	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	Paul	paul	NNP	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	a	a	DT	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	nickel	nickel	NN	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	-	-	HYPH	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	plated	plat	VBN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	trumpet	trumpet	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	for	for	IN	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
+10	his	-PRON-	PRP$	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+11	fourteenth	fourteenth	JJ	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+12	birthday	birthday	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	,	,	,	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	but	but	CC	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	when	when	WRB	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	rock	rock	NN	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+17	and	and	CC	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
+18	roll	roll	NN	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
+19	became	become	VBD	-	-	_	_	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_
+20	popular	popular	JJ	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	on	on	IN	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
+22	Radio	radio	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	Luxembourg	luxembourg	NNP	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
+24	,	,	,	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	Paul	paul	NNP	-	-	_	_	_	_	_	_	_	_	A	_	_	_	A	_	A	A	_
+26	traded	trade	VBD	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+27	it	-PRON-	PRP	-	-	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+28	for	for	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
+29	a	a	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+30	£15	£15	NN	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+31	Framus	framus	NNP	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	Zenith	zenith	NNP	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_
+33	(	(	-LRB-	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_
+34	model	model	NN	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+35	17	17	CD	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
+36	)	)	-RRB-	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_
+37	acoustic	acoustic	JJ	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+38	guitar	guitar	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+39	,	,	,	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+40	rationalising	rationalise	VBG	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+41	that	that	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
+42	it	-PRON-	PRP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_
+43	would	would	MD	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_
+44	be	be	VB	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_
+45	difficult	difficult	JJ	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+46	to	to	TO	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
+47	sing	sing	VB	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+48	while	while	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	L	_	_	_
+49	playing	play	VBG	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+50	a	a	DT	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+51	trumpet	trumpet	NN	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+52	.	.	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

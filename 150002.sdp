@@ -1,46 +1,22 @@
-1	American	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-2	president	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	George	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	W	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
-5	.	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
-6	Bush	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
-7	said	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-8	Hepburn	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_	_	_
-9	"	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_
-10	will	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_	_	_
-11	be	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_	_	_
-12	remembered	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-13	as	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_
-14	one	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-15	of	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_	_	_
-16	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-17	nation	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-18	's	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_
-19	artistic	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-20	treasures	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-21	.	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_
-22	"	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_
-23	In	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_
-24	honor	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-25	of	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_
-26	her	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-27	extensive	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-28	theatre	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-29	work	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-30	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_
-31	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-32	lights	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-33	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_
-34	Broadway	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-35	were	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_	_
-36	dimmed	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-37	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-38	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-39	evening	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-40	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-41	July	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-42	1	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
-43	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
-44	2003	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
-45	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	American	american	JJ	-	-	_	E	_	_	_	_
+2	president	president	NN	-	+	_	_	_	_	_	_
+3	George	george	NNP	-	+	_	_	_	_	_	_
+4	W	w	NNP	-	-	_	_	Terminal	_	_	_
+5	.	.	.	-	-	_	_	U	_	_	_
+6	Bush	bush	NNP	-	-	_	_	Terminal	_	_	_
+7	said	say	VBD	-	-	_	_	_	_	_	_
+8	Hepburn	hepburn	NNP	-	-	_	_	_	A	_	_
+9	"	"	``	-	-	_	_	_	U	_	_
+10	will	will	MD	-	-	_	_	_	F	_	_
+11	be	be	VB	-	-	_	_	_	F	_	_
+12	remembered	remember	VBN	-	+	_	_	_	_	_	_
+13	as	as	IN	-	-	_	_	_	_	_	R
+14	one	one	CD	-	-	_	_	_	_	E	_
+15	of	of	IN	-	-	_	_	_	_	F	_
+16	the	the	DT	-	-	_	_	_	_	E	_
+17	nation	nation	NN	-	+	_	_	_	_	_	_
+18	's	's	POS	-	-	_	_	_	_	R	_
+19	artistic	artistic	JJ	-	-	_	_	_	_	_	E
+20	treasures	treasure	NNS	-	+	_	_	_	_	_	_
+21	.	.	.	-	-	_	_	_	_	_	U
 

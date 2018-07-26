@@ -1,19 +1,27 @@
-1	Hoffman	_	Word	-	-	_	A	A	_	_	_
-2	is	_	Word	-	-	_	F	_	_	_	_
-3	Jewish	_	Word	-	+	_	_	_	_	_	_
-4	,	_	Punctuation	-	-	_	U	_	_	_	_
-5	from	_	Word	-	-	_	_	R	_	_	_
-6	an	_	Word	-	-	_	_	E	_	_	_
-7	Ashkenazi	_	Word	-	-	_	_	E	_	_	_
-8	family	_	Word	-	+	_	_	_	_	_	_
-9	of	_	Word	-	-	_	_	_	R	_	_
-10	immigrants	_	Word	-	+	_	_	_	_	_	_
-11	from	_	Word	-	-	_	_	_	_	R	_
-12	Kiev	_	Word	-	+	_	_	_	_	_	_
-13	and	_	Word	-	-	_	_	_	_	N	_
-14	Iaşi	_	Word	-	+	_	_	_	_	_	_
-15	(	_	Punctuation	-	-	_	_	_	_	_	U
-16	Romania	_	Word	-	-	_	_	_	_	_	E
-17	)	_	Punctuation	-	-	_	_	_	_	_	U
-18	.	_	Punctuation	-	-	_	_	_	_	_	U
+1	Hoffman	hoffman	NNP	-	-	_	A	A	_	_	_	_	_	_
+2	is	be	VBZ	-	-	_	F	_	_	_	_	_	_	_
+3	Jewish	jewish	JJ	-	+	_	_	_	_	_	_	_	_	_
+4	,	,	,	-	-	_	U	_	_	_	_	_	_	_
+5	from	from	IN	-	-	_	_	R	_	_	_	_	_	_
+6	an	an	DT	-	-	_	_	E	_	_	_	_	_	_
+7	Ashkenazi	ashkenazi	NNP	-	-	_	_	E	_	_	_	_	_	_
+8	family	family	NN	-	+	_	_	_	_	_	_	_	_	_
+9	of	of	IN	-	-	_	_	_	R	_	_	_	_	_
+10	immigrants	immigrant	NNS	-	+	_	_	_	_	_	_	_	_	_
+11	from	from	IN	-	-	_	_	_	_	R	_	_	_	_
+12	Kiev	kiev	NNP	-	+	_	_	_	_	_	_	_	_	_
+13	and	and	CC	-	-	_	_	_	_	N	_	_	_	_
+14	Iaşi	iaşi	NNP	-	+	_	_	_	_	_	_	_	_	_
+15	(	(	-LRB-	-	-	_	_	_	_	_	U	_	_	_
+16	Romania	romania	NNP	-	-	_	_	_	_	_	E	_	_	_
+17	)	)	-RRB-	-	-	_	U	_	_	_	_	_	_	_
+18	.	.	.	-	-	_	U	_	_	_	_	_	_	_
+19	His	-PRON-	PRP$	-	-	_	_	_	_	_	_	E	_	_
+20	upbringing	upbringing	NN	-	+	_	_	_	_	_	_	_	_	_
+21	was	be	VBD	-	-	_	_	_	_	_	_	_	_	F
+22	neither	neither	CC	-	+	_	_	_	_	_	_	_	_	N
+23	religious	religious	JJ	-	+	_	_	_	_	_	_	_	_	_
+24	nor	nor	CC	-	-	_	_	_	_	_	_	_	Terminal	_
+25	observant	observant	JJ	-	-	_	_	_	_	_	_	_	_	C
+26	.	.	.	-	-	_	_	_	_	_	_	_	_	U
 
