@@ -1,10 +1,40 @@
 # ::id 233008
 # ::tok In addition , a series of Japanese Jackie Chan games were released on the MSX by Pony , based on several of his films ( Project A , Project A 2 , Police Story , The Protector and Wheels On Meals ) .
-(label :G label
-       :H label
-       :R label
-       :C label
-       :A label
-       :P label
-       :E label
-       :N label)
+(v1 / label
+    :G (v2 / label
+           :R (v5 / label)
+           :C (v6 / label))
+    :H (v3 / label
+           :A (v7 / label
+                  :E (v13 / label)
+                  :E (v14 / label
+                          :C (v28 / label)
+                          :R (v29 / label))
+                  :E (v15 / label)
+                  :E (v16 / label)
+                  :C (v17 / label))
+           :P (v8 / label)
+           :A (v9 / label
+                  :R (v18 / label)
+                  :E (v19 / label)
+                  :C (v20 / label))
+           :A (v10 / label
+                   :R (v21 / label)
+                   :C (v22 / label)))
+    :H (v4 / label
+           :P (v11 / label)
+           :A (v12 / label
+                   :R (v23 / label)
+                   :E (v24 / label
+                           :C (v30 / label)
+                           :R (v31 / label))
+                   :E (v25 / label)
+                   :C (v26 / label)
+                   :E (v27 / label
+                           :C (v32 / label)
+                           :C (v33 / label)
+                           :C (v34 / label)
+                           :C (v35 / label)
+                           :N (v36 / label)
+                           :C (v37 / label)))
+           :A v7))

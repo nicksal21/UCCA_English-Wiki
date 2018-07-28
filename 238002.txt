@@ -1,8 +1,43 @@
 # ::id 238002
 # ::tok Hassan himself reciprocated the desire to work with the action superstar , urging Chan to keep his promise of working with him on a possible film project .
-(label :H label
-       :A label
-       :P label
-       :C label
-       :E label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :C (v10 / label)
+                  :E (v11 / label))
+           :P (v5 / label)
+           :A (v6 / label
+                  :E (v12 / label)
+                  :C (v13 / label)
+                  :E (v14 / label
+                          :A v4
+                          :R (v17 / label)
+                          :P (v18 / label)
+                          :A (v19 / label
+                                  :R (v23 / label)
+                                  :E (v24 / label)
+                                  :E (v25 / label)
+                                  :C (v26 / label)))))
+    :H (v3 / label
+           :P (v7 / label)
+           :A (v8 / label)
+           :A (v9 / label
+                  :A v8
+                  :P (v15 / label)
+                  :A (v16 / label
+                          :E (v20 / label)
+                          :C (v21 / label)
+                          :E (v22 / label
+                                  :A v8
+                                  :R (v27 / label)
+                                  :P (v28 / label)
+                                  :A (v29 / label
+                                          :R (v31 / label)
+                                          :C (v32 / label))
+                                  :A (v30 / label
+                                          :R (v33 / label)
+                                          :E (v34 / label)
+                                          :E (v35 / label)
+                                          :E (v36 / label)
+                                          :C (v37 / label)))))
+           :A v4))

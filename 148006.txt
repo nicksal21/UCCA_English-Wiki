@@ -1,11 +1,29 @@
 # ::id 148006
 # ::tok In response to this speculation about her aunt , Katharine Houghton said , " I 've never discovered any evidence whatsoever that she was a lesbian . "
-(label :L label
-       :H label
-       :E label
-       :C label
-       :P label
-       :A label
-       :R label
-       :D label
-       :S label)
+(v1 / label
+    :L (v2 / label
+           :E (v5 / label)
+           :C (v6 / label))
+    :H (v3 / label
+           :P (v7 / label)
+           :A (v8 / label
+                  :R (v12 / label)
+                  :E (v13 / label)
+                  :C (v14 / label)))
+    :H (v4 / label
+           :A (v9 / label)
+           :P (v10 / label)
+           :A (v11 / label
+                   :A (v15 / label)
+                   :D (v16 / label)
+                   :P (v17 / label)
+                   :A (v18 / label
+                           :E (v19 / label)
+                           :C (v20 / label)
+                           :E (v21 / label
+                                   :R (v22 / label)
+                                   :A (v23 / label)
+                                   :S (v24 / label)
+                                   :A (v25 / label
+                                           :E (v26 / label)
+                                           :C (v27 / label)))))))

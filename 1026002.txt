@@ -1,12 +1,49 @@
 # ::id 1026002
 # ::tok According to J. Randy Taraborrelli 's biography , in 1986 , Jackson was diagnosed with vitiligo and lupus ; the vitiligo partially lightened his skin , and the lupus was in remission ; both illnesses made him sensitive to sunlight .
-(label :H label
-       :L label
-       :P label
-       :A label
-       :D label
-       :S label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :P (v7 / label)
+           :A (v8 / label
+                  :E (v21 / label
+                          :C (v39 / label)
+                          :R (v40 / label))
+                  :C (v22 / label))
+           :A (v9 / label
+                  :D (v23 / label
+                          :R (v41 / label)
+                          :C (v42 / label))
+                  :A (v24 / label)
+                  :P (v25 / label)
+                  :A (v26 / label
+                          :R (v43 / label)
+                          :C (v44 / label
+                                  :C (v45 / label)
+                                  :N (v46 / label)
+                                  :C (v47 / label)))))
+    :H (v3 / label
+           :A (v10 / label
+                   :E (v27 / label)
+                   :C (v28 / label))
+           :D (v11 / label)
+           :P (v12 / label)
+           :A (v13 / label
+                   :E (v29 / label)
+                   :C (v30 / label)))
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v14 / label
+                   :E (v31 / label)
+                   :C (v32 / label))
+           :S (v15 / label
+                   :R (v33 / label)
+                   :C (v34 / label)))
+    :H (v6 / label
+           :A (v16 / label
+                   :E (v35 / label)
+                   :C (v36 / label))
+           :S (v17 / label
+                   :C (v37 / label)
+                   :R (v38 / label))
+           :D (v18 / label)
+           :A (v19 / label)
+           :A (v20 / label)))

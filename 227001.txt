@@ -1,11 +1,49 @@
 # ::id 227001
 # ::tok . After leaving Golden Harvest in 1999 , he produced and starred alongside Shu Qi in Gorgeous a romantic comedy that focused on personal relationships and featured only a few martial arts sequences .
-(label :L label
-       :H label
-       :A label
-       :P label
-       :D label
-       :R label
-       :C label
-       :N label
-       :E label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v5 / label)
+           :P (v6 / label)
+           :A (v7 / label)
+           :D (v8 / label
+                  :R (v12 / label)
+                  :C (v13 / label)))
+    :H (v4 / label
+           :A v5
+           :P (v9 / label
+                  :C (v14 / label)
+                  :N (v15 / label)
+                  :C (v16 / label))
+           :A (v10 / label
+                   :R (v17 / label)
+                   :C (v18 / label))
+           :A (v11 / label
+                   :R (v19 / label)
+                   :C (v20 / label)
+                   :E (v21 / label
+                           :R (v22 / label)
+                           :E (v23 / label)
+                           :C (v24 / label)
+                           :E (v25 / label
+                                   :H (v26 / label
+                                           :A v20
+                                           :R (v29 / label)
+                                           :P (v30 / label)
+                                           :A (v31 / label
+                                                   :R (v34 / label)
+                                                   :E (v35 / label)
+                                                   :C (v36 / label)))
+                                   :L (v27 / label)
+                                   :H (v28 / label
+                                           :A v20
+                                           :P (v32 / label)
+                                           :A (v33 / label
+                                                   :E (v37 / label
+                                                           :R (v40 / label)
+                                                           :E (v41 / label)
+                                                           :C (v42 / label))
+                                                   :E (v38 / label
+                                                           :E (v43 / label)
+                                                           :C (v44 / label))
+                                                   :C (v39 / label))))))))

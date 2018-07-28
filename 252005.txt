@@ -1,10 +1,37 @@
 # ::id 252005
 # ::tok " A contributor from the New York Post noted it was Hawke 's " best performance in years " . Hawke won an Obie Award for his role in Blood from a Stone .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :S label
-       :R label
-       :D label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :E (v10 / label)
+                  :C (v11 / label)
+                  :E (v12 / label
+                          :R (v19 / label)
+                          :C (v20 / label)))
+           :P (v5 / label)
+           :A (v6 / label
+                  :A (v13 / label)
+                  :S (v14 / label)
+                  :A (v15 / label
+                          :A (v21 / label
+                                  :C (v28 / label)
+                                  :R (v29 / label))
+                          :P (v22 / label
+                                  :E (v30 / label)
+                                  :C (v31 / label))
+                          :D (v23 / label
+                                  :R (v32 / label)
+                                  :C (v33 / label)))))
+    :H (v3 / label
+           :A (v7 / label)
+           :P (v8 / label)
+           :A (v9 / label
+                  :E (v16 / label)
+                  :C (v17 / label)
+                  :E (v18 / label
+                          :R (v24 / label)
+                          :A (v25 / label)
+                          :P (v26 / label)
+                          :A (v27 / label
+                                  :R (v34 / label)
+                                  :C (v35 / label))))))

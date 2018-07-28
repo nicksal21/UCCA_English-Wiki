@@ -1,11 +1,53 @@
 # ::id 185009
 # ::tok The second season of Sports Night was its last and in 1999 overlapped with the debut of Sorkin 's next TV series , the political drama The West Wing , this time for the NBC network .
-(label :H label
-       :L label
-       :A label
-       :S label
-       :D label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v12 / label
+                          :E (v21 / label)
+                          :E (v22 / label)
+                          :C (v11 / label)
+                          :R (v23 / label))
+                  :C (v13 / label))
+           :S (v6 / label)
+           :A (v7 / label
+                  :E (v14 / label)
+                  :E (v15 / label)
+                  :C v11))
+    :L (v3 / label)
+    :H (v4 / label
+           :D (v8 / label
+                  :R (v16 / label)
+                  :C (v17 / label))
+           :P (v9 / label)
+           :A (v10 / label
+                   :P (v18 / label
+                           :R (v24 / label)
+                           :E (v25 / label)
+                           :C (v26 / label))
+                   :A (v19 / label
+                           :R (v27 / label)
+                           :E (v28 / label
+                                   :C (v36 / label)
+                                   :R (v37 / label))
+                           :E (v29 / label)
+                           :E (v30 / label)
+                           :C (v31 / label)
+                           :E (v32 / label
+                                   :E (v38 / label
+                                           :E (v46 / label)
+                                           :E (v47 / label)
+                                           :C (v48 / label))
+                                   :C (v39 / label)))
+                   :A (v20 / label
+                           :P (v33 / label)
+                           :D (v34 / label
+                                   :E (v40 / label)
+                                   :C (v41 / label))
+                           :A (v35 / label
+                                   :R (v42 / label)
+                                   :E (v43 / label)
+                                   :C (v44 / label)
+                                   :E (v45 / label))
+                           :A v36))
+           :A v11))

@@ -1,12 +1,44 @@
 # ::id 1025005
 # ::tok " Also , an attorney for McCartney assured Jackson 's attorney , John Branca , that McCartney was not interested in bidding : McCartney reportedly said " It 's too pricey " . But there were several other companies and investors bidding .
-(label :L label
-       :H label
-       :A label
-       :P label
-       :D label
-       :S label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v7 / label
+                  :E (v17 / label)
+                  :C (v18 / label)
+                  :R (v19 / label)
+                  :E (v20 / label))
+           :P (v8 / label)
+           :A (v9 / label
+                  :E (v21 / label
+                          :E (v31 / label
+                                  :C (v41 / label)
+                                  :R (v42 / label))
+                          :C (v32 / label))
+                  :C (v22 / label))
+           :A (v10 / label
+                   :A (v23 / label)
+                   :S (v24 / label
+                           :E (v33 / label)
+                           :R (v34 / label)
+                           :C (v35 / label))
+                   :D (v25 / label)))
+    :H (v4 / label
+           :A (v11 / label)
+           :D (v12 / label)
+           :P (v13 / label)
+           :A (v14 / label
+                   :A (v26 / label)
+                   :D (v27 / label)
+                   :S (v28 / label)))
+    :L (v5 / label)
+    :H (v6 / label
+           :A (v15 / label
+                   :E (v29 / label
+                           :E (v36 / label)
+                           :C (v37 / label))
+                   :C (v30 / label
+                           :C (v38 / label)
+                           :N (v39 / label)
+                           :C (v40 / label)))
+           :S (v16 / label)))

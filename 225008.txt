@@ -1,9 +1,26 @@
 # ::id 225008
 # ::tok Chan produced a number of action comedy films with his opera school friends Sammo Hung and Yuen Biao .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :E (v7 / label)
+                  :E (v8 / label
+                         :C (v15 / label)
+                         :R (v16 / label))
+                  :E (v9 / label)
+                  :E (v10 / label)
+                  :C (v11 / label))
+           :A (v6 / label
+                  :R (v12 / label)
+                  :E (v13 / label
+                          :E (v17 / label)
+                          :E (v18 / label
+                                  :E (v23 / label)
+                                  :C (v24 / label))
+                          :C (v19 / label))
+                  :C (v14 / label
+                          :C (v20 / label)
+                          :N (v21 / label)
+                          :C (v22 / label)))))

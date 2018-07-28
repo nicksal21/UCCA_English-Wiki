@@ -1,9 +1,12 @@
 # ::id 187003
 # ::tok In 1979 , Sorkin attended Syracuse University .
-(label :H label
-       :D label
-       :A label
-       :P label
-       :R label
-       :C label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label
+                  :R (v7 / label)
+                  :C (v8 / label))
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :E (v9 / label)
+                  :C (v10 / label))))

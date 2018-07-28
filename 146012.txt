@@ -1,10 +1,20 @@
 # ::id 146012
 # ::tok For decades , Hepburn openly promoted birth control and supported abortion .
-(label :H label
-       :L label
-       :D label
-       :A label
-       :P label
-       :R label
-       :C label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :D (v5 / label
+                  :R (v12 / label)
+                  :C (v13 / label))
+           :A (v6 / label)
+           :D (v7 / label)
+           :P (v8 / label)
+           :A (v9 / label
+                  :E (v14 / label)
+                  :C (v15 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v10 / label)
+           :A (v11 / label)
+           :D v5
+           :A v6
+           :D v7))

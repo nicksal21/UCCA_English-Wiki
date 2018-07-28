@@ -1,9 +1,18 @@
 # ::id 229003
 # ::tok In 1982 , Jackie Chan married Lin Feng - Jiao ( aka Joan Lin ) , a Taiwanese actress .
-(label :H label
-       :D label
-       :A label
-       :P label
-       :R label
-       :C label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label
+                  :R (v7 / label)
+                  :C (v8 / label))
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :C (v9 / label)
+                  :E (v10 / label
+                          :R (v12 / label)
+                          :C (v13 / label))
+                  :E (v11 / label
+                          :E (v14 / label)
+                          :E (v15 / label)
+                          :C (v16 / label)))))

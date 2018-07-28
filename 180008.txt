@@ -1,8 +1,13 @@
 # ::id 180008
 # ::tok On May 2 , 2009 , she married Sarsgaard in Italy .
-(label :H label
-       :D label
-       :A label
-       :P label
-       :R label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label
+                  :R (v8 / label)
+                  :C (v9 / label))
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label)
+           :A (v7 / label
+                  :R (v10 / label)
+                  :C (v11 / label))))

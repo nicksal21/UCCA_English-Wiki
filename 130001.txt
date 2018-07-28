@@ -1,10 +1,24 @@
 # ::id 130001
 # ::tok She had a difficult relationship with the press , with whom she could be rude and provocative .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label
+                  :E (v7 / label)
+                  :C (v8 / label))
+           :D (v5 / label)
+           :A (v6 / label
+                  :R (v9 / label)
+                  :E (v10 / label)
+                  :C (v11 / label)
+                  :E (v12 / label
+                          :A v11
+                          :R (v13 / label
+                                  :R (v17 / label)
+                                  :C (v18 / label))
+                          :A (v14 / label)
+                          :D (v15 / label)
+                          :P (v16 / label
+                                  :C (v19 / label)
+                                  :N (v20 / label)
+                                  :C (v21 / label))))))

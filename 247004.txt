@@ -1,12 +1,95 @@
 # ::id 247004
 # ::tok The film transposed the famous William Shakespeare play to contemporary New York City , a technique Hawke felt made the play more " accessible and vital " . Salon reviewer wrote : " Hawke certainly is n't the greatest Hamlet of living memory ... but his performance reinforces Hamlet 's place as Shakespeare 's greatest character . And in that sense , he more than holds his own in the long line of actors who 've played the part .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label
-       :L label
-       :D label
-       :S label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v16 / label)
+                  :C (v17 / label))
+           :P (v6 / label)
+           :A (v7 / label
+                  :E (v18 / label)
+                  :E (v19 / label)
+                  :E (v20 / label)
+                  :C (v21 / label))
+           :A (v8 / label
+                  :R (v22 / label)
+                  :E (v23 / label)
+                  :C (v24 / label)))
+    :H (v3 / label
+           :A (v9 / label
+                  :E (v25 / label)
+                  :C (v26 / label))
+           :A (v10 / label)
+           :P (v11 / label)
+           :A (v12 / label
+                   :P (v27 / label
+                           :E (v36 / label)
+                           :C (v37 / label
+                                   :C (v54 / label)
+                                   :N (v55 / label)
+                                   :C (v56 / label)))
+                   :A (v28 / label
+                           :E (v38 / label)
+                           :C (v39 / label))
+                   :A v26))
+    :H (v4 / label
+           :A (v13 / label
+                   :E (v29 / label)
+                   :C (v30 / label))
+           :P (v14 / label)
+           :A (v15 / label
+                   :H (v31 / label
+                           :A (v40 / label)
+                           :D (v41 / label)
+                           :S (v42 / label)
+                           :D (v43 / label)
+                           :A (v44 / label
+                                   :E (v57 / label)
+                                   :E (v58 / label)
+                                   :C (v59 / label)
+                                   :E (v60 / label
+                                           :R (v81 / label)
+                                           :E (v82 / label)
+                                           :C (v83 / label))))
+                   :L (v32 / label)
+                   :H (v33 / label
+                           :A (v45 / label
+                                   :A (v61 / label)
+                                   :P (v62 / label))
+                           :P (v46 / label)
+                           :A (v47 / label
+                                   :C (v63 / label)
+                                   :R (v64 / label)
+                                   :E (v65 / label))
+                           :A (v48 / label
+                                   :R (v66 / label)
+                                   :E (v67 / label
+                                           :E (v84 / label
+                                                   :C (v88 / label)
+                                                   :R (v89 / label))
+                                           :C (v85 / label))
+                                   :C (v68 / label)))
+                   :L (v34 / label)
+                   :H (v35 / label
+                           :D (v49 / label
+                                   :R (v69 / label)
+                                   :E (v70 / label)
+                                   :C (v71 / label))
+                           :A (v50 / label)
+                           :D (v51 / label
+                                   :C (v72 / label)
+                                   :R (v73 / label))
+                           :P (v52 / label)
+                           :A (v53 / label
+                                   :R (v74 / label)
+                                   :E (v75 / label)
+                                   :E (v76 / label)
+                                   :E (v77 / label)
+                                   :R (v78 / label)
+                                   :C (v79 / label)
+                                   :E (v80 / label
+                                           :A v79
+                                           :P (v86 / label)
+                                           :A (v87 / label
+                                                   :E (v90 / label)
+                                                   :C (v91 / label))))))))

@@ -1,11 +1,49 @@
 # ::id 136008
 # ::tok Hepburn was a keen athlete , and Kanin later described this as his inspiration for the film : " As I watched Kate playing tennis one day ... it occurred to me that her audience was missing a treat .
-(label :H label
-       :L label
-       :A label
-       :S label
-       :D label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :S (v6 / label
+                  :E (v14 / label)
+                  :E (v15 / label)
+                  :C (v16 / label))
+           :D (v7 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v8 / label)
+           :D (v9 / label)
+           :P (v10 / label)
+           :A (v11 / label)
+           :A (v12 / label
+                   :R (v17 / label)
+                   :E (v18 / label)
+                   :C (v19 / label)
+                   :E (v20 / label
+                           :R (v24 / label)
+                           :E (v25 / label)
+                           :C (v26 / label)))
+           :A (v13 / label
+                   :L (v21 / label)
+                   :H (v22 / label
+                           :A (v27 / label)
+                           :P (v28 / label)
+                           :A (v29 / label
+                                   :A (v33 / label)
+                                   :P (v34 / label)
+                                   :A (v35 / label)
+                                   :D (v36 / label
+                                           :E (v42 / label)
+                                           :C (v43 / label))))
+                   :H (v23 / label
+                           :P (v30 / label)
+                           :A (v31 / label
+                                   :R (v37 / label)
+                                   :C (v38 / label))
+                           :A (v32 / label
+                                   :A (v39 / label
+                                           :E (v44 / label)
+                                           :C (v45 / label))
+                                   :P (v40 / label)
+                                   :A (v41 / label
+                                           :E (v46 / label)
+                                           :C (v47 / label)))))))

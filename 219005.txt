@@ -1,9 +1,18 @@
 # ::id 219005
 # ::tok The film received positive reviews and Dunst was singled out for praise .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v11 / label)
+                  :C (v12 / label))
+           :P (v6 / label)
+           :A (v7 / label
+                  :E (v13 / label)
+                  :C (v14 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v8 / label)
+           :P (v9 / label)
+           :A (v10 / label
+                   :R (v15 / label)
+                   :C (v16 / label))))

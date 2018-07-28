@@ -1,10 +1,25 @@
 # ::id 186003
 # ::tok His writing staff are more likely to do research and come up with stories for him to tell .
-(label :H label
-       :A label
-       :D label
-       :P label
-       :E label
-       :C label
-       :N label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v9 / label)
+                  :E (v10 / label)
+                  :C (v11 / label))
+           :D (v4 / label
+                  :E (v12 / label)
+                  :E (v13 / label)
+                  :C (v14 / label))
+           :P (v5 / label
+                  :C (v15 / label)
+                  :N (v16 / label)
+                  :C (v17 / label))
+           :A (v6 / label)
+           :A (v7 / label
+                  :R (v18 / label)
+                  :C (v19 / label))
+           :A (v8 / label
+                  :A (v20 / label
+                          :R (v22 / label)
+                          :C (v23 / label))
+                  :P (v21 / label))))

@@ -1,10 +1,29 @@
 # ::id 217009
 # ::tok " She next appeared in the supporting role of Mary Svevo in Eternal Sunshine of the Spotless Mind ( 2004 ) , alongside Jim Carrey , Kate Winslet , and Tom Wilkinson .
-(label :H label
-       :A label
-       :D label
-       :P label
-       :R label
-       :E label
-       :C label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :D (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :R (v8 / label)
+                  :E (v9 / label)
+                  :E (v10 / label
+                          :E (v15 / label)
+                          :C (v16 / label)
+                          :R (v17 / label))
+                  :C (v11 / label)
+                  :E (v12 / label
+                          :R (v18 / label)
+                          :C (v19 / label)
+                          :E (v20 / label
+                                  :A v19
+                                  :P (v25 / label)
+                                  :D (v26 / label))))
+           :A (v7 / label
+                  :R (v13 / label)
+                  :C (v14 / label
+                          :C (v21 / label)
+                          :C (v22 / label)
+                          :N (v23 / label)
+                          :C (v24 / label)))))

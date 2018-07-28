@@ -1,12 +1,67 @@
 # ::id 213010
 # ::tok Dunst 's father is German , originally from Hamburg , and Dunst 's mother , who was born in New Jersey , is of German and Swedish descent ( Dunst affirmed her German citizenship in 2011 and now holds passports as a dual citizen of the United States and Germany ) .
-(label :H label
-       :L label
-       :A label
-       :S label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v8 / label
+                  :E (v22 / label
+                          :C (v42 / label)
+                          :R (v43 / label))
+                  :C (v23 / label))
+           :S (v9 / label)
+           :A (v10 / label
+                   :C (v24 / label)
+                   :E (v25 / label
+                           :E (v44 / label)
+                           :R (v45 / label)
+                           :C (v46 / label))))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v11 / label
+                   :E (v26 / label
+                           :C (v47 / label)
+                           :R (v48 / label))
+                   :C (v27 / label)
+                   :E (v28 / label
+                           :A v27
+                           :R (v49 / label)
+                           :S (v50 / label)
+                           :A (v51 / label
+                                   :R (v57 / label)
+                                   :C (v58 / label))))
+           :S (v12 / label)
+           :A (v13 / label
+                   :R (v29 / label)
+                   :E (v30 / label
+                           :C (v52 / label)
+                           :N (v53 / label)
+                           :C (v54 / label))
+                   :C (v31 / label)))
+    :H (v5 / label
+           :A (v14 / label)
+           :P (v15 / label)
+           :A (v16 / label
+                   :E (v32 / label)
+                   :E (v33 / label)
+                   :C (v34 / label))
+           :D (v17 / label
+                   :R (v35 / label)
+                   :C (v36 / label)))
+    :L (v6 / label)
+    :H (v7 / label
+           :D (v18 / label)
+           :P (v19 / label)
+           :A (v20 / label)
+           :A (v21 / label
+                   :R (v37 / label)
+                   :E (v38 / label)
+                   :E (v39 / label)
+                   :C (v40 / label)
+                   :E (v41 / label
+                           :R (v55 / label)
+                           :C (v56 / label
+                                   :C (v59 / label
+                                           :E (v62 / label)
+                                           :C (v63 / label))
+                                   :N (v60 / label)
+                                   :C (v61 / label))))
+           :A v14))

@@ -1,11 +1,49 @@
 # ::id 229013
 # ::tok He has stated in interviews that the primary inspiration for his more comedic stunts were films such as The General directed by and starring Buster Keaton , who was also known to perform his own stunts .
-(label :H label
-       :A label
-       :P label
-       :R label
-       :C label
-       :S label
-       :D label
-       :E label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :R (v7 / label)
+                  :C (v8 / label))
+           :A (v6 / label
+                  :A (v9 / label
+                         :P (v12 / label
+                                 :E (v17 / label)
+                                 :C (v18 / label))
+                         :D (v13 / label)
+                         :A (v14 / label
+                                 :R (v19 / label)
+                                 :E (v20 / label)
+                                 :E (v21 / label
+                                         :E (v26 / label)
+                                         :C (v27 / label))
+                                 :C (v22 / label)))
+                  :S (v10 / label)
+                  :A (v11 / label
+                          :C (v15 / label)
+                          :E (v16 / label
+                                  :R (v23 / label)
+                                  :C (v24 / label)
+                                  :E (v25 / label
+                                          :A v24
+                                          :P (v28 / label
+                                                  :C (v30 / label
+                                                          :C (v35 / label))
+                                                  :N (v31 / label)
+                                                  :C (v32 / label))
+                                          :A (v29 / label
+                                                  :C (v33 / label)
+                                                  :E (v34 / label
+                                                          :A v33
+                                                          :R (v36 / label)
+                                                          :D (v37 / label)
+                                                          :P (v38 / label)
+                                                          :A (v39 / label
+                                                                  :A v33
+                                                                  :P (v40 / label)
+                                                                  :A (v41 / label
+                                                                          :E (v42 / label)
+                                                                          :E (v43 / label)
+                                                                          :C (v44 / label)))))))))))

@@ -1,9 +1,28 @@
 # ::id 200003
 # ::tok In March 2010 , Sorkin 's agent , Ari Emanuel , was reported as saying that the project was proving " tough to get together " .
-(label :H label
-       :D label
-       :A label
-       :P label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label
+                  :R (v7 / label)
+                  :E (v8 / label)
+                  :C (v9 / label))
+           :A (v4 / label
+                  :E (v10 / label
+                          :C (v16 / label)
+                          :R (v17 / label))
+                  :C (v11 / label)
+                  :E (v12 / label))
+           :P (v5 / label)
+           :A (v6 / label
+                  :R (v13 / label)
+                  :P (v14 / label)
+                  :A (v15 / label
+                          :A (v18 / label
+                                  :E (v21 / label)
+                                  :C (v22 / label))
+                          :P (v19 / label)
+                          :A (v20 / label
+                                  :A (v23 / label)
+                                  :P (v24 / label)
+                                  :A v22))
+                  :A v12)))

@@ -1,11 +1,38 @@
 # ::id 124007
 # ::tok On opening night , Hepburn turned up late , mixed her lines , tripped over her feet , and spoke too high and fast to be comprehensible .
-(label :H label
-       :L label
-       :D label
-       :A label
-       :P label
-       :R label
-       :E label
-       :C label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :D (v8 / label
+                  :R (v19 / label)
+                  :E (v20 / label)
+                  :C (v21 / label))
+           :A (v9 / label)
+           :P (v10 / label)
+           :D (v11 / label))
+    :H (v3 / label
+           :P (v12 / label)
+           :A (v13 / label
+                   :E (v22 / label)
+                   :C (v23 / label))
+           :A v9)
+    :H (v4 / label
+           :P (v14 / label
+                   :C (v24 / label)
+                   :E (v25 / label))
+           :A (v15 / label
+                   :E (v26 / label)
+                   :C (v27 / label))
+           :A v9)
+    :L (v5 / label)
+    :H (v6 / label
+           :P (v16 / label)
+           :D (v17 / label
+                   :R (v28 / label)
+                   :C (v29 / label
+                           :C (v30 / label)
+                           :N (v31 / label)
+                           :C (v32 / label)))
+           :A v9)
+    :H (v7 / label
+           :P (v18 / label)
+           :A v9))

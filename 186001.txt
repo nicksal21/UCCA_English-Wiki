@@ -1,11 +1,42 @@
 # ::id 186001
 # ::tok He was a cocaine addict for many years , but after a highly publicized arrest in 2001 he received treatment in a drug diversion program and is reported to have recovered .
-(label :H label
-       :L label
-       :A label
-       :S label
-       :D label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v9 / label)
+           :S (v10 / label
+                   :E (v22 / label)
+                   :E (v23 / label)
+                   :C (v24 / label))
+           :D (v11 / label
+                   :R (v25 / label)
+                   :E (v26 / label)
+                   :C (v27 / label)))
+    :L (v3 / label)
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v12 / label)
+           :P (v13 / label
+                   :E (v28 / label)
+                   :C (v29 / label))
+           :D (v14 / label)
+           :D (v15 / label)
+           :D (v16 / label
+                   :R (v30 / label)
+                   :C (v31 / label)))
+    :H (v6 / label
+           :A v12
+           :D (v17 / label)
+           :P (v18 / label)
+           :A (v19 / label
+                   :R (v32 / label)
+                   :E (v33 / label)
+                   :C (v34 / label)
+                   :E (v35 / label)
+                   :E (v36 / label)))
+    :L (v7 / label)
+    :H (v8 / label
+           :P (v20 / label)
+           :A (v21 / label
+                   :P (v37 / label)
+                   :A v12)
+           :A v12))

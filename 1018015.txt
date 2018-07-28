@@ -1,8 +1,29 @@
 # ::id 1018015
 # ::tok [ Note 1 ] Jackson has won hundreds of awards , making him the most - awarded recording artist in the history of popular music .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :E (v10 / label
+                          :C (v17 / label)
+                          :R (v18 / label))
+                  :C (v11 / label)))
+    :H (v3 / label
+           :P (v7 / label)
+           :A (v8 / label)
+           :A (v9 / label
+                  :E (v12 / label)
+                  :E (v13 / label
+                          :E (v19 / label)
+                          :C (v20 / label))
+                  :E (v14 / label)
+                  :C (v15 / label)
+                  :E (v16 / label
+                          :R (v21 / label)
+                          :E (v22 / label)
+                          :C (v23 / label)
+                          :R (v24 / label)
+                          :E (v25 / label
+                                  :E (v26 / label)
+                                  :C (v27 / label))))))

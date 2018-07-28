@@ -1,12 +1,39 @@
 # ::id 138008
 # ::tok After two years away from the screen , she starred in a film adaptation of Tennessee Williams ' controversial play Suddenly , Last Summer ( 1959 ) with Elizabeth Taylor and Montgomery Clift .
-(label :L label
-       :H label
-       :A label
-       :D label
-       :S label
-       :P label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v5 / label)
+           :D (v6 / label
+                  :E (v11 / label)
+                  :C (v12 / label))
+           :S (v7 / label)
+           :A (v8 / label
+                  :R (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label)))
+    :H (v4 / label
+           :A v5
+           :P (v9 / label)
+           :A (v10 / label
+                   :R (v16 / label)
+                   :E (v17 / label)
+                   :E (v18 / label
+                           :E (v22 / label)
+                           :C (v23 / label)
+                           :R (v24 / label)
+                           :E (v25 / label
+                                   :E (v30 / label)
+                                   :E (v31 / label)
+                                   :C (v32 / label)))
+                   :C (v19 / label)
+                   :E (v20 / label
+                           :A v19
+                           :P (v26 / label)
+                           :D (v27 / label))
+                   :E (v21 / label
+                           :R (v28 / label)
+                           :C (v29 / label
+                                   :C (v33 / label)
+                                   :N (v34 / label)
+                                   :C (v35 / label))))))

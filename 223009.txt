@@ -1,11 +1,41 @@
 # ::id 223009
 # ::tok A fellow builder named Jack took Chan under his wing , earning Chan the nickname of " Little Jack " which was later shortened to " Jackie " and the name Jackie Chan has stuck with him ever since .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :S label
-       :C label
-       :E label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label
+                  :A (v16 / label
+                          :E (v31 / label)
+                          :E (v32 / label)
+                          :C (v33 / label))
+                  :S (v17 / label)
+                  :A (v18 / label))
+           :P (v7 / label
+                  :C (v19 / label))
+           :A (v8 / label))
+    :H (v3 / label
+           :P (v9 / label)
+           :A (v10 / label)
+           :A (v11 / label
+                   :E (v20 / label)
+                   :E (v21 / label)
+                   :C (v22 / label)
+                   :E (v23 / label
+                           :A v22
+                           :D (v34 / label)
+                           :P (v35 / label)
+                           :A (v36 / label
+                                   :R (v37 / label)
+                                   :C (v38 / label)))))
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v12 / label
+                   :E (v24 / label)
+                   :E (v25 / label)
+                   :C (v26 / label))
+           :P (v13 / label)
+           :A (v14 / label
+                   :R (v27 / label)
+                   :C (v28 / label))
+           :D (v15 / label
+                   :R (v29 / label)
+                   :C (v30 / label))))

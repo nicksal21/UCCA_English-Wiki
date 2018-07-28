@@ -1,11 +1,49 @@
 # ::id 131011
 # ::tok Howard Hughes , Hepburn 's beau at the time , sensed that the play could be her ticket back to Hollywood stardom and bought her the film rights before it even debuted on stage .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :C label
-       :E label
-       :R label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label
+                  :C (v17 / label)
+                  :E (v18 / label
+                          :A v17
+                          :S (v27 / label)
+                          :A (v28 / label
+                                  :E (v36 / label
+                                          :C (v44 / label)
+                                          :R (v45 / label))
+                                  :C (v37 / label))
+                          :D (v29 / label
+                                  :R (v38 / label)
+                                  :E (v39 / label)
+                                  :C (v40 / label))))
+           :P (v8 / label)
+           :A (v9 / label
+                  :A (v19 / label
+                          :E (v30 / label)
+                          :C (v31 / label))
+                  :P (v20 / label
+                          :C (v32 / label))
+                  :A (v21 / label
+                          :E (v33 / label)
+                          :C (v34 / label)
+                          :E (v35 / label
+                                  :R (v41 / label)
+                                  :E (v42 / label)
+                                  :C (v43 / label)))))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v10 / label)
+           :A (v11 / label)
+           :A (v12 / label
+                   :E (v22 / label)
+                   :E (v23 / label)
+                   :C (v24 / label))
+           :A v7)
+    :L (v5 / label)
+    :H (v6 / label
+           :A (v13 / label)
+           :D (v14 / label)
+           :P (v15 / label)
+           :A (v16 / label
+                   :R (v25 / label)
+                   :C (v26 / label))))

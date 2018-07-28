@@ -1,9 +1,32 @@
 # ::id 180001
 # ::tok She is the daughter of director Stephen Gyllenhaal and screenwriter Naomi Foner ( née Achs ) and the older sister of actor Jake Gyllenhaal .
-(label :H label
-       :A label
-       :S label
-       :C label
-       :N label
-       :E label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :S (v4 / label)
+           :A (v5 / label
+                  :C (v6 / label
+                         :E (v9 / label)
+                         :C (v10 / label)
+                         :E (v11 / label
+                                 :R (v16 / label)
+                                 :C (v17 / label
+                                         :C (v21 / label
+                                                 :E (v24 / label)
+                                                 :C (v25 / label))
+                                         :N (v22 / label)
+                                         :C (v23 / label
+                                                 :E (v26 / label)
+                                                 :C (v27 / label)
+                                                 :E (v28 / label
+                                                         :E (v29 / label)
+                                                         :C (v30 / label))))))
+                  :N (v7 / label)
+                  :C (v8 / label
+                         :E (v12 / label)
+                         :E (v13 / label)
+                         :C (v14 / label)
+                         :E (v15 / label
+                                 :R (v18 / label)
+                                 :E (v19 / label)
+                                 :C (v20 / label))))))

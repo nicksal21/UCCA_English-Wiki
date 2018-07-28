@@ -1,12 +1,59 @@
 # ::id 381013
 # ::tok He has said , however , that " it frustrates me when actors talk politics ; I 'm political and I make choices in my movies that I think are political . I try and say things with what I do . Rightly or wrongly , young actors have all the power .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :S label
-       :D label
-       :C label
-       :R label
-       :E label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :H (v7 / label
+                         :P (v15 / label)
+                         :A (v16 / label))
+                  :L (v8 / label)
+                  :H (v9 / label
+                         :A (v17 / label)
+                         :P (v18 / label)
+                         :A (v19 / label))
+                  :H (v10 / label
+                          :A (v20 / label)
+                          :S (v21 / label))
+                  :L (v11 / label)
+                  :H (v12 / label
+                          :A (v22 / label)
+                          :P (v23 / label
+                                  :C (v33 / label))
+                          :A (v24 / label
+                                  :R (v34 / label)
+                                  :E (v35 / label)
+                                  :C (v36 / label))
+                          :A (v25 / label
+                                  :A (v37 / label)
+                                  :P (v38 / label)
+                                  :A (v39 / label
+                                          :S (v51 / label)
+                                          :A v33)))
+                  :H (v13 / label
+                          :A (v26 / label)
+                          :P (v27 / label
+                                  :C (v40 / label))
+                          :D (v28 / label)
+                          :A (v29 / label)
+                          :A (v30 / label
+                                  :R (v41 / label)
+                                  :A (v42 / label)
+                                  :A (v43 / label)
+                                  :P (v44 / label)))
+                  :H (v14 / label
+                          :S (v31 / label
+                                  :C (v45 / label)
+                                  :N (v46 / label)
+                                  :C (v47 / label))
+                          :A (v32 / label
+                                  :A (v48 / label
+                                          :E (v52 / label)
+                                          :C (v53 / label))
+                                  :P (v49 / label)
+                                  :A (v50 / label
+                                          :E (v54 / label)
+                                          :E (v55 / label)
+                                          :C (v56 / label))))))
+    :L (v3 / label))

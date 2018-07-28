@@ -1,9 +1,27 @@
 # ::id 216000
 # ::tok In Sofia Coppola 's independent film The Virgin Suicides ( 1999 ) , Dunst played the role of troubled adolescent Lux Lisbon .
-(label :H label
-       :A label
-       :P label
-       :R label
-       :E label
-       :C label
-       :D label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :R (v7 / label)
+                  :E (v8 / label
+                         :C (v15 / label)
+                         :R (v16 / label))
+                  :E (v9 / label
+                         :E (v17 / label)
+                         :C (v18 / label))
+                  :C (v10 / label)
+                  :E (v11 / label
+                          :A v10
+                          :P (v19 / label)
+                          :D (v20 / label)))
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :E (v12 / label)
+                  :C (v13 / label)
+                  :E (v14 / label
+                          :R (v21 / label)
+                          :E (v22 / label)
+                          :E (v23 / label)
+                          :C (v24 / label)))))

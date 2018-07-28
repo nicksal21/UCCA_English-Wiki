@@ -1,9 +1,27 @@
 # ::id 210000
 # ::tok Hoffman played theater owner Charles Frohman in the J . M . Barrie historical fantasia Finding Neverland ( 2004 ) , costarring Johnny Depp and Kate Winslet .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :E (v11 / label
+                          :E (v21 / label)
+                          :C (v22 / label))
+                  :C (v12 / label))
+           :A (v7 / label
+                  :R (v13 / label)
+                  :E (v14 / label)
+                  :E (v15 / label)
+                  :E (v16 / label
+                          :E (v23 / label)
+                          :C (v24 / label))
+                  :C (v10 / label)
+                  :E (v17 / label)))
+    :H (v3 / label
+           :P (v8 / label)
+           :A (v9 / label
+                  :C (v18 / label)
+                  :N (v19 / label)
+                  :C (v20 / label))
+           :A v10))

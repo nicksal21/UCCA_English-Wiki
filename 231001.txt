@@ -1,9 +1,27 @@
 # ::id 231001
 # ::tok In New Police Story , he portrayed a character suffering from alcoholism and mourning his murdered colleagues .
-(label :H label
-       :A label
-       :P label
-       :R label
-       :C label
-       :E label
-       :L label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :R (v7 / label)
+                  :C (v8 / label))
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :E (v9 / label)
+                  :C (v10 / label)
+                  :E (v11 / label
+                          :H (v12 / label
+                                  :A v10
+                                  :P (v15 / label)
+                                  :A (v16 / label
+                                          :R (v19 / label)
+                                          :C (v20 / label)))
+                          :L (v13 / label)
+                          :H (v14 / label
+                                  :A v10
+                                  :P (v17 / label)
+                                  :A (v18 / label
+                                          :E (v21 / label)
+                                          :E (v22 / label)
+                                          :C (v23 / label)))))))

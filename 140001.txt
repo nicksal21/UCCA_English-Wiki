@@ -1,11 +1,55 @@
 # ::id 140001
 # ::tok She received numerous scripts and chose to play Eleanor of Aquitaine in The Lion In Winter ( 1968 ) , a part she called " fascinating " . She read extensively in preparation for the role , in which she starred opposite Peter O'Toole .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :S label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v9 / label)
+           :P (v10 / label)
+           :A (v11 / label
+                   :E (v23 / label)
+                   :C (v24 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v12 / label)
+           :A (v13 / label
+                   :P (v25 / label)
+                   :A (v26 / label
+                           :C (v35 / label)
+                           :E (v36 / label
+                                   :R (v44 / label)
+                                   :C (v45 / label)))
+                   :A (v27 / label
+                           :R (v37 / label)
+                           :C (v38 / label)
+                           :E (v39 / label
+                                   :A v38
+                                   :P (v46 / label)
+                                   :D (v47 / label)))
+                   :A v9)
+           :A v9)
+    :H (v5 / label
+           :A (v14 / label
+                   :E (v28 / label)
+                   :C (v29 / label))
+           :A (v15 / label)
+           :P (v16 / label)
+           :A (v17 / label
+                   :S (v30 / label)
+                   :A v29))
+    :H (v6 / label
+           :A (v18 / label)
+           :P (v19 / label)
+           :D (v20 / label))
+    :L (v7 / label)
+    :H (v8 / label
+           :P (v21 / label)
+           :A (v22 / label
+                   :R (v31 / label)
+                   :E (v32 / label)
+                   :C (v33 / label)
+                   :E (v34 / label
+                           :R (v40 / label)
+                           :A (v41 / label)
+                           :P (v42 / label)
+                           :A (v43 / label
+                                   :R (v48 / label)
+                                   :C (v49 / label))))))

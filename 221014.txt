@@ -1,11 +1,32 @@
 # ::id 221014
 # ::tok On December 5 , 2009 , she participated in the Teletón in Mexico , to help raise funds to treat cancer and children rehabilitation .
-(label :H label
-       :L label
-       :D label
-       :A label
-       :P label
-       :R label
-       :C label
-       :E label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :D (v5 / label
+                  :R (v11 / label)
+                  :C (v12 / label))
+           :A (v6 / label)
+           :P (v7 / label)
+           :A (v8 / label
+                  :R (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label)
+                  :E (v16 / label
+                          :R (v19 / label)
+                          :C (v20 / label))))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v9 / label)
+           :A (v10 / label
+                   :P (v17 / label)
+                   :A (v18 / label
+                           :C (v21 / label)
+                           :E (v22 / label
+                                   :C (v23 / label
+                                           :P (v26 / label)
+                                           :A (v27 / label))
+                                   :N (v24 / label)
+                                   :C (v25 / label
+                                           :A (v28 / label)
+                                           :P (v29 / label)))))
+           :A v6))

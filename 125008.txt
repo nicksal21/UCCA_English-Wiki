@@ -1,9 +1,26 @@
 # ::id 125008
 # ::tok During the summer of 1931 , Philip Barry asked her to appear in his new play , The Animal Kingdom , alongside Leslie Howard .
-(label :H label
-       :D label
-       :A label
-       :P label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label
+                  :R (v8 / label)
+                  :E (v9 / label)
+                  :C (v10 / label)
+                  :E (v11 / label
+                          :R (v15 / label)
+                          :C (v16 / label)))
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label)
+           :A (v7 / label
+                  :P (v12 / label)
+                  :A (v13 / label
+                          :R (v17 / label)
+                          :E (v18 / label)
+                          :E (v19 / label
+                                  :E (v23 / label)
+                                  :C (v24 / label))
+                          :C (v20 / label))
+                  :A (v14 / label
+                          :R (v21 / label)
+                          :C (v22 / label)))))

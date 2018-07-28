@@ -1,12 +1,176 @@
 # ::id 115000
 # ::tok Hepburn challenged herself in the latter half of her life , as she regularly appeared in Shakespeare stage productions and tackled a range of literary roles. She found a niche playing middle-aged spinsters, such as in The African Queen (1951), a persona the public embraced. Three more Oscars came for her work in Guess Who's Coming to Dinner (1967), The Lion in Winter (1968), and On Golden Pond (1981). In the 1970s she began appearing in television movies, which became the focus of her career in later life. She remained active into old age, making her final screen appearance in 1994 at the age of 87. After a period of inactivity and ill - health , Hepburn died in 2003 at the age of 96.
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label
-       :S label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v24 / label)
+           :P (v25 / label)
+           :A (v26 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v27 / label
+                   :E (v66 / label
+                           :E (v114 / label)
+                           :E (v115 / label)
+                           :C (v116 / label)
+                           :R (v117 / label))
+                   :C (v67 / label))
+           :A (v28 / label))
+    :L (v5 / label)
+    :H (v6 / label
+           :A (v29 / label)
+           :D (v30 / label)
+           :P (v31 / label)
+           :A (v32 / label
+                   :A (v68 / label)
+                   :R (v69 / label)
+                   :P (v70 / label
+                           :E (v118 / label)
+                           :E (v119 / label)
+                           :C (v120 / label))))
+    :L (v7 / label)
+    :H (v8 / label
+           :P (v33 / label)
+           :A (v34 / label
+                   :E (v71 / label)
+                   :E (v72 / label
+                           :C (v121 / label)
+                           :R (v122 / label))
+                   :E (v73 / label)
+                   :C (v74 / label))
+           :A v29)
+    :H (v9 / label
+           :A (v35 / label)
+           :P (v36 / label
+                   :C (v75 / label))
+           :D (v37 / label))
+    :H (v10 / label
+            :P (v38 / label)
+            :A (v39 / label
+                    :E (v76 / label)
+                    :C (v77 / label))
+            :A v35)
+    :L (v11 / label
+            :E (v40 / label)
+            :C (v41 / label))
+    :H (v12 / label
+            :P (v42 / label)
+            :R (v43 / label)
+            :A (v44 / label
+                    :C (v78 / label)
+                    :E (v79 / label)
+                    :E (v80 / label
+                            :A (v123 / label
+                                     :E (v139 / label)
+                                     :C (v140 / label))
+                            :A (v124 / label
+                                     :E (v141 / label)
+                                     :C (v142 / label))
+                            :P (v125 / label)))
+            :A v35)
+    :H (v13 / label
+            :A (v45 / label
+                    :E (v81 / label)
+                    :E (v82 / label)
+                    :C (v83 / label))
+            :P (v46 / label)
+            :A (v47 / label
+                    :R (v84 / label)
+                    :A (v85 / label)
+                    :P (v86 / label)
+                    :A (v87 / label
+                            :R (v126 / label)
+                            :C (v127 / label
+                                     :C (v143 / label
+                                              :C (v156 / label)
+                                              :E (v157 / label))
+                                     :C (v144 / label
+                                              :C (v158 / label)
+                                              :E (v159 / label))
+                                     :N (v145 / label)
+                                     :C (v146 / label
+                                              :C (v160 / label)
+                                              :E (v161 / label))))))
+    :H (v14 / label
+            :D (v48 / label
+                    :R (v88 / label)
+                    :E (v89 / label)
+                    :C (v90 / label))
+            :A (v49 / label)
+            :D (v50 / label)
+            :P (v51 / label)
+            :A (v52 / label
+                    :R (v91 / label)
+                    :E (v92 / label)
+                    :C (v93 / label)
+                    :E (v94 / label
+                            :A v93
+                            :S (v128 / label)
+                            :A (v129 / label
+                                     :E (v147 / label)
+                                     :C (v148 / label)
+                                     :E (v149 / label
+                                              :R (v162 / label)
+                                              :A (v163 / label)
+                                              :P (v164 / label)))
+                            :D (v130 / label
+                                     :R (v150 / label)
+                                     :E (v151 / label)
+                                     :C (v152 / label)))))
+    :H (v15 / label
+            :A (v53 / label)
+            :D (v54 / label)
+            :P (v55 / label)
+            :D (v56 / label
+                    :R (v95 / label)
+                    :E (v96 / label)
+                    :C (v97 / label)))
+    :H (v16 / label
+            :P (v57 / label)
+            :A (v58 / label
+                    :A (v98 / label)
+                    :D (v99 / label)
+                    :P (v100 / label
+                             :E (v131 / label)
+                             :C (v132 / label)))
+            :D (v59 / label
+                    :R (v101 / label)
+                    :C (v102 / label))
+            :A v53)
+    :L (v17 / label)
+    :H (v18 / label
+            :S (v60 / label
+                    :E (v103 / label)
+                    :C (v104 / label)
+                    :E (v105 / label
+                             :R (v133 / label)
+                             :C (v134 / label)))
+            :A v53)
+    :L (v19 / label)
+    :H (v20 / label
+            :A (v61 / label)
+            :P (v62 / label
+                    :E (v106 / label)
+                    :C (v107 / label)
+                    :E (v108 / label
+                             :R (v135 / label)
+                             :C (v136 / label
+                                      :C (v153 / label)
+                                      :N (v154 / label)
+                                      :C (v155 / label
+                                               :E (v165 / label)
+                                               :C (v166 / label))))))
+    :H (v21 / label
+            :A v61
+            :P (v63 / label)
+            :D (v64 / label
+                    :R (v109 / label)
+                    :C (v110 / label)))
+    :L (v22 / label)
+    :H (v23 / label
+            :S (v65 / label
+                    :E (v111 / label)
+                    :C (v112 / label)
+                    :E (v113 / label
+                             :R (v137 / label)
+                             :C (v138 / label)))
+            :A v61))

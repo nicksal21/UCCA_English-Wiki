@@ -1,9 +1,46 @@
 # ::id 245008
 # ::tok Hawke 's next part , in the Generation X drama Reality Bites ( 1994 ) as Troy , a slacker who mocks the ambitions of his love interest ( played by Winona Ryder ) , received critical acclaim .
-(label :H label
-       :A label
-       :D label
-       :P label
-       :C label
-       :E label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :C (v7 / label
+                         :A (v10 / label
+                                 :C (v22 / label)
+                                 :R (v23 / label))
+                         :D (v11 / label)
+                         :P (v12 / label))
+                  :E (v8 / label
+                         :R (v13 / label)
+                         :E (v14 / label)
+                         :E (v15 / label
+                                 :C (v24 / label)
+                                 :E (v25 / label))
+                         :E (v16 / label)
+                         :C (v17 / label)
+                         :E (v18 / label))
+                  :E (v9 / label
+                         :R (v19 / label)
+                         :C (v20 / label)
+                         :E (v21 / label
+                                 :E (v26 / label)
+                                 :C (v27 / label)
+                                 :E (v28 / label
+                                         :A v27
+                                         :P (v29 / label)
+                                         :A (v30 / label
+                                                 :E (v31 / label)
+                                                 :C (v32 / label)
+                                                 :E (v33 / label
+                                                         :R (v34 / label)
+                                                         :E (v35 / label)
+                                                         :E (v36 / label)
+                                                         :C (v37 / label)
+                                                         :E (v38 / label
+                                                                 :A v37
+                                                                 :P (v39 / label)
+                                                                 :A (v40 / label
+                                                                         :R (v41 / label)
+                                                                         :C (v42 / label)))))))))
+           :D (v4 / label)
+           :A (v5 / label)
+           :P (v6 / label)))

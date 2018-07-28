@@ -1,10 +1,21 @@
 # ::id 381009
 # ::tok He dated singer - songwriter Taylor Swift from October 2010 until January 2011 .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :E (v7 / label
+                         :N (v13 / label)
+                         :C (v14 / label)
+                         :C (v15 / label))
+                  :C (v8 / label))
+           :D (v6 / label
+                  :R (v9 / label)
+                  :C (v10 / label
+                          :E (v16 / label)
+                          :C (v17 / label))
+                  :R (v11 / label)
+                  :C (v12 / label
+                          :E (v18 / label)
+                          :C (v19 / label)))))

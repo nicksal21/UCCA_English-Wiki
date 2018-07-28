@@ -1,10 +1,34 @@
 # ::id 376007
 # ::tok He has since played the lead roles in many notable films , including Zodiac ( 2007 ) , Prince of Persia : The Sands of Time ( 2010 ) , Love and Other Drugs ( 2010 ) , Source Code ( 2011 ) , and End of Watch ( 2012 ) .
-(label :H label
-       :A label
-       :D label
-       :P label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :D (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :E (v7 / label)
+                  :E (v8 / label)
+                  :C (v9 / label)
+                  :E (v10 / label
+                          :R (v13 / label)
+                          :E (v14 / label)
+                          :E (v15 / label)
+                          :C (v16 / label))
+                  :R (v11 / label)
+                  :E (v12 / label
+                          :C (v17 / label
+                                  :C (v23 / label)
+                                  :E (v24 / label))
+                          :C (v18 / label
+                                  :C (v25 / label)
+                                  :E (v26 / label))
+                          :C (v19 / label
+                                  :C (v27 / label)
+                                  :E (v28 / label))
+                          :C (v20 / label
+                                  :C (v29 / label)
+                                  :E (v30 / label))
+                          :N (v21 / label)
+                          :C (v22 / label
+                                  :C (v31 / label)
+                                  :E (v32 / label))))))

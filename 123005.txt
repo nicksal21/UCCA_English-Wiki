@@ -1,9 +1,24 @@
 # ::id 123005
 # ::tok For many years , she used Tom 's birthday ( November 8 ) as her own .
-(label :H label
-       :D label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label
+                  :E (v8 / label)
+                  :E (v9 / label)
+                  :C (v10 / label))
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :A (v11 / label
+                          :C (v16 / label)
+                          :R (v17 / label))
+                  :P (v12 / label
+                          :C (v18 / label)
+                          :E (v19 / label
+                                  :C (v20 / label)
+                                  :E (v21 / label))))
+           :A (v7 / label
+                  :R (v13 / label)
+                  :A (v14 / label)
+                  :D (v15 / label)
+                  :P v12)))

@@ -1,12 +1,116 @@
 # ::id 202003
 # ::tok Sorkin is known for writing memorable lines and fast-paced dialogue , such as the " You can ' t handle the truth ! " piece from A Few Good Men and the partly Latin tirade against God in The West Wing episode " Two Cathedrals " . For television , one hallmark of Sorkin 's writer 's voice is the repartee that his characters engage in as they small talk and banter about whimsical events taking place within an episode , and interject obscure popular culture references into conversation .
-(label :H label
-       :A label
-       :P label
-       :S label
-       :R label
-       :C label
-       :E label
-       :L label
-       :N label
-       :D label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :A v4
+                  :R (v11 / label)
+                  :P (v12 / label)
+                  :A (v13 / label
+                          :C (v23 / label
+                                  :C (v37 / label
+                                          :E (v51 / label)
+                                          :C (v52 / label))
+                                  :N (v38 / label)
+                                  :C (v39 / label
+                                          :E (v53 / label)
+                                          :C (v54 / label)))
+                          :E (v24 / label
+                                  :R (v40 / label)
+                                  :C (v41 / label
+                                          :C (v55 / label
+                                                  :E (v74 / label
+                                                          :E (v83 / label)
+                                                          :C (v84 / label
+                                                                  :A (v97 / label)
+                                                                  :P (v98 / label
+                                                                          :C (v106 / label))
+                                                                  :D (v99 / label)
+                                                                  :A (v100 / label
+                                                                           :E (v107 / label)
+                                                                           :C (v108 / label))))
+                                                  :C (v75 / label)
+                                                  :E (v76 / label
+                                                          :R (v85 / label)
+                                                          :C (v86 / label)))
+                                          :N (v56 / label)
+                                          :C (v57 / label
+                                                  :C (v77 / label
+                                                          :A (v87 / label)
+                                                          :P (v88 / label
+                                                                  :E (v101 / label)
+                                                                  :E (v102 / label
+                                                                           :E (v109 / label)
+                                                                           :C (v110 / label))
+                                                                  :C (v103 / label))
+                                                          :A (v89 / label
+                                                                  :R (v104 / label)
+                                                                  :C (v105 / label)))
+                                                  :E (v78 / label
+                                                          :R (v90 / label)
+                                                          :E (v91 / label)
+                                                          :C (v92 / label)
+                                                          :E (v93 / label))))))))
+    :H (v3 / label
+           :A (v7 / label
+                  :R (v14 / label)
+                  :C (v15 / label))
+           :A (v8 / label
+                  :E (v16 / label
+                          :E (v25 / label)
+                          :C (v26 / label)
+                          :R (v27 / label))
+                  :E (v17 / label
+                          :C (v28 / label)
+                          :R (v29 / label))
+                  :E (v18 / label
+                          :C (v30 / label)
+                          :R (v31 / label))
+                  :C (v19 / label))
+           :S (v9 / label)
+           :A (v10 / label
+                   :E (v20 / label)
+                   :C (v21 / label)
+                   :E (v22 / label
+                           :H (v32 / label
+                                   :A v21
+                                   :R (v42 / label)
+                                   :A (v43 / label
+                                           :E (v58 / label)
+                                           :C (v59 / label))
+                                   :P (v44 / label
+                                           :C (v60 / label)
+                                           :E (v61 / label)))
+                           :L (v33 / label)
+                           :H (v34 / label
+                                   :A (v45 / label)
+                                   :P (v46 / label
+                                           :C (v62 / label)
+                                           :N (v63 / label)
+                                           :C (v64 / label))
+                                   :A (v47 / label
+                                           :R (v65 / label)
+                                           :E (v66 / label)
+                                           :C (v67 / label)
+                                           :E (v68 / label
+                                                   :A v67
+                                                   :P (v79 / label)
+                                                   :A (v80 / label
+                                                           :R (v94 / label)
+                                                           :E (v95 / label)
+                                                           :C (v96 / label)))))
+                           :L (v35 / label)
+                           :H (v36 / label
+                                   :P (v48 / label)
+                                   :A (v49 / label
+                                           :E (v69 / label)
+                                           :E (v70 / label
+                                                   :E (v81 / label)
+                                                   :C (v82 / label))
+                                           :C (v71 / label))
+                                   :A (v50 / label
+                                           :R (v72 / label)
+                                           :C (v73 / label))
+                                   :A v45)))))

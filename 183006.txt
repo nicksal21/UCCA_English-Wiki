@@ -1,10 +1,49 @@
 # ::id 183006
 # ::tok Ruth Elizabeth Davis , known from early childhood as " Betty " , was born in Lowell , Massachusetts , the daughter of Ruth Augusta " Ruthie " ( née Favor ) and Harlow Morrell Davis , a patent attorney ; her sister , Barbara " Bobby " , was born October 25 , 1909 .
-(label :H label
-       :A label
-       :S label
-       :D label
-       :C label
-       :E label
-       :R label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :C (v14 / label)
+                  :E (v15 / label
+                          :S (v25 / label)
+                          :D (v26 / label
+                                  :R (v33 / label)
+                                  :E (v34 / label)
+                                  :C (v35 / label))
+                          :A (v27 / label
+                                  :R (v36 / label)
+                                  :C (v10 / label))))
+           :S (v6 / label)
+           :A (v7 / label
+                  :R (v16 / label)
+                  :C (v17 / label)
+                  :E (v18 / label)))
+    :H (v3 / label
+           :S (v8 / label
+                  :E (v19 / label)
+                  :C (v20 / label))
+           :A (v9 / label
+                  :R (v21 / label)
+                  :C (v22 / label
+                          :C (v28 / label
+                                  :C (v37 / label)
+                                  :E (v38 / label
+                                          :S (v42 / label)
+                                          :A (v43 / label)))
+                          :N (v29 / label)
+                          :C (v30 / label
+                                  :S (v39 / label)
+                                  :A (v40 / label)
+                                  :A (v41 / label
+                                          :E (v44 / label)
+                                          :E (v45 / label)
+                                          :C (v46 / label)))))
+           :A v10)
+    :H (v4 / label
+           :A (v11 / label
+                   :E (v23 / label
+                           :E (v31 / label)
+                           :C (v32 / label))
+                   :C (v24 / label))
+           :S (v12 / label)
+           :D (v13 / label)))

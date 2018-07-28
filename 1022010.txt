@@ -1,10 +1,44 @@
 # ::id 1022010
 # ::tok Biographer J. Randy Taraborrelli writes that , " Thriller stopped selling like a leisure item — like a magazine , a toy , tickets to a hit movie — and started selling like a household staple .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :L label
-       :D label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label)
+                  :C (v7 / label))
+           :P (v4 / label)
+           :A (v5 / label
+                  :H (v8 / label
+                         :A (v11 / label)
+                         :D (v12 / label)
+                         :P (v13 / label)
+                         :A (v14 / label
+                                 :R (v18 / label)
+                                 :E (v19 / label)
+                                 :E (v20 / label)
+                                 :C (v21 / label)
+                                 :E (v22 / label
+                                         :R (v27 / label)
+                                         :C (v28 / label
+                                                 :C (v29 / label
+                                                         :E (v32 / label)
+                                                         :C (v33 / label))
+                                                 :C (v30 / label
+                                                         :E (v34 / label)
+                                                         :C (v35 / label))
+                                                 :C (v31 / label
+                                                         :C (v36 / label)
+                                                         :R (v37 / label)
+                                                         :E (v38 / label
+                                                                 :E (v39 / label)
+                                                                 :E (v40 / label)
+                                                                 :C (v41 / label)))))))
+                  :L (v9 / label)
+                  :H (v10 / label
+                          :D (v15 / label)
+                          :P (v16 / label)
+                          :A (v17 / label
+                                  :R (v23 / label)
+                                  :E (v24 / label)
+                                  :E (v25 / label)
+                                  :C (v26 / label))
+                          :A v11))))

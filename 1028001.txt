@@ -1,11 +1,36 @@
 # ::id 1028001
 # ::tok In Japan alone , the tour had 14 sellouts and drew 570 , 000 people , nearly tripling the previous record of 200 , 000 in a single tour .
-(label :H label
-       :L label
-       :A label
-       :S label
-       :P label
-       :D label
-       :R label
-       :C label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label
+                  :R (v15 / label)
+                  :C (v16 / label)
+                  :E (v17 / label))
+           :A (v7 / label
+                  :E (v18 / label)
+                  :C (v11 / label))
+           :S (v8 / label
+                  :E (v19 / label)
+                  :C (v20 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v9 / label)
+           :A (v10 / label
+                   :E (v21 / label)
+                   :C (v22 / label))
+           :A v11)
+    :H (v5 / label
+           :D (v12 / label)
+           :P (v13 / label)
+           :A (v14 / label
+                   :E (v23 / label)
+                   :E (v24 / label)
+                   :C (v25 / label)
+                   :R (v26 / label)
+                   :E (v27 / label
+                           :C (v28 / label)
+                           :E (v29 / label
+                                   :R (v30 / label)
+                                   :E (v31 / label)
+                                   :E (v32 / label)
+                                   :C (v33 / label))))))

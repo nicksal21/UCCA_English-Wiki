@@ -1,10 +1,44 @@
 # ::id 203006
 # ::tok In August 2008 , Sorkin was involved in a Generation Obama event at the Fine Arts Theater in Beverly Hills , California , participating in a panel discussion subsequent to a screening of Frank Capra 's Mr Smith Goes to Washington .
-(label :H label
-       :L label
-       :D label
-       :A label
-       :P label
-       :C label
-       :R label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :D (v6 / label
+                  :R (v18 / label)
+                  :E (v19 / label)
+                  :C (v20 / label))
+           :A (v7 / label)
+           :P (v8 / label)
+           :A (v9 / label
+                  :R (v21 / label)
+                  :E (v22 / label)
+                  :E (v23 / label)
+                  :C (v24 / label))
+           :A (v10 / label
+                   :R (v25 / label)
+                   :E (v26 / label)
+                   :C (v27 / label))
+           :A (v11 / label
+                   :R (v28 / label)
+                   :C (v29 / label)
+                   :E (v30 / label)))
+    :H (v3 / label
+           :P (v12 / label)
+           :A (v13 / label
+                   :R (v31 / label)
+                   :E (v32 / label)
+                   :E (v33 / label)
+                   :C (v34 / label))
+           :A v7)
+    :L (v4 / label
+           :C (v14 / label))
+    :H (v5 / label
+           :A (v15 / label)
+           :P (v16 / label
+                   :E (v35 / label)
+                   :C (v36 / label))
+           :A (v17 / label
+                   :E (v37 / label
+                           :R (v39 / label)
+                           :C (v40 / label)
+                           :R (v41 / label))
+                   :C (v38 / label))))

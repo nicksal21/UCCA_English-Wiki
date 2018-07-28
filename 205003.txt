@@ -1,9 +1,26 @@
 # ::id 205003
 # ::tok This was soon followed by his breakthrough 1967 film role as Benjamin Braddock , the title character in The Graduate .
-(label :H label
-       :A label
-       :D label
-       :P label
-       :R label
-       :C label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :D (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :R (v7 / label)
+                  :C (v8 / label
+                         :A (v9 / label)
+                         :P (v10 / label
+                                 :E (v13 / label)
+                                 :E (v14 / label)
+                                 :C (v15 / label))
+                         :D (v11 / label)
+                         :A (v12 / label
+                                 :R (v16 / label)
+                                 :C (v17 / label)
+                                 :E (v18 / label
+                                         :E (v19 / label)
+                                         :E (v20 / label)
+                                         :C (v21 / label)
+                                         :E (v22 / label
+                                                 :R (v23 / label)
+                                                 :C (v24 / label))))))))

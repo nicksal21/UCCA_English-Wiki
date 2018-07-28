@@ -1,11 +1,54 @@
 # ::id 382008
 # ::tok He was also listed in People 's " Hottest Bachelors of 2006 " . In response to mainstream press lists like these , thousands of gay and bisexual men were polled for the 2007 and 2008 " AfterElton.com Hot 100 List " . Gyllenhaal was ranked at No.1 in both consecutive years .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :R label
-       :E label
-       :C label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v8 / label)
+           :P (v9 / label)
+           :A (v10 / label
+                   :R (v20 / label)
+                   :E (v21 / label
+                           :C (v41 / label)
+                           :R (v42 / label))
+                   :C (v22 / label)))
+    :L (v3 / label)
+    :L (v4 / label)
+    :H (v5 / label
+           :P (v11 / label)
+           :A (v12 / label
+                   :E (v23 / label)
+                   :E (v24 / label)
+                   :C (v25 / label)
+                   :E (v26 / label
+                           :R (v43 / label)
+                           :C (v44 / label))))
+    :H (v6 / label
+           :A (v13 / label
+                   :E (v27 / label
+                           :C (v45 / label)
+                           :R (v46 / label))
+                   :E (v28 / label
+                           :C (v47 / label)
+                           :N (v48 / label)
+                           :C (v49 / label))
+                   :C (v29 / label))
+           :P (v14 / label)
+           :A (v15 / label
+                   :R (v30 / label)
+                   :E (v31 / label)
+                   :E (v32 / label
+                           :C (v50 / label)
+                           :N (v51 / label)
+                           :C (v52 / label))
+                   :E (v33 / label)
+                   :C (v34 / label)))
+    :H (v7 / label
+           :A (v16 / label)
+           :P (v17 / label)
+           :A (v18 / label
+                   :R (v35 / label)
+                   :C (v36 / label))
+           :D (v19 / label
+                   :R (v37 / label)
+                   :E (v38 / label)
+                   :E (v39 / label)
+                   :C (v40 / label))))

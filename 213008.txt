@@ -1,9 +1,20 @@
 # ::id 213008
 # ::tok She has one younger brother named Christian , born in 1986 .
-(label :H label
-       :A label
-       :S label
-       :E label
-       :C label
-       :D label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :S (v4 / label)
+           :A (v5 / label
+                  :A (v6 / label
+                         :E (v9 / label)
+                         :E (v10 / label)
+                         :C (v11 / label))
+                  :S (v7 / label)
+                  :A (v8 / label
+                         :C (v12 / label)
+                         :E (v13 / label
+                                 :A v12
+                                 :S (v14 / label)
+                                 :D (v15 / label
+                                         :R (v16 / label)
+                                         :C (v17 / label)))))))

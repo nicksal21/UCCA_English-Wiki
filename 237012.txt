@@ -1,9 +1,13 @@
 # ::id 237012
 # ::tok He also owns the Jinricksha Station in Singapore .
-(label :H label
-       :A label
-       :D label
-       :S label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :D (v4 / label)
+           :S (v5 / label)
+           :A (v6 / label
+                  :E (v7 / label)
+                  :C (v8 / label)
+                  :E (v9 / label
+                         :R (v10 / label)
+                         :C (v11 / label)))))

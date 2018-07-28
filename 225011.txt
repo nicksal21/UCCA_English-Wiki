@@ -1,9 +1,32 @@
 # ::id 225011
 # ::tok In 1985 , Chan made the first Police Story film , a US - influenced action comedy in which Chan performed a number of dangerous stunts .
-(label :H label
-       :D label
-       :A label
-       :P label
-       :R label
-       :C label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label
+                  :R (v7 / label)
+                  :C (v8 / label))
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :E (v9 / label)
+                  :E (v10 / label)
+                  :C (v11 / label)
+                  :E (v12 / label)
+                  :E (v13 / label
+                          :E (v15 / label)
+                          :E (v16 / label
+                                  :A (v18 / label)
+                                  :A (v23 / label)
+                                  :P (v24 / label))
+                          :E (v17 / label)
+                          :C v18)
+                  :E (v14 / label
+                          :R (v19 / label)
+                          :A (v20 / label)
+                          :P (v21 / label)
+                          :A (v22 / label
+                                  :E (v25 / label)
+                                  :E (v26 / label
+                                          :C (v29 / label))
+                                  :E (v27 / label)
+                                  :C (v28 / label))))))

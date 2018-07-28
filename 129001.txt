@@ -1,9 +1,18 @@
 # ::id 129001
 # ::tok There was no such recurrence , and the picture was a commercial failure .
-(label :H label
-       :L label
-       :S label
-       :D label
-       :A label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :S (v5 / label)
+           :D (v6 / label)
+           :A (v7 / label
+                  :E (v11 / label)
+                  :C (v12 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v8 / label
+                  :E (v13 / label)
+                  :C (v14 / label))
+           :A (v9 / label
+                  :E (v15 / label)
+                  :C (v16 / label))
+           :S (v10 / label)))

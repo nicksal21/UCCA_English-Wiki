@@ -1,11 +1,32 @@
 # ::id 140013
 # ::tok She later said Coco marked the first time she accepted that the public were not against her , but actually seemed to love her .
-(label :H label
-       :A label
-       :D label
-       :P label
-       :E label
-       :C label
-       :L label
-       :S label
-       :G label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :D (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :A (v7 / label)
+                  :P (v8 / label)
+                  :A (v9 / label
+                         :D (v10 / label
+                                 :E (v14 / label)
+                                 :E (v15 / label)
+                                 :C (v16 / label))
+                         :A (v11 / label)
+                         :P (v12 / label)
+                         :A (v13 / label
+                                 :H (v17 / label
+                                         :A (v20 / label
+                                                 :E (v29 / label)
+                                                 :C (v28 / label))
+                                         :D (v21 / label)
+                                         :S (v22 / label)
+                                         :A (v23 / label))
+                                 :L (v18 / label)
+                                 :H (v19 / label
+                                         :D (v24 / label)
+                                         :G (v25 / label)
+                                         :S (v26 / label)
+                                         :A (v27 / label)
+                                         :A v28))))))

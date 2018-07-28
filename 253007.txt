@@ -1,9 +1,31 @@
 # ::id 253007
 # ::tok In 2001 Hawke co-founded the Young Lions Fiction Award , an annual prize for achievements in fiction writing by authors under age 35 .
-(label :H label
-       :D label
-       :A label
-       :P label
-       :R label
-       :C label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label
+                  :R (v7 / label)
+                  :C (v8 / label))
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :E (v9 / label)
+                  :C (v10 / label)
+                  :E (v11 / label
+                          :E (v12 / label)
+                          :E (v13 / label)
+                          :C (v14 / label)
+                          :E (v15 / label
+                                  :P (v16 / label
+                                          :R (v19 / label)
+                                          :C (v20 / label))
+                                  :A (v17 / label
+                                          :R (v21 / label)
+                                          :E (v22 / label)
+                                          :C (v23 / label))
+                                  :A (v18 / label
+                                          :R (v24 / label)
+                                          :C (v25 / label)
+                                          :E (v26 / label
+                                                  :R (v27 / label)
+                                                  :C (v28 / label)
+                                                  :E (v29 / label))))))))

@@ -1,9 +1,48 @@
 # ::id 225009
 # ::tok The three co - starred together for the first time in 1983 in Project A , which introduced a dangerous stunt - driven style of martial arts that won it the Best Action Design Award at the third annual Hong Kong Film Awards .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v9 / label)
+                  :C (v10 / label))
+           :P (v4 / label
+                  :E (v11 / label)
+                  :C (v12 / label))
+           :D (v5 / label)
+           :A (v6 / label
+                  :R (v13 / label)
+                  :E (v14 / label)
+                  :E (v15 / label)
+                  :C (v16 / label))
+           :D (v7 / label
+                  :R (v17 / label)
+                  :C (v18 / label))
+           :A (v8 / label
+                  :E (v19 / label)
+                  :C (v20 / label)
+                  :E (v21 / label
+                          :A v20
+                          :P (v22 / label)
+                          :A (v23 / label
+                                  :E (v24 / label)
+                                  :E (v25 / label)
+                                  :E (v26 / label
+                                          :E (v30 / label
+                                                  :E (v36 / label)
+                                                  :C (v37 / label))
+                                          :C (v31 / label))
+                                  :E (v27 / label)
+                                  :C (v28 / label)
+                                  :E (v29 / label
+                                          :A v28
+                                          :P (v32 / label)
+                                          :A (v33 / label)
+                                          :A (v34 / label
+                                                  :E (v38 / label)
+                                                  :C (v39 / label))
+                                          :A (v35 / label
+                                                  :R (v40 / label)
+                                                  :E (v41 / label)
+                                                  :E (v42 / label)
+                                                  :E (v43 / label)
+                                                  :C (v44 / label))))))))

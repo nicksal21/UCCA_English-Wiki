@@ -1,10 +1,29 @@
 # ::id 1019016
 # ::tok Jackson 's father was also said to have verbally abused Jackson , saying that he had a fat nose on numerous occasions .
-(label :H label
-       :A label
-       :D label
-       :P label
-       :E label
-       :C label
-       :S label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :E (v13 / label
+                          :C (v22 / label)
+                          :R (v23 / label))
+                  :C (v12 / label))
+           :D (v5 / label)
+           :P (v6 / label
+                  :D (v14 / label)
+                  :C (v15 / label))
+           :D (v7 / label)
+           :A (v8 / label))
+    :H (v3 / label
+           :P (v9 / label)
+           :A (v10 / label
+                   :A (v16 / label)
+                   :S (v17 / label)
+                   :A (v18 / label
+                           :E (v24 / label)
+                           :E (v25 / label)
+                           :C (v26 / label)))
+           :D (v11 / label
+                   :R (v19 / label)
+                   :E (v20 / label)
+                   :C (v21 / label))
+           :A v12))

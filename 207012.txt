@@ -1,9 +1,22 @@
 # ::id 207012
 # ::tok For his performance in the production , Hoffman won a Drama Desk Award for Outstanding Performance .
-(label :L label
-       :H label
-       :A label
-       :P label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v5 / label)
+           :P (v6 / label)
+           :A (v7 / label
+                  :R (v11 / label)
+                  :E (v12 / label)
+                  :C (v13 / label)))
+    :H (v4 / label
+           :A (v8 / label)
+           :P (v9 / label)
+           :A (v10 / label
+                   :E (v14 / label)
+                   :E (v15 / label)
+                   :C (v16 / label)
+                   :E (v17 / label
+                           :R (v18 / label)
+                           :E (v19 / label)
+                           :C (v20 / label)))))

@@ -1,9 +1,19 @@
 # ::id 123006
 # ::tok It was not until her 1991 autobiography , Me : Stories of My Life , that Hepburn revealed her true birth date .
-(label :L label
-       :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :D label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v5 / label)
+           :P (v6 / label
+                  :E (v10 / label)
+                  :E (v11 / label)
+                  :C (v12 / label)))
+    :H (v4 / label
+           :A (v7 / label)
+           :P (v8 / label)
+           :A (v9 / label
+                  :A (v13 / label)
+                  :D (v14 / label)
+                  :P (v15 / label
+                          :C (v16 / label)
+                          :E (v17 / label)))))

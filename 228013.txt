@@ -1,9 +1,13 @@
 # ::id 228013
 # ::tok His 100th movie 1911 was released on 26 September 2011 .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label)
+                  :E (v7 / label)
+                  :E (v8 / label)
+                  :C (v9 / label))
+           :P (v4 / label)
+           :D (v5 / label
+                  :R (v10 / label)
+                  :C (v11 / label))))

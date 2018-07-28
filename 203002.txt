@@ -1,8 +1,14 @@
 # ::id 203002
 # ::tok Sorkin and Bingham have one daughter , Roxy .
-(label :H label
-       :A label
-       :P label
-       :C label
-       :N label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :C (v6 / label)
+                  :N (v7 / label)
+                  :C (v8 / label))
+           :P (v4 / label)
+           :A (v5 / label
+                  :E (v9 / label
+                         :E (v11 / label)
+                         :C (v12 / label))
+                  :C (v10 / label))))

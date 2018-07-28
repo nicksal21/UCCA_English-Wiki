@@ -1,11 +1,63 @@
 # ::id 214011
 # ::tok The breakthrough role in Dunst 's career came in Interview with the Vampire , a 1994 film based on Anne Rice 's novel , in which she played the child vampire Claudia , a surrogate daughter to Tom Cruise and Brad Pitt 's characters in the film .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :R label
-       :C label
-       :E label
-       :S label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label)
+                  :E (v16 / label
+                          :R (v24 / label)
+                          :E (v25 / label
+                                  :C (v36 / label)
+                                  :R (v37 / label))
+                          :C (v26 / label)))
+           :P (v6 / label)
+           :A (v7 / label
+                  :R (v17 / label)
+                  :C (v18 / label)
+                  :E (v19 / label
+                          :E (v27 / label)
+                          :E (v28 / label)
+                          :C (v29 / label)
+                          :E (v30 / label
+                                  :S (v38 / label
+                                          :C (v47 / label)
+                                          :R (v48 / label))
+                                  :A (v39 / label
+                                          :E (v49 / label
+                                                  :C (v56 / label)
+                                                  :R (v57 / label))
+                                          :C (v50 / label))))))
+    :L (v3 / label
+           :R (v8 / label)
+           :C (v9 / label))
+    :H (v4 / label
+           :A (v10 / label)
+           :P (v11 / label)
+           :A (v12 / label
+                   :E (v20 / label)
+                   :E (v21 / label
+                           :E (v31 / label)
+                           :C (v32 / label))
+                   :C (v22 / label)
+                   :E (v23 / label
+                           :A v22
+                           :S (v33 / label)
+                           :A (v34 / label
+                                   :E (v40 / label)
+                                   :E (v41 / label)
+                                   :C (v42 / label))
+                           :A (v35 / label
+                                   :R (v43 / label)
+                                   :E (v44 / label
+                                           :C (v51 / label
+                                                   :C (v58 / label)
+                                                   :N (v59 / label)
+                                                   :C (v60 / label))
+                                           :R (v52 / label))
+                                   :C (v45 / label)
+                                   :E (v46 / label
+                                           :R (v53 / label)
+                                           :E (v54 / label)
+                                           :C (v55 / label)))))))

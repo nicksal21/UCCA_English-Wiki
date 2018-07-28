@@ -1,9 +1,15 @@
 # ::id 226008
 # ::tok Chan declined and the role was taken by Wesley Snipes .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :P (v6 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v7 / label
+                  :E (v10 / label)
+                  :C (v11 / label))
+           :P (v8 / label)
+           :A (v9 / label
+                  :R (v12 / label)
+                  :C (v13 / label))))

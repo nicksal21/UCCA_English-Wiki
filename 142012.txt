@@ -1,11 +1,87 @@
 # ::id 142012
 # ::tok The adventure comedy was one of the biggest failures of her career â the screenwriter James Prideaux , who worked with Hepburn , later wrote that it " died at the moment of release " and referred to it as her " lost film " . Hepburn claimed the main reason she had done the film was the opportunity to ride in a hot air balloon .
-(label :H label
-       :L label
-       :A label
-       :S label
-       :D label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label
+                  :E (v20 / label)
+                  :E (v21 / label)
+                  :C (v22 / label))
+           :S (v8 / label
+                  :C (v23 / label)
+                  :E (v24 / label
+                          :R (v40 / label)
+                          :E (v41 / label)
+                          :E (v42 / label)
+                          :C (v43 / label)
+                          :E (v44 / label
+                                  :R (v58 / label)
+                                  :E (v59 / label)
+                                  :C (v60 / label)))))
+    :H (v3 / label
+           :A (v9 / label
+                  :E (v25 / label)
+                  :E (v26 / label)
+                  :C (v16 / label)
+                  :E (v27 / label
+                          :A v16
+                          :P (v45 / label)
+                          :A (v46 / label
+                                  :R (v61 / label)
+                                  :C (v62 / label))))
+           :D (v10 / label)
+           :P (v11 / label)
+           :A (v12 / label
+                   :A (v28 / label)
+                   :P (v29 / label)
+                   :A (v30 / label
+                           :R (v47 / label)
+                           :E (v48 / label)
+                           :C (v49 / label)
+                           :E (v50 / label
+                                   :R (v63 / label)
+                                   :C (v64 / label
+                                           :P (v70 / label)
+                                           :A v22)))
+                   :A v22))
+    :L (v4 / label)
+    :H (v5 / label
+           :P (v13 / label)
+           :A (v14 / label
+                   :R (v31 / label)
+                   :C (v32 / label))
+           :A (v15 / label
+                   :R (v33 / label)
+                   :E (v34 / label)
+                   :E (v35 / label)
+                   :C (v36 / label))
+           :A v16)
+    :H (v6 / label
+           :A (v17 / label)
+           :P (v18 / label)
+           :A (v19 / label
+                   :A (v37 / label
+                           :E (v51 / label)
+                           :E (v52 / label)
+                           :C (v53 / label)
+                           :E (v54 / label
+                                   :A (v65 / label)
+                                   :P (v66 / label)
+                                   :A (v67 / label
+                                           :E (v71 / label)
+                                           :C (v72 / label))))
+                   :S (v38 / label)
+                   :A (v39 / label
+                           :E (v55 / label)
+                           :C (v56 / label)
+                           :E (v57 / label
+                                   :R (v68 / label)
+                                   :C (v69 / label
+                                           :A v17
+                                           :P (v73 / label)
+                                           :A (v74 / label
+                                                   :R (v75 / label)
+                                                   :E (v76 / label)
+                                                   :E (v77 / label
+                                                           :E (v79 / label)
+                                                           :C (v80 / label))
+                                                   :C (v78 / label))))))))

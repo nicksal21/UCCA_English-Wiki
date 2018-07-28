@@ -1,11 +1,26 @@
 # ::id 140006
 # ::tok The picture was a failure critically and financially , and reviews targeted Hepburn for giving a misguided performance .
-(label :H label
-       :L label
-       :A label
-       :S label
-       :P label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v11 / label)
+                  :C (v12 / label))
+           :S (v6 / label
+                  :E (v13 / label)
+                  :C (v14 / label)
+                  :E (v15 / label
+                          :C (v19 / label)
+                          :N (v20 / label)
+                          :C (v21 / label))))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v7 / label)
+           :P (v8 / label)
+           :A (v9 / label)
+           :A (v10 / label
+                   :R (v16 / label)
+                   :P (v17 / label)
+                   :A (v18 / label
+                           :E (v22 / label)
+                           :E (v23 / label)
+                           :C (v24 / label)))))

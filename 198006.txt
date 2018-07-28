@@ -1,9 +1,30 @@
 # ::id 198006
 # ::tok One year later , Sorkin received nominations for the same awards for co-writing the screenplay to the film Moneyball .
-(label :H label
-       :D label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label
+                  :E (v9 / label)
+                  :C (v10 / label)
+                  :R (v11 / label))
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label)
+           :A (v7 / label
+                  :R (v12 / label)
+                  :E (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label))
+           :A (v8 / label
+                  :R (v16 / label)
+                  :C (v17 / label
+                          :A v4
+                          :P (v18 / label)
+                          :A (v19 / label
+                                  :E (v20 / label)
+                                  :C (v21 / label)
+                                  :E (v22 / label
+                                          :R (v23 / label)
+                                          :E (v24 / label
+                                                  :E (v26 / label)
+                                                  :C (v27 / label))
+                                          :C (v25 / label)))))))

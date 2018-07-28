@@ -1,9 +1,25 @@
 # ::id 199003
 # ::tok On September 8 , 2011 , HBO ordered ten episodes of The Newsroom , which debuted on June 24 , 2012 .
-(label :H label
-       :D label
-       :A label
-       :P label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label
+                  :R (v7 / label)
+                  :E (v8 / label)
+                  :E (v9 / label)
+                  :C (v10 / label))
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :E (v11 / label
+                          :E (v14 / label)
+                          :C (v15 / label)
+                          :R (v16 / label))
+                  :C (v12 / label)
+                  :E (v13 / label
+                          :P (v17 / label)
+                          :D (v18 / label
+                                  :R (v19 / label)
+                                  :E (v20 / label)
+                                  :E (v21 / label)
+                                  :C (v22 / label))
+                          :A v15))))

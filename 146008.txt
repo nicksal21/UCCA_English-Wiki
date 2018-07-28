@@ -1,12 +1,39 @@
 # ::id 146008
 # ::tok When questioned about politics , Hepburn told an interviewer , " I always just say be on the affirmative and liberal side . Do n't be a ' no ' person .
-(label :L label
-       :H label
-       :A label
-       :P label
-       :R label
-       :C label
-       :E label
-       :D label
-       :S label
-       :N label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v5 / label)
+           :P (v6 / label)
+           :A (v7 / label
+                  :R (v11 / label)
+                  :C (v12 / label)))
+    :H (v4 / label
+           :A v5
+           :P (v8 / label)
+           :A (v9 / label
+                  :E (v13 / label)
+                  :C (v14 / label))
+           :A (v10 / label
+                   :H (v15 / label
+                           :A (v17 / label)
+                           :D (v18 / label)
+                           :D (v19 / label)
+                           :P (v20 / label)
+                           :A (v21 / label
+                                   :S (v25 / label)
+                                   :A (v26 / label
+                                           :R (v30 / label)
+                                           :E (v31 / label)
+                                           :E (v32 / label
+                                                   :C (v34 / label)
+                                                   :N (v35 / label)
+                                                   :C (v36 / label))
+                                           :C (v33 / label))))
+                   :H (v16 / label
+                           :D (v22 / label)
+                           :P (v23 / label)
+                           :A (v24 / label
+                                   :E (v27 / label)
+                                   :E (v28 / label)
+                                   :C (v29 / label))))))

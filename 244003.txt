@@ -1,10 +1,29 @@
 # ::id 244003
 # ::tok He later transferred to the Hun School of Princeton , a secondary boarding school , from which he graduated in 1988 .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :R label
-       :E label
-       :C label
-       :D label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :R (v7 / label)
+                  :E (v8 / label)
+                  :E (v9 / label)
+                  :C (v10 / label)
+                  :E (v11 / label
+                          :R (v14 / label)
+                          :C (v15 / label))
+                  :E (v12 / label
+                          :E (v16 / label)
+                          :E (v17 / label)
+                          :E (v18 / label)
+                          :C (v19 / label))
+                  :E (v13 / label
+                          :A (v20 / label
+                                  :C v10
+                                  :R (v24 / label))
+                          :A (v21 / label)
+                          :P (v22 / label)
+                          :D (v23 / label
+                                  :R (v25 / label)
+                                  :C (v26 / label)))))
+    :L (v3 / label))

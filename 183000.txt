@@ -1,10 +1,37 @@
 # ::id 183000
 # ::tok Davis was the co - founder of the Hollywood Canteen , and was the first female president of the Academy of Motion Picture Arts and Sciences .
-(label :H label
-       :L label
-       :A label
-       :S label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :S (v6 / label)
+           :A (v7 / label
+                  :E (v10 / label)
+                  :E (v11 / label)
+                  :C (v12 / label)
+                  :E (v13 / label
+                          :R (v19 / label)
+                          :E (v20 / label)
+                          :C (v21 / label))))
+    :L (v3 / label)
+    :H (v4 / label
+           :S (v8 / label)
+           :A (v9 / label
+                  :E (v14 / label)
+                  :E (v15 / label)
+                  :E (v16 / label)
+                  :C (v17 / label)
+                  :E (v18 / label
+                          :R (v22 / label)
+                          :E (v23 / label)
+                          :C (v24 / label)
+                          :E (v25 / label
+                                  :R (v26 / label)
+                                  :C (v27 / label
+                                          :C (v28 / label
+                                                  :E (v31 / label
+                                                          :E (v33 / label)
+                                                          :C (v34 / label))
+                                                  :C (v32 / label))
+                                          :N (v29 / label)
+                                          :C (v30 / label)))))
+           :A v5))

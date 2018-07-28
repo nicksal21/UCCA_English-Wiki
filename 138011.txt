@@ -1,10 +1,29 @@
 # ::id 138011
 # ::tok The picture was a financial success , and her work as creepy aunt Violet Venable gave Hepburn her eighth Oscar nomination .
-(label :H label
-       :L label
-       :A label
-       :S label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v12 / label)
+                  :C (v13 / label))
+           :A (v6 / label
+                  :E (v14 / label)
+                  :C (v15 / label))
+           :S (v7 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v8 / label
+                  :E (v16 / label)
+                  :C (v17 / label)
+                  :E (v18 / label
+                          :R (v23 / label)
+                          :E (v24 / label
+                                  :E (v26 / label)
+                                  :C (v27 / label))
+                          :C (v25 / label)))
+           :P (v9 / label)
+           :A (v10 / label)
+           :A (v11 / label
+                   :E (v19 / label)
+                   :E (v20 / label)
+                   :E (v21 / label)
+                   :C (v22 / label))))

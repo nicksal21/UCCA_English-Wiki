@@ -1,10 +1,24 @@
 # ::id 146005
 # ::tok In her eighties she was still playing tennis regularly , as indicated in her 1993 documentary All About Me .
-(label :H label
-       :L label
-       :D label
-       :A label
-       :P label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :D (v5 / label
+                  :R (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label))
+           :A (v6 / label)
+           :D (v7 / label)
+           :P (v8 / label)
+           :A (v9 / label)
+           :D (v10 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :A v2
+           :P (v11 / label)
+           :A (v12 / label
+                   :R (v16 / label)
+                   :E (v17 / label
+                           :E (v19 / label)
+                           :E (v20 / label)
+                           :C (v21 / label))
+                   :C (v18 / label))))

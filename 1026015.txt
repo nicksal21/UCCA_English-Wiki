@@ -1,11 +1,33 @@
 # ::id 1026015
 # ::tok It was reported that Jackson had offered to buy the bones of Joseph Merrick ( the " elephant man " ) and although untrue , Jackson did not deny the story .
-(label :H label
-       :L label
-       :P label
-       :A label
-       :S label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :P (v7 / label)
+           :A (v8 / label
+                  :A (v15 / label)
+                  :P (v16 / label)
+                  :A (v17 / label
+                          :A v15
+                          :P (v19 / label)
+                          :A (v20 / label
+                                  :E (v21 / label)
+                                  :C (v22 / label)
+                                  :E (v23 / label
+                                          :R (v24 / label)
+                                          :C (v25 / label)
+                                          :E (v26 / label
+                                                  :E (v27 / label)
+                                                  :E (v28 / label)
+                                                  :C (v29 / label)))))))
+    :L (v3 / label)
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v9 / label)
+           :S (v10 / label))
+    :H (v6 / label
+           :A (v11 / label)
+           :D (v12 / label)
+           :P (v13 / label)
+           :A (v14 / label
+                   :E (v18 / label)
+                   :C v9)))

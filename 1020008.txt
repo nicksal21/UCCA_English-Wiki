@@ -1,10 +1,34 @@
 # ::id 1020008
 # ::tok The Jackson 5 recorded several songs , including " Big Boy " , for the local record label Steeltown in 1967 , before signing with Motown Records in 1968 .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :P (v6 / label)
+           :A (v7 / label
+                  :E (v13 / label)
+                  :C (v14 / label)
+                  :E (v15 / label
+                          :R (v26 / label)
+                          :C (v27 / label)))
+           :A (v8 / label
+                  :R (v16 / label)
+                  :E (v17 / label)
+                  :E (v18 / label
+                          :E (v28 / label
+                                  :E (v30 / label)
+                                  :C (v31 / label))
+                          :C (v29 / label))
+                  :C (v19 / label))
+           :D (v9 / label
+                  :R (v20 / label)
+                  :C (v21 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v10 / label
+                   :C (v22 / label)
+                   :R (v23 / label))
+           :A (v11 / label)
+           :D (v12 / label
+                   :R (v24 / label)
+                   :C (v25 / label))
+           :A v5))

@@ -1,11 +1,39 @@
 # ::id 131003
 # ::tok Many actors were afraid to leave the stability of the studio system at the time , but Hepburn 's personal wealth meant she could afford to be independent .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :S label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label
+                  :E (v17 / label)
+                  :C (v18 / label))
+           :P (v8 / label)
+           :A (v9 / label
+                  :R (v19 / label)
+                  :P (v20 / label)
+                  :A (v21 / label
+                          :E (v29 / label)
+                          :C (v30 / label)
+                          :E (v31 / label
+                                  :R (v32 / label)
+                                  :E (v33 / label)
+                                  :E (v34 / label)
+                                  :C (v35 / label)))
+                  :A v18)
+           :D (v10 / label
+                   :R (v22 / label)
+                   :E (v23 / label)
+                   :C (v24 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v11 / label)
+           :S (v12 / label)
+           :A (v13 / label
+                   :E (v25 / label)
+                   :C (v26 / label)))
+    :L (v5 / label)
+    :H (v6 / label
+           :A (v14 / label)
+           :P (v15 / label
+                   :C (v27 / label))
+           :A (v16 / label
+                   :A v14
+                   :P (v28 / label))))

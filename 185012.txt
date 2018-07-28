@@ -1,11 +1,69 @@
 # ::id 185012
 # ::tok While Sorkin 's return was met with high expectations and a lot of early online buzz before Studio 60 's premiere , NBC did not renew it after its first season in which it suffered from low ratings and mixed reception in the press and on the Internet .
-(label :L label
-       :H label
-       :A label
-       :P label
-       :D label
-       :R label
-       :C label
-       :E label
-       :N label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v9 / label
+                  :A (v20 / label
+                          :C (v29 / label)
+                          :R (v30 / label))
+                  :P (v21 / label))
+           :P (v10 / label)
+           :A (v11 / label
+                   :R (v22 / label)
+                   :C (v23 / label
+                           :C (v31 / label
+                                   :E (v38 / label)
+                                   :C (v39 / label))
+                           :N (v32 / label)
+                           :C (v33 / label
+                                   :E (v40 / label
+                                           :E (v48 / label)
+                                           :C (v49 / label)
+                                           :R (v50 / label))
+                                   :E (v41 / label)
+                                   :E (v42 / label)
+                                   :C (v43 / label)))))
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v12 / label
+                   :C (v24 / label)
+                   :R (v25 / label))
+           :P (v13 / label))
+    :H (v6 / label
+           :A (v14 / label)
+           :D (v15 / label)
+           :P (v16 / label)
+           :A (v17 / label))
+    :L (v7 / label)
+    :H (v8 / label
+           :A (v18 / label)
+           :P (v19 / label
+                   :E (v26 / label)
+                   :C (v27 / label)
+                   :E (v28 / label
+                           :R (v34 / label
+                                   :C (v44 / label))
+                           :A (v35 / label)
+                           :P (v36 / label)
+                           :A (v37 / label
+                                   :R (v45 / label)
+                                   :C (v46 / label
+                                           :C (v51 / label
+                                                   :E (v56 / label)
+                                                   :C (v57 / label))
+                                           :N (v52 / label)
+                                           :C (v53 / label
+                                                   :E (v58 / label)
+                                                   :C (v59 / label)))
+                                   :E (v47 / label
+                                           :R (v54 / label)
+                                           :C (v55 / label
+                                                   :C (v60 / label
+                                                           :E (v63 / label)
+                                                           :C (v64 / label))
+                                                   :N (v61 / label)
+                                                   :C (v62 / label
+                                                           :R (v65 / label)
+                                                           :E (v66 / label)
+                                                           :C (v67 / label)))))))))

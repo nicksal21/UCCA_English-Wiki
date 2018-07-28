@@ -1,11 +1,35 @@
 # ::id 1025004
 # ::tok According to a negotiator for Holmes à Court in the 1984 sale , " We had given Paul McCartney first right of refusal but Paul did n't want it at that time .
-(label :H label
-       :P label
-       :A label
-       :E label
-       :C label
-       :R label
-       :L label
-       :D label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label
+                  :E (v6 / label)
+                  :C (v7 / label)
+                  :R (v8 / label)
+                  :E (v9 / label)
+                  :E (v10 / label
+                          :R (v14 / label)
+                          :E (v15 / label)
+                          :E (v16 / label)
+                          :C (v17 / label)))
+           :A (v5 / label
+                  :H (v11 / label
+                          :A (v18 / label)
+                          :P (v19 / label)
+                          :A (v20 / label)
+                          :A (v21 / label
+                                  :E (v27 / label)
+                                  :C (v28 / label)
+                                  :R (v29 / label)
+                                  :E (v30 / label)))
+                  :L (v12 / label)
+                  :H (v13 / label
+                          :A (v22 / label)
+                          :D (v23 / label)
+                          :S (v24 / label)
+                          :A (v25 / label)
+                          :D (v26 / label
+                                  :R (v31 / label)
+                                  :E (v32 / label)
+                                  :C (v33 / label))))))

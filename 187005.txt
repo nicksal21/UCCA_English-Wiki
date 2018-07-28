@@ -1,10 +1,45 @@
 # ::id 187005
 # ::tok It was a devastating setback because he wanted to be an actor , and the Drama department did not allow students to take the stage until they completed all the core freshman classes .
-(label :H label
-       :L label
-       :A label
-       :S label
-       :P label
-       :D label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v9 / label)
+           :S (v10 / label)
+           :A (v11 / label
+                   :E (v23 / label)
+                   :E (v24 / label)
+                   :C (v25 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v12 / label)
+           :P (v13 / label)
+           :A (v14 / label
+                   :A v12
+                   :P (v26 / label)
+                   :A (v27 / label
+                           :E (v38 / label)
+                           :C (v39 / label))))
+    :L (v5 / label)
+    :H (v6 / label
+           :A (v15 / label
+                   :E (v28 / label)
+                   :E (v29 / label)
+                   :C (v30 / label))
+           :D (v16 / label)
+           :P (v17 / label)
+           :A (v18 / label)
+           :A (v19 / label
+                   :A v18
+                   :P (v31 / label)
+                   :A (v32 / label
+                           :E (v40 / label)
+                           :C (v41 / label))))
+    :L (v7 / label)
+    :H (v8 / label
+           :A (v20 / label)
+           :P (v21 / label)
+           :A (v22 / label
+                   :E (v33 / label)
+                   :E (v34 / label)
+                   :E (v35 / label)
+                   :E (v36 / label)
+                   :C (v37 / label))))

@@ -1,10 +1,35 @@
 # ::id 206007
 # ::tok His first critical success was in Eh ? by Henry Livings , which had its US premiere at the Circle in the Square Downtown on October 16 , 1966 .
-(label :H label
-       :A label
-       :S label
-       :E label
-       :C label
-       :R label
-       :P label
-       :D label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v5 / label)
+                  :E (v6 / label)
+                  :C (v7 / label
+                         :A (v9 / label)
+                         :A (v12 / label)
+                         :P (v13 / label)))
+           :S (v4 / label
+                  :R (v8 / label)
+                  :C v9
+                  :E (v10 / label
+                          :R (v14 / label)
+                          :C (v15 / label))
+                  :E (v11 / label
+                          :A v9
+                          :P (v16 / label
+                                  :E (v19 / label)
+                                  :E (v20 / label)
+                                  :C (v21 / label))
+                          :A (v17 / label
+                                  :R (v22 / label)
+                                  :E (v23 / label)
+                                  :C (v24 / label)
+                                  :E (v25 / label
+                                          :R (v28 / label)
+                                          :E (v29 / label)
+                                          :C (v30 / label)
+                                          :E (v31 / label)))
+                          :D (v18 / label
+                                  :R (v26 / label)
+                                  :C (v27 / label))))))

@@ -1,12 +1,42 @@
 # ::id 217017
 # ::tok Claudia Puig of USA Today reported that the chemistry between Dunst and Bettany was potent , with Dunst doing a fine job as a sassy and self - assured player .
-(label :H label
-       :A label
-       :P label
-       :C label
-       :E label
-       :L label
-       :R label
-       :S label
-       :D label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :C (v6 / label)
+                  :E (v7 / label
+                         :R (v11 / label)
+                         :C (v12 / label)))
+           :P (v4 / label)
+           :A (v5 / label
+                  :H (v8 / label
+                         :A (v13 / label
+                                 :S (v20 / label
+                                         :E (v27 / label)
+                                         :C (v28 / label))
+                                 :A (v21 / label
+                                         :R (v29 / label)
+                                         :C (v30 / label
+                                                 :C (v33 / label)
+                                                 :N (v34 / label)
+                                                 :C (v35 / label))))
+                         :S (v14 / label))
+                  :L (v9 / label)
+                  :H (v10 / label
+                          :A (v15 / label)
+                          :S (v16 / label
+                                  :E (v22 / label)
+                                  :C (v23 / label))
+                          :D (v17 / label)
+                          :D (v18 / label)
+                          :A (v19 / label
+                                  :R (v24 / label)
+                                  :E (v25 / label
+                                          :E (v31 / label)
+                                          :C (v32 / label
+                                                  :C (v36 / label)
+                                                  :N (v37 / label)
+                                                  :C (v38 / label
+                                                          :E (v39 / label)
+                                                          :C (v40 / label))))
+                                  :C (v26 / label))))))

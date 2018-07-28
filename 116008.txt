@@ -1,11 +1,36 @@
 # ::id 116008
 # ::tok The young Hepburn was a tomboy who liked to call herself Jimmy and cut her hair short like a boy ' s .
-(label :H label
-       :A label
-       :S label
-       :E label
-       :C label
-       :R label
-       :P label
-       :N label
-       :D label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label)
+                  :E (v7 / label)
+                  :C (v8 / label))
+           :S (v4 / label)
+           :A (v5 / label
+                  :E (v9 / label)
+                  :C (v10 / label)
+                  :E (v11 / label
+                          :R (v12 / label)
+                          :P (v13 / label)
+                          :A (v14 / label
+                                  :C (v15 / label
+                                          :A v3
+                                          :P (v18 / label)
+                                          :D (v19 / label)
+                                          :A (v20 / label))
+                                  :N (v16 / label)
+                                  :C (v17 / label
+                                          :P (v21 / label)
+                                          :A (v22 / label
+                                                  :E (v25 / label)
+                                                  :C (v26 / label))
+                                          :D (v23 / label)
+                                          :A (v24 / label
+                                                  :R (v27 / label)
+                                                  :E (v28 / label
+                                                          :E (v29 / label)
+                                                          :C (v30 / label)
+                                                          :R (v31 / label))
+                                                  :C v26)))
+                          :A v8))))

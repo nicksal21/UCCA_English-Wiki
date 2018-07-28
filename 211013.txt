@@ -1,12 +1,63 @@
 # ::id 211013
 # ::tok In 1997 , he was one of a number of Hollywood stars and executives to sign an open letter to then - German Chancellor Helmut Kohl protesting the treatment of Scientologists in Germany , which was published as a newspaper advertisement in the International Herald Tribune .
-(label :H label
-       :L label
-       :D label
-       :A label
-       :S label
-       :P label
-       :E label
-       :C label
-       :N label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :D (v5 / label
+                  :E (v11 / label)
+                  :C (v12 / label))
+           :A (v6 / label)
+           :S (v7 / label
+                  :E (v13 / label
+                          :C (v25 / label)
+                          :R (v26 / label))
+                  :E (v14 / label
+                          :E (v27 / label)
+                          :C (v28 / label)
+                          :R (v29 / label))
+                  :E (v15 / label)
+                  :C (v10 / label
+                          :C (v22 / label)
+                          :N (v23 / label)
+                          :C (v24 / label))))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v8 / label)
+           :A (v9 / label
+                  :E (v16 / label)
+                  :E (v17 / label)
+                  :C (v18 / label)
+                  :E (v19 / label
+                          :R (v30 / label)
+                          :E (v31 / label
+                                  :E (v37 / label)
+                                  :E (v38 / label)
+                                  :C (v39 / label))
+                          :C (v32 / label))
+                  :E (v20 / label
+                          :A v18
+                          :P (v33 / label)
+                          :A (v34 / label
+                                  :A (v40 / label)
+                                  :P (v41 / label
+                                          :E (v49 / label)
+                                          :C (v50 / label))
+                                  :A (v42 / label
+                                          :R (v51 / label)
+                                          :C (v52 / label))
+                                  :A (v43 / label
+                                          :R (v53 / label)
+                                          :C (v54 / label))))
+                  :E (v21 / label
+                          :A v18
+                          :P (v35 / label)
+                          :A (v36 / label
+                                  :R (v44 / label)
+                                  :E (v45 / label)
+                                  :E (v46 / label)
+                                  :C (v47 / label)
+                                  :E (v48 / label
+                                          :R (v55 / label)
+                                          :E (v56 / label)
+                                          :E (v57 / label)
+                                          :C (v58 / label)))))
+           :A v10))

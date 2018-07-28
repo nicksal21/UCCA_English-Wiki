@@ -1,12 +1,50 @@
 # ::id 1020006
 # ::tok The band toured the Midwest extensively from 1966 to 1968 , frequently performing at a string of black clubs known as the " chitlin ' circuit " , where they often opened stripteases and other adult acts .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label
-       :S label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label
+                  :E (v19 / label)
+                  :C (v14 / label))
+           :P (v7 / label)
+           :A (v8 / label
+                  :E (v20 / label)
+                  :C (v21 / label))
+           :D (v9 / label)
+           :D (v10 / label
+                   :R (v22 / label)
+                   :C (v23 / label)
+                   :R (v24 / label)
+                   :C (v25 / label)))
+    :H (v3 / label
+           :D (v11 / label)
+           :P (v12 / label
+                   :C (v26 / label)
+                   :R (v27 / label))
+           :A (v13 / label
+                   :A (v28 / label
+                           :E (v34 / label)
+                           :E (v35 / label
+                                   :C (v46 / label)
+                                   :R (v47 / label))
+                           :E (v36 / label)
+                           :C (v37 / label))
+                   :S (v29 / label
+                           :C (v38 / label)
+                           :R (v39 / label))
+                   :A (v30 / label
+                           :E (v40 / label)
+                           :E (v41 / label)
+                           :C (v42 / label)))
+           :A v14)
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v15 / label)
+           :D (v16 / label)
+           :P (v17 / label)
+           :A (v18 / label
+                   :C (v31 / label)
+                   :N (v32 / label)
+                   :C (v33 / label
+                           :E (v43 / label)
+                           :E (v44 / label)
+                           :C (v45 / label)))))

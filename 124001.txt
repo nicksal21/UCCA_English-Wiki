@@ -1,9 +1,33 @@
 # ::id 124001
 # ::tok The day after graduating , she traveled to Baltimore to meet Edwin H . Knopf , who ran a successful stock theatre company .
-(label :L label
-       :H label
-       :E label
-       :C label
-       :R label
-       :A label
-       :P label)
+(v1 / label
+    :L (v2 / label
+           :E (v5 / label)
+           :C (v6 / label)
+           :R (v7 / label))
+    :H (v3 / label
+           :A (v8 / label)
+           :P (v9 / label))
+    :H (v4 / label
+           :A v8
+           :P (v10 / label)
+           :A (v11 / label
+                   :R (v13 / label)
+                   :C (v14 / label))
+           :A (v12 / label
+                   :R (v15 / label)
+                   :C (v16 / label
+                           :P (v17 / label)
+                           :A (v18 / label
+                                   :C (v19 / label)
+                                   :E (v20 / label
+                                           :A v19
+                                           :R (v21 / label)
+                                           :P (v22 / label)
+                                           :A (v23 / label
+                                                   :E (v24 / label)
+                                                   :E (v25 / label)
+                                                   :E (v26 / label
+                                                           :E (v28 / label)
+                                                           :C (v29 / label))
+                                                   :C (v27 / label))))))))

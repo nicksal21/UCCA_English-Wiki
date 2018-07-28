@@ -1,11 +1,139 @@
 # ::id 115001
 # ::tok Hepburn famously shunned the Hollywood publicity machine, and refused to conform to societal expectations of women. She was outspoken, assertive, athletic, and wore trousers before it was fashionable for women to do so. She married once, as a young woman, but thereafter lived independently. A 26-year affair with her co-star Spencer Tracy was hidden from the public. With her unconventional lifestyle and the independent characters she brought to the screen, Hepburn came to epitomize the "modern woman" in 20th - century America and helped change perceptions of women. In 1999, she was named by the American Film Institute as the top female Hollywood legend.
-(label :H label
-       :L label
-       :A label
-       :D label
-       :P label
-       :S label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v24 / label)
+           :D (v25 / label)
+           :P (v26 / label)
+           :A (v27 / label
+                   :E (v66 / label)
+                   :C (v67 / label)
+                   :E (v68 / label
+                           :E (v118 / label)
+                           :C (v119 / label))))
+    :L (v3 / label)
+    :H (v4 / label
+           :D (v28 / label)
+           :P (v29 / label)
+           :A (v30 / label
+                   :R (v69 / label)
+                   :E (v70 / label)
+                   :C (v71 / label)
+                   :E (v72 / label
+                           :R (v120 / label)
+                           :C (v121 / label)))
+           :A v24)
+    :H (v5 / label
+           :A (v31 / label)
+           :S (v32 / label
+                   :C (v73 / label)
+                   :C (v74 / label)
+                   :C (v75 / label)))
+    :L (v6 / label)
+    :H (v7 / label
+           :P (v33 / label)
+           :A (v34 / label)
+           :A v31)
+    :L (v8 / label)
+    :H (v9 / label
+           :S (v35 / label)
+           :A (v36 / label
+                   :R (v76 / label)
+                   :A (v77 / label)
+                   :P (v78 / label)
+                   :A (v79 / label)))
+    :H (v10 / label
+            :A (v37 / label)
+            :P (v38 / label)
+            :D (v39 / label))
+    :L (v11 / label)
+    :H (v12 / label
+            :S (v40 / label
+                    :E (v80 / label)
+                    :E (v81 / label)
+                    :C (v82 / label))
+            :A v37)
+    :L (v13 / label)
+    :H (v14 / label
+            :D (v41 / label)
+            :P (v42 / label)
+            :D (v43 / label)
+            :A v37)
+    :H (v15 / label
+            :A (v44 / label
+                    :P (v83 / label
+                            :E (v122 / label)
+                            :C (v123 / label))
+                    :D (v84 / label)
+                    :A (v85 / label
+                            :R (v124 / label)
+                            :E (v125 / label
+                                     :E (v131 / label)
+                                     :C (v132 / label))
+                            :C (v126 / label)))
+            :P (v45 / label)
+            :A (v46 / label
+                    :R (v86 / label)
+                    :E (v87 / label)
+                    :C (v88 / label)))
+    :L (v16 / label)
+    :H (v17 / label
+            :A (v47 / label)
+            :S (v48 / label
+                    :E (v89 / label)
+                    :C (v90 / label)))
+    :L (v18 / label)
+    :H (v19 / label
+            :A (v49 / label
+                    :E (v91 / label)
+                    :E (v92 / label)
+                    :C (v93 / label))
+            :A (v50 / label)
+            :P (v51 / label)
+            :A (v52 / label
+                    :R (v94 / label)
+                    :E (v95 / label)
+                    :C (v96 / label)))
+    :H (v20 / label
+            :A (v53 / label)
+            :D (v54 / label)
+            :S (v55 / label)
+            :A (v56 / label
+                    :E (v97 / label)
+                    :E (v98 / label)
+                    :C (v99 / label))
+            :A (v57 / label
+                    :R (v100 / label)
+                    :E (v101 / label
+                             :E (v127 / label)
+                             :C (v128 / label))
+                    :C (v102 / label)))
+    :L (v21 / label)
+    :H (v22 / label
+            :D (v58 / label)
+            :P (v59 / label)
+            :A (v60 / label
+                    :C (v103 / label)
+                    :E (v104 / label
+                             :R (v129 / label)
+                             :C (v130 / label)))
+            :A v53)
+    :H (v23 / label
+            :D (v61 / label
+                    :R (v105 / label)
+                    :C (v106 / label))
+            :A (v62 / label)
+            :P (v63 / label)
+            :A (v64 / label
+                    :R (v107 / label)
+                    :E (v108 / label)
+                    :E (v109 / label)
+                    :E (v110 / label)
+                    :C (v111 / label))
+            :A (v65 / label
+                    :R (v112 / label)
+                    :E (v113 / label)
+                    :E (v114 / label)
+                    :E (v115 / label)
+                    :E (v116 / label)
+                    :C (v117 / label))))

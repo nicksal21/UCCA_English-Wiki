@@ -1,11 +1,43 @@
 # ::id 214005
 # ::tok As a teenager , she found it difficult to deal with her rising fame , and for a period she blamed her mother for pushing her into acting as a child .
-(label :L label
-       :H label
-       :A label
-       :S label
-       :D label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v7 / label)
+           :S (v8 / label
+                  :E (v18 / label)
+                  :C (v19 / label)))
+    :H (v4 / label
+           :A v7
+           :S (v9 / label
+                  :C (v20 / label))
+           :D (v10 / label)
+           :D (v11 / label)
+           :A (v12 / label
+                   :R (v21 / label)
+                   :E (v22 / label)
+                   :E (v23 / label)
+                   :C (v24 / label)))
+    :L (v5 / label)
+    :H (v6 / label
+           :D (v13 / label
+                   :R (v25 / label)
+                   :E (v26 / label)
+                   :C (v27 / label))
+           :A (v14 / label)
+           :P (v15 / label)
+           :A (v16 / label
+                   :E (v28 / label)
+                   :C (v29 / label))
+           :A (v17 / label
+                   :R (v30 / label)
+                   :P (v31 / label)
+                   :A (v32 / label)
+                   :A (v33 / label
+                           :R (v35 / label)
+                           :C (v36 / label))
+                   :D (v34 / label
+                           :R (v37 / label)
+                           :E (v38 / label)
+                           :C (v39 / label))
+                   :A v29)))

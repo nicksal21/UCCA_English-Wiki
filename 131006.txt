@@ -1,10 +1,35 @@
 # ::id 131006
 # ::tok Reflecting on this change in fortunes , Andrew Britton writes of Hepburn , " No other star has emerged with greater rapidity or with more ecstatic acclaim .
-(label :H label
-       :A label
-       :P label
-       :R label
-       :C label
-       :D label
-       :E label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :R (v10 / label)
+                  :P (v11 / label)
+                  :A (v12 / label
+                          :C (v18 / label))))
+    :H (v3 / label
+           :A v4
+           :P (v7 / label)
+           :A (v8 / label
+                  :R (v13 / label)
+                  :C (v14 / label))
+           :A (v9 / label
+                  :A (v15 / label
+                          :E (v19 / label)
+                          :E (v20 / label)
+                          :C (v21 / label))
+                  :P (v16 / label)
+                  :D (v17 / label
+                          :C (v22 / label
+                                  :R (v25 / label)
+                                  :E (v26 / label)
+                                  :C (v27 / label))
+                          :N (v23 / label)
+                          :C (v24 / label
+                                  :E (v28 / label)
+                                  :E (v29 / label
+                                          :E (v31 / label)
+                                          :C (v32 / label))
+                                  :C (v30 / label))))))

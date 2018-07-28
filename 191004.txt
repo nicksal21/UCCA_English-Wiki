@@ -1,9 +1,26 @@
 # ::id 191004
 # ::tok Harold Becker directed the film , a medical thriller released in 1993 , which starred Nicole Kidman and Alec Baldwin .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :E (v6 / label)
+                  :C (v7 / label)
+                  :E (v8 / label
+                         :E (v9 / label)
+                         :E (v10 / label)
+                         :C (v11 / label)
+                         :E (v12 / label
+                                 :A v11
+                                 :P (v14 / label)
+                                 :A (v15 / label
+                                         :R (v18 / label)
+                                         :C (v19 / label)))
+                         :E (v13 / label
+                                 :A v11
+                                 :P (v16 / label)
+                                 :A (v17 / label
+                                         :C (v20 / label)
+                                         :N (v21 / label)
+                                         :C (v22 / label)))))))

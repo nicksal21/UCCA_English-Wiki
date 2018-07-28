@@ -1,11 +1,59 @@
 # ::id 380012
 # ::tok In January 2007 , as host of Saturday Night Live , he put on a sparkly evening dress and sang " And I Am Telling You I 'm Not Going " from the musical Dreamgirls for his opening monologue , dedicating the song to his " unique fan base ... the fans of Brokeback . "
-(label :H label
-       :L label
-       :D label
-       :A label
-       :P label
-       :R label
-       :E label
-       :C label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :D (v6 / label
+                  :R (v17 / label)
+                  :E (v18 / label)
+                  :C (v19 / label))
+           :A (v7 / label
+                  :E (v20 / label
+                          :A (v13 / label)
+                          :R (v35 / label)
+                          :S (v36 / label)
+                          :A (v37 / label
+                                  :R (v51 / label)
+                                  :C (v52 / label)))
+                  :C v13)
+           :P (v8 / label)
+           :A (v9 / label
+                  :E (v21 / label)
+                  :E (v22 / label)
+                  :E (v23 / label)
+                  :C (v24 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v10 / label)
+           :A (v11 / label
+                   :C (v25 / label)
+                   :E (v26 / label
+                           :R (v38 / label)
+                           :E (v39 / label)
+                           :C (v40 / label)
+                           :E (v41 / label)))
+           :A (v12 / label
+                   :R (v27 / label)
+                   :A (v28 / label)
+                   :P (v29 / label
+                           :E (v42 / label)
+                           :C (v43 / label)))
+           :A v13)
+    :H (v5 / label
+           :P (v14 / label)
+           :A (v15 / label
+                   :E (v30 / label)
+                   :C (v31 / label))
+           :A (v16 / label
+                   :R (v32 / label)
+                   :C (v33 / label
+                           :E (v44 / label)
+                           :E (v45 / label)
+                           :E (v46 / label)
+                           :C (v47 / label))
+                   :C (v34 / label
+                           :E (v48 / label)
+                           :C (v49 / label)
+                           :E (v50 / label
+                                   :R (v53 / label)
+                                   :C (v54 / label))))
+           :A v13))

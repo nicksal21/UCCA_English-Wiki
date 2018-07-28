@@ -1,9 +1,16 @@
 # ::id 1019011
 # ::tok Jackson had a troubled relationship with his father , Joe .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :C label
-       :E label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label
+                  :C (v7 / label))
+           :D (v5 / label
+                  :E (v8 / label)
+                  :C (v9 / label))
+           :A (v6 / label
+                  :R (v10 / label)
+                  :E (v11 / label
+                          :E (v13 / label)
+                          :C (v14 / label))
+                  :C (v12 / label))))

@@ -1,9 +1,60 @@
 # ::id 250015
 # ::tok New York Times critic Ben Brantley praised Hawke 's performance as the central character Eddie , reporting that " he captures with merciless precision the sense of a sharp mind turning flaccid " . The performance earned Hawke a Lucille Lortel Award nomination for Outstanding Lead Actor .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :D label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v15 / label
+                          :E (v29 / label)
+                          :C (v30 / label))
+                  :C (v10 / label))
+           :P (v6 / label)
+           :A (v7 / label
+                  :A (v16 / label
+                          :C (v31 / label)
+                          :R (v32 / label))
+                  :P (v17 / label)
+                  :A (v18 / label
+                          :R (v33 / label)
+                          :E (v34 / label
+                                  :E (v48 / label)
+                                  :E (v49 / label)
+                                  :C (v50 / label))
+                          :C (v35 / label))))
+    :H (v3 / label
+           :P (v8 / label)
+           :A (v9 / label
+                  :A (v19 / label)
+                  :P (v20 / label)
+                  :D (v21 / label
+                          :R (v36 / label)
+                          :E (v37 / label)
+                          :C (v38 / label))
+                  :A (v22 / label
+                          :E (v39 / label)
+                          :C (v40 / label)
+                          :E (v41 / label
+                                  :A (v51 / label
+                                          :R (v54 / label)
+                                          :E (v55 / label)
+                                          :E (v56 / label)
+                                          :C (v57 / label))
+                                  :P (v52 / label)
+                                  :A (v53 / label))))
+           :A v10)
+    :H (v4 / label
+           :A (v11 / label
+                   :A (v23 / label)
+                   :P (v24 / label
+                           :E (v42 / label)
+                           :C (v43 / label)))
+           :P (v12 / label)
+           :A (v13 / label)
+           :A (v14 / label
+                   :E (v25 / label)
+                   :E (v26 / label
+                           :E (v44 / label)
+                           :C (v45 / label))
+                   :C (v27 / label)
+                   :E (v28 / label
+                           :R (v46 / label)
+                           :C (v47 / label)))))

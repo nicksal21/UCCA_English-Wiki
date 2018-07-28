@@ -1,10 +1,54 @@
 # ::id 195007
 # ::tok In early October 2005 a pilot script dubbed Studio 7 on the Sunset Strip for a new TV series , written by him and with Tommy Schlamme attached as producer , started circulating around Hollywood and generating interest on the web .
-(label :H label
-       :L label
-       :D label
-       :A label
-       :P label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :D (v5 / label
+                  :R (v14 / label)
+                  :E (v15 / label)
+                  :E (v16 / label)
+                  :C (v17 / label))
+           :A (v6 / label
+                  :E (v18 / label)
+                  :E (v19 / label)
+                  :C (v13 / label)
+                  :E (v20 / label
+                          :A v13
+                          :P (v28 / label)
+                          :A (v29 / label))
+                  :E (v21 / label
+                          :R (v30 / label)
+                          :E (v31 / label)
+                          :E (v32 / label)
+                          :E (v33 / label)
+                          :C (v34 / label))
+                  :E (v22 / label
+                          :H (v35 / label
+                                  :A v13
+                                  :P (v38 / label)
+                                  :A (v39 / label
+                                          :R (v43 / label)
+                                          :C (v44 / label)))
+                          :L (v36 / label)
+                          :H (v37 / label
+                                  :A v13
+                                  :A (v40 / label
+                                          :R (v45 / label)
+                                          :C (v46 / label))
+                                  :P (v41 / label)
+                                  :A (v42 / label
+                                          :R (v47 / label)
+                                          :C (v48 / label)))))
+           :D (v7 / label)
+           :P (v8 / label)
+           :A (v9 / label
+                  :R (v23 / label)
+                  :C (v24 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :D (v10 / label)
+           :P (v11 / label)
+           :A (v12 / label
+                   :R (v25 / label)
+                   :E (v26 / label)
+                   :C (v27 / label))
+           :A v13))

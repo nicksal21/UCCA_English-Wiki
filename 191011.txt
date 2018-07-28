@@ -1,12 +1,58 @@
 # ::id 191011
 # ::tok Kenneth Turan in the Los Angeles Times described the film as " genial and entertaining if not notably inspired " , and believed its most interesting aspects were the " pipe dreams about the American political system and where it could theoretically be headed " .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :C label
-       :R label
-       :E label
-       :S label
-       :N label
-       :D label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :C (v11 / label)
+                  :R (v12 / label)
+                  :E (v13 / label
+                          :E (v21 / label)
+                          :C (v22 / label)))
+           :P (v6 / label)
+           :A (v7 / label
+                  :E (v14 / label)
+                  :C (v15 / label))
+           :A (v8 / label
+                  :R (v16 / label)
+                  :C (v17 / label
+                          :H (v23 / label
+                                  :S (v33 / label
+                                          :C (v46 / label)
+                                          :N (v47 / label)
+                                          :C (v48 / label))
+                                  :A v15)
+                          :L (v24 / label)
+                          :H (v25 / label
+                                  :D (v34 / label)
+                                  :D (v35 / label)
+                                  :S (v36 / label)
+                                  :A v15))))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v9 / label)
+           :A (v10 / label
+                   :A (v18 / label
+                           :E (v26 / label)
+                           :E (v27 / label)
+                           :E (v28 / label)
+                           :C (v29 / label))
+                   :S (v19 / label)
+                   :A (v20 / label
+                           :C (v30 / label
+                                   :E (v37 / label)
+                                   :E (v38 / label)
+                                   :C (v39 / label)
+                                   :E (v40 / label
+                                           :R (v49 / label)
+                                           :E (v50 / label)
+                                           :E (v51 / label)
+                                           :E (v52 / label)
+                                           :C (v53 / label)))
+                           :N (v31 / label)
+                           :C (v32 / label
+                                   :R (v41 / label)
+                                   :A (v42 / label)
+                                   :D (v43 / label)
+                                   :D (v44 / label)
+                                   :P (v45 / label))))
+           :A v11))

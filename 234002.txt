@@ -1,9 +1,31 @@
 # ::id 234002
 # ::tok Furthermore , in an advertisement promoting nationalism , he gave a short explanation of the March of the Volunteers , the national anthem of the People 's Republic of China .
-(label :G label
-       :H label
-       :A label
-       :P label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :G (v2 / label)
+    :H (v3 / label
+           :A (v4 / label
+                  :R (v8 / label)
+                  :E (v9 / label)
+                  :C (v10 / label)
+                  :E (v11 / label
+                          :A v10
+                          :P (v16 / label)
+                          :A (v17 / label)))
+           :A (v5 / label)
+           :P (v6 / label)
+           :A (v7 / label
+                  :E (v12 / label)
+                  :E (v13 / label)
+                  :C (v14 / label)
+                  :E (v15 / label
+                          :R (v18 / label)
+                          :E (v19 / label)
+                          :C (v20 / label)
+                          :E (v21 / label
+                                  :E (v22 / label)
+                                  :E (v23 / label)
+                                  :C (v24 / label)
+                                  :E (v25 / label
+                                          :R (v26 / label)
+                                          :E (v27 / label)
+                                          :C (v28 / label)))))))

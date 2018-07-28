@@ -1,12 +1,58 @@
 # ::id 209011
 # ::tok In 1997 , Hoffman starred opposite John Travolta in the Costa Gavras film Mad City and gained his seventh Academy Award nomination for his performance in Wag The Dog , in a role that allowed Hoffman the chance to work with both Robert De Niro and Denis Leary .
-(label :H label
-       :L label
-       :D label
-       :A label
-       :P label
-       :R label
-       :C label
-       :E label
-       :S label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :D (v5 / label
+                  :R (v14 / label)
+                  :C (v15 / label))
+           :A (v6 / label)
+           :P (v7 / label)
+           :A (v8 / label
+                  :R (v16 / label)
+                  :C (v17 / label))
+           :A (v9 / label
+                  :R (v18 / label)
+                  :E (v19 / label)
+                  :E (v20 / label
+                          :E (v31 / label)
+                          :C (v32 / label))
+                  :C (v21 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v10 / label)
+           :A (v11 / label
+                   :E (v22 / label
+                           :E (v33 / label)
+                           :C (v34 / label))
+                   :E (v23 / label)
+                   :C (v24 / label))
+           :A (v12 / label
+                   :R (v25 / label)
+                   :C (v26 / label
+                           :A (v35 / label)
+                           :P (v36 / label)
+                           :A (v37 / label
+                                   :R (v41 / label)
+                                   :C (v42 / label))))
+           :A (v13 / label
+                   :R (v27 / label)
+                   :E (v28 / label)
+                   :C (v29 / label)
+                   :E (v30 / label
+                           :A v29
+                           :P (v38 / label)
+                           :A (v39 / label)
+                           :A (v40 / label
+                                   :A v39
+                                   :S (v43 / label
+                                           :E (v45 / label
+                                                   :E (v49 / label)
+                                                   :C (v50 / label))
+                                           :C (v46 / label))
+                                   :A (v44 / label
+                                           :R (v47 / label)
+                                           :C (v48 / label
+                                                   :N (v51 / label)
+                                                   :C (v52 / label)
+                                                   :C (v53 / label))))))
+           :A v6))

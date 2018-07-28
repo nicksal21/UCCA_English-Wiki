@@ -1,10 +1,18 @@
 # ::id 211003
 # ::tok Luck was cancelled in March 2012 after three horses died on set .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :R label
-       :C label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :P (v6 / label)
+           :D (v7 / label
+                  :R (v11 / label)
+                  :C (v12 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v8 / label
+                  :E (v13 / label)
+                  :C (v14 / label))
+           :P (v9 / label)
+           :A (v10 / label
+                   :R (v15 / label)
+                   :C (v16 / label))))

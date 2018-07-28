@@ -1,10 +1,50 @@
 # ::id 149004
 # ::tok In response to the question of why she stayed with Tracy for so long , despite the nature of their relationship , she said , " I honestly do n't know . I can only say that I could never have left him .
-(label :L label
-       :H label
-       :E label
-       :C label
-       :P label
-       :A label
-       :R label
-       :D label)
+(v1 / label
+    :L (v2 / label
+           :E (v7 / label)
+           :C (v8 / label))
+    :H (v3 / label
+           :P (v9 / label
+                  :E (v17 / label)
+                  :C (v18 / label))
+           :A (v10 / label
+                   :R (v19 / label)
+                   :D (v20 / label)
+                   :A (v21 / label)
+                   :P (v22 / label)
+                   :A (v23 / label
+                           :R (v29 / label)
+                           :C (v30 / label))
+                   :D (v24 / label
+                           :R (v31 / label)
+                           :E (v32 / label)
+                           :C (v33 / label))))
+    :L (v4 / label)
+    :H (v5 / label
+           :P (v11 / label
+                   :E (v25 / label)
+                   :C (v26 / label))
+           :A (v12 / label)
+           :A (v13 / label))
+    :H (v6 / label
+           :A (v14 / label)
+           :P (v15 / label)
+           :A (v16 / label
+                   :H (v27 / label
+                           :A (v34 / label)
+                           :D (v35 / label)
+                           :D (v36 / label)
+                           :P (v37 / label))
+                   :H (v28 / label
+                           :A (v38 / label)
+                           :P (v39 / label
+                                   :C (v42 / label))
+                           :D (v40 / label)
+                           :A (v41 / label
+                                   :R (v43 / label)
+                                   :A (v44 / label)
+                                   :P (v45 / label
+                                           :C (v48 / label))
+                                   :D (v46 / label)
+                                   :A (v47 / label))))))

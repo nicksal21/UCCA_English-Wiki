@@ -1,8 +1,10 @@
 # ::id 211006
 # ::tok Hoffman married Anne Byrne in May 1969 .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :R label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label)
+           :D (v6 / label
+                  :R (v7 / label)
+                  :C (v8 / label))))

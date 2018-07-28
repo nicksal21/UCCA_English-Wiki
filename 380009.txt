@@ -1,8 +1,13 @@
 # ::id 380009
 # ::tok I 'm open to whatever people want to call me .
-(label :H label
-       :A label
-       :S label
-       :R label
-       :D label
-       :P label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :S (v4 / label)
+           :A (v5 / label
+                  :R (v6 / label)
+                  :A (v7 / label)
+                  :A (v8 / label)
+                  :D (v9 / label)
+                  :P (v10 / label)
+                  :A (v11 / label))))

@@ -1,8 +1,25 @@
 # ::id 1026001
 # ::tok The change gained widespread media coverage , including rumors that he might be bleaching his skin .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label)
+                  :C (v7 / label))
+           :P (v4 / label)
+           :A (v5 / label
+                  :E (v8 / label)
+                  :E (v9 / label)
+                  :C (v10 / label)
+                  :E (v11 / label
+                          :R (v12 / label)
+                          :C (v13 / label)
+                          :E (v14 / label
+                                  :A (v15 / label)
+                                  :P (v16 / label
+                                          :E (v18 / label
+                                                  :E (v22 / label)
+                                                  :C (v23 / label))
+                                          :C (v19 / label))
+                                  :A (v17 / label
+                                          :E (v20 / label)
+                                          :C (v21 / label)))))))

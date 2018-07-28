@@ -1,11 +1,72 @@
 # ::id 247011
 # ::tok Variety wrote that Hawke 's part " shows signs of coming to new life as a screen actor after somnolent turns in the likes of Snow Falling on Cedars . Hawke adds feisty and cunning flourishes to his part that allow him to respectably hold his own under formidable circumstances .
-(label :H label
-       :A label
-       :P label
-       :L label
-       :R label
-       :E label
-       :C label
-       :D label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :H (v6 / label
+                         :R (v11 / label)
+                         :A (v12 / label
+                                 :A (v17 / label
+                                         :C (v37 / label)
+                                         :R (v38 / label))
+                                 :P (v27 / label))
+                         :P (v13 / label)
+                         :A (v14 / label
+                                 :E (v28 / label
+                                         :C (v47 / label)
+                                         :R (v48 / label))
+                                 :C (v29 / label
+                                         :P (v49 / label)
+                                         :A (v50 / label
+                                                 :R (v60 / label)
+                                                 :E (v61 / label)
+                                                 :C (v62 / label))
+                                         :A (v51 / label
+                                                 :R (v63 / label)
+                                                 :E (v64 / label)
+                                                 :E (v65 / label)
+                                                 :C (v66 / label))
+                                         :A v17)))
+                  :L (v7 / label)
+                  :H (v8 / label
+                         :P (v15 / label
+                                 :E (v30 / label)
+                                 :C (v31 / label))
+                         :A (v16 / label
+                                 :R (v32 / label)
+                                 :E (v33 / label)
+                                 :E (v34 / label)
+                                 :R (v35 / label)
+                                 :C (v36 / label))
+                         :A v17)
+                  :H (v9 / label
+                         :A (v18 / label)
+                         :P (v19 / label)
+                         :A (v20 / label
+                                 :E (v39 / label
+                                         :C (v52 / label)
+                                         :N (v53 / label)
+                                         :C (v54 / label))
+                                 :C (v26 / label))
+                         :A (v21 / label
+                                 :R (v40 / label)
+                                 :A (v41 / label)
+                                 :P (v42 / label)))
+                  :H (v10 / label
+                          :R (v22 / label)
+                          :P (v23 / label)
+                          :A (v24 / label)
+                          :A (v25 / label
+                                  :A v24
+                                  :D (v43 / label)
+                                  :D (v44 / label)
+                                  :P (v45 / label
+                                          :E (v55 / label)
+                                          :C (v56 / label))
+                                  :A (v46 / label
+                                          :R (v57 / label)
+                                          :E (v58 / label)
+                                          :C (v59 / label)))
+                          :A v26))))

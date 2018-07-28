@@ -1,10 +1,49 @@
 # ::id 232004
 # ::tok Chan 's first musical recording was " Kung Fu Fighting Man " , the theme song played over the closing credits of The Young Master ( 1980 ) . At least 10 of these recordings have been released on soundtrack albums for the films .
-(label :H label
-       :A label
-       :S label
-       :P label
-       :E label
-       :C label
-       :R label
-       :D label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :E (v10 / label
+                          :C (v23 / label)
+                          :R (v24 / label))
+                  :E (v11 / label)
+                  :E (v12 / label)
+                  :C (v13 / label))
+           :S (v5 / label)
+           :A (v6 / label
+                  :C (v14 / label)
+                  :E (v15 / label
+                          :A (v25 / label
+                                  :E (v34 / label)
+                                  :E (v35 / label)
+                                  :C (v36 / label))
+                          :P (v26 / label)
+                          :A (v27 / label
+                                  :R (v37 / label)
+                                  :E (v38 / label)
+                                  :E (v39 / label
+                                          :E (v42 / label)
+                                          :C (v43 / label)
+                                          :R (v44 / label))
+                                  :C (v40 / label)
+                                  :E (v41 / label
+                                          :A v40
+                                          :P (v45 / label)
+                                          :D (v46 / label))))))
+    :H (v3 / label
+           :A (v7 / label
+                  :E (v16 / label
+                          :E (v28 / label)
+                          :C (v29 / label)
+                          :R (v30 / label))
+                  :E (v17 / label)
+                  :C (v18 / label))
+           :P (v8 / label)
+           :A (v9 / label
+                  :R (v19 / label)
+                  :E (v20 / label)
+                  :C (v21 / label)
+                  :E (v22 / label
+                          :R (v31 / label)
+                          :E (v32 / label)
+                          :C (v33 / label)))))

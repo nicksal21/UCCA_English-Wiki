@@ -1,10 +1,30 @@
 # ::id 1024003
 # ::tok Jackson underwent treatment to hide the scars on his scalp , and he also had his third rhinoplasty shortly thereafter .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label)
+           :P (v8 / label)
+           :A (v9 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v10 / label)
+           :A (v11 / label
+                   :E (v17 / label)
+                   :C (v18 / label)
+                   :R (v19 / label)
+                   :E (v20 / label
+                           :E (v26 / label)
+                           :C (v27 / label)))
+           :A v7)
+    :L (v5 / label)
+    :H (v6 / label
+           :A (v12 / label)
+           :D (v13 / label)
+           :P (v14 / label)
+           :A (v15 / label
+                   :E (v21 / label)
+                   :E (v22 / label)
+                   :C (v23 / label))
+           :D (v16 / label
+                   :E (v24 / label)
+                   :C (v25 / label))))

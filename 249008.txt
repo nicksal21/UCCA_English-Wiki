@@ -1,10 +1,55 @@
 # ::id 249008
 # ::tok Peter Travers of Rolling Stone praised Hawke 's performance , noting that he " digs deep to create a haunting portrayal of loss " . USA Today called the movie " highly entertaining " , describing Hawke and Hoffman 's performances as excellent .
-(label :H label
-       :A label
-       :P label
-       :C label
-       :E label
-       :D label
-       :R label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label
+                  :C (v11 / label)
+                  :E (v19 / label
+                          :R (v34 / label)
+                          :C (v35 / label)))
+           :P (v7 / label)
+           :A (v8 / label
+                  :A (v20 / label
+                          :C (v36 / label)
+                          :R (v37 / label))
+                  :P (v21 / label)))
+    :H (v3 / label
+           :P (v9 / label)
+           :A (v10 / label
+                   :A (v22 / label)
+                   :P (v23 / label)
+                   :D (v24 / label)
+                   :A (v25 / label
+                           :A v22
+                           :P (v38 / label)
+                           :A (v39 / label
+                                   :E (v42 / label)
+                                   :E (v43 / label)
+                                   :C (v44 / label)
+                                   :E (v45 / label
+                                           :R (v49 / label)
+                                           :C (v50 / label)))))
+           :A v11)
+    :H (v4 / label
+           :A (v12 / label)
+           :P (v13 / label)
+           :A (v14 / label
+                   :E (v26 / label)
+                   :C (v27 / label))
+           :A (v15 / label
+                   :E (v28 / label)
+                   :C (v29 / label)))
+    :H (v5 / label
+           :P (v16 / label)
+           :A (v17 / label
+                   :A (v30 / label
+                           :C (v40 / label
+                                   :C (v46 / label)
+                                   :N (v47 / label)
+                                   :C (v48 / label))
+                           :R (v41 / label))
+                   :P (v31 / label))
+           :A (v18 / label
+                   :R (v32 / label)
+                   :C (v33 / label))
+           :A v12))

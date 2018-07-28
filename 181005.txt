@@ -1,9 +1,21 @@
 # ::id 181005
 # ::tok Married in 1977 , her parents filed for divorce in October 2008 .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :R label
-       :C label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :P (v5 / label)
+           :D (v6 / label
+                  :R (v10 / label)
+                  :C (v11 / label)))
+    :H (v3 / label
+           :A (v7 / label
+                  :E (v12 / label)
+                  :C v4)
+           :P (v8 / label
+                  :C (v13 / label)
+                  :E (v14 / label
+                          :R (v17 / label)
+                          :C (v18 / label)))
+           :D (v9 / label
+                  :R (v15 / label)
+                  :C (v16 / label))))

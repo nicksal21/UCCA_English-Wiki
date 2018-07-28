@@ -1,10 +1,35 @@
 # ::id 251003
 # ::tok In November 2007 he directed Things We Want , a two - act play by Jonathan Marc Sherman , for the artist - driven Off - Broadway company The New Group .
-(label :H label
-       :D label
-       :A label
-       :P label
-       :R label
-       :E label
-       :C label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label
+                  :R (v8 / label)
+                  :E (v9 / label)
+                  :C (v10 / label))
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :C (v11 / label)
+                  :E (v12 / label
+                          :A v11
+                          :S (v18 / label
+                                  :E (v24 / label
+                                          :E (v30 / label)
+                                          :E (v31 / label)
+                                          :C (v32 / label))
+                                  :C (v25 / label))
+                          :A (v19 / label
+                                  :R (v26 / label)
+                                  :C (v27 / label))))
+           :A (v7 / label
+                  :R (v13 / label)
+                  :E (v14 / label)
+                  :E (v15 / label
+                          :E (v20 / label)
+                          :C (v21 / label))
+                  :E (v16 / label
+                          :E (v22 / label
+                                  :E (v28 / label)
+                                  :C (v29 / label))
+                          :C (v23 / label))
+                  :C (v17 / label))))

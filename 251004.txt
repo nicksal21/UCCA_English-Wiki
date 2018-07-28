@@ -1,9 +1,18 @@
 # ::id 251004
 # ::tok The play concerns four characters , three of whom are alcoholics .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :S label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label)
+                  :C (v7 / label))
+           :P (v4 / label)
+           :A (v5 / label
+                  :E (v8 / label)
+                  :C (v9 / label)
+                  :E (v10 / label
+                          :A (v11 / label
+                                  :C v9
+                                  :E (v14 / label)
+                                  :R (v15 / label))
+                          :S (v12 / label)
+                          :A (v13 / label)))))

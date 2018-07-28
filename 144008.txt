@@ -1,10 +1,31 @@
 # ::id 144008
 # ::tok She returned to television screens in 1992 for The Man Upstairs , co-starring Ryan O'Neal , for which she received a Golden Globe nomination .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :C label
-       :R label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :P (v6 / label)
+           :A (v7 / label
+                  :R (v16 / label)
+                  :E (v17 / label)
+                  :C (v18 / label))
+           :D (v8 / label
+                  :R (v19 / label)
+                  :C (v20 / label))
+           :A (v9 / label
+                  :R (v21 / label)
+                  :C (v22 / label)
+                  :E (v23 / label
+                          :A v22
+                          :P (v27 / label)
+                          :A (v28 / label))))
+    :L (v3 / label
+           :C (v10 / label)
+           :R (v11 / label)
+           :R (v12 / label))
+    :H (v4 / label
+           :A (v13 / label)
+           :P (v14 / label)
+           :A (v15 / label
+                   :E (v24 / label)
+                   :E (v25 / label)
+                   :C (v26 / label))))

@@ -1,11 +1,35 @@
 # ::id 226001
 # ::tok Hung co - directed with Corey Yuen , and the villain in the film was played by Yuen Wah , both of whom were fellow graduates of the China Drama Academy .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label)
+           :P (v7 / label
+                  :E (v16 / label)
+                  :C (v17 / label))
+           :A (v8 / label
+                  :R (v18 / label)
+                  :C (v19 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v9 / label
+                  :E (v20 / label)
+                  :C (v21 / label)
+                  :E (v22 / label
+                          :R (v29 / label)
+                          :E (v30 / label)
+                          :C (v31 / label)))
+           :P (v10 / label)
+           :A (v11 / label
+                   :R (v23 / label)
+                   :C (v24 / label)))
+    :H (v5 / label
+           :A (v12 / label
+                   :N (v25 / label)
+                   :C v24
+                   :C v19)
+           :D (v13 / label)
+           :P (v14 / label)
+           :A (v15 / label
+                   :R (v26 / label)
+                   :E (v27 / label)
+                   :C (v28 / label))))

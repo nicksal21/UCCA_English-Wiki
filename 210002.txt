@@ -1,12 +1,65 @@
 # ::id 210002
 # ::tok Seven years after his nomination for Wag the Dog , Hoffman got a second opportunity to perform again with Robert De Niro , co-starring with Barbra Streisand and Ben Stiller in the 2004 comedy Meet the Fockers , a sequel to Meet the Parents ( 2000 ) . Hoffman won the 2005 MTV Movie Award for Best Comedic Performance .
-(label :L label
-       :H label
-       :E label
-       :C label
-       :A label
-       :P label
-       :D label
-       :R label
-       :N label
-       :S label)
+(v1 / label
+    :L (v2 / label
+           :E (v7 / label
+                  :E (v22 / label)
+                  :C (v23 / label))
+           :C (v8 / label))
+    :H (v3 / label
+           :A (v9 / label)
+           :P (v10 / label)
+           :A (v11 / label
+                   :R (v24 / label)
+                   :C (v25 / label)))
+    :H (v4 / label
+           :A (v12 / label)
+           :P (v13 / label
+                   :E (v26 / label
+                           :E (v44 / label)
+                           :E (v45 / label)
+                           :E (v46 / label)
+                           :C (v47 / label))
+                   :C (v27 / label))
+           :D (v14 / label)
+           :A (v15 / label
+                   :R (v28 / label)
+                   :C (v29 / label)))
+    :H (v5 / label
+           :P (v16 / label)
+           :A (v17 / label
+                   :R (v30 / label)
+                   :C (v31 / label
+                           :C (v48 / label)
+                           :N (v49 / label)
+                           :C (v50 / label)))
+           :A (v18 / label
+                   :R (v32 / label)
+                   :E (v33 / label)
+                   :E (v34 / label)
+                   :E (v35 / label)
+                   :C (v36 / label)
+                   :E (v37 / label
+                           :A v36
+                           :S (v51 / label
+                                   :E (v57 / label)
+                                   :C (v58 / label))
+                           :A (v52 / label
+                                   :R (v59 / label)
+                                   :C (v60 / label)
+                                   :E (v61 / label))))
+           :A v12)
+    :H (v6 / label
+           :A (v19 / label)
+           :P (v20 / label)
+           :A (v21 / label
+                   :E (v38 / label)
+                   :E (v39 / label)
+                   :E (v40 / label)
+                   :E (v41 / label)
+                   :C (v42 / label)
+                   :E (v43 / label
+                           :R (v53 / label)
+                           :E (v54 / label)
+                           :E (v55 / label)
+                           :C (v56 / label)))))

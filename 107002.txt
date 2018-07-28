@@ -1,9 +1,16 @@
 # ::id 107002
 # ::tok Jolie also received an Emmy Award nomination for her performance .
-(label :H label
-       :A label
-       :D label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :D (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :E (v8 / label)
+                  :E (v9 / label)
+                  :C (v10 / label)
+                  :E (v11 / label))
+           :A (v7 / label
+                  :R (v12 / label)
+                  :A (v13 / label)
+                  :P (v14 / label))))

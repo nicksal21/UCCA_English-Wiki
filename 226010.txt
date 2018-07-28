@@ -1,10 +1,39 @@
 # ::id 226010
 # ::tok The success of Rumble in the Bronx led to a 1996 release of Police Story 3 : Super Cop in the United States under the title Supercop , which grossed a total of US $ 16,270,600 .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :P (v11 / label
+                          :E (v22 / label)
+                          :C (v23 / label))
+                  :A (v12 / label
+                          :R (v24 / label)
+                          :C (v25 / label)))
+           :P (v6 / label)
+           :A (v7 / label
+                  :D (v13 / label
+                          :E (v26 / label)
+                          :C (v27 / label))
+                  :P (v14 / label)
+                  :A (v10 / label
+                          :R (v20 / label)
+                          :C (v21 / label))
+                  :A (v15 / label
+                          :R (v28 / label)
+                          :E (v29 / label)
+                          :C (v30 / label))
+                  :A (v16 / label
+                          :R (v31 / label)
+                          :E (v32 / label)
+                          :E (v33 / label)
+                          :C (v34 / label))))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v8 / label)
+           :A (v9 / label
+                  :E (v17 / label)
+                  :C (v18 / label)
+                  :E (v19 / label
+                          :R (v35 / label)
+                          :C (v36 / label)))
+           :A v10))

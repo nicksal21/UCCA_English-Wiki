@@ -1,11 +1,35 @@
 # ::id 236000
 # ::tok On 24 August 2010 , Chan tweeted about the botched rescue operation on the Manila hostage crisis that left 8 Hong Kong tourists dead .
-(label :H label
-       :D label
-       :A label
-       :P label
-       :R label
-       :C label
-       :L label
-       :E label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label
+                  :R (v7 / label)
+                  :C (v8 / label))
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :R (v9 / label)
+                  :C (v10 / label
+                          :H (v11 / label
+                                  :E (v14 / label)
+                                  :E (v15 / label)
+                                  :E (v16 / label)
+                                  :C (v17 / label)
+                                  :E (v18 / label
+                                          :A v17
+                                          :R (v21 / label)
+                                          :P (v22 / label)
+                                          :A (v23 / label
+                                                  :A (v28 / label
+                                                          :E (v30 / label)
+                                                          :E (v31 / label)
+                                                          :C (v32 / label))
+                                                  :S (v29 / label))))
+                          :L (v12 / label)
+                          :H (v13 / label
+                                  :A (v19 / label
+                                          :E (v24 / label)
+                                          :C (v25 / label))
+                                  :P (v20 / label
+                                          :E (v26 / label)
+                                          :C (v27 / label)))))))

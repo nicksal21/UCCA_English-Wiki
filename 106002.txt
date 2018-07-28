@@ -1,10 +1,46 @@
 # ::id 106002
 # ::tok That same year , Jolie also portrayed Margret " Legs " Sadovsky , one of five teenage girls who form an unlikely bond in the film Foxfire after they beat up a teacher who has sexually harassed them .
-(label :H label
-       :D label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label
-       :L label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label
+                  :E (v8 / label)
+                  :C (v9 / label))
+           :A (v4 / label)
+           :D (v5 / label)
+           :P (v6 / label)
+           :A (v7 / label
+                  :C (v10 / label)
+                  :E (v11 / label
+                          :E (v12 / label
+                                  :C (v17 / label)
+                                  :R (v18 / label))
+                          :E (v13 / label)
+                          :E (v14 / label)
+                          :C (v15 / label)
+                          :E (v16 / label
+                                  :H (v19 / label
+                                          :A v15
+                                          :R (v22 / label)
+                                          :P (v23 / label)
+                                          :A (v24 / label
+                                                  :E (v29 / label)
+                                                  :E (v30 / label)
+                                                  :C (v31 / label))
+                                          :A (v25 / label
+                                                  :R (v32 / label)
+                                                  :E (v33 / label)
+                                                  :E (v34 / label)
+                                                  :C (v35 / label)))
+                                  :L (v20 / label)
+                                  :H (v21 / label
+                                          :A (v26 / label)
+                                          :P (v27 / label)
+                                          :A (v28 / label
+                                                  :E (v36 / label)
+                                                  :C (v37 / label)
+                                                  :E (v38 / label
+                                                          :A v37
+                                                          :R (v39 / label)
+                                                          :D (v40 / label)
+                                                          :P (v41 / label)
+                                                          :A (v42 / label)))))))))

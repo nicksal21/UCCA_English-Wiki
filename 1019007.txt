@@ -1,10 +1,45 @@
 # ::id 1019007
 # ::tok He was the eighth of ten children in an African - American working - class family who lived in a 3 - room house in Gary , an industrial city near Chicago .
-(label :H label
-       :A label
-       :S label
-       :E label
-       :C label
-       :R label
-       :N label
-       :P label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :S (v4 / label)
+           :A (v5 / label
+                  :E (v7 / label)
+                  :C (v8 / label)
+                  :R (v9 / label)
+                  :E (v10 / label
+                          :E (v17 / label)
+                          :C (v18 / label)))
+           :A (v6 / label
+                  :R (v11 / label)
+                  :E (v12 / label)
+                  :E (v13 / label
+                          :N (v19 / label)
+                          :C (v20 / label)
+                          :C (v21 / label))
+                  :E (v14 / label
+                          :E (v22 / label)
+                          :C (v23 / label))
+                  :C (v15 / label)
+                  :E (v16 / label
+                          :A v15
+                          :P (v24 / label
+                                  :C (v26 / label)
+                                  :R (v27 / label))
+                          :A (v25 / label
+                                  :E (v28 / label)
+                                  :E (v29 / label
+                                          :E (v32 / label)
+                                          :C (v33 / label))
+                                  :C (v30 / label)
+                                  :E (v31 / label
+                                          :R (v34 / label)
+                                          :C (v35 / label)
+                                          :E (v36 / label
+                                                  :E (v37 / label)
+                                                  :E (v38 / label)
+                                                  :C (v39 / label)
+                                                  :E (v40 / label
+                                                          :R (v41 / label)
+                                                          :C (v42 / label)))))))))

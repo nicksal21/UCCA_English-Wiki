@@ -1,10 +1,44 @@
 # ::id 249013
 # ::tok His next role was in Brooklyn 's Finest , released in March 2010 , as a narcotics officer who uses his position to steal drug money and administer vigilante justice .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :E (v11 / label)
+                  :E (v12 / label)
+                  :C (v13 / label))
+           :P (v5 / label)
+           :A (v6 / label
+                  :R (v14 / label)
+                  :C (v15 / label))
+           :A (v7 / label
+                  :R (v16 / label)
+                  :E (v17 / label)
+                  :E (v18 / label)
+                  :C (v19 / label)
+                  :E (v20 / label
+                          :A v19
+                          :P (v24 / label)
+                          :A (v25 / label
+                                  :E (v27 / label)
+                                  :C (v28 / label))
+                          :A (v26 / label
+                                  :C (v29 / label
+                                          :A v19
+                                          :P (v32 / label)
+                                          :A (v33 / label
+                                                  :E (v36 / label)
+                                                  :C (v37 / label)))
+                                  :N (v30 / label)
+                                  :C (v31 / label
+                                          :A v19
+                                          :P (v34 / label)
+                                          :A (v35 / label
+                                                  :E (v38 / label)
+                                                  :C (v39 / label)))))))
+    :H (v3 / label
+           :P (v8 / label)
+           :D (v9 / label
+                  :R (v21 / label)
+                  :E (v22 / label)
+                  :C (v23 / label))
+           :A (v10 / label)))

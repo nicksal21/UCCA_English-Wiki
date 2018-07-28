@@ -1,9 +1,30 @@
 # ::id 250006
 # ::tok It was announced that Hawke had signed on to Universal 's futurist thriller Vigilandia and the Spierig brothers ' science fiction film Predestination .
-(label :H label
-       :P label
-       :A label
-       :R label
-       :C label
-       :N label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label
+                  :A (v5 / label)
+                  :P (v6 / label)
+                  :A (v7 / label
+                         :R (v8 / label)
+                         :C (v9 / label
+                                :C (v10 / label
+                                        :E (v13 / label
+                                                :C (v20 / label)
+                                                :R (v21 / label))
+                                        :E (v14 / label)
+                                        :E (v15 / label)
+                                        :C (v16 / label))
+                                :N (v11 / label)
+                                :C (v12 / label
+                                        :E (v17 / label
+                                                :E (v22 / label)
+                                                :E (v23 / label)
+                                                :C (v24 / label))
+                                        :E (v18 / label
+                                                :E (v25 / label
+                                                        :E (v27 / label)
+                                                        :C (v28 / label))
+                                                :C (v26 / label))
+                                        :C (v19 / label)))))))

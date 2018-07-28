@@ -1,11 +1,53 @@
 # ::id 184003
 # ::tok She auditioned for George Cukor 's stock theater company , and although he was not very impressed , he gave Davis her first paid acting assignment anyway — a one - week stint playing the part of a chorus girl in the play Broadway .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :S label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label)
+           :P (v8 / label)
+           :A (v9 / label
+                  :R (v19 / label)
+                  :E (v20 / label
+                          :C (v30 / label)
+                          :R (v31 / label))
+                  :E (v21 / label)
+                  :E (v22 / label)
+                  :C (v23 / label)))
+    :L (v3 / label)
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v10 / label)
+           :D (v11 / label)
+           :D (v12 / label)
+           :S (v13 / label))
+    :H (v6 / label
+           :A (v14 / label)
+           :P (v15 / label)
+           :A (v16 / label)
+           :A (v17 / label
+                   :E (v24 / label)
+                   :E (v25 / label)
+                   :E (v26 / label)
+                   :E (v27 / label)
+                   :C (v28 / label)
+                   :E (v29 / label
+                           :A (v32 / label
+                                   :E (v36 / label)
+                                   :E (v37 / label
+                                           :E (v47 / label)
+                                           :C (v48 / label))
+                                   :C (v38 / label))
+                           :P (v33 / label)
+                           :A (v34 / label
+                                   :E (v39 / label)
+                                   :C (v40 / label)
+                                   :R (v41 / label)
+                                   :E (v42 / label
+                                           :E (v49 / label)
+                                           :E (v50 / label)
+                                           :C (v51 / label)))
+                           :A (v35 / label
+                                   :R (v43 / label)
+                                   :E (v44 / label)
+                                   :E (v45 / label)
+                                   :C (v46 / label))))
+           :D (v18 / label)))

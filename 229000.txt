@@ -1,9 +1,21 @@
 # ::id 229000
 # ::tok Chan won the Favorite Buttkicker award at the Nickelodeon 's Kids ' Choice Awards in 2011 for The Karate Kid .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :E (v9 / label)
+                  :E (v10 / label)
+                  :C (v11 / label))
+           :A (v6 / label
+                  :R (v12 / label)
+                  :E (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label))
+           :D (v7 / label
+                  :R (v16 / label)
+                  :C (v17 / label))
+           :A (v8 / label
+                  :R (v18 / label)
+                  :C (v19 / label))))

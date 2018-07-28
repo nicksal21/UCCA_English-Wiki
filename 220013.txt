@@ -1,9 +1,51 @@
 # ::id 220013
 # ::tok Dunst starred as the magical princess Majokko in the Takashi Murakami and McG directed short Akihabara Majokko Princess singing a cover of " Turning Japanese " . This was shown at the " Pop Life " exhibition in London 's Tate Modern museum .
-(label :H label
-       :A label
-       :P label
-       :R label
-       :E label
-       :C label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :P (v6 / label)
+           :A (v7 / label
+                  :R (v14 / label)
+                  :E (v15 / label)
+                  :E (v16 / label
+                          :E (v31 / label)
+                          :C (v32 / label))
+                  :C (v17 / label))
+           :A (v8 / label
+                  :R (v18 / label)
+                  :E (v19 / label)
+                  :E (v20 / label
+                          :A (v22 / label)
+                          :A (v33 / label
+                                  :C (v43 / label)
+                                  :N (v44 / label)
+                                  :C (v45 / label))
+                          :P (v34 / label))
+                  :E (v21 / label)
+                  :C v22))
+    :H (v3 / label
+           :P (v9 / label)
+           :A (v10 / label
+                   :E (v23 / label)
+                   :C (v24 / label)
+                   :E (v25 / label
+                           :R (v35 / label)
+                           :C (v36 / label)))
+           :A v5)
+    :H (v4 / label
+           :A (v11 / label)
+           :P (v12 / label)
+           :A (v13 / label
+                   :R (v26 / label)
+                   :E (v27 / label)
+                   :E (v28 / label
+                           :E (v37 / label)
+                           :C (v38 / label))
+                   :C (v29 / label)
+                   :E (v30 / label
+                           :R (v39 / label)
+                           :E (v40 / label
+                                   :C (v46 / label)
+                                   :R (v47 / label))
+                           :E (v41 / label)
+                           :C (v42 / label)))))

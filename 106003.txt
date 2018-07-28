@@ -1,11 +1,66 @@
 # ::id 106003
 # ::tok The Los Angeles Times wrote about her performance , " It took a lot of hogwash to develop this character , but Jolie , Jon Voight 's knockout daughter , has the presence to overcome the stereotype . Though the story is narrated by Maddy , Legs is the subject and the catalyst . "
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label
-       :L label
-       :S label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v7 / label)
+                  :E (v8 / label)
+                  :C (v9 / label))
+           :P (v4 / label)
+           :A (v5 / label
+                  :R (v10 / label)
+                  :E (v11 / label)
+                  :C (v12 / label))
+           :A (v6 / label
+                  :H (v13 / label
+                          :P (v21 / label
+                                  :E (v34 / label
+                                          :E (v50 / label)
+                                          :C (v51 / label)
+                                          :R (v52 / label))
+                                  :C (v35 / label))
+                          :A (v22 / label
+                                  :P (v36 / label)
+                                  :A (v37 / label
+                                          :E (v53 / label)
+                                          :C (v54 / label))))
+                  :L (v14 / label)
+                  :H (v15 / label
+                          :A (v23 / label
+                                  :C (v27 / label)
+                                  :E (v38 / label
+                                          :E (v55 / label
+                                                  :C (v62 / label)
+                                                  :R (v63 / label))
+                                          :E (v56 / label)
+                                          :C (v57 / label)))
+                          :P (v24 / label
+                                  :E (v39 / label)
+                                  :C (v40 / label)))
+                  :L (v16 / label)
+                  :H (v17 / label
+                          :P (v25 / label)
+                          :A (v26 / label
+                                  :E (v41 / label)
+                                  :C (v42 / label))
+                          :A v27)
+                  :L (v18 / label)
+                  :H (v19 / label
+                          :A (v28 / label
+                                  :E (v43 / label)
+                                  :C (v44 / label))
+                          :P (v29 / label)
+                          :A (v30 / label
+                                  :R (v45 / label)
+                                  :C (v46 / label)))
+                  :H (v20 / label
+                          :A (v31 / label)
+                          :S (v32 / label)
+                          :A (v33 / label
+                                  :C (v47 / label
+                                          :E (v58 / label)
+                                          :C (v59 / label))
+                                  :N (v48 / label)
+                                  :C (v49 / label
+                                          :E (v60 / label)
+                                          :C (v61 / label)))))))

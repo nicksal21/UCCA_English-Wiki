@@ -1,11 +1,47 @@
 # ::id 380003
 # ::tok When asked about his kissing scenes with Heath Ledger in Brokeback Mountain , Gyllenhaal said , " As an actor , I think we need to embrace the times we feel most uncomfortable .
-(label :L label
-       :H label
-       :A label
-       :P label
-       :R label
-       :D label
-       :C label
-       :S label
-       :E label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v5 / label)
+           :P (v6 / label)
+           :A (v7 / label
+                  :R (v10 / label)
+                  :A (v11 / label)
+                  :D (v12 / label)
+                  :P (v13 / label)
+                  :A (v14 / label
+                          :R (v19 / label)
+                          :C (v20 / label))
+                  :A (v15 / label
+                          :R (v21 / label)
+                          :C (v22 / label))))
+    :H (v4 / label
+           :A v5
+           :P (v8 / label)
+           :A (v9 / label
+                  :L (v16 / label)
+                  :H (v17 / label
+                          :A (v23 / label)
+                          :S (v24 / label
+                                  :E (v27 / label)
+                                  :C (v28 / label)))
+                  :H (v18 / label
+                          :A v23
+                          :P (v25 / label)
+                          :A (v26 / label
+                                  :A (v29 / label)
+                                  :P (v30 / label
+                                          :E (v32 / label
+                                                  :C (v37 / label)
+                                                  :R (v38 / label))
+                                          :C (v33 / label))
+                                  :A (v31 / label
+                                          :E (v34 / label)
+                                          :C (v35 / label)
+                                          :E (v36 / label
+                                                  :A (v39 / label)
+                                                  :P (v40 / label)
+                                                  :A (v41 / label
+                                                          :E (v42 / label)
+                                                          :C (v43 / label)))))))))

@@ -1,10 +1,19 @@
 # ::id 126006
 # ::tok Hepburn arrived in California in July 1932 , at 25 years old .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :R label
-       :C label
-       :S label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :R (v8 / label)
+                  :C (v9 / label))
+           :D (v6 / label
+                  :R (v10 / label)
+                  :C (v11 / label))
+           :A (v7 / label
+                  :R (v12 / label)
+                  :C (v13 / label
+                          :A v3
+                          :S (v14 / label
+                                  :E (v15 / label)
+                                  :C (v16 / label))))))

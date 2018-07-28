@@ -1,10 +1,30 @@
 # ::id 133012
 # ::tok It received poor notices but was a financial success , confirming the popularity of the Tracy–Hepburn pairing .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :S label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label)
+           :P (v7 / label)
+           :A (v8 / label
+                  :E (v14 / label)
+                  :C (v15 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :S (v9 / label)
+           :A (v10 / label
+                   :A (v16 / label)
+                   :P (v17 / label
+                           :E (v21 / label)
+                           :E (v22 / label)
+                           :C (v13 / label)))
+           :A v6)
+    :H (v5 / label
+           :P (v11 / label)
+           :A (v12 / label
+                   :E (v18 / label)
+                   :C (v19 / label)
+                   :E (v20 / label
+                           :R (v23 / label)
+                           :E (v24 / label)
+                           :E (v25 / label)
+                           :C (v26 / label)))
+           :A v13))

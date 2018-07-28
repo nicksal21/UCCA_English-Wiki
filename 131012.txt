@@ -1,9 +1,19 @@
 # ::id 131012
 # ::tok The pair also contributed a quarter of the play 's production costs .
-(label :H label
-       :A label
-       :D label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v7 / label)
+                  :C (v8 / label))
+           :D (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :E (v9 / label)
+                  :E (v10 / label)
+                  :R (v11 / label)
+                  :E (v12 / label)
+                  :E (v13 / label
+                          :C (v16 / label)
+                          :R (v17 / label))
+                  :E (v14 / label)
+                  :C (v15 / label))))

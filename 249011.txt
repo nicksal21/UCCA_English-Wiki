@@ -1,10 +1,41 @@
 # ::id 249011
 # ::tok 2009 saw Hawke appear in two features : New York , I Love You , a romance movie comprising 12 short films , and Staten Island , a crime drama co - starring Vincent D ' Onofrio and Seymour Cassel .
-(label :H label
-       :D label
-       :A label
-       :P label
-       :C label
-       :R label
-       :E label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label
+                  :C (v7 / label))
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :R (v8 / label)
+                  :E (v9 / label)
+                  :C (v10 / label)
+                  :E (v11 / label
+                          :C (v12 / label
+                                  :C (v15 / label)
+                                  :E (v16 / label
+                                          :A (v20 / label
+                                                  :E (v28 / label)
+                                                  :E (v29 / label)
+                                                  :C (v30 / label))
+                                          :P (v21 / label)
+                                          :A (v22 / label
+                                                  :E (v31 / label)
+                                                  :E (v32 / label)
+                                                  :C (v33 / label))))
+                          :N (v13 / label)
+                          :C (v14 / label
+                                  :C (v17 / label)
+                                  :E (v18 / label
+                                          :E (v23 / label)
+                                          :E (v24 / label)
+                                          :C (v25 / label))
+                                  :E (v19 / label
+                                          :A v17
+                                          :P (v26 / label
+                                                  :E (v34 / label)
+                                                  :C (v35 / label))
+                                          :A (v27 / label
+                                                  :C (v36 / label)
+                                                  :N (v37 / label)
+                                                  :C (v38 / label))))))))

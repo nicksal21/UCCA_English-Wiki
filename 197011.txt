@@ -1,9 +1,31 @@
 # ::id 197011
 # ::tok In 2005 , Sorkin revised his play A Few Good Men for a revival at the London West End theatre , the Haymarket .
-(label :H label
-       :D label
-       :A label
-       :P label
-       :R label
-       :C label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label
+                  :R (v8 / label)
+                  :C (v9 / label))
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :E (v10 / label
+                          :E (v15 / label)
+                          :C (v16 / label))
+                  :C (v11 / label))
+           :A (v7 / label
+                  :R (v12 / label)
+                  :P (v13 / label
+                          :E (v17 / label)
+                          :C (v18 / label))
+                  :A (v14 / label
+                          :R (v19 / label)
+                          :E (v20 / label)
+                          :E (v21 / label
+                                  :C (v24 / label)
+                                  :E (v25 / label)
+                                  :E (v26 / label))
+                          :C (v22 / label)
+                          :E (v23 / label
+                                  :E (v27 / label)
+                                  :C (v28 / label)))
+                  :A v11)))

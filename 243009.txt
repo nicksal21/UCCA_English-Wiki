@@ -1,11 +1,35 @@
 # ::id 243009
 # ::tok Aside from acting , he has written two novels , The Hottest State ( 1996 ) and Ash Wednesday ( 2002 ) . Between 1998 and 2004 , Hawke was married to actress Uma Thurman .
-(label :L label
-       :H label
-       :C label
-       :A label
-       :P label
-       :D label
-       :E label
-       :N label
-       :R label)
+(v1 / label
+    :L (v2 / label
+           :C (v6 / label))
+    :H (v3 / label
+           :A (v7 / label)
+           :P (v8 / label))
+    :H (v4 / label
+           :A v7
+           :P (v9 / label)
+           :A (v10 / label
+                   :E (v15 / label
+                           :E (v24 / label)
+                           :C (v25 / label))
+                   :C (v16 / label
+                           :C (v26 / label
+                                   :C (v29 / label)
+                                   :E (v30 / label))
+                           :N (v27 / label)
+                           :C (v28 / label
+                                   :C (v31 / label)
+                                   :E (v32 / label)))))
+    :H (v5 / label
+           :D (v11 / label
+                   :N (v17 / label)
+                   :C (v18 / label)
+                   :N (v19 / label)
+                   :C (v20 / label))
+           :A (v12 / label)
+           :P (v13 / label)
+           :A (v14 / label
+                   :R (v21 / label)
+                   :E (v22 / label)
+                   :C (v23 / label))))

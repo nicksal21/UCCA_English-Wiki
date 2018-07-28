@@ -1,11 +1,73 @@
 # ::id 214009
 # ::tok At the age of six years old she made her film debut in a minor role in Woody Allen 's Oedipus Wrecks , a short film that was released as one - third of the anthology New York Stories ( 1989 ) . Soon after , she landed a small part in The Bonfire of the Vanities ( 1990 ) , as Tom Hanks 's daughter .
-(label :L label
-       :H label
-       :A label
-       :S label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v6 / label)
+           :S (v7 / label
+                  :E (v16 / label)
+                  :C (v17 / label)
+                  :E (v18 / label
+                          :R (v38 / label)
+                          :E (v39 / label)
+                          :E (v40 / label)
+                          :C (v41 / label))))
+    :H (v4 / label
+           :A v6
+           :P (v8 / label
+                  :E (v19 / label)
+                  :E (v20 / label)
+                  :C (v21 / label))
+           :A (v9 / label
+                  :R (v22 / label)
+                  :E (v23 / label)
+                  :E (v24 / label)
+                  :C (v25 / label)
+                  :E (v26 / label
+                          :R (v42 / label)
+                          :E (v43 / label
+                                  :C (v50 / label)
+                                  :R (v51 / label))
+                          :C (v44 / label)
+                          :E (v45 / label
+                                  :E (v52 / label)
+                                  :E (v53 / label)
+                                  :C (v54 / label)
+                                  :E (v55 / label
+                                          :P (v56 / label)
+                                          :A (v57 / label
+                                                  :R (v58 / label)
+                                                  :E (v59 / label
+                                                          :E (v62 / label
+                                                                  :C (v67 / label)
+                                                                  :R (v68 / label))
+                                                          :E (v63 / label)
+                                                          :C (v64 / label))
+                                                  :C (v60 / label)
+                                                  :E (v61 / label
+                                                          :A v60
+                                                          :P (v65 / label)
+                                                          :D (v66 / label))))))))
+    :H (v5 / label
+           :D (v10 / label
+                   :E (v27 / label)
+                   :C (v28 / label))
+           :A (v11 / label)
+           :P (v12 / label)
+           :A (v13 / label
+                   :E (v29 / label)
+                   :E (v30 / label)
+                   :C (v31 / label))
+           :A (v14 / label
+                   :R (v32 / label)
+                   :C (v33 / label)
+                   :E (v34 / label
+                           :A v33
+                           :P (v46 / label)
+                           :D (v47 / label)))
+           :A (v15 / label
+                   :R (v35 / label)
+                   :E (v36 / label
+                           :C (v48 / label)
+                           :R (v49 / label))
+                   :C (v37 / label))))

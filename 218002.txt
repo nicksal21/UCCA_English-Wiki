@@ -1,10 +1,23 @@
 # ::id 218002
 # ::tok Dunst revealed that working with Crowe was enjoyable , but more demanding than she had expected .
-(label :H label
-       :A label
-       :P label
-       :L label
-       :S label
-       :D label
-       :R label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :H (v6 / label
+                         :A (v11 / label
+                                 :P (v15 / label)
+                                 :A (v18 / label
+                                         :R (v19 / label)
+                                         :C (v20 / label)))
+                         :S (v12 / label))
+                  :L (v7 / label)
+                  :H (v8 / label
+                         :D (v13 / label)
+                         :S (v14 / label)
+                         :A v15)
+                  :L (v9 / label)
+                  :H (v10 / label
+                          :A (v16 / label)
+                          :P (v17 / label)))))

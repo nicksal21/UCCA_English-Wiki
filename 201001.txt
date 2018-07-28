@@ -1,11 +1,87 @@
 # ::id 201001
 # ::tok He began in theatre which involved a largely solitary writing process , then moved into film where he collaborated with director Rob Reiner and screenwriter William Goldman , and eventually worked in television where he collaborated very closely with director Thomas Schlamme for nearly a decade on the shows Sports Night , The West Wing , and Studio 60 on the Sunset Strip ; he now moves between all three media .
-(label :H label
-       :L label
-       :P label
-       :A label
-       :D label
-       :R label
-       :C label
-       :E label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :P (v8 / label)
+           :A (v9 / label)
+           :D (v10 / label)
+           :A (v11 / label
+                   :R (v22 / label)
+                   :C (v23 / label)
+                   :E (v24 / label
+                           :A v23
+                           :P (v34 / label)
+                           :A (v35 / label
+                                   :E (v46 / label)
+                                   :E (v47 / label)
+                                   :E (v48 / label)
+                                   :C (v49 / label
+                                           :A v9
+                                           :P (v64 / label
+                                                   :E (v74 / label)
+                                                   :C (v75 / label)))))))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v12 / label)
+           :A (v13 / label
+                   :R (v25 / label)
+                   :C (v26 / label)
+                   :E (v27 / label
+                           :A v26
+                           :A (v17 / label)
+                           :P (v36 / label)
+                           :A (v37 / label
+                                   :R (v50 / label)
+                                   :C (v51 / label
+                                           :C (v65 / label
+                                                   :C (v76 / label)
+                                                   :E (v77 / label))
+                                           :N (v66 / label)
+                                           :C (v67 / label
+                                                   :C (v78 / label)
+                                                   :E (v79 / label))))))
+           :A v9)
+    :L (v5 / label)
+    :H (v6 / label
+           :D (v14 / label)
+           :P (v15 / label)
+           :A (v16 / label
+                   :R (v28 / label)
+                   :C (v29 / label)
+                   :E (v30 / label
+                           :A v29
+                           :A (v38 / label)
+                           :P (v39 / label)
+                           :D (v40 / label
+                                   :E (v52 / label)
+                                   :C (v53 / label))
+                           :A (v41 / label
+                                   :R (v54 / label)
+                                   :C (v55 / label)
+                                   :E (v56 / label))
+                           :D (v42 / label
+                                   :R (v57 / label)
+                                   :E (v58 / label)
+                                   :E (v59 / label)
+                                   :C (v60 / label))
+                           :A (v43 / label
+                                   :R (v61 / label)
+                                   :E (v62 / label
+                                           :E (v68 / label)
+                                           :C (v69 / label))
+                                   :C (v63 / label
+                                           :C (v70 / label)
+                                           :C (v71 / label)
+                                           :N (v72 / label)
+                                           :C (v73 / label)))))
+           :A v17)
+    :H (v7 / label
+           :A (v18 / label)
+           :D (v19 / label)
+           :P (v20 / label)
+           :A (v21 / label
+                   :R (v31 / label)
+                   :E (v32 / label
+                           :E (v44 / label)
+                           :C (v45 / label))
+                   :C (v33 / label))))

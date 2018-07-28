@@ -1,9 +1,20 @@
 # ::id 229010
 # ::tok In 2009 , Chan received an honorary doctorate from the University of Cambodia .
-(label :H label
-       :D label
-       :A label
-       :P label
-       :R label
-       :C label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label
+                  :R (v8 / label)
+                  :C (v9 / label))
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :E (v10 / label)
+                  :E (v11 / label)
+                  :C (v12 / label))
+           :A (v7 / label
+                  :R (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label)
+                  :E (v16 / label
+                          :R (v17 / label)
+                          :C (v18 / label)))))

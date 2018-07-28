@@ -1,12 +1,57 @@
 # ::id 230008
 # ::tok Additionally , Chan has stated that he deliberately styles his movement to be the opposite of Lee ' s : where Lee held his arms wide , Chan holds his tight to the body ; where Lee was loose and flowing , Chan is tight and choppy .
-(label :L label
-       :H label
-       :A label
-       :P label
-       :D label
-       :S label
-       :E label
-       :C label
-       :N label
-       :R label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v10 / label)
+           :P (v11 / label)
+           :A (v12 / label
+                   :A (v27 / label)
+                   :D (v28 / label)
+                   :P (v29 / label)
+                   :A (v30 / label
+                           :E (v42 / label)
+                           :C (v43 / label))
+                   :A (v31 / label
+                           :S (v44 / label
+                                   :E (v50 / label)
+                                   :C (v51 / label))
+                           :D (v45 / label)
+                           :A (v46 / label
+                                   :R (v52 / label)
+                                   :C (v53 / label)
+                                   :R (v54 / label))
+                           :A v43)))
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v13 / label)
+           :P (v14 / label)
+           :A (v15 / label
+                   :E (v32 / label)
+                   :C (v33 / label))
+           :D (v16 / label))
+    :H (v6 / label
+           :A (v17 / label)
+           :P (v18 / label)
+           :A (v19 / label)
+           :D (v20 / label
+                   :C (v34 / label)
+                   :E (v35 / label
+                           :R (v47 / label)
+                           :E (v48 / label)
+                           :C (v49 / label))))
+    :L (v7 / label)
+    :H (v8 / label
+           :A (v21 / label)
+           :S (v22 / label)
+           :A (v23 / label
+                   :C (v36 / label)
+                   :N (v37 / label)
+                   :C (v38 / label)))
+    :H (v9 / label
+           :A (v24 / label)
+           :S (v25 / label)
+           :A (v26 / label
+                   :C (v39 / label)
+                   :N (v40 / label)
+                   :C (v41 / label))))

@@ -1,9 +1,36 @@
 # ::id 215016
 # ::tok The film is a parody retelling the events of the Watergate scandal which lead to the resignation of U . S . president Richard Nixon .
-(label :H label
-       :A label
-       :S label
-       :E label
-       :C label
-       :P label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label)
+                  :C (v7 / label))
+           :S (v4 / label
+                  :E (v8 / label)
+                  :C (v9 / label))
+           :A (v5 / label
+                  :P (v10 / label)
+                  :A (v11 / label
+                          :E (v12 / label)
+                          :E (v13 / label
+                                  :C (v18 / label)
+                                  :R (v19 / label))
+                          :E (v14 / label)
+                          :E (v15 / label)
+                          :C (v16 / label)
+                          :E (v17 / label
+                                  :A v16
+                                  :R (v20 / label)
+                                  :P (v21 / label
+                                          :C (v23 / label)
+                                          :R (v24 / label))
+                                  :A (v22 / label
+                                          :P (v25 / label
+                                                  :E (v27 / label)
+                                                  :C (v28 / label))
+                                          :A (v26 / label
+                                                  :R (v29 / label)
+                                                  :E (v30 / label
+                                                          :E (v32 / label)
+                                                          :C (v33 / label))
+                                                  :C (v31 / label))))))))

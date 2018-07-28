@@ -1,11 +1,46 @@
 # ::id 137002
 # ::tok Two years of intense work had left her exhausted , however , and her friend Constance Collier wrote that Hepburn was " on the verge of a nervous breakdown " . Widely acclaimed , The Millionairess was brought to Broadway .
-(label :H label
-       :L label
-       :A label
-       :D label
-       :S label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label
+                  :E (v17 / label
+                          :E (v30 / label)
+                          :C (v31 / label)
+                          :R (v32 / label))
+                  :E (v18 / label)
+                  :C (v19 / label))
+           :D (v8 / label)
+           :A (v9 / label)
+           :S (v10 / label))
+    :L (v3 / label)
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v11 / label
+                   :E (v20 / label
+                           :E (v33 / label)
+                           :C (v34 / label))
+                   :C (v21 / label))
+           :P (v12 / label)
+           :A (v13 / label
+                   :A (v22 / label)
+                   :S (v23 / label)
+                   :D (v24 / label
+                           :R (v35 / label)
+                           :E (v36 / label)
+                           :C (v37 / label))
+                   :A (v25 / label
+                           :R (v38 / label)
+                           :E (v39 / label)
+                           :E (v40 / label)
+                           :C (v41 / label))))
+    :H (v6 / label
+           :A (v14 / label
+                   :E (v26 / label
+                           :A (v27 / label)
+                           :D (v42 / label)
+                           :S (v43 / label))
+                   :C v27)
+           :P (v15 / label)
+           :A (v16 / label
+                   :R (v28 / label)
+                   :C (v29 / label))))

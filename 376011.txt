@@ -1,10 +1,32 @@
 # ::id 376011
 # ::tok Jake Gyllenhaal 's mother is from a Jewish family from New York City , and Gyllenhaal has said that he considers himself " more Jewish than anything else .
-(label :H label
-       :L label
-       :A label
-       :S label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v11 / label
+                          :C (v22 / label)
+                          :R (v23 / label))
+                  :C (v12 / label))
+           :S (v6 / label)
+           :A (v7 / label
+                  :R (v13 / label)
+                  :E (v14 / label)
+                  :E (v15 / label)
+                  :C (v16 / label)
+                  :E (v17 / label
+                          :R (v24 / label)
+                          :C (v25 / label))))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v8 / label)
+           :P (v9 / label)
+           :A (v10 / label
+                   :A (v18 / label)
+                   :P (v19 / label)
+                   :A (v20 / label)
+                   :A (v21 / label
+                           :E (v26 / label
+                                   :R (v28 / label)
+                                   :C (v29 / label)
+                                   :E (v30 / label))
+                           :C (v27 / label)))))

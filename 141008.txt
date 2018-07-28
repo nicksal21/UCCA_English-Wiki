@@ -1,10 +1,39 @@
 # ::id 141008
 # ::tok Hepburn received an Emmy Award nomination for playing wistful Southern mother Amanda Wingfield , which opened her mind to future work on the small screen .
-(label :H label
-       :L label
-       :A label
-       :D label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :D (v6 / label)
+           :A (v7 / label
+                  :E (v14 / label)
+                  :E (v15 / label)
+                  :C (v16 / label))
+           :P (v8 / label)
+           :A (v9 / label
+                  :A v5
+                  :R (v17 / label)
+                  :P (v18 / label)
+                  :A (v19 / label
+                          :E (v25 / label
+                                  :E (v33 / label)
+                                  :E (v34 / label)
+                                  :C (v35 / label))
+                          :C (v26 / label))))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v10 / label)
+           :P (v11 / label)
+           :A (v12 / label
+                   :E (v20 / label)
+                   :C (v21 / label))
+           :A (v13 / label
+                   :R (v22 / label)
+                   :P (v23 / label
+                           :E (v27 / label)
+                           :C (v28 / label))
+                   :A (v24 / label
+                           :R (v29 / label)
+                           :E (v30 / label)
+                           :E (v31 / label)
+                           :C (v32 / label))
+                   :A v20)))

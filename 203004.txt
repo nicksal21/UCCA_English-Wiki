@@ -1,11 +1,37 @@
 # ::id 203004
 # ::tok A consistent supporter of the Democratic Party , Sorkin has made substantial political campaign contributions to candidates between 1999 and 2011 , according to CampaignMoney.com .
-(label :H label
-       :A label
-       :S label
-       :P label
-       :D label
-       :E label
-       :C label
-       :N label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :S (v5 / label)
+           :A (v6 / label
+                  :E (v12 / label)
+                  :E (v13 / label)
+                  :C (v14 / label)
+                  :E (v15 / label
+                          :R (v26 / label)
+                          :E (v27 / label)
+                          :E (v28 / label)
+                          :C (v29 / label))))
+    :H (v3 / label
+           :A (v7 / label)
+           :P (v8 / label)
+           :A (v9 / label
+                  :E (v16 / label)
+                  :E (v17 / label
+                          :E (v30 / label)
+                          :C (v31 / label))
+                  :C (v18 / label)
+                  :E (v19 / label
+                          :R (v32 / label)
+                          :C (v33 / label)))
+           :D (v10 / label
+                   :N (v20 / label)
+                   :C (v21 / label)
+                   :N (v22 / label)
+                   :C (v23 / label))
+           :A (v11 / label
+                   :R (v24 / label
+                           :C (v34 / label)
+                           :R (v35 / label))
+                   :C (v25 / label))))

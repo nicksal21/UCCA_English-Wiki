@@ -1,9 +1,28 @@
 # ::id 126003
 # ::tok " Offered the role , Hepburn demanded $1,500 a week , a large amount for an unknown actress .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :S label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :E (v9 / label)
+                  :C (v10 / label)))
+    :H (v3 / label
+           :A v4
+           :P (v7 / label)
+           :A (v8 / label
+                  :C (v11 / label)
+                  :E (v12 / label
+                          :E (v14 / label)
+                          :C (v15 / label))
+                  :E (v13 / label
+                          :A v11
+                          :S (v16 / label
+                                  :E (v18 / label)
+                                  :E (v19 / label)
+                                  :C (v20 / label))
+                          :A (v17 / label
+                                  :R (v21 / label)
+                                  :E (v22 / label)
+                                  :E (v23 / label)
+                                  :C (v24 / label))))))

@@ -1,11 +1,32 @@
 # ::id 198002
 # ::tok Sorkin completed the screenplay and the film was released in 2007 starring Tom Hanks , Julia Roberts , and Philip Seymour Hoffman , directed by Mike Nichols .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label)
+           :P (v8 / label)
+           :A (v9 / label
+                  :E (v18 / label)
+                  :C (v19 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v10 / label
+                   :E (v20 / label)
+                   :C (v17 / label))
+           :P (v11 / label)
+           :D (v12 / label
+                   :R (v21 / label)
+                   :C (v22 / label)))
+    :H (v5 / label
+           :P (v13 / label)
+           :A (v14 / label
+                   :C (v23 / label)
+                   :C (v24 / label)
+                   :N (v25 / label)
+                   :C (v26 / label))
+           :A v10)
+    :H (v6 / label
+           :P (v15 / label)
+           :A (v16 / label
+                   :R (v27 / label)
+                   :C (v28 / label))
+           :A v17))

@@ -1,9 +1,22 @@
 # ::id 250004
 # ::tok Hawke has wrapped production on the third entry to Linklater 's Before Sunrise / Sunset series .
-(label :H label
-       :A label
-       :P label
-       :R label
-       :E label
-       :C label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label)
+           :A (v6 / label
+                  :R (v7 / label)
+                  :E (v8 / label
+                         :E (v12 / label)
+                         :E (v13 / label)
+                         :C (v14 / label)
+                         :R (v15 / label))
+                  :E (v9 / label
+                         :C (v16 / label)
+                         :R (v17 / label))
+                  :E (v10 / label
+                          :N (v18 / label)
+                          :C (v19 / label)
+                          :C (v20 / label))
+                  :C (v11 / label))))

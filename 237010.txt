@@ -1,11 +1,54 @@
 # ::id 237010
 # ::tok Jackie Chan is also a supporter of the Save China 's Tigers project which aims at saving the endangered South China Tiger through breeding and releasing them into the wild ; he is currently an ambassador for this conservation project .
-(label :H label
-       :A label
-       :S label
-       :D label
-       :E label
-       :C label
-       :R label
-       :P label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :S (v5 / label
+                  :E (v12 / label)
+                  :C (v13 / label))
+           :D (v6 / label)
+           :A (v7 / label
+                  :R (v14 / label)
+                  :E (v15 / label)
+                  :E (v16 / label)
+                  :C (v17 / label)
+                  :E (v18 / label
+                          :A v17
+                          :R (v22 / label)
+                          :P (v23 / label)
+                          :A (v24 / label
+                                  :A v17
+                                  :R (v29 / label)
+                                  :P (v30 / label)
+                                  :A (v31 / label
+                                          :E (v33 / label)
+                                          :E (v34 / label)
+                                          :C (v35 / label))
+                                  :A (v32 / label
+                                          :R (v36 / label)
+                                          :C (v37 / label
+                                                  :C (v38 / label
+                                                          :A v17
+                                                          :P (v41 / label)
+                                                          :A v35)
+                                                  :N (v39 / label)
+                                                  :C (v40 / label
+                                                          :A v17
+                                                          :P (v42 / label)
+                                                          :A (v43 / label)
+                                                          :A (v44 / label
+                                                                  :R (v45 / label)
+                                                                  :E (v46 / label)
+                                                                  :C (v47 / label)))))))))
+    :H (v3 / label
+           :A (v8 / label)
+           :S (v9 / label)
+           :D (v10 / label)
+           :A (v11 / label
+                   :E (v19 / label)
+                   :C (v20 / label)
+                   :E (v21 / label
+                           :R (v25 / label)
+                           :E (v26 / label)
+                           :E (v27 / label)
+                           :C (v28 / label)))))

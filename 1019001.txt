@@ -1,10 +1,37 @@
 # ::id 1019001
 # ::tok In the mid - 1990s , he was accused of child sexual abuse , but the case was settled out of court for about $ 25 million and no formal charges were brought .
-(label :H label
-       :L label
-       :D label
-       :A label
-       :P label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :D (v7 / label
+                  :R (v18 / label)
+                  :E (v19 / label)
+                  :E (v20 / label)
+                  :C (v21 / label))
+           :A (v8 / label)
+           :P (v9 / label
+                  :C (v22 / label)
+                  :R (v23 / label))
+           :A (v10 / label
+                   :E (v24 / label)
+                   :E (v25 / label)
+                   :C (v26 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v11 / label
+                   :E (v27 / label)
+                   :C (v28 / label))
+           :P (v12 / label)
+           :A (v13 / label
+                   :R (v29 / label)
+                   :C (v30 / label))
+           :A (v14 / label
+                   :R (v31 / label)
+                   :E (v32 / label)
+                   :C (v33 / label)))
+    :L (v5 / label)
+    :H (v6 / label
+           :D (v15 / label)
+           :A (v16 / label
+                   :E (v34 / label)
+                   :C (v35 / label))
+           :P (v17 / label)))

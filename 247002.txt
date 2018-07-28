@@ -1,10 +1,21 @@
 # ::id 247002
 # ::tok " He also appeared that year in Frank Whaley 's directorial debut , Joe the King ( 1999 ) .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :P (v5 / label)
+           :D (v6 / label
+                  :E (v8 / label)
+                  :C (v9 / label))
+           :A (v7 / label
+                  :R (v10 / label)
+                  :E (v11 / label
+                          :A (v14 / label
+                                  :C (v16 / label)
+                                  :R (v17 / label))
+                          :P (v15 / label
+                                  :E (v18 / label)
+                                  :C (v19 / label)))
+                  :C (v12 / label)
+                  :E (v13 / label)))
+    :L (v3 / label))

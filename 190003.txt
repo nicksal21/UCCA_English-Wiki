@@ -1,8 +1,38 @@
 # ::id 190003
 # ::tok Sorkin wrote several drafts of the script for A Few Good Men in his New York apartment , learning the craft of screenwriting from a book about screenplay format .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :E (v11 / label
+                          :E (v26 / label)
+                          :C (v27 / label)
+                          :R (v28 / label))
+                  :E (v12 / label)
+                  :C (v13 / label)
+                  :E (v14 / label
+                          :R (v29 / label)
+                          :C (v30 / label)))
+           :A (v7 / label
+                  :R (v15 / label)
+                  :E (v16 / label)
+                  :E (v17 / label)
+                  :C (v18 / label)))
+    :H (v3 / label
+           :P (v8 / label)
+           :A (v9 / label
+                  :E (v19 / label)
+                  :E (v20 / label
+                          :C (v31 / label)
+                          :R (v32 / label))
+                  :C (v21 / label))
+           :A (v10 / label
+                   :R (v22 / label)
+                   :E (v23 / label)
+                   :C (v24 / label)
+                   :E (v25 / label
+                           :R (v33 / label)
+                           :C (v34 / label)
+                           :E (v35 / label)))
+           :A v4))

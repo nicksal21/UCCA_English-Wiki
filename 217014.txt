@@ -1,10 +1,26 @@
 # ::id 217014
 # ::tok With revenue of $ 783 million worldwide , it was the second highest grossing film in 2004 .
-(label :L label
-       :H label
-       :A label
-       :S label
-       :D label
-       :C label
-       :E label
-       :R label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v5 / label)
+           :S (v6 / label)
+           :A (v7 / label
+                  :C (v10 / label)
+                  :E (v11 / label
+                          :R (v18 / label)
+                          :E (v19 / label)
+                          :C (v20 / label)
+                          :E (v21 / label))))
+    :H (v4 / label
+           :A v5
+           :S (v8 / label
+                  :E (v12 / label)
+                  :E (v13 / label)
+                  :E (v14 / label
+                          :E (v22 / label)
+                          :C (v23 / label))
+                  :C (v15 / label))
+           :D (v9 / label
+                  :R (v16 / label)
+                  :C (v17 / label))))

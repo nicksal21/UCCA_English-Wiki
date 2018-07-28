@@ -1,11 +1,66 @@
 # ::id 247012
 # ::tok " Paul Clinton of CNN reported that Hawke 's performance was " totally believable as a doe-eyed rookie going toe - to - toe with a legend [ Washington ] " . Hawke himself described Training Day as his " best experience in Hollywood " . His performance earned him Screen Actors Guild and Academy Award nominations for Best Supporting Actor .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :C label
-       :E label
-       :S label
-       :R label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :C (v17 / label)
+                  :E (v18 / label
+                          :R (v31 / label)
+                          :C (v32 / label)))
+           :P (v6 / label)
+           :A (v7 / label
+                  :A (v19 / label
+                          :A (v33 / label
+                                  :C (v49 / label)
+                                  :R (v50 / label))
+                          :P (v34 / label))
+                  :S (v20 / label)
+                  :A (v21 / label
+                          :D (v35 / label)
+                          :P (v36 / label)
+                          :A (v37 / label
+                                  :A (v51 / label
+                                          :R (v55 / label)
+                                          :E (v56 / label)
+                                          :E (v57 / label)
+                                          :C (v58 / label))
+                                  :P (v52 / label
+                                          :C (v59 / label))
+                                  :D (v53 / label)
+                                  :A (v54 / label
+                                          :R (v60 / label)
+                                          :E (v61 / label)
+                                          :C (v62 / label)
+                                          :E (v63 / label)))
+                          :A v34)))
+    :H (v3 / label
+           :A (v8 / label)
+           :D (v9 / label)
+           :P (v10 / label)
+           :A (v11 / label)
+           :A (v12 / label
+                   :R (v22 / label)
+                   :A (v23 / label)
+                   :P (v24 / label
+                           :E (v38 / label)
+                           :C (v39 / label))
+                   :A (v25 / label
+                           :R (v40 / label)
+                           :C (v41 / label))))
+    :H (v4 / label
+           :A (v13 / label
+                   :A (v26 / label)
+                   :P (v27 / label))
+           :P (v14 / label)
+           :A (v15 / label)
+           :A (v16 / label
+                   :E (v28 / label
+                           :C (v42 / label)
+                           :N (v43 / label)
+                           :C (v44 / label))
+                   :C (v29 / label)
+                   :E (v30 / label
+                           :R (v45 / label)
+                           :E (v46 / label)
+                           :E (v47 / label)
+                           :C (v48 / label)))))

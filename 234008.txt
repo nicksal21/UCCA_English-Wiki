@@ -1,10 +1,70 @@
 # ::id 234008
 # ::tok " Chan 's comments were criticised by Parris Chang , a Taiwanese legislator and senior member of the DPP , who called for the government of Taiwan to take punitive steps against Chan for his comments , such as banning his movies and barring him the right to visit Taiwan .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label
-       :N label
-       :D label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label
+                         :C (v12 / label)
+                         :R (v13 / label))
+                  :C (v7 / label))
+           :P (v4 / label)
+           :A (v5 / label
+                  :R (v8 / label)
+                  :C (v9 / label)
+                  :E (v10 / label
+                          :C (v14 / label
+                                  :E (v20 / label)
+                                  :E (v21 / label)
+                                  :C (v22 / label))
+                          :N (v15 / label)
+                          :C (v16 / label
+                                  :E (v23 / label
+                                          :E (v33 / label)
+                                          :C (v34 / label)
+                                          :R (v35 / label))
+                                  :E (v24 / label)
+                                  :C (v25 / label)))
+                  :E (v11 / label
+                          :A v9
+                          :R (v17 / label)
+                          :P (v18 / label)
+                          :A (v19 / label
+                                  :R (v26 / label)
+                                  :A (v27 / label
+                                          :E (v36 / label)
+                                          :C (v37 / label)
+                                          :E (v38 / label
+                                                  :R (v47 / label)
+                                                  :C (v48 / label)))
+                                  :P (v28 / label
+                                          :C (v39 / label))
+                                  :D (v29 / label)
+                                  :A (v30 / label
+                                          :R (v40 / label)
+                                          :C (v41 / label))
+                                  :A (v31 / label
+                                          :R (v42 / label)
+                                          :E (v43 / label)
+                                          :C (v44 / label))
+                                  :A (v32 / label
+                                          :R (v45 / label)
+                                          :C (v46 / label
+                                                  :C (v49 / label
+                                                          :A v27
+                                                          :P (v52 / label)
+                                                          :A (v53 / label
+                                                                  :E (v57 / label)
+                                                                  :C (v58 / label)))
+                                                  :N (v50 / label)
+                                                  :C (v51 / label
+                                                          :A v27
+                                                          :P (v54 / label)
+                                                          :A (v55 / label)
+                                                          :A (v56 / label
+                                                                  :E (v59 / label)
+                                                                  :C (v60 / label)
+                                                                  :E (v61 / label
+                                                                          :A v55
+                                                                          :R (v62 / label)
+                                                                          :P (v63 / label)
+                                                                          :A (v64 / label)))))))))))

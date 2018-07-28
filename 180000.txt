@@ -1,9 +1,16 @@
 # ::id 180000
 # ::tok Margaret Ruth " Maggie " Gyllenhaal ( born November 16 , 1977 ) is an American actress .
-(label :H label
-       :A label
-       :S label
-       :C label
-       :E label
-       :P label
-       :D label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :C (v6 / label)
+                  :E (v7 / label)
+                  :E (v8 / label
+                         :A v6
+                         :P (v12 / label)
+                         :D (v13 / label)))
+           :S (v4 / label)
+           :A (v5 / label
+                  :E (v9 / label)
+                  :E (v10 / label)
+                  :C (v11 / label))))

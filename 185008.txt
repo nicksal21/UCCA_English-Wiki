@@ -1,10 +1,27 @@
 # ::id 185008
 # ::tok In 1998 his television career began when he created the comedy series Sports Night for the ABC network .
-(label :H label
-       :L label
-       :D label
-       :A label
-       :P label
-       :R label
-       :C label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :D (v5 / label
+                  :R (v12 / label)
+                  :C (v13 / label))
+           :A (v6 / label
+                  :A (v14 / label)
+                  :P (v15 / label
+                          :E (v24 / label)
+                          :C (v25 / label)))
+           :P (v7 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v8 / label)
+           :P (v9 / label)
+           :A (v10 / label
+                   :E (v16 / label)
+                   :E (v17 / label)
+                   :E (v18 / label)
+                   :C (v19 / label))
+           :A (v11 / label
+                   :R (v20 / label)
+                   :E (v21 / label)
+                   :C (v22 / label)
+                   :E (v23 / label))))

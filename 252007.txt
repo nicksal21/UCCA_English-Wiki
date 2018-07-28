@@ -1,11 +1,26 @@
 # ::id 252007
 # ::tok The production began previews on October 17 , with a closing date on December 9 .
-(label :H label
-       :L label
-       :A label
-       :D label
-       :P label
-       :S label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :A (v11 / label)
+                  :P (v12 / label
+                          :E (v22 / label)
+                          :C (v23 / label)))
+           :D (v6 / label)
+           :P (v7 / label)
+           :D (v8 / label
+                  :R (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :S (v9 / label
+                  :E (v16 / label)
+                  :C (v17 / label)
+                  :E (v18 / label))
+           :D (v10 / label
+                   :R (v19 / label)
+                   :C (v20 / label)
+                   :E (v21 / label))
+           :A v5))

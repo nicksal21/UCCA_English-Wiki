@@ -1,9 +1,22 @@
 # ::id 148009
 # ::tok " Lauren Bacall , a close friend , later wrote of how " blindingly " in love Hepburn was with the actor .
-(label :H label
-       :A label
-       :D label
-       :P label
-       :C label
-       :E label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :C (v7 / label)
+                  :E (v8 / label
+                         :E (v15 / label)
+                         :E (v16 / label)
+                         :C (v17 / label)))
+           :D (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :R (v9 / label)
+                  :D (v10 / label)
+                  :D (v11 / label)
+                  :P (v12 / label)
+                  :A (v13 / label)
+                  :A (v14 / label
+                          :R (v18 / label)
+                          :E (v19 / label)
+                          :C (v20 / label)))))

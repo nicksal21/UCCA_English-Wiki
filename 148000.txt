@@ -1,10 +1,26 @@
 # ::id 148000
 # ::tok Hepburn stuck to her decision not to remarry , and made a conscious choice not to have children .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :P (v6 / label)
+           :A (v7 / label
+                  :R (v11 / label)
+                  :A (v12 / label)
+                  :P (v13 / label)
+                  :A (v14 / label
+                          :A v12
+                          :D (v20 / label)
+                          :P (v21 / label))))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v8 / label
+                  :E (v15 / label)
+                  :C (v16 / label))
+           :D (v9 / label)
+           :A (v10 / label
+                   :D (v17 / label)
+                   :P (v18 / label)
+                   :A (v19 / label)
+                   :A v5)
+           :A v5))

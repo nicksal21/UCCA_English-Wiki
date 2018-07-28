@@ -1,12 +1,51 @@
 # ::id 145004
 # ::tok She distanced herself from the celebrity lifestyle , uninterested in a social scene she saw as tedious and superficial , and she wore casual clothes that went strongly against convention in an era of glamour .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :S label
-       :R label
-       :E label
-       :C label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label)
+           :P (v7 / label)
+           :D (v8 / label)
+           :A (v9 / label
+                  :R (v15 / label)
+                  :E (v16 / label)
+                  :E (v17 / label)
+                  :C (v18 / label)))
+    :H (v3 / label
+           :S (v10 / label)
+           :A (v11 / label
+                   :R (v19 / label)
+                   :E (v20 / label)
+                   :E (v21 / label)
+                   :C (v22 / label)
+                   :E (v23 / label
+                           :A v22
+                           :A (v27 / label)
+                           :P (v28 / label)
+                           :A (v29 / label
+                                   :A v22
+                                   :R (v34 / label)
+                                   :S (v35 / label
+                                           :C (v41 / label)
+                                           :N (v42 / label)
+                                           :C (v43 / label)))))
+           :A v6)
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v12 / label)
+           :P (v13 / label)
+           :A (v14 / label
+                   :E (v24 / label)
+                   :C (v25 / label)
+                   :E (v26 / label
+                           :A v25
+                           :P (v30 / label
+                                   :C (v36 / label))
+                           :D (v31 / label)
+                           :A (v32 / label)
+                           :D (v33 / label
+                                   :R (v37 / label)
+                                   :E (v38 / label)
+                                   :C (v39 / label)
+                                   :E (v40 / label
+                                           :R (v44 / label)
+                                           :C (v45 / label)))))))

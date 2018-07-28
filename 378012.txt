@@ -1,10 +1,26 @@
 # ::id 378012
 # ::tok Instead , Gyllenhaal starred in the blockbuster The Day After Tomorrow in 2004 , co - starring Dennis Quaid as his father .
-(label :L label
-       :H label
-       :A label
-       :P label
-       :D label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v5 / label)
+           :P (v6 / label)
+           :A (v7 / label
+                  :R (v12 / label)
+                  :E (v13 / label
+                          :E (v22 / label)
+                          :C (v23 / label))
+                  :C (v14 / label))
+           :D (v8 / label
+                  :R (v15 / label)
+                  :C (v16 / label)))
+    :H (v4 / label
+           :P (v9 / label
+                  :E (v17 / label)
+                  :C (v18 / label))
+           :A (v10 / label)
+           :A (v11 / label
+                   :R (v19 / label)
+                   :E (v20 / label)
+                   :C (v21 / label))
+           :A v5))

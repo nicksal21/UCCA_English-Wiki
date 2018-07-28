@@ -1,12 +1,82 @@
 # ::id 1024013
 # ::tok In 1986 , " We Are the World " won four Grammys ( one for Jackson for Song of the Year ) . American Music Award directors removed the charity song from the competition because they felt it would be inappropriate , but recognized it with two special honors : one for the creation of the song and one for the USA for Africa idea .
-(label :H label
-       :L label
-       :D label
-       :A label
-       :P label
-       :R label
-       :C label
-       :E label
-       :S label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :D (v8 / label
+                  :R (v22 / label)
+                  :C (v23 / label))
+           :A (v9 / label)
+           :P (v10 / label)
+           :A (v11 / label
+                   :E (v24 / label)
+                   :C (v25 / label)
+                   :E (v26 / label
+                           :P v10
+                           :A (v43 / label)
+                           :A (v44 / label
+                                   :R (v53 / label)
+                                   :C (v54 / label))
+                           :A (v45 / label
+                                   :R (v55 / label)
+                                   :C (v56 / label)
+                                   :R (v57 / label)
+                                   :E (v58 / label
+                                           :E (v63 / label)
+                                           :C (v64 / label))))))
+    :H (v3 / label
+           :A (v12 / label
+                   :E (v27 / label
+                           :E (v46 / label)
+                           :E (v47 / label)
+                           :C (v48 / label))
+                   :C (v28 / label))
+           :P (v13 / label)
+           :A (v14 / label
+                   :E (v29 / label)
+                   :E (v30 / label)
+                   :C (v31 / label))
+           :A (v15 / label
+                   :R (v32 / label)
+                   :E (v33 / label)
+                   :C (v34 / label)))
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v16 / label)
+           :P (v17 / label)
+           :A (v18 / label
+                   :A (v35 / label)
+                   :S (v36 / label
+                           :C (v49 / label))
+                   :D (v37 / label)))
+    :L (v6 / label)
+    :H (v7 / label
+           :P (v19 / label)
+           :A (v20 / label)
+           :A (v21 / label
+                   :R (v38 / label)
+                   :E (v39 / label)
+                   :E (v40 / label)
+                   :C (v41 / label)
+                   :E (v42 / label
+                           :C (v50 / label
+                                   :C (v59 / label)
+                                   :E (v60 / label
+                                           :R (v65 / label)
+                                           :E (v66 / label)
+                                           :C (v67 / label)
+                                           :R (v68 / label)
+                                           :E (v69 / label
+                                                   :E (v74 / label)
+                                                   :C (v75 / label))))
+                           :N (v51 / label)
+                           :C (v52 / label
+                                   :C (v61 / label)
+                                   :E (v62 / label
+                                           :R (v70 / label)
+                                           :E (v71 / label)
+                                           :E (v72 / label
+                                                   :C (v76 / label)
+                                                   :R (v77 / label)
+                                                   :C (v78 / label))
+                                           :C (v73 / label)))))
+           :A v16))

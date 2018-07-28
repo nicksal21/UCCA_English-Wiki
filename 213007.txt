@@ -1,9 +1,19 @@
 # ::id 213007
 # ::tok Dunst was born in Point Pleasant , New Jersey , to Inez ( née Rupprecht ) and Klaus Dunst .
-(label :H label
-       :A label
-       :S label
-       :R label
-       :C label
-       :E label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :S (v4 / label)
+           :A (v5 / label
+                  :R (v7 / label)
+                  :C (v8 / label)
+                  :E (v9 / label))
+           :A (v6 / label
+                  :R (v10 / label)
+                  :C (v11 / label
+                          :C (v12 / label
+                                  :A (v15 / label)
+                                  :S (v16 / label)
+                                  :A (v17 / label))
+                          :N (v13 / label)
+                          :C (v14 / label)))))

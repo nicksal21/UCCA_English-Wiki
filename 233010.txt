@@ -1,12 +1,125 @@
 # ::id 233010
 # ::tok He has generally refused to play villains and has almost never used the word " fuck " in his films ( He 's only said that word in two films , The Protector and Burn , Hollywood , Burn ) , but in Rush Hour , in an attempt to be " cool " and imitate his partner Carter , who said " What 's up , my nigga ? " to a club of black men , he said the same thing when Carter was in another room and they all attacked him , so he had to pull out his fighting skills to beat them down and escape .
-(label :H label
-       :L label
-       :A label
-       :D label
-       :P label
-       :S label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v18 / label)
+           :D (v19 / label)
+           :P (v20 / label)
+           :A (v21 / label
+                   :A v18
+                   :P (v48 / label)
+                   :A (v49 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :D (v22 / label
+                   :E (v50 / label)
+                   :C (v51 / label))
+           :P (v23 / label)
+           :A (v24 / label
+                   :E (v52 / label)
+                   :E (v53 / label)
+                   :C (v54 / label))
+           :A (v25 / label
+                   :R (v55 / label)
+                   :E (v56 / label)
+                   :C (v57 / label))
+           :A v18)
+    :H (v5 / label
+           :A (v26 / label)
+           :D (v27 / label)
+           :P (v28 / label)
+           :A (v29 / label
+                   :E (v58 / label)
+                   :C (v59 / label))
+           :A (v30 / label
+                   :R (v60 / label)
+                   :E (v61 / label
+                           :E (v82 / label)
+                           :C (v83 / label))
+                   :C (v62 / label
+                           :C (v84 / label)
+                           :N (v85 / label)
+                           :C (v86 / label))))
+    :L (v6 / label)
+    :H (v7 / label
+           :A (v31 / label
+                   :R (v63 / label)
+                   :C (v64 / label))
+           :A (v32 / label
+                   :A (v33 / label)
+                   :R (v65 / label)
+                   :P (v66 / label
+                           :E (v87 / label)
+                           :C (v88 / label))
+                   :A (v67 / label
+                           :C (v89 / label
+                                   :A v33
+                                   :S (v92 / label)
+                                   :A (v93 / label))
+                           :N (v90 / label)
+                           :C (v91 / label
+                                   :A v33
+                                   :P (v94 / label)
+                                   :A (v95 / label
+                                           :E (v96 / label
+                                                   :E (v99 / label)
+                                                   :C (v100 / label))
+                                           :C (v97 / label)
+                                           :E (v98 / label
+                                                   :A v97
+                                                   :R (v101 / label)
+                                                   :P (v102 / label)
+                                                   :A (v103 / label
+                                                            :A (v105 / label)
+                                                            :S (v106 / label)
+                                                            :A (v107 / label)
+                                                            :A (v108 / label))
+                                                   :A (v104 / label
+                                                            :R (v109 / label)
+                                                            :E (v110 / label)
+                                                            :E (v111 / label
+                                                                     :C (v114 / label)
+                                                                     :R (v115 / label))
+                                                            :E (v112 / label)
+                                                            :C (v113 / label)))))))
+           :A v33
+           :P (v34 / label)
+           :A (v35 / label
+                   :E (v68 / label)
+                   :E (v69 / label)
+                   :C (v70 / label)))
+    :L (v8 / label)
+    :H (v9 / label
+           :A (v36 / label)
+           :S (v37 / label)
+           :A (v38 / label
+                   :R (v71 / label)
+                   :E (v72 / label)
+                   :C (v73 / label)))
+    :L (v10 / label)
+    :H (v11 / label
+            :A (v39 / label
+                    :C (v74 / label)
+                    :E (v75 / label))
+            :P (v40 / label)
+            :A (v41 / label))
+    :L (v12 / label)
+    :H (v13 / label
+            :A (v42 / label)
+            :P (v43 / label
+                    :C (v76 / label))
+            :A (v44 / label
+                    :E (v77 / label)
+                    :E (v78 / label)
+                    :C (v79 / label)))
+    :L (v14 / label)
+    :H (v15 / label
+            :P (v45 / label
+                    :C (v80 / label)
+                    :E (v81 / label))
+            :A (v46 / label)
+            :A v42)
+    :L (v16 / label)
+    :H (v17 / label
+            :P (v47 / label)
+            :A v42))

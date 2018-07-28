@@ -1,9 +1,24 @@
 # ::id 226007
 # ::tok For example , Sylvester Stallone offered him the role of Simon Phoenix , a criminal in the futuristic film Demolition Man .
-(label :G label
-       :H label
-       :C label
-       :A label
-       :P label
-       :E label
-       :R label)
+(v1 / label
+    :G (v2 / label
+           :C (v4 / label))
+    :H (v3 / label
+           :A (v5 / label)
+           :P (v6 / label)
+           :A (v7 / label)
+           :A (v8 / label
+                  :E (v10 / label)
+                  :C (v11 / label)
+                  :E (v12 / label
+                          :R (v18 / label)
+                          :C (v19 / label)
+                          :E (v20 / label
+                                  :E (v21 / label)
+                                  :C (v22 / label))))
+           :A (v9 / label
+                  :R (v13 / label)
+                  :E (v14 / label)
+                  :E (v15 / label)
+                  :E (v16 / label)
+                  :C (v17 / label))))

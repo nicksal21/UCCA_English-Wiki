@@ -1,9 +1,39 @@
 # ::id 214017
 # ::tok " Her performance earned her the MTV Movie Award for Best Breakthrough Performance , the Saturn Award for Best Young Actress , and her first Golden Globe Award nomination .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :N label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v7 / label)
+                  :C (v8 / label))
+           :P (v4 / label)
+           :A (v5 / label)
+           :A (v6 / label
+                  :C (v9 / label
+                         :E (v13 / label)
+                         :E (v14 / label)
+                         :E (v15 / label)
+                         :C (v16 / label)
+                         :E (v17 / label
+                                 :R (v26 / label)
+                                 :E (v27 / label)
+                                 :E (v28 / label)
+                                 :C (v29 / label)))
+                  :C (v10 / label
+                          :E (v18 / label)
+                          :E (v19 / label)
+                          :C (v20 / label)
+                          :E (v21 / label
+                                  :R (v30 / label)
+                                  :E (v31 / label)
+                                  :E (v32 / label)
+                                  :C (v33 / label)))
+                  :N (v11 / label)
+                  :C (v12 / label
+                          :E (v22 / label)
+                          :E (v23 / label)
+                          :E (v24 / label
+                                  :E (v34 / label
+                                          :E (v36 / label)
+                                          :C (v37 / label))
+                                  :C (v35 / label))
+                          :C (v25 / label)))))

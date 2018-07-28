@@ -1,9 +1,18 @@
 # ::id 128006
 # ::tok The Lake previewed in Washington , D.C . , where there was a large advance sale .
-(label :H label
-       :A label
-       :P label
-       :R label
-       :C label
-       :E label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :R (v6 / label)
+                  :C (v7 / label)
+                  :E (v8 / label)
+                  :E (v9 / label
+                         :R (v10 / label)
+                         :S (v11 / label)
+                         :A (v12 / label
+                                 :E (v13 / label)
+                                 :E (v14 / label)
+                                 :E (v15 / label)
+                                 :C (v16 / label))))))
