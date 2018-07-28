@@ -1,0 +1,53 @@
+# ::id 467004
+# ::tok In his final high school season , Johnson led Lansing Everett to a 27 - 1 win - loss record while averaging 28.8 points and 16.8 rebounds per game , and took his team to an overtime victory in the state championship game .
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :P (v9 / label)
+           :A (v10 / label)
+           :A (v11 / label
+                   :E (v21 / label)
+                   :E (v22 / label)
+                   :C (v23 / label)))
+    :H (v4 / label
+           :A (v12 / label)
+           :P (v13 / label)
+           :A (v14 / label)
+           :A (v15 / label
+                   :R (v24 / label)
+                   :E (v25 / label
+                           :E (v39 / label)
+                           :C (v40 / label))
+                   :C (v26 / label)))
+    :L (v5 / label)
+    :H (v6 / label
+           :P (v16 / label)
+           :A (v17 / label
+                   :C (v27 / label
+                           :C (v41 / label
+                                   :E (v46 / label)
+                                   :C (v47 / label))
+                           :N (v42 / label)
+                           :C (v43 / label
+                                   :E (v48 / label)
+                                   :C (v49 / label)))
+                   :E (v28 / label
+                           :R (v44 / label)
+                           :C (v45 / label)))
+           :A v12)
+    :L (v7 / label)
+    :H (v8 / label
+           :P (v18 / label
+                   :E (v29 / label)
+                   :E (v30 / label)
+                   :C (v31 / label))
+           :A (v19 / label
+                   :E (v32 / label)
+                   :C (v33 / label))
+           :A (v20 / label
+                   :R (v34 / label)
+                   :E (v35 / label)
+                   :E (v36 / label)
+                   :E (v37 / label)
+                   :C (v38 / label))
+           :A v12))

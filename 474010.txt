@@ -1,0 +1,45 @@
+# ::id 474010
+# ::tok During his retirement , Johnson began intense workouts to help his fight against HIV , raising his bench press from 135 to 300 pounds , and increasing his weight to 255 pounds .
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v10 / label)
+           :P (v11 / label))
+    :H (v4 / label
+           :A (v12 / label)
+           :D (v13 / label)
+           :D (v14 / label)
+           :P (v15 / label))
+    :L (v5 / label)
+    :H (v6 / label
+           :P (v16 / label)
+           :A (v17 / label
+                   :A (v24 / label)
+                   :P (v25 / label)
+                   :A (v26 / label
+                           :R (v36 / label)
+                           :C (v37 / label))))
+    :H (v7 / label
+           :P (v18 / label)
+           :A (v19 / label
+                   :E (v27 / label)
+                   :C (v28 / label))
+           :A (v20 / label
+                   :E (v29 / label
+                           :R (v38 / label)
+                           :C (v39 / label)
+                           :R (v40 / label)
+                           :C (v41 / label))
+                   :C (v30 / label))
+           :A v12)
+    :L (v8 / label)
+    :H (v9 / label
+           :P (v21 / label)
+           :A (v22 / label
+                   :E (v31 / label)
+                   :C (v32 / label))
+           :A (v23 / label
+                   :R (v33 / label)
+                   :E (v34 / label)
+                   :C (v35 / label))
+           :A v12))

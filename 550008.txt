@@ -1,0 +1,22 @@
+# ::id 550008
+# ::tok When he attempted to report for work , studio guards denied him entry .
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v5 / label)
+           :P (v6 / label)
+           :A (v7 / label
+                  :A v5
+                  :P (v12 / label)
+                  :A (v13 / label
+                          :R (v17 / label)
+                          :C (v18 / label))))
+    :H (v4 / label
+           :A (v8 / label
+                  :E (v14 / label)
+                  :C (v15 / label))
+           :P (v9 / label)
+           :A (v10 / label)
+           :A (v11 / label
+                   :A v10
+                   :P (v16 / label))))
