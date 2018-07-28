@@ -32,7 +32,11 @@ jobs:
       env: FORMAT=conll
     - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT
       env: FORMAT=conllu
-    - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT
+    - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT "[0-3]"
+      env: FORMAT=amr
+    - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT "[4-5]"
+      env: FORMAT=amr
+    - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT "[6-9]"
       env: FORMAT=amr
     - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT
       env: FORMAT=export
