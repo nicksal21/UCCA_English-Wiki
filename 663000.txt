@@ -1,0 +1,28 @@
+# ::id 663000
+# ::tok Released on October 3 , 1995 , Daydream combined the pop sensibilities of Music Box with downbeat R & B and hip hop influences .
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :P (v5 / label)
+           :D (v6 / label
+                  :R (v10 / label)
+                  :C (v11 / label)))
+    :H (v3 / label
+           :A v4
+           :P (v7 / label)
+           :A (v8 / label
+                  :E (v12 / label)
+                  :E (v13 / label)
+                  :C (v14 / label)
+                  :E (v15 / label
+                          :R (v19 / label)
+                          :C (v20 / label)))
+           :A (v9 / label
+                  :R (v16 / label)
+                  :E (v17 / label
+                          :C (v21 / label
+                                  :E (v24 / label)
+                                  :C (v25 / label))
+                          :N (v22 / label)
+                          :C (v23 / label))
+                  :C (v18 / label))))

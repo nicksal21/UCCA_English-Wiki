@@ -1,0 +1,53 @@
+# ::id 600010
+# ::tok He found it difficult to play guitar right - handed , but after noticing a poster advertising a Slim Whitman concert and realising that Whitman also played left - handed , he reversed the order of the strings .
+(v1 / label
+    :H (v2 / label
+           :A (v9 / label)
+           :P (v10 / label)
+           :A (v11 / label)
+           :A (v12 / label
+                   :A v9
+                   :S (v20 / label)
+                   :A (v21 / label
+                           :A v9
+                           :P (v32 / label)
+                           :A (v33 / label)
+                           :A (v34 / label
+                                   :E (v42 / label)
+                                   :C (v43 / label)))))
+    :L (v3 / label)
+    :L (v4 / label)
+    :H (v5 / label
+           :P (v13 / label)
+           :A (v14 / label
+                   :E (v22 / label)
+                   :C (v23 / label)
+                   :E (v24 / label
+                           :A v23
+                           :P (v35 / label)
+                           :A (v36 / label
+                                   :E (v44 / label)
+                                   :E (v45 / label)
+                                   :C (v46 / label))))
+           :A v9)
+    :L (v6 / label)
+    :H (v7 / label
+           :P (v15 / label)
+           :A (v16 / label
+                   :A (v25 / label)
+                   :D (v26 / label)
+                   :P (v27 / label)
+                   :A (v28 / label
+                           :E (v37 / label)
+                           :C (v38 / label)))
+           :A v9)
+    :H (v8 / label
+           :A (v17 / label)
+           :P (v18 / label)
+           :A (v19 / label
+                   :E (v29 / label)
+                   :C (v30 / label)
+                   :E (v31 / label
+                           :R (v39 / label)
+                           :E (v40 / label)
+                           :C (v41 / label)))))

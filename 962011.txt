@@ -1,0 +1,22 @@
+# ::id 962011
+# ::tok Merivale contacted Olivier , who was receiving treatment for prostate cancer in a nearby hospital .
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :C (v6 / label)
+                  :E (v7 / label
+                         :A v6
+                         :P (v8 / label)
+                         :A (v9 / label
+                                :C (v11 / label)
+                                :E (v12 / label
+                                        :R (v17 / label)
+                                        :E (v18 / label)
+                                        :C (v19 / label)))
+                         :A (v10 / label
+                                 :R (v13 / label)
+                                 :E (v14 / label)
+                                 :E (v15 / label)
+                                 :C (v16 / label))))))

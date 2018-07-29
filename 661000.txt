@@ -1,0 +1,20 @@
+# ::id 661000
+# ::tok Carey began recording her second studio album , eventually titled Emotions , in 1991 .
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :D (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :E (v8 / label)
+                  :E (v9 / label)
+                  :E (v10 / label)
+                  :C (v11 / label)
+                  :E (v12 / label
+                          :A v11
+                          :D (v15 / label)
+                          :P (v16 / label)
+                          :A (v17 / label)))
+           :D (v7 / label
+                  :R (v13 / label)
+                  :C (v14 / label))))

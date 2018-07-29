@@ -1,0 +1,29 @@
+# ::id 634002
+# ::tok The band 's first single , " Love Me Do " , was released in October 1962 and reached No . 17 on the British charts .
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v12 / label)
+                  :E (v13 / label
+                          :C (v25 / label)
+                          :R (v26 / label))
+                  :E (v14 / label)
+                  :C (v15 / label)
+                  :E (v11 / label))
+           :P (v6 / label)
+           :D (v7 / label
+                  :R (v16 / label)
+                  :E (v17 / label)
+                  :C (v18 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v8 / label)
+           :A (v9 / label
+                  :C (v19 / label)
+                  :E (v20 / label))
+           :A (v10 / label
+                   :R (v21 / label)
+                   :E (v22 / label)
+                   :E (v23 / label)
+                   :C (v24 / label))
+           :A v11))

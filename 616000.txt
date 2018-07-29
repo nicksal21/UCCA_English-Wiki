@@ -1,0 +1,32 @@
+# ::id 616000
+# ::tok While at school during the 1950s , McCartney thrived at art assignments , often earning top accolades for his visual work .
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v7 / label)
+           :S (v8 / label
+                  :E (v15 / label)
+                  :C (v16 / label))
+           :D (v9 / label
+                  :R (v17 / label)
+                  :E (v18 / label)
+                  :C (v19 / label)))
+    :H (v4 / label
+           :A v7
+           :P (v10 / label)
+           :A (v11 / label
+                   :R (v20 / label)
+                   :E (v21 / label)
+                   :C (v22 / label)))
+    :L (v5 / label)
+    :H (v6 / label
+           :P (v12 / label)
+           :A (v13 / label
+                   :E (v23 / label)
+                   :C (v24 / label))
+           :A (v14 / label
+                   :R (v25 / label)
+                   :E (v26 / label)
+                   :E (v27 / label)
+                   :C (v28 / label))
+           :A v7))

@@ -1,0 +1,56 @@
+# ::id 672001
+# ::tok With six number one albums , Carey is tied with Britney Spears and Janet Jackson in the United States for the third most number one albums for a female artist , behind Madonna with seven and Barbra Streisand 's nine chart toppers .
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v5 / label)
+           :S (v6 / label)
+           :A (v7 / label
+                  :E (v11 / label)
+                  :E (v12 / label
+                          :C (v22 / label)
+                          :E (v23 / label))
+                  :C (v13 / label)))
+    :H (v4 / label
+           :A v5
+           :S (v8 / label)
+           :A (v9 / label
+                  :R (v14 / label)
+                  :C (v15 / label
+                          :C (v24 / label)
+                          :N (v25 / label)
+                          :C (v26 / label))
+                  :E (v16 / label
+                          :R (v27 / label)
+                          :E (v28 / label)
+                          :C (v29 / label))
+                  :E (v17 / label
+                          :R (v30 / label)
+                          :E (v31 / label)
+                          :E (v32 / label
+                                  :E (v39 / label)
+                                  :C (v40 / label))
+                          :E (v33 / label
+                                  :C (v41 / label)
+                                  :E (v42 / label))
+                          :C (v34 / label)
+                          :E (v35 / label
+                                  :R (v43 / label)
+                                  :E (v44 / label)
+                                  :E (v45 / label)
+                                  :C (v46 / label))))
+           :A (v10 / label
+                   :R (v18 / label)
+                   :E (v19 / label
+                           :C (v36 / label
+                                   :C (v47 / label)
+                                   :E (v48 / label
+                                           :R (v52 / label)
+                                           :C (v53 / label)))
+                           :N (v37 / label)
+                           :C (v38 / label
+                                   :C (v49 / label)
+                                   :R (v50 / label)
+                                   :E (v51 / label)))
+                   :E (v20 / label)
+                   :C (v21 / label))))

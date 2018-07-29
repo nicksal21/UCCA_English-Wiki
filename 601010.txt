@@ -1,0 +1,49 @@
+# ::id 601010
+# ::tok Ringo Starr replaced Best in August , and the band had their first hit , " Love Me Do " , in October , becoming popular in the UK in 1963 , and in the US a year later .
+(v1 / label
+    :H (v2 / label
+           :A (v8 / label)
+           :P (v9 / label)
+           :A (v10 / label)
+           :D (v11 / label
+                   :R (v22 / label)
+                   :C (v23 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v12 / label
+                   :E (v24 / label)
+                   :C (v25 / label))
+           :P (v13 / label)
+           :A (v14 / label
+                   :E (v26 / label
+                           :E (v41 / label
+                                   :E (v43 / label)
+                                   :C (v44 / label))
+                           :C (v42 / label))
+                   :C (v27 / label))
+           :D (v15 / label
+                   :R (v28 / label)
+                   :C (v29 / label)))
+    :H (v5 / label
+           :D (v16 / label)
+           :P (v17 / label)
+           :A (v18 / label
+                   :R (v30 / label)
+                   :E (v31 / label)
+                   :C (v32 / label))
+           :D (v19 / label
+                   :R (v33 / label)
+                   :C (v34 / label))
+           :A v12)
+    :L (v6 / label)
+    :H (v7 / label
+           :A (v20 / label
+                   :R (v35 / label)
+                   :E (v36 / label)
+                   :C (v37 / label))
+           :D (v21 / label
+                   :E (v38 / label)
+                   :C (v39 / label)
+                   :R (v40 / label))
+           :P v17
+           :A v12))
