@@ -1,0 +1,21 @@
+# ::id 123014
+# ::tok She graduated with a degree in history and philosophy in June 1928 .
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :E (v7 / label
+                         :R (v13 / label)
+                         :C (v14 / label))
+                  :C (v8 / label)
+                  :E (v9 / label
+                         :R (v15 / label)
+                         :C (v16 / label
+                                 :C (v17 / label)
+                                 :N (v18 / label)
+                                 :C (v19 / label))))
+           :D (v6 / label
+                  :R (v10 / label)
+                  :E (v11 / label)
+                  :C (v12 / label))))
