@@ -12,11 +12,11 @@ env:
     - secure: "IxbJts4WnmCuaQTOO6i8oQy8qhyPPdoTRgCu0pUTbL8dbJgUgstybLH+hC9GBrL9uLgxUuokFmA0d3j3NiEBHVz0Axq6RYU+DfPnwtVRez3nCWNKfXgYEImEASzovOaPXqx5YXmdGF1nLR6yjrx+2st9BYkjwxussXqVe9kJIL+IRb54Agywjs3WuCVeSouvBwoWeCw/eQUUL2DQwWQOGo1mld+Or3UVZwC6A9q1aUWh+b3RRIKgFKWG8rwII/K5W/66F5mNHRE5Xsg8H3t7RT0SKca50U4b8oDllLp+q0bXsJakZKlU5dIqx5O0YbCjqwnEaAlm26JRml5FwOLRx6NJwEL9STXIlGZYAI2ap734pt4R45vGxIdKdkn4QSkZPtF+SFMa59qBdTK6kjj2JjcPgxdeht6oTCpqRbrTXQhuBsjDImUIMU+Ot3yPr09DL0qUiT8wC8vEl9iXlnKGxd/k+qVS+5tLuzHpKR04r6SUqIYfkwHct3HReARpwFlRx3PXr5EzC+MgJcuMPFSeJkdiRkYs71KjgIOezL7UBInBtba6c1l2OXz2UIubV8hTz7/yxRyVlkfkfSaNRsadl5F9ZLrehbgUVRD9xqRuoWSlcOIdIXfCZ0wdVw9XGCshwvlLW/Pl2rKekT2K3CCba8apM/K/O6mwCnnJfnpPRKc="
 jobs:
   include:
-    - script: python -m scripts.validate xml || echo Ignoring validation failures
+    - script: python -m scripts.validate --no-linkage xml
     - stage: split
       script: curl $SCRIPTS/split_to_sentences.sh | bash
     - stage: convert
-      script: curl $SCRIPTS/validate_sentences.sh | bash
+      script: curl $SCRIPTS/validate_sentences.sh | bash -s -- --no-linkage
       env: FORMAT=validate
     - script: curl $SCRIPTS/visualize.sh | bash -s "[0-3]"
       env: FORMAT=visualize-1
