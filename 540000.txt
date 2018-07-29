@@ -1,0 +1,19 @@
+# ::id 540000
+# ::tok The studio discovered a trained German Shepherd named Rin Tin Tin in 1923 .
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v7 / label)
+                  :C (v8 / label))
+           :P (v4 / label)
+           :A (v5 / label
+                  :E (v9 / label)
+                  :E (v10 / label)
+                  :C (v11 / label)
+                  :E (v12 / label
+                          :A v11
+                          :S (v15 / label)
+                          :A (v16 / label)))
+           :D (v6 / label
+                  :R (v13 / label)
+                  :C (v14 / label))))

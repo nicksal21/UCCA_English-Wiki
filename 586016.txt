@@ -1,0 +1,22 @@
+# ::id 586016
+# ::tok Despite this success , Depp felt " forced into the role of product .
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v5 / label)
+           :P (v6 / label
+                  :E (v9 / label)
+                  :C (v10 / label)))
+    :H (v4 / label
+           :A v5
+           :P (v7 / label)
+           :A (v8 / label
+                  :A v5
+                  :P (v11 / label)
+                  :A (v12 / label
+                          :R (v13 / label)
+                          :E (v14 / label)
+                          :C (v15 / label)
+                          :E (v16 / label
+                                  :R (v17 / label)
+                                  :C (v18 / label))))))
