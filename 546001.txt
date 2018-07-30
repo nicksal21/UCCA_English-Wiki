@@ -1,0 +1,34 @@
+# ::id 546001
+# ::tok Initially , he tried to compete with the new medium , introducing gimmicks such as 3 - D films , which soon lost their appeal among moviegoers .
+(v1 / label
+    :H (v2 / label
+           :D (v4 / label)
+           :A (v5 / label)
+           :D (v6 / label)
+           :P (v7 / label)
+           :A (v8 / label
+                  :R (v11 / label)
+                  :E (v12 / label)
+                  :E (v13 / label)
+                  :C (v14 / label)))
+    :H (v3 / label
+           :P (v9 / label)
+           :A (v10 / label
+                   :C (v15 / label)
+                   :E (v16 / label
+                           :R (v17 / label)
+                           :E (v18 / label
+                                   :E (v21 / label)
+                                   :C (v22 / label))
+                           :C (v19 / label)
+                           :E (v20 / label
+                                   :A v15
+                                   :D (v23 / label)
+                                   :D (v24 / label)
+                                   :P (v25 / label
+                                           :E (v27 / label)
+                                           :C (v28 / label))
+                                   :A (v26 / label
+                                           :R (v29 / label)
+                                           :C (v30 / label)))))
+           :A v5))

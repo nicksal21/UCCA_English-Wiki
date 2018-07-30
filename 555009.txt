@@ -1,0 +1,39 @@
+# ::id 555009
+# ::tok After residing for nearly a year in rooming houses , they were granted a two - bedroom apartment in the public housing complex known as the Courts .
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v5 / label)
+           :P (v6 / label)
+           :D (v7 / label
+                  :R (v11 / label)
+                  :E (v12 / label)
+                  :E (v13 / label)
+                  :C (v14 / label))
+           :A (v8 / label
+                  :R (v15 / label)
+                  :E (v16 / label)
+                  :C (v17 / label)))
+    :H (v4 / label
+           :A v5
+           :P (v9 / label)
+           :A (v10 / label
+                   :E (v18 / label)
+                   :E (v19 / label
+                           :E (v22 / label)
+                           :C (v23 / label))
+                   :C (v20 / label)
+                   :E (v21 / label
+                           :R (v24 / label)
+                           :E (v25 / label)
+                           :E (v26 / label
+                                   :E (v29 / label)
+                                   :C (v30 / label))
+                           :C (v27 / label)
+                           :E (v28 / label
+                                   :A v27
+                                   :P (v31 / label)
+                                   :A (v32 / label
+                                           :R (v33 / label)
+                                           :E (v34 / label)
+                                           :C (v35 / label)))))))

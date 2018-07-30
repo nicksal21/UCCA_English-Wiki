@@ -1,0 +1,30 @@
+# ::id 511010
+# ::tok Bowie 's first studio album in a decade , The Next Day contains 14 songs plus 3 bonus tracks .
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :S (v5 / label)
+           :A (v6 / label
+                  :E (v9 / label
+                         :E (v16 / label
+                                 :C (v26 / label)
+                                 :R (v27 / label))
+                         :C (v17 / label))
+                  :E (v10 / label)
+                  :C (v11 / label)
+                  :E (v12 / label
+                          :R (v18 / label)
+                          :E (v19 / label)
+                          :C (v20 / label))))
+    :H (v3 / label
+           :A v4
+           :S (v7 / label)
+           :A (v8 / label
+                  :C (v13 / label
+                          :E (v21 / label)
+                          :C (v22 / label))
+                  :N (v14 / label)
+                  :C (v15 / label
+                          :E (v23 / label)
+                          :E (v24 / label)
+                          :C (v25 / label)))))

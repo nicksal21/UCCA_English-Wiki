@@ -1,0 +1,47 @@
+# ::id 474026
+# ::tok Johnson led the way to a Game 2 victory with 26 points , but averaged only 7.5 points per game for the remainder of the series , which the Rockets won three games to one .
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :P (v6 / label
+                  :C (v11 / label)
+                  :E (v12 / label
+                          :E (v26 / label)
+                          :C (v27 / label)))
+           :A (v7 / label
+                  :R (v13 / label)
+                  :A (v14 / label
+                          :E (v28 / label)
+                          :C (v29 / label)
+                          :E (v30 / label))
+                  :P (v15 / label)
+                  :A (v16 / label
+                          :R (v31 / label)
+                          :E (v32 / label)
+                          :C (v33 / label))))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v8 / label)
+           :A (v9 / label
+                  :E (v17 / label)
+                  :E (v18 / label)
+                  :C (v19 / label)
+                  :E (v20 / label
+                          :R (v34 / label)
+                          :C (v35 / label)))
+           :A (v10 / label
+                   :R (v21 / label)
+                   :E (v22 / label
+                           :E (v36 / label)
+                           :C (v37 / label)
+                           :R (v38 / label))
+                   :E (v23 / label)
+                   :C (v24 / label)
+                   :E (v25 / label
+                           :A v24
+                           :A (v39 / label
+                                   :E (v42 / label)
+                                   :C (v43 / label))
+                           :P (v40 / label)
+                           :A (v41 / label)))
+           :A v5))
