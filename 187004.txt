@@ -1,0 +1,22 @@
+# ::id 187004
+# ::tok In his freshman year he failed a class that was a core requirement .
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v5 / label)
+           :S (v6 / label
+                  :E (v10 / label)
+                  :C (v11 / label)))
+    :H (v4 / label
+           :A (v7 / label)
+           :P (v8 / label)
+           :A (v9 / label
+                  :E (v12 / label)
+                  :C (v13 / label)
+                  :E (v14 / label
+                          :A v13
+                          :S (v15 / label)
+                          :A (v16 / label
+                                  :E (v17 / label)
+                                  :E (v18 / label)
+                                  :C (v19 / label))))))
