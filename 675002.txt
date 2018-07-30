@@ -1,0 +1,28 @@
+# ::id 675002
+# ::tok When asked if an album will be released by the end of 2011 as well , Cannon said that he was not sure .
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v5 / label)
+           :P (v6 / label)
+           :A (v7 / label
+                  :R (v10 / label)
+                  :A (v11 / label
+                          :E (v18 / label)
+                          :C (v19 / label))
+                  :P (v12 / label)
+                  :D (v13 / label
+                          :R (v20 / label)
+                          :E (v21 / label)
+                          :E (v22 / label
+                                  :C (v24 / label)
+                                  :R (v25 / label))
+                          :C (v23 / label))
+                  :D (v14 / label)))
+    :H (v4 / label
+           :A v5
+           :P (v8 / label)
+           :A (v9 / label
+                  :A (v15 / label)
+                  :D (v16 / label)
+                  :S (v17 / label))))

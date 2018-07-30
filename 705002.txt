@@ -1,0 +1,31 @@
+# ::id 705002
+# ::tok In the late 1970s , Dylan became a born - again Christian and released two albums of Christian gospel music .
+(v1 / label
+    :H (v2 / label
+           :D (v5 / label
+                  :R (v11 / label)
+                  :E (v12 / label)
+                  :E (v13 / label)
+                  :C (v14 / label))
+           :A (v6 / label)
+           :P (v7 / label)
+           :A (v8 / label
+                  :E (v15 / label)
+                  :E (v16 / label
+                          :A v6
+                          :A (v17 / label)
+                          :P (v21 / label)
+                          :D (v22 / label))
+                  :C v17))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v9 / label)
+           :A (v10 / label
+                   :E (v18 / label)
+                   :C (v19 / label)
+                   :E (v20 / label
+                           :R (v23 / label)
+                           :E (v24 / label)
+                           :E (v25 / label)
+                           :C (v26 / label)))
+           :A v6))

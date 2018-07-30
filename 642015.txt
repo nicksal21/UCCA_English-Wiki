@@ -1,0 +1,30 @@
+# ::id 642015
+# ::tok He performed on the evening of his wedding day , and would continue to do so almost daily from then on .
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :P (v6 / label)
+           :D (v7 / label
+                  :R (v14 / label)
+                  :E (v15 / label)
+                  :C (v16 / label))
+           :A (v8 / label
+                  :R (v17 / label)
+                  :A (v18 / label)
+                  :P (v19 / label
+                          :E (v25 / label)
+                          :C (v26 / label))))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v9 / label
+                  :C v6)
+           :D (v10 / label)
+           :A (v11 / label)
+           :D (v12 / label
+                   :E (v20 / label)
+                   :C (v21 / label))
+           :D (v13 / label
+                   :R (v22 / label)
+                   :C (v23 / label)
+                   :E (v24 / label))
+           :A v5))
