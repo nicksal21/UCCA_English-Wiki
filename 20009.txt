@@ -1,0 +1,41 @@
+# ::id 20009
+# ::tok Two weeks before earning his degree , Pitt left the university and moved to Los Angeles , where he took acting lessons and worked odd jobs .
+(v1 / label
+    :L (v2 / label
+           :E (v7 / label)
+           :C (v8 / label)
+           :R (v9 / label))
+    :H (v3 / label
+           :A (v10 / label)
+           :P (v11 / label)
+           :A (v12 / label
+                   :E (v17 / label)
+                   :C (v18 / label)))
+    :H (v4 / label
+           :A v10
+           :P (v13 / label)
+           :A (v14 / label
+                   :E (v19 / label)
+                   :C (v20 / label)))
+    :L (v5 / label)
+    :H (v6 / label
+           :P (v15 / label)
+           :A (v16 / label
+                   :R (v21 / label)
+                   :C (v22 / label)
+                   :E (v23 / label
+                           :R (v24 / label)
+                           :H (v25 / label
+                                   :A (v28 / label)
+                                   :P (v29 / label)
+                                   :A (v30 / label
+                                           :E (v33 / label)
+                                           :C (v34 / label)))
+                           :L (v26 / label)
+                           :H (v27 / label
+                                   :P (v31 / label)
+                                   :A (v32 / label
+                                           :E (v35 / label)
+                                           :C (v36 / label))
+                                   :A v28)))
+           :A v10))
