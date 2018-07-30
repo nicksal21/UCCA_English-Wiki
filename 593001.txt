@@ -1,0 +1,33 @@
+# ::id 593001
+# ::tok He was arrested again in 1999 for brawling with paparazzi outside a restaurant while dining in London with Paradis .
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :D (v5 / label)
+           :D (v6 / label
+                  :R (v8 / label)
+                  :C (v9 / label))
+           :A (v7 / label
+                  :R (v10 / label)
+                  :C (v11 / label
+                          :H (v12 / label
+                                  :A v3
+                                  :P (v15 / label)
+                                  :A (v16 / label
+                                          :R (v21 / label)
+                                          :C (v22 / label))
+                                  :A (v17 / label
+                                          :R (v23 / label)
+                                          :E (v24 / label)
+                                          :C (v25 / label)))
+                          :L (v13 / label)
+                          :H (v14 / label
+                                  :A v3
+                                  :P (v18 / label)
+                                  :A (v19 / label
+                                          :R (v26 / label)
+                                          :C (v27 / label))
+                                  :A (v20 / label
+                                          :R (v28 / label)
+                                          :C (v29 / label)))))))

@@ -1,0 +1,28 @@
+# ::id 599007
+# ::tok McCartney has released an extensive catalogue of songs as a solo artist and has composed classical and electronic music .
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :P (v6 / label)
+           :A (v7 / label
+                  :E (v11 / label)
+                  :E (v12 / label)
+                  :C (v13 / label)
+                  :E (v14 / label
+                          :R (v21 / label)
+                          :C (v22 / label)))
+           :A (v8 / label
+                  :R (v15 / label)
+                  :E (v16 / label)
+                  :E (v17 / label)
+                  :C (v18 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v9 / label)
+           :A (v10 / label
+                   :E (v19 / label
+                           :C (v23 / label)
+                           :N (v24 / label)
+                           :C (v25 / label))
+                   :C (v20 / label))
+           :A v5))

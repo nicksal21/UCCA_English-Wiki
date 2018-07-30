@@ -1,0 +1,31 @@
+# ::id 586000
+# ::tok With the gift of a guitar from his mother when he was 12 , Depp began playing in various garage bands .
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v7 / label)
+           :P (v8 / label)
+           :A (v9 / label
+                  :E (v16 / label)
+                  :C (v17 / label)
+                  :E (v18 / label
+                          :R (v26 / label)
+                          :E (v27 / label)
+                          :C (v28 / label)))
+           :A (v10 / label
+                   :R (v19 / label)
+                   :E (v20 / label)
+                   :C (v21 / label)))
+    :L (v4 / label)
+    :H (v5 / label
+           :A v7
+           :S (v11 / label))
+    :H (v6 / label
+           :A (v12 / label)
+           :D (v13 / label)
+           :P (v14 / label)
+           :A (v15 / label
+                   :R (v22 / label)
+                   :E (v23 / label)
+                   :E (v24 / label)
+                   :C (v25 / label))))

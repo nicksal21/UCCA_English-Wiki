@@ -1,0 +1,36 @@
+# ::id 463010
+# ::tok Jennings left a $ 50m estate , half went to Freed ; most of the rest to his son and daughter .
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :P (v6 / label)
+           :A (v7 / label
+                  :E (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label)))
+    :H (v3 / label
+           :A (v8 / label
+                  :E (v16 / label)
+                  :C v15)
+           :P (v9 / label
+                  :C (v17 / label)
+                  :R (v18 / label))
+           :A (v10 / label))
+    :H (v4 / label
+           :A (v11 / label
+                   :E (v19 / label
+                           :E (v22 / label
+                                   :C (v28 / label)
+                                   :R (v29 / label))
+                           :E (v23 / label)
+                           :C (v24 / label))
+                   :C v15)
+           :A (v12 / label
+                   :R (v20 / label)
+                   :C (v21 / label
+                           :C (v25 / label
+                                   :E (v30 / label)
+                                   :C (v31 / label))
+                           :N (v26 / label)
+                           :C (v27 / label)))
+           :P v9))

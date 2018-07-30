@@ -1,0 +1,21 @@
+# ::id 550002
+# ::tok Warner was thrown from the car , which burst into flames upon impact .
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :R (v6 / label)
+                  :E (v7 / label)
+                  :C (v8 / label)
+                  :E (v9 / label
+                         :H (v10 / label
+                                 :A v8
+                                 :P (v13 / label)
+                                 :A (v14 / label
+                                         :R (v16 / label)
+                                         :C (v17 / label)))
+                         :L (v11 / label)
+                         :H (v12 / label
+                                 :A v8
+                                 :P (v15 / label))))))

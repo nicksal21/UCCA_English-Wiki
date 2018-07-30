@@ -1,0 +1,17 @@
+# ::id 493002
+# ::tok Throughout his career , he has sold an estimated 140 million albums .
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v5 / label)
+           :P (v6 / label))
+    :H (v4 / label
+           :A (v7 / label)
+           :P (v8 / label)
+           :A (v9 / label
+                  :E (v10 / label
+                          :E (v12 / label)
+                          :E (v13 / label)
+                          :E (v14 / label)
+                          :C (v15 / label))
+                  :C (v11 / label))))

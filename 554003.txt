@@ -1,0 +1,30 @@
+# ::id 554003
+# ::tok Nominated for 14 competitive Grammys , he won three , and received the Grammy Lifetime Achievement Award at age 36 .
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label)
+           :P (v7 / label)
+           :A (v8 / label
+                  :R (v14 / label)
+                  :E (v15 / label)
+                  :E (v16 / label)
+                  :C (v17 / label)))
+    :H (v3 / label
+           :A v6
+           :P (v9 / label)
+           :A (v10 / label
+                   :E (v18 / label)
+                   :C v17))
+    :L (v4 / label)
+    :H (v5 / label
+           :P (v11 / label)
+           :A (v12 / label
+                   :E (v19 / label)
+                   :E (v20 / label)
+                   :E (v21 / label)
+                   :C (v22 / label))
+           :D (v13 / label
+                   :R (v23 / label)
+                   :E (v24 / label)
+                   :C (v25 / label))
+           :A v6))
