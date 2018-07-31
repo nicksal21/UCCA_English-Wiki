@@ -1,16 +1,17 @@
 # ::id 564015
 # ::tok " In fact , Presley was shown head - to - toe in the first and second shows .
+# ::alignments 1-1.1 2-1.1 4-1.2.1 6-1.2.3 7-1.2.4 9-1.2.4 11-1.2.4 12-1.2.5.1 13-1.2.5.2 14-1.2.5.3.1 15-1.2.5.3.2 16-1.2.5.3.3 17-1.2.5.4
 (v1 / label
-    :G (v2 / label)
+    :G (v2 / label~e.1,2)
     :H (v3 / label
-           :A (v4 / label)
-           :P (v5 / label)
-           :D (v6 / label)
+           :A (v4 / label~e.4)
+           :P (v5 / label~e.6)
+           :D (v6 / label~e.7,9,11)
            :A (v7 / label
-                  :R (v8 / label)
-                  :E (v9 / label)
+                  :R (v8 / label~e.12)
+                  :E (v9 / label~e.13)
                   :E (v10 / label
-                          :C (v12 / label)
-                          :N (v13 / label)
-                          :C (v14 / label))
-                  :C (v11 / label))))
+                          :C (v12 / label~e.14)
+                          :N (v13 / label~e.15)
+                          :C (v14 / label~e.16))
+                  :C (v11 / label~e.17))))

@@ -1,59 +1,60 @@
 # ::id 511008
 # ::tok In late March 2011 , Toy , Bowie 's previously unreleased album from 2001 , was leaked onto the internet , containing material used for Heathen and most of its single B - sides , as well as unheard new versions of his early back catalogue .
+# ::alignments 0-1.1.1.1 1-1.1.1.2.1 2-1.1.1.2.2 3-1.1.1.3 5-1.1.2.1 7-1.1.2.2.1.1.1 8-1.1.2.2.1.1.2 9-1.1.2.2.2 10-1.1.2.2.3 11-1.2.3 12-1.1.2.2.4.1 13-1.1.2.2.4.2 16-1.1.4 17-1.1.5.1 18-1.1.5.2 19-1.1.5.3 21-1.2.1 22-1.2.2.1.1 23-1.2.2.1.2 24-1.2.2.1.3.1 25-1.2.2.1.3.2.1 26-1.2.2.1.3.2.2 27-1.2.2.1.3.2.3.1 28-1.2.2.1.3.2.3.2 29-1.2.2.1.3.2.3.3 30-1.2.2.1.3.2.3.4.1 31-1.2.2.1.3.2.3.4.2 33-1.2.2.1.3.2.3.5 35-1.2.2.2 36-1.2.2.2 37-1.2.2.2 38-1.2.2.3.1 39-1.2.2.3.2 40-1.2.2.3.3 41-1.2.2.3.4.1 42-1.2.2.3.4.2 43-1.2.2.3.4.3 44-1.2.2.3.4.4 45-1.2.2.3.4.5
 (v1 / label
     :H (v2 / label
            :D (v4 / label
-                  :R (v11 / label)
+                  :R (v11 / label~e.0)
                   :E (v12 / label
-                          :E (v22 / label)
-                          :C (v23 / label))
-                  :C (v13 / label))
+                          :E (v22 / label~e.1)
+                          :C (v23 / label~e.2))
+                  :C (v13 / label~e.3))
            :A (v5 / label
-                  :C (v14 / label)
+                  :C (v14 / label~e.5)
                   :E (v15 / label
                           :A (v24 / label
                                   :E (v35 / label
-                                          :C (v45 / label)
-                                          :R (v46 / label))
-                                  :C (v10 / label))
-                          :D (v25 / label)
-                          :P (v26 / label)
+                                          :C (v45 / label~e.7)
+                                          :R (v46 / label~e.8))
+                                  :C (v10 / label~e.11))
+                          :D (v25 / label~e.9)
+                          :P (v26 / label~e.10)
                           :D (v27 / label
-                                  :R (v36 / label)
-                                  :C (v37 / label))))
-           :P (v6 / label)
+                                  :R (v36 / label~e.12)
+                                  :C (v37 / label~e.13))))
+           :P (v6 / label~e.16)
            :A (v7 / label
-                  :R (v16 / label)
-                  :E (v17 / label)
-                  :C (v18 / label)))
+                  :R (v16 / label~e.17)
+                  :E (v17 / label~e.18)
+                  :C (v18 / label~e.19)))
     :H (v3 / label
-           :P (v8 / label)
+           :P (v8 / label~e.21)
            :A (v9 / label
                   :C (v19 / label
-                          :A (v28 / label)
-                          :P (v29 / label)
+                          :A (v28 / label~e.22)
+                          :P (v29 / label~e.23)
                           :A (v30 / label
-                                  :R (v38 / label)
+                                  :R (v38 / label~e.24)
                                   :C (v39 / label
-                                          :C (v47 / label)
-                                          :N (v48 / label)
+                                          :C (v47 / label~e.25)
+                                          :N (v48 / label~e.26)
                                           :C (v49 / label
-                                                  :E (v50 / label)
-                                                  :R (v51 / label)
-                                                  :R (v52 / label)
+                                                  :E (v50 / label~e.27)
+                                                  :R (v51 / label~e.28)
+                                                  :R (v52 / label~e.29)
                                                   :E (v53 / label
-                                                          :C (v55 / label)
-                                                          :E (v56 / label))
-                                                  :C (v54 / label)))))
-                  :N (v20 / label)
+                                                          :C (v55 / label~e.30)
+                                                          :E (v56 / label~e.31))
+                                                  :C (v54 / label~e.33)))))
+                  :N (v20 / label~e.35,36,37)
                   :C (v21 / label
-                          :E (v31 / label)
-                          :E (v32 / label)
-                          :C (v33 / label)
+                          :E (v31 / label~e.38)
+                          :E (v32 / label~e.39)
+                          :C (v33 / label~e.40)
                           :E (v34 / label
-                                  :R (v40 / label)
-                                  :E (v41 / label)
-                                  :E (v42 / label)
-                                  :E (v43 / label)
-                                  :C (v44 / label))))
+                                  :R (v40 / label~e.41)
+                                  :E (v41 / label~e.42)
+                                  :E (v42 / label~e.43)
+                                  :E (v43 / label~e.44)
+                                  :C (v44 / label~e.45))))
            :A v10))

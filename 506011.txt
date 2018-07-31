@@ -1,35 +1,36 @@
 # ::id 506011
 # ::tok Critics maligned the tour as overproduced , saying it pandered to the current stadium rock trends in its special effects and dancing .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.4.1 5-1.1.4.2 7-1.2.1 8-1.2.2.1 9-1.2.2.2 10-1.2.2.3.1 11-1.2.2.3.2 12-1.2.2.3.3 13-1.2.2.3.4.1 14-1.2.2.3.4.2 15-1.2.2.3.5 16-1.2.2.4.1 17-1.2.2.4.2 18-1.2.2.4.3.1.1 19-1.2.2.4.3.1.2 20-1.2.2.4.3.2 21-1.2.2.4.3.3
 (v1 / label
     :H (v2 / label
-           :A (v4 / label)
-           :P (v5 / label)
+           :A (v4 / label~e.0)
+           :P (v5 / label~e.1)
            :A (v6 / label
-                  :E (v10 / label)
-                  :C (v11 / label))
+                  :E (v10 / label~e.2)
+                  :C (v11 / label~e.3))
            :A (v7 / label
-                  :R (v12 / label)
-                  :C (v13 / label)))
+                  :R (v12 / label~e.4)
+                  :C (v13 / label~e.5)))
     :H (v3 / label
-           :P (v8 / label)
+           :P (v8 / label~e.7)
            :A (v9 / label
-                  :A (v14 / label)
-                  :P (v15 / label)
+                  :A (v14 / label~e.8)
+                  :P (v15 / label~e.9)
                   :A (v16 / label
-                          :R (v18 / label)
-                          :E (v19 / label)
-                          :E (v20 / label)
+                          :R (v18 / label~e.10)
+                          :E (v19 / label~e.11)
+                          :E (v20 / label~e.12)
                           :E (v21 / label
-                                  :E (v26 / label)
-                                  :C (v27 / label))
-                          :C (v22 / label))
+                                  :E (v26 / label~e.13)
+                                  :C (v27 / label~e.14))
+                          :C (v22 / label~e.15))
                   :A (v17 / label
-                          :R (v23 / label)
-                          :E (v24 / label)
+                          :R (v23 / label~e.16)
+                          :E (v24 / label~e.17)
                           :C (v25 / label
                                   :C (v28 / label
-                                          :E (v31 / label)
-                                          :C (v32 / label))
-                                  :N (v29 / label)
-                                  :C (v30 / label))))
+                                          :E (v31 / label~e.18)
+                                          :C (v32 / label~e.19))
+                                  :N (v29 / label~e.20)
+                                  :C (v30 / label~e.21))))
            :A v4))
