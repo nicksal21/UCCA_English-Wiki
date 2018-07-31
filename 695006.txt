@@ -1,52 +1,53 @@
 # ::id 695006
 # ::tok The first single , " Subterranean Homesick Blues " , owed much to Chuck Berry 's " Too Much Monkey Business " ; its free association lyrics have been described as both harkening back to the manic energy of Beat poetry and as a forerunner of rap and hip - hop .
+# ::alignments 0-1.1.1.2 1-1.1.1.3 2-1.1.1.4 5-1.1.1.5 6-1.1.1.5 7-1.1.1.5 10-1.1.2 11-1.1.3 12-1.1.4.1 13-1.1.4.2.1 14-1.1.4.2.1 15-1.1.4.2.2 17-1.1.4.3 18-1.1.4.3 19-1.1.4.3 20-1.1.4.3 23-1.2.1.1 24-1.2.1.2.1 25-1.2.1.2.2 26-1.2.1.3 29-1.2.4 30-1.2.5.1 31-1.2.5.2.1 32-1.2.5.2.2.1 33-1.2.5.2.2.1 34-1.2.5.2.2.2.1 35-1.2.5.2.2.2.2 36-1.2.5.2.2.2.3 37-1.2.5.2.2.2.4 38-1.2.5.2.2.2.5.1 39-1.2.5.2.2.2.5.2 40-1.2.5.2.2.2.5.3 41-1.2.5.2.3 42-1.2.5.2.4.1 43-1.2.5.2.4.2 44-1.2.5.2.4.3 45-1.2.5.2.4.4.1 46-1.2.5.2.4.4.2.1 47-1.2.5.2.4.4.2.2 48-1.2.5.2.4.4.2.3 50-1.2.5.2.4.4.2.3
 (v1 / label
     :H (v2 / label
            :A (v4 / label
-                  :E (v11 / label)
-                  :E (v12 / label)
-                  :C (v13 / label)
-                  :E (v14 / label))
-           :P (v5 / label)
-           :D (v6 / label)
+                  :E (v11 / label~e.0)
+                  :E (v12 / label~e.1)
+                  :C (v13 / label~e.2)
+                  :E (v14 / label~e.5,6,7))
+           :P (v5 / label~e.10)
+           :D (v6 / label~e.11)
            :A (v7 / label
-                  :R (v15 / label)
+                  :R (v15 / label~e.12)
                   :E (v16 / label
-                          :C (v23 / label)
-                          :R (v24 / label))
-                  :C (v17 / label)))
+                          :C (v23 / label~e.13,14)
+                          :R (v24 / label~e.15))
+                  :C (v17 / label~e.17,18,19,20)))
     :H (v3 / label
            :A (v8 / label
-                  :E (v18 / label)
+                  :E (v18 / label~e.23)
                   :E (v19 / label
-                          :E (v25 / label)
-                          :C (v26 / label))
-                  :C (v20 / label))
-           :P (v9 / label)
+                          :E (v25 / label~e.24)
+                          :C (v26 / label~e.25))
+                  :C (v20 / label~e.26))
+           :P (v9 / label~e.29)
            :A (v10 / label
-                   :R (v21 / label)
+                   :R (v21 / label~e.30)
                    :C (v22 / label
-                           :N (v27 / label)
+                           :N (v27 / label~e.31)
                            :C (v28 / label
-                                   :P (v31 / label)
+                                   :P (v31 / label~e.32,33)
                                    :A (v32 / label
-                                           :R (v37 / label)
-                                           :E (v38 / label)
-                                           :E (v39 / label)
-                                           :C (v40 / label)
+                                           :R (v37 / label~e.34)
+                                           :E (v38 / label~e.35)
+                                           :E (v39 / label~e.36)
+                                           :C (v40 / label~e.37)
                                            :E (v41 / label
-                                                   :R (v44 / label)
-                                                   :E (v45 / label)
-                                                   :C (v46 / label)))
+                                                   :R (v44 / label~e.38)
+                                                   :E (v45 / label~e.39)
+                                                   :C (v46 / label~e.40)))
                                    :A v20)
-                           :N (v29 / label)
+                           :N (v29 / label~e.41)
                            :C (v30 / label
-                                   :R (v33 / label)
-                                   :E (v34 / label)
-                                   :C (v35 / label)
+                                   :R (v33 / label~e.42)
+                                   :E (v34 / label~e.43)
+                                   :C (v35 / label~e.44)
                                    :E (v36 / label
-                                           :R (v42 / label)
+                                           :R (v42 / label~e.45)
                                            :C (v43 / label
-                                                   :C (v47 / label)
-                                                   :N (v48 / label)
-                                                   :C (v49 / label))))))))
+                                                   :C (v47 / label~e.46)
+                                                   :N (v48 / label~e.47)
+                                                   :C (v49 / label~e.48,50))))))))
