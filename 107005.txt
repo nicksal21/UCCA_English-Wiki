@@ -1,79 +1,80 @@
 # ::id 107005
 # ::tok Vanessa Vance from Reel.com noted , " Angelina Jolie gained wide recognition for her role as the titular Gia , and it 's easy to see why . Jolie is fierce in her portrayal â filling the part with nerve , charm , and desperation â and her role in this film is quite possibly the most beautiful train wreck ever filmed .
+# ::alignments 0-1.1.1.1 1-1.1.1.1 2-1.1.1.2.1 3-1.1.1.2.2 4-1.1.2 7-1.1.3.1.1 8-1.1.3.1.1 9-1.1.3.1.2 10-1.1.3.1.3.1 11-1.1.3.1.3.2 12-1.1.3.1.4.1 13-1.1.3.1.4.2 14-1.1.3.1.4.3 15-1.1.3.1.4.4.1 16-1.1.3.1.4.4.2 17-1.1.3.1.4.4.3 18-1.1.3.1.4.4.4 20-1.1.3.2 21-1.1.3.3.1 23-1.1.3.3.2.1 25-1.1.3.3.2.2 26-1.1.3.3.5 28-1.1.3.4.1 30-1.1.3.4.3 31-1.1.3.4.4.1 32-1.1.3.4.4.2.1 33-1.1.3.4.4.2.2 35-1.1.3.5.1 36-1.1.3.5.2.1 37-1.1.3.5.2.2 38-1.1.3.5.3.1 39-1.1.3.5.3.2.1 41-1.1.3.5.3.2.2 43-1.1.3.5.3.2.3 44-1.1.3.5.3.2.4 46-1.1.3.6 47-1.1.3.7.1.1 48-1.1.3.7.1.2 49-1.1.3.7.1.3.1 50-1.1.3.7.1.3.2 51-1.1.3.7.1.3.3 52-1.1.3.7.2 53-1.1.3.7.3.1 54-1.1.3.7.3.2 55-1.1.3.7.4.1.1 56-1.1.3.7.4.1.2 57-1.1.3.7.4.1.3 58-1.1.3.7.4.2.1 59-1.1.3.7.4.2.2 60-1.1.3.7.4.3.2 61-1.1.3.7.4.3.3
 (v1 / label
     :H (v2 / label
            :A (v3 / label
-                  :C (v6 / label)
+                  :C (v6 / label~e.0,1)
                   :E (v7 / label
-                         :R (v15 / label)
-                         :C (v16 / label)))
-           :P (v4 / label)
+                         :R (v15 / label~e.2)
+                         :C (v16 / label~e.3)))
+           :P (v4 / label~e.4)
            :A (v5 / label
                   :H (v8 / label
-                         :A (v17 / label)
-                         :P (v18 / label)
+                         :A (v17 / label~e.7,8)
+                         :P (v18 / label~e.9)
                          :A (v19 / label
-                                 :E (v34 / label)
-                                 :C (v35 / label))
+                                 :E (v34 / label~e.10)
+                                 :C (v35 / label~e.11))
                          :A (v20 / label
-                                 :R (v36 / label)
-                                 :A (v37 / label)
-                                 :P (v38 / label)
+                                 :R (v36 / label~e.12)
+                                 :A (v37 / label~e.13)
+                                 :P (v38 / label~e.14)
                                  :A (v39 / label
-                                         :R (v56 / label)
-                                         :E (v57 / label)
-                                         :E (v58 / label)
-                                         :C (v59 / label))))
-                  :L (v9 / label)
+                                         :R (v56 / label~e.15)
+                                         :E (v57 / label~e.16)
+                                         :E (v58 / label~e.17)
+                                         :C (v59 / label~e.18))))
+                  :L (v9 / label~e.20)
                   :H (v10 / label
-                          :A (v21 / label)
+                          :A (v21 / label~e.21)
                           :S (v22 / label
-                                  :E (v40 / label)
-                                  :C (v41 / label))
-                          :A (v23 / label))
+                                  :E (v40 / label~e.23)
+                                  :C (v41 / label~e.25))
+                          :A (v23 / label~e.26))
                   :H (v11 / label
-                          :A (v24 / label)
-                          :S (v25 / label)
+                          :A (v24 / label~e.28)
+                          :S (v25 / label~e.30)
                           :A (v26 / label
-                                  :R (v42 / label)
+                                  :R (v42 / label~e.31)
                                   :C (v43 / label
-                                          :A (v60 / label)
-                                          :P (v61 / label))))
+                                          :A (v60 / label~e.32)
+                                          :P (v61 / label~e.33))))
                   :H (v12 / label
-                          :P (v27 / label)
+                          :P (v27 / label~e.35)
                           :A (v28 / label
-                                  :E (v44 / label)
-                                  :C (v45 / label))
+                                  :E (v44 / label~e.36)
+                                  :C (v45 / label~e.37))
                           :A (v29 / label
-                                  :R (v46 / label)
+                                  :R (v46 / label~e.38)
                                   :C (v47 / label
-                                          :C (v62 / label)
-                                          :C (v63 / label)
-                                          :N (v64 / label)
-                                          :C (v65 / label)))
+                                          :C (v62 / label~e.39)
+                                          :C (v63 / label~e.41)
+                                          :N (v64 / label~e.43)
+                                          :C (v65 / label~e.44)))
                           :A v24)
-                  :L (v13 / label)
+                  :L (v13 / label~e.46)
                   :H (v14 / label
                           :A (v30 / label
-                                  :A (v48 / label)
-                                  :P (v49 / label)
+                                  :A (v48 / label~e.47)
+                                  :P (v49 / label~e.48)
                                   :A (v50 / label
-                                          :R (v66 / label)
-                                          :E (v67 / label)
-                                          :C (v68 / label)))
-                          :S (v31 / label)
+                                          :R (v66 / label~e.49)
+                                          :E (v67 / label~e.50)
+                                          :C (v68 / label~e.51)))
+                          :S (v31 / label~e.52)
                           :D (v32 / label
-                                  :E (v51 / label)
-                                  :C (v52 / label))
+                                  :E (v51 / label~e.53)
+                                  :C (v52 / label~e.54))
                           :A (v33 / label
                                   :E (v53 / label
-                                          :E (v69 / label)
-                                          :E (v70 / label)
-                                          :C (v71 / label))
+                                          :E (v69 / label~e.55)
+                                          :E (v70 / label~e.56)
+                                          :C (v71 / label~e.57))
                                   :C (v54 / label
-                                          :A (v72 / label)
-                                          :P (v73 / label))
+                                          :A (v72 / label~e.58)
+                                          :P (v73 / label~e.59))
                                   :E (v55 / label
                                           :A v54
-                                          :D (v74 / label)
-                                          :P (v75 / label)))))))
+                                          :D (v74 / label~e.60)
+                                          :P (v75 / label~e.61)))))))
