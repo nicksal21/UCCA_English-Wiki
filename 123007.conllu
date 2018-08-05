@@ -1,0 +1,16 @@
+# sent_id = 123007
+# text = In 1924 , Hepburn gained a place at Bryn Mawr College .
+# doc_id = 
+1	In	in	ADP	IN	_	2	E	2:E	_
+2	1924	1924	NUM	CD	_	0	root	0:root	_
+3	,	,	PUNCT	,	_	7	punct	7:punct	_
+4	Hepburn	hepburn	PROPN	NNP	_	7	A	7:A	_
+5	gained	gain	VERB	VBD	_	7	D	7:D	_
+6	a	a	DET	DT	_	7	E	7:E	_
+7	place	place	NOUN	NN	_	2	orphan	2:orphan	_
+8	at	at	ADP	IN	_	9	R	9:R	_
+9	Bryn	bryn	PROPN	NNP	_	2	orphan	2:orphan	_
+10	Mawr	mawr	PROPN	NNP	_	9	flat	9:flat	_
+11	College	college	PROPN	NNP	_	9	flat	9:flat	_
+12	.	.	PUNCT	.	_	9	punct	9:punct	_
+

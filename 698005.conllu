@@ -1,0 +1,33 @@
+# sent_id = 698005
+# text = Some of Dylan 's friends ( including Ramblin ' Jack Elliott ) claim that , in conversation immediately after the event , Dylan denied that he was married .
+# doc_id = 
+1	Some	some	DET	DT	_	5	E	5:E	_
+2	of	of	ADP	IN	_	5	R	5:R	_
+3	Dylan	dylan	PROPN	NNP	_	5	E	5:E	_
+4	's	's	PART	POS	_	5	R	5:R	_
+5	friends	friend	NOUN	NNS	_	0	root	0:root	_
+6	(	(	PUNCT	-LRB-	_	5	punct	5:punct	_
+7	including	include	VERB	VBG	_	8	R	8:R	_
+8	Ramblin	ramblin	PROPN	NNP	_	5	orphan	5:orphan	_
+9	'	'	PART	POS	_	8	punct	8:punct	_
+10	Jack	jack	PROPN	NNP	_	8	flat	8:flat	_
+11	Elliott	elliott	PROPN	NNP	_	8	flat	8:flat	_
+12	)	)	PUNCT	-RRB-	_	13	punct	13:punct	_
+13	claim	claim	NOUN	NN	_	5	orphan	5:orphan	_
+14	that	that	ADP	IN	_	24	F	24:F	_
+15	,	,	PUNCT	,	_	13	punct	13:punct	_
+16	in	in	ADP	IN	_	13	L	13:L	_
+17	conversation	conversation	NOUN	NN	_	5	orphan	5:orphan	_
+18	immediately	immediately	ADV	RB	_	13	L	13:L	_
+19	after	after	ADP	IN	_	18	flat	18:flat	_
+20	the	the	DET	DT	_	21	E	21:E	_
+21	event	event	NOUN	NN	_	5	orphan	5:orphan	_
+22	,	,	PUNCT	,	_	13	punct	13:punct	_
+23	Dylan	dylan	PROPN	NNP	_	24	A	24:A	_
+24	denied	deny	VERB	VBD	_	5	orphan	5:orphan	_
+25	that	that	ADP	IN	_	28	F	28:F	_
+26	he	-PRON-	PRON	PRP	_	28	A	28:A	_
+27	was	be	VERB	VBD	_	28	F	28:F	_
+28	married	marry	VERB	VBN	_	5	orphan	5:orphan	_
+29	.	.	PUNCT	.	_	28	punct	28:punct	_
+

@@ -1,0 +1,23 @@
+# sent_id = 528003
+# text = " On January 5 , 1953 , Ethel Gumm was found dead in the Douglas Aircraft parking lot .
+# doc_id = 
+1	"	"	PUNCT	``	_	12	punct	12:punct	_
+2	On	on	ADP	IN	_	3	R	3:R	_
+3	January	january	PROPN	NNP	_	0	root	0:root	_
+4	5	5	NUM	CD	_	3	flat	3:flat	_
+5	,	,	PUNCT	,	_	3	punct	3:punct	_
+6	1953	1953	NUM	CD	_	3	flat	3:flat	_
+7	,	,	PUNCT	,	_	12	punct	12:punct	_
+8	Ethel	ethel	PROPN	NNP	_	12	A	12:A	_
+9	Gumm	gumm	PROPN	NNP	_	8	flat	8:flat	_
+10	was	be	VERB	VBD	_	12	F	12:F	_
+11	found	find	VERB	VBN	_	12	D	12:D	_
+12	dead	dead	ADJ	JJ	_	3	orphan	3:orphan	_
+13	in	in	ADP	IN	_	18	R	18:R	_
+14	the	the	DET	DT	_	18	E	18:E	_
+15	Douglas	douglas	PROPN	NNP	_	16	E	16:E	_
+16	Aircraft	aircraft	PROPN	NNP	_	3	orphan	3:orphan	_
+17	parking	parking	NOUN	NN	_	18	E	18:E	_
+18	lot	lot	NOUN	NN	_	3	orphan	3:orphan	_
+19	.	.	PUNCT	.	_	18	punct	18:punct	_
+

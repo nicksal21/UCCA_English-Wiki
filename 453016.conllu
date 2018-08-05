@@ -1,0 +1,20 @@
+# sent_id = 453016
+# text = In 1982 , Jennings ' and Marton 's second child , Christopher , was born .
+# doc_id = 
+1	In	in	ADP	IN	_	2	R	2:R	_
+2	1982	1982	NUM	CD	_	0	root	0:root	_
+3	,	,	PUNCT	,	_	15	punct	15:punct	_
+4	Jennings	jennings	PROPN	NNP	_	2	orphan	2:orphan	_
+5	'	'	PART	POS	_	4	punct	4:punct	_
+6	and	and	CCONJ	CC	_	4	N	4:N	_
+7	Marton	marton	PROPN	NNP	_	2	orphan	2:orphan	_
+8	's	's	PART	POS	_	7	R	7:R	_
+9	second	second	ADJ	JJ	_	10	E	10:E	_
+10	child	child	NOUN	NN	_	2	orphan	2:orphan	_
+11	,	,	PUNCT	,	_	12	punct	12:punct	_
+12	Christopher	christopher	PROPN	NNP	_	2	orphan	2:orphan	_
+13	,	,	PUNCT	,	_	15	punct	15:punct	_
+14	was	be	VERB	VBD	_	15	F	15:F	_
+15	born	bear	VERB	VBN	_	2	orphan	2:orphan	_
+16	.	.	PUNCT	.	_	15	punct	15:punct	_
+

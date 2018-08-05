@@ -1,0 +1,28 @@
+# sent_id = 1028018
+# text = In 1989 , his annual earnings from album sales , endorsements , and concerts was estimated at $125 million for that year alone .
+# doc_id = 
+1	In	in	ADP	IN	_	2	R	2:R	_
+2	1989	1989	NUM	CD	_	0	root	0:root	_
+3	,	,	PUNCT	,	_	16	punct	16:punct	_
+4	his	-PRON-	ADJ	PRP$	_	6	E	6:E	_
+5	annual	annual	ADJ	JJ	_	6	E	6:E	_
+6	earnings	earning	NOUN	NNS	_	2	orphan	2:orphan	_
+7	from	from	ADP	IN	_	6	R	6:R	_
+8	album	album	NOUN	NN	_	9	E	9:E	_
+9	sales	sale	NOUN	NNS	_	2	orphan	2:orphan	_
+10	,	,	PUNCT	,	_	9	punct	9:punct	_
+11	endorsements	endorsement	NOUN	NNS	_	9	C	9:C	_
+12	,	,	PUNCT	,	_	9	punct	9:punct	_
+13	and	and	CCONJ	CC	_	9	N	9:N	_
+14	concerts	concert	NOUN	NNS	_	9	C	9:C	_
+15	was	be	VERB	VBD	_	16	F	16:F	_
+16	estimated	estimate	VERB	VBN	_	2	orphan	2:orphan	_
+17	at	at	ADP	IN	_	16	R	16:R	_
+18	$125	$125	PROPN	NNP	_	19	E	19:E	_
+19	million	million	NUM	CD	_	2	orphan	2:orphan	_
+20	for	for	ADP	IN	_	22	R	22:R	_
+21	that	that	DET	DT	_	22	E	22:E	_
+22	year	year	NOUN	NN	_	2	orphan	2:orphan	_
+23	alone	alone	ADV	RB	_	22	E	22:E	_
+24	.	.	PUNCT	.	_	22	punct	22:punct	_
+
