@@ -1,0 +1,16 @@
+# ::id 559006
+# ::tok ... I just did n't know what to make of it .
+# ::alignments 1-1.1.1 2-1.1.2 4-1.1.4 5-1.1.5 6-1.1.6.2 8-1.1.6.4 9-1.1.6.5.1 10-1.1.6.5.2
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.1)
+           :D (v4 / label~e.2)
+           :D (v5 / label~e.4)
+           :P (v6 / label~e.5)
+           :A (v7 / label
+                  :A v3
+                  :A (v8 / label~e.6)
+                  :P (v9 / label~e.8)
+                  :A (v10 / label
+                          :R (v11 / label~e.9)
+                          :C (v12 / label~e.10)))))
