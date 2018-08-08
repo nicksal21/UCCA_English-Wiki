@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 243000
+# text = Ethan Green Hawke ( born November 6 , 1970 ) is an American actor , writer and director .
+# doc_id = 
+1	Ethan	ethan	PROPN	NNP	_	0	root	0:root	_
+2	Green	green	PROPN	NNP	_	1	flat	1:flat	_
+3	Hawke	hawke	PROPN	NNP	_	1	flat	1:flat	_
+4	(	(	PUNCT	-LRB-	_	1	punct	1:punct	_
+5	born	bear	VERB	VBN	_	1	orphan	1:orphan	_
+6	November	november	PROPN	NNP	_	9	E	9:E	_
+7	6	6	NUM	CD	_	9	E	9:E	_
+8	,	,	PUNCT	,	_	9	punct	9:punct	_
+9	1970	1970	NUM	CD	_	1	orphan	1:orphan	_
+10	)	)	PUNCT	-RRB-	_	11	punct	11:punct	_
+11	is	be	VERB	VBZ	_	1	orphan	1:orphan	_
+12	an	an	DET	DT	_	14	E	14:E	_
+13	American	american	ADJ	JJ	_	14	E	14:E	_
+14	actor	actor	NOUN	NN	_	1	orphan	1:orphan	_
+15	,	,	PUNCT	,	_	14	punct	14:punct	_
+16	writer	writer	NOUN	NN	_	14	C	14:C	_
+17	and	and	CCONJ	CC	_	14	N	14:N	_
+18	director	director	NOUN	NN	_	14	C	14:C	_
+19	.	.	PUNCT	.	_	14	punct	14:punct	_
+

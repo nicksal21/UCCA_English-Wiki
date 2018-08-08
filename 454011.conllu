@@ -1,0 +1,42 @@
+# format = ucca
+# sent_id = 454011
+# text = On August 9 , 1983 , ABC announced that Jennings had signed a four - year contract with the network and would become the sole anchor and senior editor for World News Tonight on September 5 .
+# doc_id = 
+1	On	on	ADP	IN	_	2	R	2:R	_
+2	August	august	PROPN	NNP	_	0	root	0:root	_
+3	9	9	NUM	CD	_	2	flat	2:flat	_
+4	,	,	PUNCT	,	_	2	punct	2:punct	_
+5	1983	1983	NUM	CD	_	2	flat	2:flat	_
+6	,	,	PUNCT	,	_	8	punct	8:punct	_
+7	ABC	abc	PROPN	NNP	_	8	A	8:A	_
+8	announced	announce	VERB	VBD	_	2	orphan	2:orphan	_
+9	that	that	ADP	IN	_	12	R	12:R	_
+10	Jennings	jennings	PROPN	NNP	_	12	A	12:A	_
+11	had	have	VERB	VBD	_	12	F	12:F	_
+12	signed	sign	VERB	VBN	_	2	orphan	2:orphan	_
+13	a	a	DET	DT	_	17	E	17:E	_
+14	four	four	NUM	CD	_	16	E	16:E	_
+15	-	-	PUNCT	HYPH	_	16	punct	16:punct	_
+16	year	year	NOUN	NN	_	2	orphan	2:orphan	_
+17	contract	contract	NOUN	NN	_	2	orphan	2:orphan	_
+18	with	with	ADP	IN	_	20	R	20:R	_
+19	the	the	DET	DT	_	20	E	20:E	_
+20	network	network	NOUN	NN	_	2	orphan	2:orphan	_
+21	and	and	CCONJ	CC	_	12	L	12:L	_
+22	would	would	VERB	MD	_	23	F	23:F	_
+23	become	become	VERB	VB	_	2	orphan	2:orphan	_
+24	the	the	DET	DT	_	26	E	26:E	_
+25	sole	sole	ADJ	JJ	_	26	E	26:E	_
+26	anchor	anchor	NOUN	NN	_	2	orphan	2:orphan	_
+27	and	and	CCONJ	CC	_	26	N	26:N	_
+28	senior	senior	ADJ	JJ	_	29	E	29:E	_
+29	editor	editor	NOUN	NN	_	2	orphan	2:orphan	_
+30	for	for	ADP	IN	_	31	R	31:R	_
+31	World	world	PROPN	NNP	_	2	orphan	2:orphan	_
+32	News	news	PROPN	NNP	_	31	flat	31:flat	_
+33	Tonight	tonight	PROPN	NNP	_	31	flat	31:flat	_
+34	on	on	ADP	IN	_	35	R	35:R	_
+35	September	september	PROPN	NNP	_	2	orphan	2:orphan	_
+36	5	5	NUM	CD	_	35	flat	35:flat	_
+37	.	.	PUNCT	.	_	35	punct	35:punct	_
+

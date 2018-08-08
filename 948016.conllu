@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 948016
+# text = On May 26 , 2006 , their son , Kingston James McGregor Rossdale , was born via Caesarean section at the Cedars - Sinai Medical Center in Los Angeles .
+# doc_id = 
+1	On	on	ADP	IN	_	2	R	2:R	_
+2	May	may	PROPN	NNP	_	0	root	0:root	_
+3	26	26	NUM	CD	_	2	flat	2:flat	_
+4	,	,	PUNCT	,	_	2	punct	2:punct	_
+5	2006	2006	NUM	CD	_	2	flat	2:flat	_
+6	,	,	PUNCT	,	_	16	punct	16:punct	_
+7	their	-PRON-	ADJ	PRP$	_	8	E	8:E	_
+8	son	son	NOUN	NN	_	2	orphan	2:orphan	_
+9	,	,	PUNCT	,	_	16	punct	16:punct	_
+10	Kingston	kingston	PROPN	NNP	_	2	orphan	2:orphan	_
+11	James	james	PROPN	NNP	_	10	flat	10:flat	_
+12	McGregor	mcgregor	PROPN	NNP	_	10	flat	10:flat	_
+13	Rossdale	rossdale	PROPN	NNP	_	10	flat	10:flat	_
+14	,	,	PUNCT	,	_	16	punct	16:punct	_
+15	was	be	VERB	VBD	_	16	F	16:F	_
+16	born	bear	VERB	VBN	_	2	orphan	2:orphan	_
+17	via	via	ADP	IN	_	16	L	16:L	_
+18	Caesarean	caesarean	ADJ	JJ	_	19	E	19:E	_
+19	section	section	NOUN	NN	_	2	orphan	2:orphan	_
+20	at	at	ADP	IN	_	26	R	26:R	_
+21	the	the	DET	DT	_	26	E	26:E	_
+22	Cedars	cedars	PROPN	NNP	_	26	E	26:E	_
+23	-	-	PUNCT	HYPH	_	26	punct	26:punct	_
+24	Sinai	sinai	PROPN	NNP	_	22	flat	22:flat	_
+25	Medical	medical	PROPN	NNP	_	26	E	26:E	_
+26	Center	center	PROPN	NNP	_	2	orphan	2:orphan	_
+27	in	in	ADP	IN	_	28	R	28:R	_
+28	Los	los	PROPN	NNP	_	2	orphan	2:orphan	_
+29	Angeles	angeles	PROPN	NNP	_	28	flat	28:flat	_
+30	.	.	PUNCT	.	_	28	punct	28:punct	_
+

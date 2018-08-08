@@ -1,0 +1,52 @@
+# format = ucca
+# sent_id = 650003
+# text = In December 1971 at Ann Arbor , Michigan , 15,000 people attended the " John Sinclair Freedom Rally " , a protest and benefit concert with contributions from Lennon , Stevie Wonder , Bob Seger , Bobby Seale of the Black Panther Party , and others .
+# doc_id = 
+1	In	in	ADP	IN	_	3	R	3:R	_
+2	December	december	PROPN	NNP	_	3	E	3:E	_
+3	1971	1971	NUM	CD	_	0	root	0:root	_
+4	at	at	ADP	IN	_	5	R	5:R	_
+5	Ann	ann	PROPN	NNP	_	3	orphan	3:orphan	_
+6	Arbor	arbor	PROPN	NNP	_	5	flat	5:flat	_
+7	,	,	PUNCT	,	_	5	punct	5:punct	_
+8	Michigan	michigan	PROPN	NNP	_	5	E	5:E	_
+9	,	,	PUNCT	,	_	12	punct	12:punct	_
+10	15,000	15,000	NUM	CD	_	11	E	11:E	_
+11	people	people	NOUN	NNS	_	3	orphan	3:orphan	_
+12	attended	attend	VERB	VBD	_	3	orphan	3:orphan	_
+13	the	the	DET	DT	_	15	E	15:E	_
+14	"	"	PUNCT	``	_	15	punct	15:punct	_
+15	John	john	PROPN	NNP	_	3	orphan	3:orphan	_
+16	Sinclair	sinclair	PROPN	NNP	_	15	flat	15:flat	_
+17	Freedom	freedom	PROPN	NNP	_	15	flat	15:flat	_
+18	Rally	rally	PROPN	NNP	_	15	flat	15:flat	_
+19	"	"	PUNCT	''	_	15	punct	15:punct	_
+20	,	,	PUNCT	,	_	15	punct	15:punct	_
+21	a	a	DET	DT	_	22	E	22:E	_
+22	protest	protest	NOUN	NN	_	3	orphan	3:orphan	_
+23	and	and	CCONJ	CC	_	22	N	22:N	_
+24	benefit	benefit	NOUN	NN	_	25	E	25:E	_
+25	concert	concert	NOUN	NN	_	3	orphan	3:orphan	_
+26	with	with	ADP	IN	_	27	R	27:R	_
+27	contributions	contribution	NOUN	NNS	_	3	orphan	3:orphan	_
+28	from	from	ADP	IN	_	29	R	29:R	_
+29	Lennon	lennon	PROPN	NNP	_	3	orphan	3:orphan	_
+30	,	,	PUNCT	,	_	29	punct	29:punct	_
+31	Stevie	stevie	PROPN	NNP	_	29	C	29:C	_
+32	Wonder	wonder	PROPN	NNP	_	31	flat	31:flat	_
+33	,	,	PUNCT	,	_	29	punct	29:punct	_
+34	Bob	bob	PROPN	NNP	_	29	C	29:C	_
+35	Seger	seger	PROPN	NNP	_	34	flat	34:flat	_
+36	,	,	PUNCT	,	_	29	punct	29:punct	_
+37	Bobby	bobby	PROPN	NNP	_	3	orphan	3:orphan	_
+38	Seale	seale	PROPN	NNP	_	37	flat	37:flat	_
+39	of	of	ADP	IN	_	43	R	43:R	_
+40	the	the	DET	DT	_	43	E	43:E	_
+41	Black	black	PROPN	NNP	_	43	E	43:E	_
+42	Panther	panther	PROPN	NNP	_	41	flat	41:flat	_
+43	Party	party	PROPN	NNP	_	3	orphan	3:orphan	_
+44	,	,	PUNCT	,	_	29	punct	29:punct	_
+45	and	and	CCONJ	CC	_	29	N	29:N	_
+46	others	other	NOUN	NNS	_	29	C	29:C	_
+47	.	.	PUNCT	.	_	29	punct	29:punct	_
+

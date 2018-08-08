@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 509004
+# text = The Earthling Tour took in Europe and North America between June and November 1997 .
+# doc_id = 
+1	The	the	DET	DT	_	3	E	3:E	_
+2	Earthling	earthling	PROPN	NNP	_	3	E	3:E	_
+3	Tour	tour	PROPN	NNP	_	0	root	0:root	_
+4	took	take	VERB	VBD	_	3	orphan	3:orphan	_
+5	in	in	ADP	IN	_	4	E	4:E	_
+6	Europe	europe	PROPN	NNP	_	3	orphan	3:orphan	_
+7	and	and	CCONJ	CC	_	6	N	6:N	_
+8	North	north	PROPN	NNP	_	9	E	9:E	_
+9	America	america	PROPN	NNP	_	3	orphan	3:orphan	_
+10	between	between	ADP	IN	_	11	R	11:R	_
+11	June	june	PROPN	NNP	_	3	orphan	3:orphan	_
+12	and	and	CCONJ	CC	_	11	N	11:N	_
+13	November	november	PROPN	NNP	_	11	C	11:C	_
+14	1997	1997	NUM	CD	_	11	C	11:C	_
+15	.	.	PUNCT	.	_	11	punct	11:punct	_
+

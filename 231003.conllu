@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 231003
+# text = In 2000 , Chan hosted a fictionalised version of himself in the animated series Jackie Chan Adventures , which ran until 2005 .
+# doc_id = 
+1	In	in	ADP	IN	_	2	R	2:R	_
+2	2000	2000	NUM	CD	_	0	root	0:root	_
+3	,	,	PUNCT	,	_	5	punct	5:punct	_
+4	Chan	chan	PROPN	NNP	_	5	A	5:A	_
+5	hosted	host	VERB	VBD	_	2	orphan	2:orphan	_
+6	a	a	DET	DT	_	8	E	8:E	_
+7	fictionalised	fictionalised	ADJ	JJ	_	8	E	8:E	_
+8	version	version	NOUN	NN	_	2	orphan	2:orphan	_
+9	of	of	ADP	IN	_	10	R	10:R	_
+10	himself	-PRON-	PRON	PRP	_	2	orphan	2:orphan	_
+11	in	in	ADP	IN	_	15	R	15:R	_
+12	the	the	DET	DT	_	15	E	15:E	_
+13	animated	animate	VERB	VBN	_	14	E	14:E	_
+14	series	series	NOUN	NN	_	2	orphan	2:orphan	_
+15	Jackie	jackie	PROPN	NNP	_	2	orphan	2:orphan	_
+16	Chan	chan	PROPN	NNP	_	15	flat	15:flat	_
+17	Adventures	adventures	PROPN	NNP	_	15	flat	15:flat	_
+18	,	,	PUNCT	,	_	15	punct	15:punct	_
+19	which	which	ADJ	WDT	_	20	F	20:F	_
+20	ran	run	VERB	VBD	_	2	orphan	2:orphan	_
+21	until	until	ADP	IN	_	22	R	22:R	_
+22	2005	2005	NUM	CD	_	2	orphan	2:orphan	_
+23	.	.	PUNCT	.	_	22	punct	22:punct	_
+
