@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 459006
+# text = On December 31 , 1999 , Jennings was on the air for 23 straight hours to anchor ABC 2000 Today , ABC 's massive millennium eve special .
+# doc_id = 
+1	On	on	ADP	IN	_	2	R	2:R	_
+2	December	december	PROPN	NNP	_	0	root	0:root	_
+3	31	31	NUM	CD	_	2	flat	2:flat	_
+4	,	,	PUNCT	,	_	2	punct	2:punct	_
+5	1999	1999	NUM	CD	_	2	flat	2:flat	_
+6	,	,	PUNCT	,	_	11	punct	11:punct	_
+7	Jennings	jennings	PROPN	NNP	_	11	A	11:A	_
+8	was	be	VERB	VBD	_	11	F	11:F	_
+9	on	on	ADP	IN	_	11	R	11:R	_
+10	the	the	DET	DT	_	11	E	11:E	_
+11	air	air	NOUN	NN	_	2	orphan	2:orphan	_
+12	for	for	ADP	IN	_	15	R	15:R	_
+13	23	23	NUM	CD	_	15	E	15:E	_
+14	straight	straight	ADJ	JJ	_	15	E	15:E	_
+15	hours	hour	NOUN	NNS	_	2	orphan	2:orphan	_
+16	to	to	PART	TO	_	11	L	11:L	_
+17	anchor	anchor	VERB	VB	_	2	orphan	2:orphan	_
+18	ABC	abc	PROPN	NNP	_	2	orphan	2:orphan	_
+19	2000	2000	NUM	CD	_	18	flat	18:flat	_
+20	Today	today	NOUN	NN	_	18	flat	18:flat	_
+21	,	,	PUNCT	,	_	18	punct	18:punct	_
+22	ABC	abc	PROPN	NNP	_	2	orphan	2:orphan	_
+23	's	's	PART	POS	_	22	R	22:R	_
+24	massive	massive	ADJ	JJ	_	27	E	27:E	_
+25	millennium	millennium	NOUN	NN	_	26	E	26:E	_
+26	eve	eve	NOUN	NN	_	2	orphan	2:orphan	_
+27	special	special	ADJ	JJ	_	2	orphan	2:orphan	_
+28	.	.	PUNCT	.	_	27	punct	27:punct	_
+

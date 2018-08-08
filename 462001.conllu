@@ -1,0 +1,39 @@
+# format = ucca
+# sent_id = 462001
+# text = On April 1 , 2005 , he anchored World News Tonight for the last time ; his poor health also prevented him from covering the death and funeral of Pope John Paul II .
+# doc_id = 
+1	On	on	ADP	IN	_	2	R	2:R	_
+2	April	april	PROPN	NNP	_	0	root	0:root	_
+3	1	1	NUM	CD	_	2	flat	2:flat	_
+4	,	,	PUNCT	,	_	2	punct	2:punct	_
+5	2005	2005	NUM	CD	_	2	flat	2:flat	_
+6	,	,	PUNCT	,	_	8	punct	8:punct	_
+7	he	-PRON-	PRON	PRP	_	8	A	8:A	_
+8	anchored	anchor	VERB	VBD	_	2	orphan	2:orphan	_
+9	World	world	PROPN	NNP	_	8	A	8:A	_
+10	News	news	PROPN	NNP	_	9	flat	9:flat	_
+11	Tonight	tonight	PROPN	NNP	_	9	flat	9:flat	_
+12	for	for	ADP	IN	_	15	R	15:R	_
+13	the	the	DET	DT	_	15	E	15:E	_
+14	last	last	ADJ	JJ	_	15	E	15:E	_
+15	time	time	NOUN	NN	_	2	orphan	2:orphan	_
+16	;	;	PUNCT	:	_	8	punct	8:punct	_
+17	his	-PRON-	ADJ	PRP$	_	19	E	19:E	_
+18	poor	poor	ADJ	JJ	_	19	E	19:E	_
+19	health	health	NOUN	NN	_	2	orphan	2:orphan	_
+20	also	also	ADV	RB	_	21	D	21:D	_
+21	prevented	prevent	VERB	VBD	_	2	orphan	2:orphan	_
+22	him	-PRON-	PRON	PRP	_	21	A	21:A	_
+23	from	from	ADP	IN	_	24	R	24:R	_
+24	covering	cover	VERB	VBG	_	2	orphan	2:orphan	_
+25	the	the	DET	DT	_	26	E	26:E	_
+26	death	death	NOUN	NN	_	2	orphan	2:orphan	_
+27	and	and	CCONJ	CC	_	26	N	26:N	_
+28	funeral	funeral	NOUN	NN	_	26	C	26:C	_
+29	of	of	ADP	IN	_	30	R	30:R	_
+30	Pope	pope	PROPN	NNP	_	2	orphan	2:orphan	_
+31	John	john	PROPN	NNP	_	30	flat	30:flat	_
+32	Paul	paul	PROPN	NNP	_	30	flat	30:flat	_
+33	II	ii	PROPN	NNP	_	30	flat	30:flat	_
+34	.	.	PUNCT	.	_	30	punct	30:punct	_
+

@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 637007
+# text = Lennon 's emotional debut solo album , John Lennon / Plastic Ono Band ( 1970 ) , was received with high praise .
+# doc_id = 
+1	Lennon	lennon	PROPN	NNP	_	0	root	0:root	_
+2	's	's	PART	POS	_	1	R	1:R	_
+3	emotional	emotional	ADJ	JJ	_	6	E	6:E	_
+4	debut	debut	NOUN	NN	_	6	E	6:E	_
+5	solo	solo	NOUN	NN	_	6	E	6:E	_
+6	album	album	NOUN	NN	_	1	orphan	1:orphan	_
+7	,	,	PUNCT	,	_	6	punct	6:punct	_
+8	John	john	PROPN	NNP	_	1	orphan	1:orphan	_
+9	Lennon	lennon	PROPN	NNP	_	8	flat	8:flat	_
+10	/	/	SYM	SYM	_	8	punct	8:punct	_
+11	Plastic	plastic	PROPN	NNP	_	8	flat	8:flat	_
+12	Ono	ono	PROPN	NNP	_	8	flat	8:flat	_
+13	Band	band	PROPN	NNP	_	8	flat	8:flat	_
+14	(	(	PUNCT	-LRB-	_	8	punct	8:punct	_
+15	1970	1970	NUM	CD	_	8	D	8:D	_
+16	)	)	PUNCT	-RRB-	_	19	punct	19:punct	_
+17	,	,	PUNCT	,	_	19	punct	19:punct	_
+18	was	be	VERB	VBD	_	19	F	19:F	_
+19	received	receive	VERB	VBN	_	1	orphan	1:orphan	_
+20	with	with	ADP	IN	_	22	R	22:R	_
+21	high	high	ADJ	JJ	_	22	D	22:D	_
+22	praise	praise	NOUN	NN	_	1	orphan	1:orphan	_
+23	.	.	PUNCT	.	_	22	punct	22:punct	_
+

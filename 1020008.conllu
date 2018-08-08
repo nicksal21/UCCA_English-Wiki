@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 1020008
+# text = The Jackson 5 recorded several songs , including " Big Boy " , for the local record label Steeltown in 1967 , before signing with Motown Records in 1968 .
+# doc_id = 
+1	The	the	DET	DT	_	4	A	4:A	_
+2	Jackson	jackson	PROPN	NNP	_	1	flat	1:flat	_
+3	5	5	NUM	CD	_	1	flat	1:flat	_
+4	recorded	record	VERB	VBD	_	0	root	0:root	_
+5	several	several	ADJ	JJ	_	6	E	6:E	_
+6	songs	song	NOUN	NNS	_	4	orphan	4:orphan	_
+7	,	,	PUNCT	,	_	6	punct	6:punct	_
+8	including	include	VERB	VBG	_	10	R	10:R	_
+9	"	"	PUNCT	``	_	10	punct	10:punct	_
+10	Big	big	ADJ	JJ	_	4	orphan	4:orphan	_
+11	Boy	boy	NOUN	NNS	_	10	flat	10:flat	_
+12	"	"	PUNCT	''	_	4	punct	4:punct	_
+13	,	,	PUNCT	,	_	4	punct	4:punct	_
+14	for	for	ADP	IN	_	19	R	19:R	_
+15	the	the	DET	DT	_	19	E	19:E	_
+16	local	local	ADJ	JJ	_	17	E	17:E	_
+17	record	record	NOUN	NN	_	4	orphan	4:orphan	_
+18	label	label	NOUN	NN	_	4	orphan	4:orphan	_
+19	Steeltown	steeltown	PROPN	NNP	_	4	orphan	4:orphan	_
+20	in	in	ADP	IN	_	21	R	21:R	_
+21	1967	1967	NUM	CD	_	4	orphan	4:orphan	_
+22	,	,	PUNCT	,	_	4	punct	4:punct	_
+23	before	before	ADP	IN	_	4	L	4:L	_
+24	signing	sign	VERB	VBG	_	4	orphan	4:orphan	_
+25	with	with	ADP	IN	_	24	R	24:R	_
+26	Motown	motown	PROPN	NNP	_	24	A	24:A	_
+27	Records	records	PROPN	NNPS	_	26	flat	26:flat	_
+28	in	in	ADP	IN	_	29	R	29:R	_
+29	1968	1968	NUM	CD	_	4	orphan	4:orphan	_
+30	.	.	PUNCT	.	_	29	punct	29:punct	_
+

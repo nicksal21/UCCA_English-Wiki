@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 634002
+# text = The band 's first single , " Love Me Do " , was released in October 1962 and reached No . 17 on the British charts .
+# doc_id = 
+1	The	the	DET	DT	_	5	E	5:E	_
+2	band	band	NOUN	NN	_	0	root	0:root	_
+3	's	's	PART	POS	_	2	R	2:R	_
+4	first	first	ADJ	JJ	_	5	E	5:E	_
+5	single	single	ADJ	JJ	_	2	orphan	2:orphan	_
+6	,	,	PUNCT	,	_	5	punct	5:punct	_
+7	"	"	PUNCT	``	_	5	punct	5:punct	_
+8	Love	love	VERB	VB	_	5	E	5:E	_
+9	Me	-PRON-	PRON	PRP	_	8	flat	8:flat	_
+10	Do	do	VERB	VBP	_	8	flat	8:flat	_
+11	"	"	PUNCT	''	_	14	punct	14:punct	_
+12	,	,	PUNCT	,	_	14	punct	14:punct	_
+13	was	be	VERB	VBD	_	14	F	14:F	_
+14	released	release	VERB	VBN	_	2	orphan	2:orphan	_
+15	in	in	ADP	IN	_	17	R	17:R	_
+16	October	october	PROPN	NNP	_	17	E	17:E	_
+17	1962	1962	NUM	CD	_	2	orphan	2:orphan	_
+18	and	and	CCONJ	CC	_	14	L	14:L	_
+19	reached	reach	VERB	VBD	_	2	orphan	2:orphan	_
+20	No	no	NOUN	NN	_	2	orphan	2:orphan	_
+21	.	.	PUNCT	.	_	20	punct	20:punct	_
+22	17	17	NUM	CD	_	20	E	20:E	_
+23	on	on	ADP	IN	_	26	R	26:R	_
+24	the	the	DET	DT	_	26	E	26:E	_
+25	British	british	ADJ	JJ	_	26	E	26:E	_
+26	charts	chart	NOUN	NNS	_	2	orphan	2:orphan	_
+27	.	.	PUNCT	.	_	26	punct	26:punct	_
+
