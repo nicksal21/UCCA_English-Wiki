@@ -169,9 +169,6 @@
       <edge toID="1.4" type="H">
         <attributes />
       </edge>
-      <edge toID="1.5" type="U">
-        <attributes />
-      </edge>
     </node>
     <node ID="1.2" type="FN">
       <attributes />
@@ -190,10 +187,10 @@
       <edge toID="1.17" type="A">
         <attributes />
       </edge>
-      <edge toID="1.18" type="U">
+      <edge toID="1.53" type="U">
         <attributes />
       </edge>
-      <edge toID="1.19" type="U">
+      <edge toID="1.55" type="U">
         <attributes />
       </edge>
     </node>
@@ -215,12 +212,6 @@
         <attributes remote="True" />
       </edge>
     </node>
-    <node ID="1.5" type="PNCT">
-      <attributes />
-      <edge toID="0.38" type="Terminal">
-        <attributes />
-      </edge>
-    </node>
     <node ID="1.6" type="FN">
       <attributes />
       <edge toID="1.10" type="C">
@@ -239,6 +230,9 @@
         <attributes />
       </edge>
       <edge toID="1.9" type="P">
+        <attributes />
+      </edge>
+      <edge toID="1.56" type="U">
         <attributes />
       </edge>
     </node>
@@ -298,7 +292,7 @@
       <edge toID="1.28" type="C">
         <attributes />
       </edge>
-      <edge toID="1.29" type="U">
+      <edge toID="1.54" type="U">
         <attributes />
       </edge>
     </node>
@@ -326,18 +320,6 @@
         <attributes />
       </edge>
       <edge toID="1.22" type="A">
-        <attributes />
-      </edge>
-    </node>
-    <node ID="1.18" type="PNCT">
-      <attributes />
-      <edge toID="0.6" type="Terminal">
-        <attributes />
-      </edge>
-    </node>
-    <node ID="1.19" type="PNCT">
-      <attributes />
-      <edge toID="0.23" type="Terminal">
         <attributes />
       </edge>
     </node>
@@ -413,12 +395,6 @@
         <attributes />
       </edge>
       <edge toID="1.31" type="S">
-        <attributes />
-      </edge>
-    </node>
-    <node ID="1.29" type="PNCT">
-      <attributes />
-      <edge toID="0.16" type="Terminal">
         <attributes />
       </edge>
     </node>
@@ -590,6 +566,30 @@
         <attributes />
       </edge>
       <edge toID="1.4" type="LA">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.53" type="PNCT">
+      <attributes />
+      <edge toID="0.6" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.54" type="PNCT">
+      <attributes />
+      <edge toID="0.16" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.55" type="PNCT">
+      <attributes />
+      <edge toID="0.23" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.56" type="PNCT">
+      <attributes />
+      <edge toID="0.38" type="Terminal">
         <attributes />
       </edge>
     </node>

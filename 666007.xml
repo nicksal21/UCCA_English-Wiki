@@ -123,10 +123,7 @@
       <edge toID="1.6" type="H">
         <attributes />
       </edge>
-      <edge toID="1.7" type="U">
-        <attributes />
-      </edge>
-      <edge toID="1.8" type="U">
+      <edge toID="1.40" type="U">
         <attributes />
       </edge>
     </node>
@@ -141,7 +138,7 @@
       <edge toID="1.23" type="P">
         <attributes />
       </edge>
-      <edge toID="1.24" type="U">
+      <edge toID="1.39" type="U">
         <attributes />
       </edge>
     </node>
@@ -178,18 +175,6 @@
         <attributes />
       </edge>
     </node>
-    <node ID="1.7" type="PNCT">
-      <attributes />
-      <edge toID="0.13" type="Terminal">
-        <attributes />
-      </edge>
-    </node>
-    <node ID="1.8" type="PNCT">
-      <attributes />
-      <edge toID="0.25" type="Terminal">
-        <attributes />
-      </edge>
-    </node>
     <node ID="1.9" type="FN">
       <attributes implicit="True" />
     </node>
@@ -208,6 +193,9 @@
         <attributes />
       </edge>
       <edge toID="1.15" type="C">
+        <attributes />
+      </edge>
+      <edge toID="1.41" type="U">
         <attributes />
       </edge>
     </node>
@@ -310,12 +298,6 @@
         <attributes />
       </edge>
     </node>
-    <node ID="1.24" type="PNCT">
-      <attributes />
-      <edge toID="0.5" type="Terminal">
-        <attributes />
-      </edge>
-    </node>
     <node ID="1.25" type="FN">
       <attributes />
       <edge toID="1.31" type="C">
@@ -415,6 +397,24 @@
         <attributes />
       </edge>
       <edge toID="1.4" type="LA">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.39" type="PNCT">
+      <attributes />
+      <edge toID="0.5" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.40" type="PNCT">
+      <attributes />
+      <edge toID="0.13" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.41" type="PNCT">
+      <attributes />
+      <edge toID="0.25" type="Terminal">
         <attributes />
       </edge>
     </node>

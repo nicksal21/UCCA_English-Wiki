@@ -185,10 +185,7 @@
       <edge toID="1.8" type="H">
         <attributes />
       </edge>
-      <edge toID="1.9" type="U">
-        <attributes />
-      </edge>
-      <edge toID="1.10" type="U">
+      <edge toID="1.57" type="U">
         <attributes />
       </edge>
     </node>
@@ -273,18 +270,6 @@
         <attributes remote="True" />
       </edge>
     </node>
-    <node ID="1.9" type="PNCT">
-      <attributes />
-      <edge toID="0.19" type="Terminal">
-        <attributes />
-      </edge>
-    </node>
-    <node ID="1.10" type="PNCT">
-      <attributes />
-      <edge toID="0.39" type="Terminal">
-        <attributes />
-      </edge>
-    </node>
     <node ID="1.11" type="FN">
       <attributes />
       <edge toID="0.34" type="Terminal">
@@ -303,6 +288,9 @@
         <attributes />
       </edge>
       <edge toID="1.16" type="C">
+        <attributes />
+      </edge>
+      <edge toID="1.58" type="U">
         <attributes />
       </edge>
     </node>
@@ -488,7 +476,7 @@
       <edge toID="1.40" type="C">
         <attributes />
       </edge>
-      <edge toID="1.41" type="U">
+      <edge toID="1.56" type="U">
         <attributes />
       </edge>
     </node>
@@ -513,12 +501,6 @@
         <attributes />
       </edge>
       <edge toID="0.18" type="Terminal">
-        <attributes />
-      </edge>
-    </node>
-    <node ID="1.41" type="PNCT">
-      <attributes />
-      <edge toID="0.16" type="Terminal">
         <attributes />
       </edge>
     </node>
@@ -627,6 +609,24 @@
         <attributes />
       </edge>
       <edge toID="1.4" type="LA">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.56" type="PNCT">
+      <attributes />
+      <edge toID="0.16" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.57" type="PNCT">
+      <attributes />
+      <edge toID="0.19" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.58" type="PNCT">
+      <attributes />
+      <edge toID="0.39" type="Terminal">
         <attributes />
       </edge>
     </node>
