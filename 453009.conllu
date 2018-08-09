@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 453009
+# text = On July 10 , 1978 , World News Tonight debuted with Frank Reynolds in Washington , Max Robinson in Chicago , and Jennings in London .
+# doc_id = 
+1	On	on	ADP	IN	_	2	R	2:R	_
+2	July	july	PROPN	NNP	_	0	root	0:root	_
+3	10	10	NUM	CD	_	2	flat	2:flat	_
+4	,	,	PUNCT	,	_	2	punct	2:punct	_
+5	1978	1978	NUM	CD	_	2	flat	2:flat	_
+6	,	,	PUNCT	,	_	10	punct	10:punct	_
+7	World	world	PROPN	NNP	_	10	A	10:A	_
+8	News	news	PROPN	NNP	_	7	flat	7:flat	_
+9	Tonight	tonight	PROPN	NNP	_	7	flat	7:flat	_
+10	debuted	debut	VERB	VBD	_	2	orphan	2:orphan	_
+11	with	with	ADP	IN	_	12	R	12:R	_
+12	Frank	frank	PROPN	NNP	_	2	orphan	2:orphan	_
+13	Reynolds	reynolds	PROPN	NNP	_	12	flat	12:flat	_
+14	in	in	ADP	IN	_	15	R	15:R	_
+15	Washington	washington	PROPN	NNP	_	2	orphan	2:orphan	_
+16	,	,	PUNCT	,	_	12	punct	12:punct	_
+17	Max	max	PROPN	NNP	_	2	orphan	2:orphan	_
+18	Robinson	robinson	PROPN	NNP	_	17	flat	17:flat	_
+19	in	in	ADP	IN	_	20	R	20:R	_
+20	Chicago	chicago	PROPN	NNP	_	2	orphan	2:orphan	_
+21	,	,	PUNCT	,	_	12	punct	12:punct	_
+22	and	and	CCONJ	CC	_	12	N	12:N	_
+23	Jennings	jennings	PROPN	NNP	_	2	orphan	2:orphan	_
+24	in	in	ADP	IN	_	25	R	25:R	_
+25	London	london	PROPN	NNP	_	2	orphan	2:orphan	_
+26	.	.	PUNCT	.	_	25	punct	25:punct	_
+

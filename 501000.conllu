@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 501000
+# text = Station to Station ( 1976 ) introduced a new Bowie persona , the " Thin White Duke " of its title track .
+# doc_id = 
+1	Station	station	NOUN	NN	_	0	root	0:root	_
+2	to	to	ADP	IN	_	1	flat	1:flat	_
+3	Station	station	PROPN	NNP	_	1	flat	1:flat	_
+4	(	(	PUNCT	-LRB-	_	1	punct	1:punct	_
+5	1976	1976	NUM	CD	_	1	E	1:E	_
+6	)	)	PUNCT	-RRB-	_	7	punct	7:punct	_
+7	introduced	introduce	VERB	VBD	_	1	orphan	1:orphan	_
+8	a	a	DET	DT	_	11	E	11:E	_
+9	new	new	ADJ	JJ	_	11	E	11:E	_
+10	Bowie	bowie	PROPN	NNP	_	11	E	11:E	_
+11	persona	persona	NOUN	NN	_	1	orphan	1:orphan	_
+12	,	,	PUNCT	,	_	11	punct	11:punct	_
+13	the	the	DET	DT	_	15	E	15:E	_
+14	"	"	PUNCT	``	_	15	punct	15:punct	_
+15	Thin	thin	ADJ	JJ	_	1	orphan	1:orphan	_
+16	White	white	PROPN	NNP	_	15	flat	15:flat	_
+17	Duke	duke	PROPN	NNP	_	15	flat	15:flat	_
+18	"	"	PUNCT	''	_	15	punct	15:punct	_
+19	of	of	ADP	IN	_	21	R	21:R	_
+20	its	-PRON-	ADJ	PRP$	_	21	E	21:E	_
+21	title	title	NOUN	NN	_	1	orphan	1:orphan	_
+22	track	track	NOUN	NN	_	21	E	21:E	_
+23	.	.	PUNCT	.	_	21	punct	21:punct	_
+

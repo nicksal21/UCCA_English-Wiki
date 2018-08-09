@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 245009
+# text = Film critic Roger Ebert called Hawke 's performance convincing and noteworthy : " Hawke captures all the right notes as the boorish Troy .
+# doc_id = 
+1	Film	film	NOUN	NN	_	2	E	2:E	_
+2	critic	critic	NOUN	NN	_	0	root	0:root	_
+3	Roger	roger	PROPN	NNP	_	2	E	2:E	_
+4	Ebert	ebert	PROPN	NNP	_	3	flat	3:flat	_
+5	called	call	VERB	VBD	_	2	orphan	2:orphan	_
+6	Hawke	hawke	PROPN	NNP	_	2	orphan	2:orphan	_
+7	's	's	PART	POS	_	6	R	6:R	_
+8	performance	performance	NOUN	NN	_	2	orphan	2:orphan	_
+9	convincing	convincing	ADJ	JJ	_	2	orphan	2:orphan	_
+10	and	and	CCONJ	CC	_	9	N	9:N	_
+11	noteworthy	noteworthy	ADJ	JJ	_	9	C	9:C	_
+12	:	:	PUNCT	:	_	5	punct	5:punct	_
+13	"	"	PUNCT	``	_	5	punct	5:punct	_
+14	Hawke	hawke	PROPN	NNP	_	15	A	15:A	_
+15	captures	capture	VERB	VBZ	_	2	orphan	2:orphan	_
+16	all	all	ADJ	PDT	_	19	E	19:E	_
+17	the	the	DET	DT	_	19	E	19:E	_
+18	right	right	ADJ	JJ	_	19	E	19:E	_
+19	notes	note	NOUN	NNS	_	2	orphan	2:orphan	_
+20	as	as	ADP	IN	_	23	R	23:R	_
+21	the	the	DET	DT	_	23	E	23:E	_
+22	boorish	boorish	ADJ	JJ	_	23	E	23:E	_
+23	Troy	troy	PROPN	NNP	_	2	orphan	2:orphan	_
+24	.	.	PUNCT	.	_	23	punct	23:punct	_
+

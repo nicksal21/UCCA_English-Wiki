@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 203004
+# text = A consistent supporter of the Democratic Party , Sorkin has made substantial political campaign contributions to candidates between 1999 and 2011 , according to CampaignMoney.com .
+# doc_id = 
+1	A	a	DET	DT	_	3	E	3:E	_
+2	consistent	consistent	ADJ	JJ	_	3	E	3:E	_
+3	supporter	supporter	NOUN	NN	_	0	root	0:root	_
+4	of	of	ADP	IN	_	7	R	7:R	_
+5	the	the	DET	DT	_	7	E	7:E	_
+6	Democratic	democratic	PROPN	NNP	_	7	E	7:E	_
+7	Party	party	PROPN	NNP	_	3	orphan	3:orphan	_
+8	,	,	PUNCT	,	_	3	punct	3:punct	_
+9	Sorkin	sorkin	PROPN	NNP	_	11	A	11:A	_
+10	has	have	VERB	VBZ	_	11	F	11:F	_
+11	made	make	VERB	VBN	_	3	orphan	3:orphan	_
+12	substantial	substantial	ADJ	JJ	_	15	E	15:E	_
+13	political	political	ADJ	JJ	_	14	E	14:E	_
+14	campaign	campaign	NOUN	NN	_	3	orphan	3:orphan	_
+15	contributions	contribution	NOUN	NNS	_	3	orphan	3:orphan	_
+16	to	to	ADP	IN	_	17	R	17:R	_
+17	candidates	candidate	NOUN	NNS	_	3	orphan	3:orphan	_
+18	between	between	ADP	IN	_	19	N	19:N	_
+19	1999	1999	NUM	CD	_	3	orphan	3:orphan	_
+20	and	and	CCONJ	CC	_	19	N	19:N	_
+21	2011	2011	NUM	CD	_	19	C	19:C	_
+22	,	,	PUNCT	,	_	11	punct	11:punct	_
+23	according	accord	VERB	VBG	_	3	orphan	3:orphan	_
+24	to	to	ADP	IN	_	23	R	23:R	_
+25	CampaignMoney.com	campaignmoney.com	X	ADD	_	3	orphan	3:orphan	_
+26	.	.	PUNCT	.	_	25	punct	25:punct	_
+

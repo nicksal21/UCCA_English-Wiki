@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 183003
+# text = Married four times , she was once widowed and thrice divorced , and raised her children as a single parent .
+# doc_id = 
+1	Married	married	ADJ	JJ	_	0	root	0:root	_
+2	four	four	NUM	CD	_	3	E	3:E	_
+3	times	time	NOUN	NNS	_	1	orphan	1:orphan	_
+4	,	,	PUNCT	,	_	1	punct	1:punct	_
+5	she	-PRON-	PRON	PRP	_	8	A	8:A	_
+6	was	be	VERB	VBD	_	8	F	8:F	_
+7	once	once	ADV	RB	_	8	D	8:D	_
+8	widowed	widow	VERB	VBN	_	1	orphan	1:orphan	_
+9	and	and	CCONJ	CC	_	1	L	1:L	_
+10	thrice	thrice	ADV	RB	_	11	D	11:D	_
+11	divorced	divorce	VERB	VBN	_	1	orphan	1:orphan	_
+12	,	,	PUNCT	,	_	1	punct	1:punct	_
+13	and	and	CCONJ	CC	_	1	L	1:L	_
+14	raised	raise	VERB	VBD	_	1	orphan	1:orphan	_
+15	her	-PRON-	ADJ	PRP$	_	16	E	16:E	_
+16	children	child	NOUN	NNS	_	1	orphan	1:orphan	_
+17	as	as	ADP	IN	_	20	R	20:R	_
+18	a	a	DET	DT	_	20	E	20:E	_
+19	single	single	ADJ	JJ	_	20	E	20:E	_
+20	parent	parent	NOUN	NN	_	1	orphan	1:orphan	_
+21	.	.	PUNCT	.	_	20	punct	20:punct	_
+

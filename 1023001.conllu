@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 1023001
+# text = On March 25 , 1983 , Michael Jackson reunited with his brothers for a legendary live performance which was taped for a Motown 25 : Yesterday , Today , Forever television special .
+# doc_id = 
+1	On	on	ADP	IN	_	2	R	2:R	_
+2	March	march	PROPN	NNP	_	0	root	0:root	_
+3	25	25	NUM	CD	_	2	flat	2:flat	_
+4	,	,	PUNCT	,	_	2	punct	2:punct	_
+5	1983	1983	NUM	CD	_	2	flat	2:flat	_
+6	,	,	PUNCT	,	_	9	punct	9:punct	_
+7	Michael	michael	PROPN	NNP	_	9	A	9:A	_
+8	Jackson	jackson	PROPN	NNP	_	7	flat	7:flat	_
+9	reunited	reunite	VERB	VBD	_	2	orphan	2:orphan	_
+10	with	with	ADP	IN	_	9	R	9:R	_
+11	his	-PRON-	ADJ	PRP$	_	12	E	12:E	_
+12	brothers	brother	NOUN	NNS	_	2	orphan	2:orphan	_
+13	for	for	ADP	IN	_	17	R	17:R	_
+14	a	a	DET	DT	_	17	E	17:E	_
+15	legendary	legendary	ADJ	JJ	_	17	E	17:E	_
+16	live	live	ADJ	JJ	_	17	E	17:E	_
+17	performance	performance	NOUN	NN	_	2	orphan	2:orphan	_
+18	which	which	ADJ	WDT	_	20	F	20:F	_
+19	was	be	VERB	VBD	_	20	F	20:F	_
+20	taped	tap	VERB	VBN	_	2	orphan	2:orphan	_
+21	for	for	ADP	IN	_	20	R	20:R	_
+22	a	a	DET	DT	_	32	E	32:E	_
+23	Motown	motown	PROPN	NNP	_	32	E	32:E	_
+24	25	25	NUM	CD	_	23	flat	23:flat	_
+25	:	:	PUNCT	:	_	32	punct	32:punct	_
+26	Yesterday	yesterday	NOUN	NN	_	2	orphan	2:orphan	_
+27	,	,	PUNCT	,	_	26	punct	26:punct	_
+28	Today	today	NOUN	NN	_	26	C	26:C	_
+29	,	,	PUNCT	,	_	26	punct	26:punct	_
+30	Forever	forever	PROPN	NNP	_	26	C	26:C	_
+31	television	television	NOUN	NN	_	32	E	32:E	_
+32	special	special	NOUN	NN	_	2	orphan	2:orphan	_
+33	.	.	PUNCT	.	_	32	punct	32:punct	_
+
