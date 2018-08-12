@@ -2,23 +2,23 @@
 # sent_id = 376003
 # text = In 2002 , he starred in another indie film , The Good Girl , alongside actress Jennifer Aniston .
 # doc_id = 
-1	In	in	ADP	IN	_	2	R	2:R	_
-2	2002	2002	NUM	CD	_	0	root	0:root	_
-3	,	,	PUNCT	,	_	5	punct	5:punct	_
-4	he	-PRON-	PRON	PRP	_	5	A	5:A	_
-5	starred	star	VERB	VBD	_	2	orphan	2:orphan	_
-6	in	in	ADP	IN	_	11	R	11:R	_
-7	another	another	DET	DT	_	9	E	9:E	_
-8	indie	indie	NOUN	NN	_	9	E	9:E	_
-9	film	film	NOUN	NN	_	2	orphan	2:orphan	_
-10	,	,	PUNCT	,	_	11	punct	11:punct	_
-11	The	the	DET	DT	_	2	orphan	2:orphan	_
-12	Good	good	PROPN	NNP	_	11	flat	11:flat	_
-13	Girl	girl	PROPN	NNP	_	11	flat	11:flat	_
-14	,	,	PUNCT	,	_	5	punct	5:punct	_
-15	alongside	alongside	ADP	IN	_	17	R	17:R	_
-16	actress	actress	NOUN	NN	_	17	E	17:E	_
-17	Jennifer	jennifer	PROPN	NNP	_	2	orphan	2:orphan	_
-18	Aniston	aniston	PROPN	NNP	_	17	flat	17:flat	_
-19	.	.	PUNCT	.	_	17	punct	17:punct	_
+1	In	_	Word	Word	_	2	R	2:R	_
+2	2002	_	Word	Word	_	0	root	0:root	_
+3	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+4	he	_	Word	Word	_	5	A	5:A	_
+5	starred	_	Word	Word	_	2	orphan	2:orphan	_
+6	in	_	Word	Word	_	11	R	11:R	_
+7	another	_	Word	Word	_	9	E	9:E	_
+8	indie	_	Word	Word	_	9	E	9:E	_
+9	film	_	Word	Word	_	2	orphan	2:orphan	_
+10	,	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+11	The	_	Word	Word	_	2	orphan	2:orphan	_
+12	Good	_	Word	Word	_	11	flat	11:flat	_
+13	Girl	_	Word	Word	_	11	flat	11:flat	_
+14	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+15	alongside	_	Word	Word	_	17	R	17:R	_
+16	actress	_	Word	Word	_	17	E	17:E	_
+17	Jennifer	_	Word	Word	_	2	orphan	2:orphan	_
+18	Aniston	_	Word	Word	_	17	flat	17:flat	_
+19	.	_	Punctuation	Punctuation	_	17	punct	17:punct	_
 
