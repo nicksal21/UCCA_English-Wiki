@@ -4,1439 +4,1080 @@
     <attributes />
     <node ID="0.1" type="Word">
       <attributes paragraph="1" paragraph_position="1" text="Hepburn" />
-      <extra dep="nsubj" ent_iob="3" ent_type="ORG" head="1" lemma="hepburn" orth="Hepburn" pos="PROPN" prefix="H" shape="Xxxxx" suffix="urn" tag="NNP" />
     </node>
     <node ID="0.2" type="Word">
       <attributes paragraph="1" paragraph_position="2" text="returned" />
-      <extra dep="ROOT" ent_iob="2" ent_type="" head="0" lemma="return" orth="returned" pos="VERB" prefix="r" shape="xxxx" suffix="ned" tag="VBD" />
     </node>
     <node ID="0.3" type="Word">
       <attributes paragraph="1" paragraph_position="3" text="to" />
-      <extra dep="prep" ent_iob="2" ent_type="" head="-1" lemma="to" orth="to" pos="ADP" prefix="t" shape="xx" suffix="to" tag="IN" />
     </node>
     <node ID="0.4" type="Word">
       <attributes paragraph="1" paragraph_position="4" text="Stratford" />
-      <extra dep="pobj" ent_iob="3" ent_type="ORG" head="-1" lemma="stratford" orth="Stratford" pos="PROPN" prefix="S" shape="Xxxxx" suffix="ord" tag="NNP" />
     </node>
     <node ID="0.5" type="Word">
       <attributes paragraph="1" paragraph_position="5" text="in" />
-      <extra dep="prep" ent_iob="2" ent_type="" head="-3" lemma="in" orth="in" pos="ADP" prefix="i" shape="xx" suffix="in" tag="IN" />
     </node>
     <node ID="0.6" type="Word">
       <attributes paragraph="1" paragraph_position="6" text="the" />
-      <extra dep="det" ent_iob="3" ent_type="DATE" head="1" lemma="the" orth="the" pos="DET" prefix="t" shape="xxx" suffix="the" tag="DT" />
     </node>
     <node ID="0.7" type="Word">
       <attributes paragraph="1" paragraph_position="7" text="summer" />
-      <extra dep="pobj" ent_iob="1" ent_type="DATE" head="-2" lemma="summer" orth="summer" pos="NOUN" prefix="s" shape="xxxx" suffix="mer" tag="NN" />
     </node>
     <node ID="0.8" type="Word">
       <attributes paragraph="1" paragraph_position="8" text="of" />
-      <extra dep="prep" ent_iob="1" ent_type="DATE" head="-1" lemma="of" orth="of" pos="ADP" prefix="o" shape="xx" suffix="of" tag="IN" />
     </node>
     <node ID="0.9" type="Word">
       <attributes paragraph="1" paragraph_position="9" text="1960" />
-      <extra dep="pobj" ent_iob="1" ent_type="DATE" head="-1" lemma="1960" orth="1960" pos="NUM" prefix="1" shape="dddd" suffix="960" tag="CD" />
     </node>
     <node ID="0.10" type="Word">
       <attributes paragraph="1" paragraph_position="10" text="to" />
-      <extra dep="aux" ent_iob="2" ent_type="" head="1" lemma="to" orth="to" pos="PART" prefix="t" shape="xx" suffix="to" tag="TO" />
     </node>
     <node ID="0.11" type="Word">
       <attributes paragraph="1" paragraph_position="11" text="play" />
-      <extra dep="advcl" ent_iob="2" ent_type="" head="-9" lemma="play" orth="play" pos="VERB" prefix="p" shape="xxxx" suffix="lay" tag="VB" />
     </node>
     <node ID="0.12" type="Word">
       <attributes paragraph="1" paragraph_position="12" text="Viola" />
-      <extra dep="dobj" ent_iob="3" ent_type="PRODUCT" head="-1" lemma="viola" orth="Viola" pos="PROPN" prefix="V" shape="Xxxxx" suffix="ola" tag="NNP" />
     </node>
     <node ID="0.13" type="Word">
       <attributes paragraph="1" paragraph_position="13" text="in" />
-      <extra dep="prep" ent_iob="2" ent_type="" head="-2" lemma="in" orth="in" pos="ADP" prefix="i" shape="xx" suffix="in" tag="IN" />
     </node>
     <node ID="0.14" type="Word">
       <attributes paragraph="1" paragraph_position="14" text="Twelfth" />
-      <extra dep="compound" ent_iob="3" ent_type="ORDINAL" head="1" lemma="twelfth" orth="Twelfth" pos="PROPN" prefix="T" shape="Xxxxx" suffix="fth" tag="NNP" />
     </node>
     <node ID="0.15" type="Word">
       <attributes paragraph="1" paragraph_position="15" text="Night" />
-      <extra dep="pobj" ent_iob="3" ent_type="WORK_OF_ART" head="-2" lemma="night" orth="Night" pos="PROPN" prefix="N" shape="Xxxxx" suffix="ght" tag="NNP" />
     </node>
     <node ID="0.16" type="Word">
       <attributes paragraph="1" paragraph_position="16" text="and" />
-      <extra dep="cc" ent_iob="1" ent_type="WORK_OF_ART" head="-1" lemma="and" orth="and" pos="CCONJ" prefix="a" shape="xxx" suffix="and" tag="CC" />
     </node>
     <node ID="0.17" type="Word">
       <attributes paragraph="1" paragraph_position="17" text="Cleopatra" />
-      <extra dep="conj" ent_iob="1" ent_type="WORK_OF_ART" head="-2" lemma="cleopatra" orth="Cleopatra" pos="PROPN" prefix="C" shape="Xxxxx" suffix="tra" tag="NNP" />
     </node>
     <node ID="0.18" type="Word">
       <attributes paragraph="1" paragraph_position="18" text="in" />
-      <extra dep="prep" ent_iob="2" ent_type="" head="-3" lemma="in" orth="in" pos="ADP" prefix="i" shape="xx" suffix="in" tag="IN" />
     </node>
     <node ID="0.19" type="Word">
       <attributes paragraph="1" paragraph_position="19" text="Antony" />
-      <extra dep="pobj" ent_iob="3" ent_type="PERSON" head="-1" lemma="antony" orth="Antony" pos="PROPN" prefix="A" shape="Xxxxx" suffix="ony" tag="NNP" />
     </node>
     <node ID="0.20" type="Word">
       <attributes paragraph="1" paragraph_position="20" text="and" />
-      <extra dep="cc" ent_iob="2" ent_type="" head="-1" lemma="and" orth="and" pos="CCONJ" prefix="a" shape="xxx" suffix="and" tag="CC" />
     </node>
     <node ID="0.21" type="Word">
       <attributes paragraph="1" paragraph_position="21" text="Cleopatra" />
-      <extra dep="conj" ent_iob="3" ent_type="PERSON" head="-2" lemma="cleopatra" orth="Cleopatra" pos="PROPN" prefix="C" shape="Xxxxx" suffix="tra" tag="NNP" />
     </node>
     <node ID="0.22" type="Punctuation">
       <attributes paragraph="1" paragraph_position="22" text="." />
-      <extra dep="punct" ent_iob="2" ent_type="" head="-20" lemma="." orth="." pos="PUNCT" prefix="." shape="." suffix="." tag="." />
     </node>
     <node ID="0.23" type="Word">
       <attributes paragraph="1" paragraph_position="23" text="The" />
-      <extra dep="det" ent_iob="3" ent_type="ORG" head="3" lemma="the" orth="The" pos="DET" prefix="T" shape="Xxx" suffix="The" tag="DT" />
     </node>
     <node ID="0.24" type="Word">
       <attributes paragraph="1" paragraph_position="24" text="New" />
-      <extra dep="compound" ent_iob="1" ent_type="ORG" head="1" lemma="new" orth="New" pos="PROPN" prefix="N" shape="Xxx" suffix="New" tag="NNP" />
     </node>
     <node ID="0.25" type="Word">
       <attributes paragraph="1" paragraph_position="25" text="York" />
-      <extra dep="compound" ent_iob="1" ent_type="ORG" head="1" lemma="york" orth="York" pos="PROPN" prefix="Y" shape="Xxxx" suffix="ork" tag="NNP" />
     </node>
     <node ID="0.26" type="Word">
       <attributes paragraph="1" paragraph_position="26" text="Post" />
-      <extra dep="nsubj" ent_iob="1" ent_type="ORG" head="1" lemma="post" orth="Post" pos="PROPN" prefix="P" shape="Xxxx" suffix="ost" tag="NNP" />
     </node>
     <node ID="0.27" type="Word">
       <attributes paragraph="1" paragraph_position="27" text="wrote" />
-      <extra dep="ROOT" ent_iob="2" ent_type="" head="0" lemma="write" orth="wrote" pos="VERB" prefix="w" shape="xxxx" suffix="ote" tag="VBD" />
     </node>
     <node ID="0.28" type="Word">
       <attributes paragraph="1" paragraph_position="28" text="of" />
-      <extra dep="prep" ent_iob="2" ent_type="" head="-1" lemma="of" orth="of" pos="ADP" prefix="o" shape="xx" suffix="of" tag="IN" />
     </node>
     <node ID="0.29" type="Word">
       <attributes paragraph="1" paragraph_position="29" text="her" />
-      <extra dep="poss" ent_iob="2" ent_type="" head="1" lemma="-PRON-" orth="her" pos="ADJ" prefix="h" shape="xxx" suffix="her" tag="PRP$" />
     </node>
     <node ID="0.30" type="Word">
       <attributes paragraph="1" paragraph_position="30" text="Cleopatra" />
-      <extra dep="pobj" ent_iob="3" ent_type="WORK_OF_ART" head="-2" lemma="cleopatra" orth="Cleopatra" pos="PROPN" prefix="C" shape="Xxxxx" suffix="tra" tag="NNP" />
     </node>
     <node ID="0.31" type="Punctuation">
       <attributes paragraph="1" paragraph_position="31" text="," />
-      <extra dep="punct" ent_iob="2" ent_type="" head="-4" lemma="," orth="," pos="PUNCT" prefix="," shape="," suffix="," tag="," />
     </node>
     <node ID="0.32" type="Punctuation">
       <attributes paragraph="1" paragraph_position="32" text="&quot;" />
-      <extra dep="punct" ent_iob="2" ent_type="" head="-5" lemma="&quot;" orth="&quot;" pos="PUNCT" prefix="&quot;" shape="&quot;" suffix="&quot;" tag="''" />
     </node>
     <node ID="0.33" type="Word">
       <attributes paragraph="1" paragraph_position="33" text="Hepburn" />
-      <extra dep="nsubj" ent_iob="2" ent_type="" head="1" lemma="hepburn" orth="Hepburn" pos="PROPN" prefix="H" shape="Xxxxx" suffix="urn" tag="NNP" />
     </node>
     <node ID="0.34" type="Word">
       <attributes paragraph="1" paragraph_position="34" text="offers" />
-      <extra dep="ccomp" ent_iob="2" ent_type="" head="-7" lemma="offer" orth="offers" pos="VERB" prefix="o" shape="xxxx" suffix="ers" tag="VBZ" />
     </node>
     <node ID="0.35" type="Word">
       <attributes paragraph="1" paragraph_position="35" text="a" />
-      <extra dep="det" ent_iob="2" ent_type="" head="3" lemma="a" orth="a" pos="DET" prefix="a" shape="x" suffix="a" tag="DT" />
     </node>
     <node ID="0.36" type="Word">
       <attributes paragraph="1" paragraph_position="36" text="highly" />
-      <extra dep="advmod" ent_iob="2" ent_type="" head="1" lemma="highly" orth="highly" pos="ADV" prefix="h" shape="xxxx" suffix="hly" tag="RB" />
     </node>
     <node ID="0.37" type="Word">
       <attributes paragraph="1" paragraph_position="37" text="versatile" />
-      <extra dep="amod" ent_iob="2" ent_type="" head="1" lemma="versatile" orth="versatile" pos="ADJ" prefix="v" shape="xxxx" suffix="ile" tag="JJ" />
     </node>
     <node ID="0.38" type="Word">
       <attributes paragraph="1" paragraph_position="38" text="performance" />
-      <extra dep="dobj" ent_iob="2" ent_type="" head="-4" lemma="performance" orth="performance" pos="NOUN" prefix="p" shape="xxxx" suffix="nce" tag="NN" />
     </node>
     <node ID="0.39" type="Punctuation">
       <attributes paragraph="1" paragraph_position="39" text="..." />
-      <extra dep="punct" ent_iob="2" ent_type="" head="-5" lemma="..." orth="..." pos="PUNCT" prefix="." shape="..." suffix="..." tag=":" />
     </node>
     <node ID="0.40" type="Word">
       <attributes paragraph="1" paragraph_position="40" text="once" />
-      <extra dep="advmod" ent_iob="2" ent_type="" head="3" lemma="once" orth="once" pos="ADV" prefix="o" shape="xxxx" suffix="nce" tag="RB" />
     </node>
     <node ID="0.41" type="Word">
       <attributes paragraph="1" paragraph_position="41" text="or" />
-      <extra dep="cc" ent_iob="2" ent_type="" head="-1" lemma="or" orth="or" pos="CCONJ" prefix="o" shape="xx" suffix="or" tag="CC" />
     </node>
     <node ID="0.42" type="Word">
       <attributes paragraph="1" paragraph_position="42" text="twice" />
-      <extra dep="conj" ent_iob="2" ent_type="" head="-2" lemma="twice" orth="twice" pos="ADV" prefix="t" shape="xxxx" suffix="ice" tag="RB" />
     </node>
     <node ID="0.43" type="Word">
       <attributes paragraph="1" paragraph_position="43" text="going" />
-      <extra dep="advcl" ent_iob="2" ent_type="" head="-9" lemma="go" orth="going" pos="VERB" prefix="g" shape="xxxx" suffix="ing" tag="VBG" />
     </node>
     <node ID="0.44" type="Word">
       <attributes paragraph="1" paragraph_position="44" text="in" />
-      <extra dep="prt" ent_iob="2" ent_type="" head="-1" lemma="in" orth="in" pos="PART" prefix="i" shape="xx" suffix="in" tag="RP" />
     </node>
     <node ID="0.45" type="Word">
       <attributes paragraph="1" paragraph_position="45" text="for" />
-      <extra dep="prep" ent_iob="2" ent_type="" head="-2" lemma="for" orth="for" pos="ADP" prefix="f" shape="xxx" suffix="for" tag="IN" />
     </node>
     <node ID="0.46" type="Word">
       <attributes paragraph="1" paragraph_position="46" text="her" />
-      <extra dep="poss" ent_iob="2" ent_type="" head="2" lemma="-PRON-" orth="her" pos="ADJ" prefix="h" shape="xxx" suffix="her" tag="PRP$" />
     </node>
     <node ID="0.47" type="Word">
       <attributes paragraph="1" paragraph_position="47" text="famous" />
-      <extra dep="amod" ent_iob="2" ent_type="" head="1" lemma="famous" orth="famous" pos="ADJ" prefix="f" shape="xxxx" suffix="ous" tag="JJ" />
     </node>
     <node ID="0.48" type="Word">
       <attributes paragraph="1" paragraph_position="48" text="mannerisms" />
-      <extra dep="pobj" ent_iob="2" ent_type="" head="-3" lemma="mannerism" orth="mannerisms" pos="NOUN" prefix="m" shape="xxxx" suffix="sms" tag="NNS" />
     </node>
     <node ID="0.49" type="Word">
       <attributes paragraph="1" paragraph_position="49" text="and" />
-      <extra dep="cc" ent_iob="2" ent_type="" head="-6" lemma="and" orth="and" pos="CCONJ" prefix="a" shape="xxx" suffix="and" tag="CC" />
     </node>
     <node ID="0.50" type="Word">
       <attributes paragraph="1" paragraph_position="50" text="always" />
-      <extra dep="advmod" ent_iob="2" ent_type="" head="1" lemma="always" orth="always" pos="ADV" prefix="a" shape="xxxx" suffix="ays" tag="RB" />
     </node>
     <node ID="0.51" type="Word">
       <attributes paragraph="1" paragraph_position="51" text="being" />
-      <extra dep="conj" ent_iob="2" ent_type="" head="-8" lemma="be" orth="being" pos="VERB" prefix="b" shape="xxxx" suffix="ing" tag="VBG" />
     </node>
     <node ID="0.52" type="Word">
       <attributes paragraph="1" paragraph_position="52" text="fascinating" />
-      <extra dep="acomp" ent_iob="2" ent_type="" head="-1" lemma="fascinating" orth="fascinating" pos="ADJ" prefix="f" shape="xxxx" suffix="ing" tag="JJ" />
     </node>
     <node ID="0.53" type="Word">
       <attributes paragraph="1" paragraph_position="53" text="to" />
-      <extra dep="aux" ent_iob="2" ent_type="" head="1" lemma="to" orth="to" pos="PART" prefix="t" shape="xx" suffix="to" tag="TO" />
     </node>
     <node ID="0.54" type="Word">
       <attributes paragraph="1" paragraph_position="54" text="watch" />
-      <extra dep="xcomp" ent_iob="2" ent_type="" head="-2" lemma="watch" orth="watch" pos="VERB" prefix="w" shape="xxxx" suffix="tch" tag="VB" />
     </node>
     <node ID="0.55" type="Punctuation">
       <attributes paragraph="1" paragraph_position="55" text="." />
-      <extra dep="punct" ent_iob="2" ent_type="" head="-28" lemma="." orth="." pos="PUNCT" prefix="." shape="." suffix="." tag="." />
     </node>
     <node ID="0.56" type="Punctuation">
       <attributes paragraph="1" paragraph_position="56" text="&quot;" />
-      <extra dep="punct" ent_iob="2" ent_type="" head="-29" lemma="&quot;" orth="&quot;" pos="PUNCT" prefix="&quot;" shape="&quot;" suffix="&quot;" tag="''" />
     </node>
     <node ID="0.57" type="Word">
       <attributes paragraph="1" paragraph_position="57" text="Hepburn" />
-      <extra dep="nsubj" ent_iob="2" ent_type="" head="2" lemma="hepburn" orth="Hepburn" pos="PROPN" prefix="H" shape="Xxxxx" suffix="urn" tag="NNP" />
     </node>
     <node ID="0.58" type="Word">
       <attributes paragraph="1" paragraph_position="58" text="herself" />
-      <extra dep="appos" ent_iob="2" ent_type="" head="-1" lemma="-PRON-" orth="herself" pos="PRON" prefix="h" shape="xxxx" suffix="elf" tag="PRP" />
     </node>
     <node ID="0.59" type="Word">
       <attributes paragraph="1" paragraph_position="59" text="was" />
-      <extra dep="ROOT" ent_iob="2" ent_type="" head="0" lemma="be" orth="was" pos="VERB" prefix="w" shape="xxx" suffix="was" tag="VBD" />
     </node>
     <node ID="0.60" type="Word">
       <attributes paragraph="1" paragraph_position="60" text="proud" />
-      <extra dep="acomp" ent_iob="2" ent_type="" head="-1" lemma="proud" orth="proud" pos="ADJ" prefix="p" shape="xxxx" suffix="oud" tag="JJ" />
     </node>
     <node ID="0.61" type="Word">
       <attributes paragraph="1" paragraph_position="61" text="of" />
-      <extra dep="prep" ent_iob="2" ent_type="" head="-1" lemma="of" orth="of" pos="ADP" prefix="o" shape="xx" suffix="of" tag="IN" />
     </node>
     <node ID="0.62" type="Word">
       <attributes paragraph="1" paragraph_position="62" text="the" />
-      <extra dep="det" ent_iob="2" ent_type="" head="1" lemma="the" orth="the" pos="DET" prefix="t" shape="xxx" suffix="the" tag="DT" />
     </node>
     <node ID="0.63" type="Word">
       <attributes paragraph="1" paragraph_position="63" text="role" />
-      <extra dep="pobj" ent_iob="2" ent_type="" head="-2" lemma="role" orth="role" pos="NOUN" prefix="r" shape="xxxx" suffix="ole" tag="NN" />
     </node>
     <node ID="0.64" type="Punctuation">
       <attributes paragraph="1" paragraph_position="64" text="." />
-      <extra dep="punct" ent_iob="2" ent_type="" head="-5" lemma="." orth="." pos="PUNCT" prefix="." shape="." suffix="." tag="." />
     </node>
     <node ID="0.65" type="Word">
       <attributes paragraph="1" paragraph_position="65" text="Her" />
-      <extra dep="poss" ent_iob="2" ent_type="" head="1" lemma="-PRON-" orth="Her" pos="ADJ" prefix="H" shape="Xxx" suffix="Her" tag="PRP$" />
     </node>
     <node ID="0.66" type="Word">
       <attributes paragraph="1" paragraph_position="66" text="repertoire" />
-      <extra dep="nsubjpass" ent_iob="2" ent_type="" head="3" lemma="repertoire" orth="repertoire" pos="NOUN" prefix="r" shape="xxxx" suffix="ire" tag="NN" />
     </node>
     <node ID="0.67" type="Word">
       <attributes paragraph="1" paragraph_position="67" text="was" />
-      <extra dep="auxpass" ent_iob="2" ent_type="" head="2" lemma="be" orth="was" pos="VERB" prefix="w" shape="xxx" suffix="was" tag="VBD" />
     </node>
     <node ID="0.68" type="Word">
       <attributes paragraph="1" paragraph_position="68" text="further" />
-      <extra dep="advmod" ent_iob="2" ent_type="" head="1" lemma="further" orth="further" pos="ADV" prefix="f" shape="xxxx" suffix="her" tag="RB" />
     </node>
     <node ID="0.69" type="Word">
       <attributes paragraph="1" paragraph_position="69" text="improved" />
-      <extra dep="ROOT" ent_iob="2" ent_type="" head="0" lemma="improve" orth="improved" pos="VERB" prefix="i" shape="xxxx" suffix="ved" tag="VBN" />
     </node>
     <node ID="0.70" type="Word">
       <attributes paragraph="1" paragraph_position="70" text="when" />
-      <extra dep="advmod" ent_iob="2" ent_type="" head="2" lemma="when" orth="when" pos="ADV" prefix="w" shape="xxxx" suffix="hen" tag="WRB" />
     </node>
     <node ID="0.71" type="Word">
       <attributes paragraph="1" paragraph_position="71" text="she" />
-      <extra dep="nsubj" ent_iob="2" ent_type="" head="1" lemma="-PRON-" orth="she" pos="PRON" prefix="s" shape="xxx" suffix="she" tag="PRP" />
     </node>
     <node ID="0.72" type="Word">
       <attributes paragraph="1" paragraph_position="72" text="appeared" />
-      <extra dep="advcl" ent_iob="2" ent_type="" head="-3" lemma="appear" orth="appeared" pos="VERB" prefix="a" shape="xxxx" suffix="red" tag="VBD" />
     </node>
     <node ID="0.73" type="Word">
       <attributes paragraph="1" paragraph_position="73" text="in" />
-      <extra dep="prep" ent_iob="2" ent_type="" head="-1" lemma="in" orth="in" pos="ADP" prefix="i" shape="xx" suffix="in" tag="IN" />
     </node>
     <node ID="0.74" type="Word">
       <attributes paragraph="1" paragraph_position="74" text="Sidney" />
-      <extra dep="compound" ent_iob="3" ent_type="PERSON" head="1" lemma="sidney" orth="Sidney" pos="PROPN" prefix="S" shape="Xxxxx" suffix="ney" tag="NNP" />
     </node>
     <node ID="0.75" type="Word">
       <attributes paragraph="1" paragraph_position="75" text="Lumet" />
-      <extra dep="poss" ent_iob="1" ent_type="PERSON" head="3" lemma="lumet" orth="Lumet" pos="PROPN" prefix="L" shape="Xxxxx" suffix="met" tag="NNP" />
     </node>
     <node ID="0.76" type="Word">
       <attributes paragraph="1" paragraph_position="76" text="'s" />
-      <extra dep="case" ent_iob="1" ent_type="PERSON" head="-1" lemma="'s" orth="'s" pos="PART" prefix="'" shape="'x" suffix="'s" tag="POS" />
     </node>
     <node ID="0.77" type="Word">
       <attributes paragraph="1" paragraph_position="77" text="film" />
-      <extra dep="compound" ent_iob="2" ent_type="" head="1" lemma="film" orth="film" pos="NOUN" prefix="f" shape="xxxx" suffix="ilm" tag="NN" />
     </node>
     <node ID="0.78" type="Word">
       <attributes paragraph="1" paragraph_position="78" text="version" />
-      <extra dep="pobj" ent_iob="2" ent_type="" head="-5" lemma="version" orth="version" pos="NOUN" prefix="v" shape="xxxx" suffix="ion" tag="NN" />
     </node>
     <node ID="0.79" type="Word">
       <attributes paragraph="1" paragraph_position="79" text="of" />
-      <extra dep="prep" ent_iob="2" ent_type="" head="-1" lemma="of" orth="of" pos="ADP" prefix="o" shape="xx" suffix="of" tag="IN" />
     </node>
     <node ID="0.80" type="Word">
       <attributes paragraph="1" paragraph_position="80" text="Eugene" />
-      <extra dep="compound" ent_iob="3" ent_type="PERSON" head="1" lemma="eugene" orth="Eugene" pos="PROPN" prefix="E" shape="Xxxxx" suffix="ene" tag="NNP" />
     </node>
     <node ID="0.81" type="Word">
       <attributes paragraph="1" paragraph_position="81" text="O'Neill" />
-      <extra dep="poss" ent_iob="1" ent_type="PERSON" head="3" lemma="o'neill" orth="O'Neill" pos="PROPN" prefix="O" shape="X'Xxxxx" suffix="ill" tag="NNP" />
     </node>
     <node ID="0.82" type="Word">
       <attributes paragraph="1" paragraph_position="82" text="'s" />
-      <extra dep="case" ent_iob="1" ent_type="PERSON" head="-1" lemma="'s" orth="'s" pos="PART" prefix="'" shape="'x" suffix="'s" tag="POS" />
     </node>
     <node ID="0.83" type="Word">
       <attributes paragraph="1" paragraph_position="83" text="Long" />
-      <extra dep="compound" ent_iob="3" ent_type="PERSON" head="1" lemma="long" orth="Long" pos="PROPN" prefix="L" shape="Xxxx" suffix="ong" tag="NNP" />
     </node>
     <node ID="0.84" type="Word">
       <attributes paragraph="1" paragraph_position="84" text="Day" />
-      <extra dep="poss" ent_iob="1" ent_type="PERSON" head="2" lemma="day" orth="Day" pos="PROPN" prefix="D" shape="Xxx" suffix="Day" tag="NNP" />
     </node>
     <node ID="0.85" type="Word">
       <attributes paragraph="1" paragraph_position="85" text="'s" />
-      <extra dep="case" ent_iob="1" ent_type="PERSON" head="-1" lemma="'s" orth="'s" pos="PART" prefix="'" shape="'x" suffix="'s" tag="POS" />
     </node>
     <node ID="0.86" type="Word">
       <attributes paragraph="1" paragraph_position="86" text="Journey" />
-      <extra dep="pobj" ent_iob="3" ent_type="WORK_OF_ART" head="-7" lemma="journey" orth="Journey" pos="PROPN" prefix="J" shape="Xxxxx" suffix="ney" tag="NNP" />
     </node>
     <node ID="0.87" type="Word">
       <attributes paragraph="1" paragraph_position="87" text="Into" />
-      <extra dep="prep" ent_iob="1" ent_type="WORK_OF_ART" head="-1" lemma="into" orth="Into" pos="ADV" prefix="I" shape="Xxxx" suffix="nto" tag="RB" />
     </node>
     <node ID="0.88" type="Word">
       <attributes paragraph="1" paragraph_position="88" text="Night" />
-      <extra dep="pobj" ent_iob="1" ent_type="WORK_OF_ART" head="-1" lemma="night" orth="Night" pos="NOUN" prefix="N" shape="Xxxxx" suffix="ght" tag="NN" />
     </node>
     <node ID="0.89" type="Punctuation">
       <attributes paragraph="1" paragraph_position="89" text="(" />
-      <extra dep="punct" ent_iob="2" ent_type="" head="-1" lemma="(" orth="(" pos="PUNCT" prefix="(" shape="(" suffix="(" tag="-LRB-" />
     </node>
     <node ID="0.90" type="Word">
       <attributes paragraph="1" paragraph_position="90" text="1962" />
-      <extra dep="appos" ent_iob="3" ent_type="DATE" head="-2" lemma="1962" orth="1962" pos="NUM" prefix="1" shape="dddd" suffix="962" tag="CD" />
     </node>
     <node ID="0.91" type="Punctuation">
       <attributes paragraph="1" paragraph_position="91" text=")" />
-      <extra dep="punct" ent_iob="2" ent_type="" head="-3" lemma=")" orth=")" pos="PUNCT" prefix=")" shape=")" suffix=")" tag="-RRB-" />
     </node>
     <node ID="0.92" type="Punctuation">
       <attributes paragraph="1" paragraph_position="92" text="." />
-      <extra dep="punct" ent_iob="2" ent_type="" head="-23" lemma="." orth="." pos="PUNCT" prefix="." shape="." suffix="." tag="." />
     </node>
     <node ID="0.93" type="Word">
       <attributes paragraph="1" paragraph_position="93" text="It" />
-      <extra dep="nsubj" ent_iob="2" ent_type="" head="1" lemma="-PRON-" orth="It" pos="PRON" prefix="I" shape="Xx" suffix="It" tag="PRP" />
     </node>
     <node ID="0.94" type="Word">
       <attributes paragraph="1" paragraph_position="94" text="was" />
-      <extra dep="ROOT" ent_iob="2" ent_type="" head="0" lemma="be" orth="was" pos="VERB" prefix="w" shape="xxx" suffix="was" tag="VBD" />
     </node>
     <node ID="0.95" type="Word">
       <attributes paragraph="1" paragraph_position="95" text="a" />
-      <extra dep="det" ent_iob="2" ent_type="" head="4" lemma="a" orth="a" pos="DET" prefix="a" shape="x" suffix="a" tag="DT" />
     </node>
     <node ID="0.96" type="Word">
       <attributes paragraph="1" paragraph_position="96" text="low" />
-      <extra dep="amod" ent_iob="2" ent_type="" head="2" lemma="low" orth="low" pos="ADJ" prefix="l" shape="xxx" suffix="low" tag="JJ" />
     </node>
     <node ID="0.97" type="Punctuation">
       <attributes paragraph="1" paragraph_position="97" text="-" />
-      <extra dep="punct" ent_iob="2" ent_type="" head="1" lemma="-" orth="-" pos="PUNCT" prefix="-" shape="-" suffix="-" tag="HYPH" />
     </node>
     <node ID="0.98" type="Word">
       <attributes paragraph="1" paragraph_position="98" text="budget" />
-      <extra dep="compound" ent_iob="2" ent_type="" head="1" lemma="budget" orth="budget" pos="NOUN" prefix="b" shape="xxxx" suffix="get" tag="NN" />
     </node>
     <node ID="0.99" type="Word">
       <attributes paragraph="1" paragraph_position="99" text="production" />
-      <extra dep="attr" ent_iob="2" ent_type="" head="-5" lemma="production" orth="production" pos="NOUN" prefix="p" shape="xxxx" suffix="ion" tag="NN" />
     </node>
     <node ID="0.100" type="Punctuation">
       <attributes paragraph="1" paragraph_position="100" text="," />
-      <extra dep="punct" ent_iob="2" ent_type="" head="-6" lemma="," orth="," pos="PUNCT" prefix="," shape="," suffix="," tag="," />
     </node>
     <node ID="0.101" type="Word">
       <attributes paragraph="1" paragraph_position="101" text="and" />
-      <extra dep="cc" ent_iob="2" ent_type="" head="-7" lemma="and" orth="and" pos="CCONJ" prefix="a" shape="xxx" suffix="and" tag="CC" />
     </node>
     <node ID="0.102" type="Word">
       <attributes paragraph="1" paragraph_position="102" text="Hepburn" />
-      <extra dep="nsubj" ent_iob="3" ent_type="ORG" head="1" lemma="hepburn" orth="Hepburn" pos="PROPN" prefix="H" shape="Xxxxx" suffix="urn" tag="NNP" />
     </node>
     <node ID="0.103" type="Word">
       <attributes paragraph="1" paragraph_position="103" text="appeared" />
-      <extra dep="conj" ent_iob="2" ent_type="" head="-9" lemma="appear" orth="appeared" pos="VERB" prefix="a" shape="xxxx" suffix="red" tag="VBD" />
     </node>
     <node ID="0.104" type="Word">
       <attributes paragraph="1" paragraph_position="104" text="in" />
-      <extra dep="prep" ent_iob="2" ent_type="" head="-1" lemma="in" orth="in" pos="ADP" prefix="i" shape="xx" suffix="in" tag="IN" />
     </node>
     <node ID="0.105" type="Word">
       <attributes paragraph="1" paragraph_position="105" text="the" />
-      <extra dep="det" ent_iob="2" ent_type="" head="1" lemma="the" orth="the" pos="DET" prefix="t" shape="xxx" suffix="the" tag="DT" />
     </node>
     <node ID="0.106" type="Word">
       <attributes paragraph="1" paragraph_position="106" text="film" />
-      <extra dep="pobj" ent_iob="2" ent_type="" head="-2" lemma="film" orth="film" pos="NOUN" prefix="f" shape="xxxx" suffix="ilm" tag="NN" />
     </node>
     <node ID="0.107" type="Word">
       <attributes paragraph="1" paragraph_position="107" text="for" />
-      <extra dep="prep" ent_iob="2" ent_type="" head="-4" lemma="for" orth="for" pos="ADP" prefix="f" shape="xxx" suffix="for" tag="IN" />
     </node>
     <node ID="0.108" type="Word">
       <attributes paragraph="1" paragraph_position="108" text="a" />
-      <extra dep="det" ent_iob="3" ent_type="CARDINAL" head="1" lemma="a" orth="a" pos="DET" prefix="a" shape="x" suffix="a" tag="DT" />
     </node>
     <node ID="0.109" type="Word">
       <attributes paragraph="1" paragraph_position="109" text="tenth" />
-      <extra dep="pobj" ent_iob="1" ent_type="CARDINAL" head="-2" lemma="tenth" orth="tenth" pos="NOUN" prefix="t" shape="xxxx" suffix="nth" tag="NN" />
     </node>
     <node ID="0.110" type="Word">
       <attributes paragraph="1" paragraph_position="110" text="of" />
-      <extra dep="prep" ent_iob="2" ent_type="" head="-1" lemma="of" orth="of" pos="ADP" prefix="o" shape="xx" suffix="of" tag="IN" />
     </node>
     <node ID="0.111" type="Word">
       <attributes paragraph="1" paragraph_position="111" text="her" />
-      <extra dep="poss" ent_iob="2" ent_type="" head="2" lemma="-PRON-" orth="her" pos="ADJ" prefix="h" shape="xxx" suffix="her" tag="PRP$" />
     </node>
     <node ID="0.112" type="Word">
       <attributes paragraph="1" paragraph_position="112" text="established" />
-      <extra dep="amod" ent_iob="2" ent_type="" head="1" lemma="establish" orth="established" pos="VERB" prefix="e" shape="xxxx" suffix="hed" tag="VBN" />
     </node>
     <node ID="0.113" type="Word">
       <attributes paragraph="1" paragraph_position="113" text="salary" />
-      <extra dep="pobj" ent_iob="2" ent_type="" head="-3" lemma="salary" orth="salary" pos="NOUN" prefix="s" shape="xxxx" suffix="ary" tag="NN" />
     </node>
     <node ID="0.114" type="Punctuation">
       <attributes paragraph="1" paragraph_position="114" text="." />
-      <extra dep="punct" ent_iob="2" ent_type="" head="-11" lemma="." orth="." pos="PUNCT" prefix="." shape="." suffix="." tag="." />
     </node>
     <node ID="0.115" type="Word">
       <attributes paragraph="1" paragraph_position="115" text="She" />
-      <extra dep="nsubj" ent_iob="2" ent_type="" head="1" lemma="-PRON-" orth="She" pos="PRON" prefix="S" shape="Xxx" suffix="She" tag="PRP" />
     </node>
     <node ID="0.116" type="Word">
       <attributes paragraph="1" paragraph_position="116" text="called" />
-      <extra dep="ROOT" ent_iob="2" ent_type="" head="0" lemma="call" orth="called" pos="VERB" prefix="c" shape="xxxx" suffix="led" tag="VBD" />
     </node>
     <node ID="0.117" type="Word">
       <attributes paragraph="1" paragraph_position="117" text="it" />
-      <extra dep="dobj" ent_iob="2" ent_type="" head="-1" lemma="-PRON-" orth="it" pos="PRON" prefix="i" shape="xx" suffix="it" tag="PRP" />
     </node>
     <node ID="0.118" type="Punctuation">
       <attributes paragraph="1" paragraph_position="118" text="&quot;" />
-      <extra dep="punct" ent_iob="2" ent_type="" head="4" lemma="&quot;" orth="&quot;" pos="PUNCT" prefix="&quot;" shape="&quot;" suffix="&quot;" tag="``" />
     </node>
     <node ID="0.119" type="Word">
       <attributes paragraph="1" paragraph_position="119" text="the" />
-      <extra dep="det" ent_iob="2" ent_type="" head="3" lemma="the" orth="the" pos="DET" prefix="t" shape="xxx" suffix="the" tag="DT" />
     </node>
     <node ID="0.120" type="Word">
       <attributes paragraph="1" paragraph_position="120" text="greatest" />
-      <extra dep="amod" ent_iob="2" ent_type="" head="2" lemma="great" orth="greatest" pos="ADJ" prefix="g" shape="xxxx" suffix="est" tag="JJS" />
     </node>
     <node ID="0.121" type="Punctuation">
       <attributes paragraph="1" paragraph_position="121" text="[" />
-      <extra dep="punct" ent_iob="2" ent_type="" head="1" lemma="[" orth="[" pos="PUNCT" prefix="[" shape="[" suffix="[" tag="-LRB-" />
     </node>
     <node ID="0.122" type="Word">
       <attributes paragraph="1" paragraph_position="122" text="play" />
-      <extra dep="oprd" ent_iob="2" ent_type="" head="-6" lemma="play" orth="play" pos="NOUN" prefix="p" shape="xxxx" suffix="lay" tag="NN" />
     </node>
     <node ID="0.123" type="Punctuation">
       <attributes paragraph="1" paragraph_position="123" text="]" />
-      <extra dep="punct" ent_iob="2" ent_type="" head="-1" lemma="]" orth="]" pos="PUNCT" prefix="]" shape="]" suffix="]" tag="-RRB-" />
     </node>
     <node ID="0.124" type="Word">
       <attributes paragraph="1" paragraph_position="124" text="this" />
-      <extra dep="det" ent_iob="2" ent_type="" head="1" lemma="this" orth="this" pos="DET" prefix="t" shape="xxxx" suffix="his" tag="DT" />
     </node>
     <node ID="0.125" type="Word">
       <attributes paragraph="1" paragraph_position="125" text="country" />
-      <extra dep="nsubj" ent_iob="2" ent_type="" head="3" lemma="country" orth="country" pos="NOUN" prefix="c" shape="xxxx" suffix="try" tag="NN" />
     </node>
     <node ID="0.126" type="Word">
       <attributes paragraph="1" paragraph_position="126" text="has" />
-      <extra dep="aux" ent_iob="2" ent_type="" head="2" lemma="have" orth="has" pos="VERB" prefix="h" shape="xxx" suffix="has" tag="VBZ" />
     </node>
     <node ID="0.127" type="Word">
       <attributes paragraph="1" paragraph_position="127" text="ever" />
-      <extra dep="advmod" ent_iob="2" ent_type="" head="1" lemma="ever" orth="ever" pos="ADV" prefix="e" shape="xxxx" suffix="ver" tag="RB" />
     </node>
     <node ID="0.128" type="Word">
       <attributes paragraph="1" paragraph_position="128" text="produced" />
-      <extra dep="relcl" ent_iob="2" ent_type="" head="-6" lemma="produce" orth="produced" pos="VERB" prefix="p" shape="xxxx" suffix="ced" tag="VBN" />
     </node>
     <node ID="0.129" type="Punctuation">
       <attributes paragraph="1" paragraph_position="129" text="&quot;" />
-      <extra dep="punct" ent_iob="2" ent_type="" head="-1" lemma="&quot;" orth="&quot;" pos="PUNCT" prefix="&quot;" shape="&quot;" suffix="&quot;" tag="''" />
     </node>
     <node ID="0.130" type="Word">
       <attributes paragraph="1" paragraph_position="130" text="and" />
-      <extra dep="cc" ent_iob="2" ent_type="" head="-2" lemma="and" orth="and" pos="CCONJ" prefix="a" shape="xxx" suffix="and" tag="CC" />
     </node>
     <node ID="0.131" type="Word">
       <attributes paragraph="1" paragraph_position="131" text="the" />
-      <extra dep="det" ent_iob="2" ent_type="" head="1" lemma="the" orth="the" pos="DET" prefix="t" shape="xxx" suffix="the" tag="DT" />
     </node>
     <node ID="0.132" type="Word">
       <attributes paragraph="1" paragraph_position="132" text="role" />
-      <extra dep="oprd" ent_iob="2" ent_type="" head="-16" lemma="role" orth="role" pos="NOUN" prefix="r" shape="xxxx" suffix="ole" tag="NN" />
     </node>
     <node ID="0.133" type="Word">
       <attributes paragraph="1" paragraph_position="133" text="of" />
-      <extra dep="prep" ent_iob="2" ent_type="" head="-1" lemma="of" orth="of" pos="ADP" prefix="o" shape="xx" suffix="of" tag="IN" />
     </node>
     <node ID="0.134" type="Word">
       <attributes paragraph="1" paragraph_position="134" text="morphine" />
-      <extra dep="npadvmod" ent_iob="2" ent_type="" head="2" lemma="morphine" orth="morphine" pos="NOUN" prefix="m" shape="xxxx" suffix="ine" tag="NN" />
     </node>
     <node ID="0.135" type="Punctuation">
       <attributes paragraph="1" paragraph_position="135" text="-" />
-      <extra dep="punct" ent_iob="2" ent_type="" head="1" lemma="-" orth="-" pos="PUNCT" prefix="-" shape="-" suffix="-" tag="HYPH" />
     </node>
     <node ID="0.136" type="Word">
       <attributes paragraph="1" paragraph_position="136" text="addicted" />
-      <extra dep="amod" ent_iob="2" ent_type="" head="2" lemma="addict" orth="addicted" pos="VERB" prefix="a" shape="xxxx" suffix="ted" tag="VBN" />
     </node>
     <node ID="0.137" type="Word">
       <attributes paragraph="1" paragraph_position="137" text="Mary" />
-      <extra dep="compound" ent_iob="3" ent_type="PERSON" head="1" lemma="mary" orth="Mary" pos="PROPN" prefix="M" shape="Xxxx" suffix="ary" tag="NNP" />
     </node>
     <node ID="0.138" type="Word">
       <attributes paragraph="1" paragraph_position="138" text="Tyrone" />
-      <extra dep="pobj" ent_iob="1" ent_type="PERSON" head="-5" lemma="tyrone" orth="Tyrone" pos="PROPN" prefix="T" shape="Xxxxx" suffix="one" tag="NNP" />
     </node>
     <node ID="0.139" type="Punctuation">
       <attributes paragraph="1" paragraph_position="139" text="&quot;" />
-      <extra dep="punct" ent_iob="2" ent_type="" head="-1" lemma="&quot;" orth="&quot;" pos="PUNCT" prefix="&quot;" shape="&quot;" suffix="&quot;" tag="``" />
     </node>
     <node ID="0.140" type="Word">
       <attributes paragraph="1" paragraph_position="140" text="the" />
-      <extra dep="det" ent_iob="2" ent_type="" head="4" lemma="the" orth="the" pos="DET" prefix="t" shape="xxx" suffix="the" tag="DT" />
     </node>
     <node ID="0.141" type="Word">
       <attributes paragraph="1" paragraph_position="141" text="most" />
-      <extra dep="advmod" ent_iob="2" ent_type="" head="1" lemma="most" orth="most" pos="ADV" prefix="m" shape="xxxx" suffix="ost" tag="RBS" />
     </node>
     <node ID="0.142" type="Word">
       <attributes paragraph="1" paragraph_position="142" text="challenging" />
-      <extra dep="amod" ent_iob="2" ent_type="" head="2" lemma="challenging" orth="challenging" pos="ADJ" prefix="c" shape="xxxx" suffix="ing" tag="JJ" />
     </node>
     <node ID="0.143" type="Word">
       <attributes paragraph="1" paragraph_position="143" text="female" />
-      <extra dep="amod" ent_iob="2" ent_type="" head="1" lemma="female" orth="female" pos="ADJ" prefix="f" shape="xxxx" suffix="ale" tag="JJ" />
     </node>
     <node ID="0.144" type="Word">
       <attributes paragraph="1" paragraph_position="144" text="role" />
-      <extra dep="appos" ent_iob="2" ent_type="" head="-6" lemma="role" orth="role" pos="NOUN" prefix="r" shape="xxxx" suffix="ole" tag="NN" />
     </node>
     <node ID="0.145" type="Word">
       <attributes paragraph="1" paragraph_position="145" text="in" />
-      <extra dep="prep" ent_iob="2" ent_type="" head="-1" lemma="in" orth="in" pos="ADP" prefix="i" shape="xx" suffix="in" tag="IN" />
     </node>
     <node ID="0.146" type="Word">
       <attributes paragraph="1" paragraph_position="146" text="American" />
-      <extra dep="amod" ent_iob="3" ent_type="NORP" head="1" lemma="american" orth="American" pos="ADJ" prefix="A" shape="Xxxxx" suffix="can" tag="JJ" />
     </node>
     <node ID="0.147" type="Word">
       <attributes paragraph="1" paragraph_position="147" text="drama" />
-      <extra dep="pobj" ent_iob="2" ent_type="" head="-2" lemma="drama" orth="drama" pos="NOUN" prefix="d" shape="xxxx" suffix="ama" tag="NN" />
     </node>
     <node ID="0.148" type="Punctuation">
       <attributes paragraph="1" paragraph_position="148" text="&quot;" />
-      <extra dep="punct" ent_iob="2" ent_type="" head="-32" lemma="&quot;" orth="&quot;" pos="PUNCT" prefix="&quot;" shape="&quot;" suffix="&quot;" tag="''" />
     </node>
     <node ID="0.149" type="Punctuation">
       <attributes paragraph="1" paragraph_position="149" text="," />
-      <extra dep="punct" ent_iob="2" ent_type="" head="-33" lemma="," orth="," pos="PUNCT" prefix="," shape="," suffix="," tag="," />
     </node>
     <node ID="0.150" type="Word">
       <attributes paragraph="1" paragraph_position="150" text="and" />
-      <extra dep="cc" ent_iob="2" ent_type="" head="-34" lemma="and" orth="and" pos="CCONJ" prefix="a" shape="xxx" suffix="and" tag="CC" />
     </node>
     <node ID="0.151" type="Word">
       <attributes paragraph="1" paragraph_position="151" text="felt" />
-      <extra dep="conj" ent_iob="2" ent_type="" head="-35" lemma="feel" orth="felt" pos="VERB" prefix="f" shape="xxxx" suffix="elt" tag="VBD" />
     </node>
     <node ID="0.152" type="Word">
       <attributes paragraph="1" paragraph_position="152" text="her" />
-      <extra dep="poss" ent_iob="2" ent_type="" head="1" lemma="-PRON-" orth="her" pos="ADJ" prefix="h" shape="xxx" suffix="her" tag="PRP$" />
     </node>
     <node ID="0.153" type="Word">
       <attributes paragraph="1" paragraph_position="153" text="performance" />
-      <extra dep="nsubj" ent_iob="2" ent_type="" head="1" lemma="performance" orth="performance" pos="NOUN" prefix="p" shape="xxxx" suffix="nce" tag="NN" />
     </node>
     <node ID="0.154" type="Word">
       <attributes paragraph="1" paragraph_position="154" text="was" />
-      <extra dep="ccomp" ent_iob="2" ent_type="" head="-3" lemma="be" orth="was" pos="VERB" prefix="w" shape="xxx" suffix="was" tag="VBD" />
     </node>
     <node ID="0.155" type="Word">
       <attributes paragraph="1" paragraph_position="155" text="the" />
-      <extra dep="det" ent_iob="2" ent_type="" head="3" lemma="the" orth="the" pos="DET" prefix="t" shape="xxx" suffix="the" tag="DT" />
     </node>
     <node ID="0.156" type="Word">
       <attributes paragraph="1" paragraph_position="156" text="best" />
-      <extra dep="amod" ent_iob="2" ent_type="" head="2" lemma="good" orth="best" pos="ADJ" prefix="b" shape="xxxx" suffix="est" tag="JJS" />
     </node>
     <node ID="0.157" type="Word">
       <attributes paragraph="1" paragraph_position="157" text="screen" />
-      <extra dep="compound" ent_iob="2" ent_type="" head="1" lemma="screen" orth="screen" pos="NOUN" prefix="s" shape="xxxx" suffix="een" tag="NN" />
     </node>
     <node ID="0.158" type="Word">
       <attributes paragraph="1" paragraph_position="158" text="work" />
-      <extra dep="attr" ent_iob="2" ent_type="" head="-4" lemma="work" orth="work" pos="NOUN" prefix="w" shape="xxxx" suffix="ork" tag="NN" />
     </node>
     <node ID="0.159" type="Word">
       <attributes paragraph="1" paragraph_position="159" text="of" />
-      <extra dep="prep" ent_iob="2" ent_type="" head="-1" lemma="of" orth="of" pos="ADP" prefix="o" shape="xx" suffix="of" tag="IN" />
     </node>
     <node ID="0.160" type="Word">
       <attributes paragraph="1" paragraph_position="160" text="her" />
-      <extra dep="poss" ent_iob="2" ent_type="" head="1" lemma="-PRON-" orth="her" pos="ADJ" prefix="h" shape="xxx" suffix="her" tag="PRP$" />
     </node>
     <node ID="0.161" type="Word">
       <attributes paragraph="1" paragraph_position="161" text="career" />
-      <extra dep="pobj" ent_iob="2" ent_type="" head="-2" lemma="career" orth="career" pos="NOUN" prefix="c" shape="xxxx" suffix="eer" tag="NN" />
     </node>
     <node ID="0.162" type="Punctuation">
       <attributes paragraph="1" paragraph_position="162" text="." />
-      <extra dep="punct" ent_iob="2" ent_type="" head="-46" lemma="." orth="." pos="PUNCT" prefix="." shape="." suffix="." tag="." />
     </node>
     <node ID="0.163" type="Word">
       <attributes paragraph="1" paragraph_position="163" text="Long" />
-      <extra dep="compound" ent_iob="3" ent_type="PERSON" head="1" lemma="long" orth="Long" pos="PROPN" prefix="L" shape="Xxxx" suffix="ong" tag="NNP" />
     </node>
     <node ID="0.164" type="Word">
       <attributes paragraph="1" paragraph_position="164" text="Day" />
-      <extra dep="poss" ent_iob="1" ent_type="PERSON" head="2" lemma="day" orth="Day" pos="PROPN" prefix="D" shape="Xxx" suffix="Day" tag="NNP" />
     </node>
     <node ID="0.165" type="Word">
       <attributes paragraph="1" paragraph_position="165" text="'s" />
-      <extra dep="case" ent_iob="1" ent_type="PERSON" head="-1" lemma="'s" orth="'s" pos="PART" prefix="'" shape="'x" suffix="'s" tag="POS" />
     </node>
     <node ID="0.166" type="Word">
       <attributes paragraph="1" paragraph_position="166" text="Journey" />
-      <extra dep="nsubj" ent_iob="3" ent_type="WORK_OF_ART" head="3" lemma="journey" orth="Journey" pos="PROPN" prefix="J" shape="Xxxxx" suffix="ney" tag="NNP" />
     </node>
     <node ID="0.167" type="Word">
       <attributes paragraph="1" paragraph_position="167" text="Into" />
-      <extra dep="prep" ent_iob="1" ent_type="WORK_OF_ART" head="-1" lemma="into" orth="Into" pos="ADV" prefix="I" shape="Xxxx" suffix="nto" tag="RB" />
     </node>
     <node ID="0.168" type="Word">
       <attributes paragraph="1" paragraph_position="168" text="Night" />
-      <extra dep="pobj" ent_iob="1" ent_type="WORK_OF_ART" head="-1" lemma="night" orth="Night" pos="PROPN" prefix="N" shape="Xxxxx" suffix="ght" tag="NNP" />
     </node>
     <node ID="0.169" type="Word">
       <attributes paragraph="1" paragraph_position="169" text="earned" />
-      <extra dep="ROOT" ent_iob="2" ent_type="" head="0" lemma="earn" orth="earned" pos="VERB" prefix="e" shape="xxxx" suffix="ned" tag="VBD" />
     </node>
     <node ID="0.170" type="Word">
       <attributes paragraph="1" paragraph_position="170" text="Hepburn" />
-      <extra dep="dative" ent_iob="3" ent_type="PRODUCT" head="-1" lemma="hepburn" orth="Hepburn" pos="PROPN" prefix="H" shape="Xxxxx" suffix="urn" tag="NNP" />
     </node>
     <node ID="0.171" type="Word">
       <attributes paragraph="1" paragraph_position="171" text="an" />
-      <extra dep="det" ent_iob="2" ent_type="" head="2" lemma="an" orth="an" pos="DET" prefix="a" shape="xx" suffix="an" tag="DT" />
     </node>
     <node ID="0.172" type="Word">
       <attributes paragraph="1" paragraph_position="172" text="Oscar" />
-      <extra dep="compound" ent_iob="3" ent_type="WORK_OF_ART" head="1" lemma="oscar" orth="Oscar" pos="PROPN" prefix="O" shape="Xxxxx" suffix="car" tag="NNP" />
     </node>
     <node ID="0.173" type="Word">
       <attributes paragraph="1" paragraph_position="173" text="nomination" />
-      <extra dep="dobj" ent_iob="2" ent_type="" head="-4" lemma="nomination" orth="nomination" pos="NOUN" prefix="n" shape="xxxx" suffix="ion" tag="NN" />
     </node>
     <node ID="0.174" type="Word">
       <attributes paragraph="1" paragraph_position="174" text="and" />
-      <extra dep="cc" ent_iob="2" ent_type="" head="-1" lemma="and" orth="and" pos="CCONJ" prefix="a" shape="xxx" suffix="and" tag="CC" />
     </node>
     <node ID="0.175" type="Word">
       <attributes paragraph="1" paragraph_position="175" text="the" />
-      <extra dep="det" ent_iob="3" ent_type="WORK_OF_ART" head="3" lemma="the" orth="the" pos="DET" prefix="t" shape="xxx" suffix="the" tag="DT" />
     </node>
     <node ID="0.176" type="Word">
       <attributes paragraph="1" paragraph_position="176" text="Best" />
-      <extra dep="compound" ent_iob="1" ent_type="WORK_OF_ART" head="1" lemma="good" orth="Best" pos="ADJ" prefix="B" shape="Xxxx" suffix="est" tag="JJS" />
     </node>
     <node ID="0.177" type="Word">
       <attributes paragraph="1" paragraph_position="177" text="Actress" />
-      <extra dep="compound" ent_iob="1" ent_type="WORK_OF_ART" head="1" lemma="actress" orth="Actress" pos="PROPN" prefix="A" shape="Xxxxx" suffix="ess" tag="NNP" />
     </node>
     <node ID="0.178" type="Word">
       <attributes paragraph="1" paragraph_position="178" text="Award" />
-      <extra dep="conj" ent_iob="1" ent_type="WORK_OF_ART" head="-5" lemma="award" orth="Award" pos="PROPN" prefix="A" shape="Xxxxx" suffix="ard" tag="NNP" />
     </node>
     <node ID="0.179" type="Word">
       <attributes paragraph="1" paragraph_position="179" text="at" />
-      <extra dep="prep" ent_iob="2" ent_type="" head="-1" lemma="at" orth="at" pos="ADP" prefix="a" shape="xx" suffix="at" tag="IN" />
     </node>
     <node ID="0.180" type="Word">
       <attributes paragraph="1" paragraph_position="180" text="the" />
-      <extra dep="det" ent_iob="3" ent_type="EVENT" head="3" lemma="the" orth="the" pos="DET" prefix="t" shape="xxx" suffix="the" tag="DT" />
     </node>
     <node ID="0.181" type="Word">
       <attributes paragraph="1" paragraph_position="181" text="Cannes" />
-      <extra dep="compound" ent_iob="1" ent_type="EVENT" head="2" lemma="cannes" orth="Cannes" pos="PROPN" prefix="C" shape="Xxxxx" suffix="nes" tag="NNP" />
     </node>
     <node ID="0.182" type="Word">
       <attributes paragraph="1" paragraph_position="182" text="Film" />
-      <extra dep="compound" ent_iob="1" ent_type="EVENT" head="1" lemma="film" orth="Film" pos="PROPN" prefix="F" shape="Xxxx" suffix="ilm" tag="NNP" />
     </node>
     <node ID="0.183" type="Word">
       <attributes paragraph="1" paragraph_position="183" text="Festival" />
-      <extra dep="pobj" ent_iob="1" ent_type="EVENT" head="-4" lemma="festival" orth="Festival" pos="PROPN" prefix="F" shape="Xxxxx" suffix="val" tag="NNP" />
     </node>
     <node ID="0.184" type="Punctuation">
       <attributes paragraph="1" paragraph_position="184" text="." />
-      <extra dep="punct" ent_iob="2" ent_type="" head="-15" lemma="." orth="." pos="PUNCT" prefix="." shape="." suffix="." tag="." />
     </node>
     <node ID="0.185" type="Word">
       <attributes paragraph="1" paragraph_position="185" text="It" />
-      <extra dep="nsubj" ent_iob="2" ent_type="" head="1" lemma="-PRON-" orth="It" pos="PRON" prefix="I" shape="Xx" suffix="It" tag="PRP" />
     </node>
     <node ID="0.186" type="Word">
       <attributes paragraph="1" paragraph_position="186" text="remains" />
-      <extra dep="ROOT" ent_iob="2" ent_type="" head="0" lemma="remain" orth="remains" pos="VERB" prefix="r" shape="xxxx" suffix="ins" tag="VBZ" />
     </node>
     <node ID="0.187" type="Word">
       <attributes paragraph="1" paragraph_position="187" text="one" />
-      <extra dep="attr" ent_iob="2" ent_type="" head="-1" lemma="one" orth="one" pos="NUM" prefix="o" shape="xxx" suffix="one" tag="CD" />
     </node>
     <node ID="0.188" type="Word">
       <attributes paragraph="1" paragraph_position="188" text="of" />
-      <extra dep="prep" ent_iob="2" ent_type="" head="-1" lemma="of" orth="of" pos="ADP" prefix="o" shape="xx" suffix="of" tag="IN" />
     </node>
     <node ID="0.189" type="Word">
       <attributes paragraph="1" paragraph_position="189" text="her" />
-      <extra dep="poss" ent_iob="2" ent_type="" head="3" lemma="-PRON-" orth="her" pos="PRON" prefix="h" shape="xxx" suffix="her" tag="PRP" />
     </node>
     <node ID="0.190" type="Word">
       <attributes paragraph="1" paragraph_position="190" text="most" />
-      <extra dep="advmod" ent_iob="2" ent_type="" head="1" lemma="most" orth="most" pos="ADV" prefix="m" shape="xxxx" suffix="ost" tag="RBS" />
     </node>
     <node ID="0.191" type="Word">
       <attributes paragraph="1" paragraph_position="191" text="praised" />
-      <extra dep="amod" ent_iob="2" ent_type="" head="1" lemma="praise" orth="praised" pos="VERB" prefix="p" shape="xxxx" suffix="sed" tag="VBN" />
     </node>
     <node ID="0.192" type="Word">
       <attributes paragraph="1" paragraph_position="192" text="performances" />
-      <extra dep="pobj" ent_iob="2" ent_type="" head="-4" lemma="performance" orth="performances" pos="NOUN" prefix="p" shape="xxxx" suffix="ces" tag="NNS" />
     </node>
     <node ID="0.193" type="Punctuation">
       <attributes paragraph="1" paragraph_position="193" text="." />
-      <extra dep="punct" ent_iob="2" ent_type="" head="-7" lemma="." orth="." pos="PUNCT" prefix="." shape="." suffix="." tag="." />
     </node>
     <node ID="0.194" type="Word">
       <attributes paragraph="2" paragraph_position="1" text="Following" />
-      <extra dep="prep" ent_iob="2" ent_type="" head="12" lemma="follow" orth="Following" pos="VERB" prefix="F" shape="Xxxxx" suffix="ing" tag="VBG" />
     </node>
     <node ID="0.195" type="Word">
       <attributes paragraph="2" paragraph_position="2" text="the" />
-      <extra dep="det" ent_iob="2" ent_type="" head="1" lemma="the" orth="the" pos="DET" prefix="t" shape="xxx" suffix="the" tag="DT" />
     </node>
     <node ID="0.196" type="Word">
       <attributes paragraph="2" paragraph_position="3" text="completion" />
-      <extra dep="pobj" ent_iob="2" ent_type="" head="-2" lemma="completion" orth="completion" pos="NOUN" prefix="c" shape="xxxx" suffix="ion" tag="NN" />
     </node>
     <node ID="0.197" type="Word">
       <attributes paragraph="2" paragraph_position="4" text="of" />
-      <extra dep="prep" ent_iob="2" ent_type="" head="-1" lemma="of" orth="of" pos="ADP" prefix="o" shape="xx" suffix="of" tag="IN" />
     </node>
     <node ID="0.198" type="Word">
       <attributes paragraph="2" paragraph_position="5" text="Long" />
-      <extra dep="compound" ent_iob="2" ent_type="" head="1" lemma="long" orth="Long" pos="PROPN" prefix="L" shape="Xxxx" suffix="ong" tag="NNP" />
     </node>
     <node ID="0.199" type="Word">
       <attributes paragraph="2" paragraph_position="6" text="Day" />
-      <extra dep="poss" ent_iob="2" ent_type="" head="2" lemma="day" orth="Day" pos="PROPN" prefix="D" shape="Xxx" suffix="Day" tag="NNP" />
     </node>
     <node ID="0.200" type="Word">
       <attributes paragraph="2" paragraph_position="7" text="'s" />
-      <extra dep="case" ent_iob="2" ent_type="" head="-1" lemma="'s" orth="'s" pos="PART" prefix="'" shape="'x" suffix="'s" tag="POS" />
     </node>
     <node ID="0.201" type="Word">
       <attributes paragraph="2" paragraph_position="8" text="Journey" />
-      <extra dep="pobj" ent_iob="3" ent_type="WORK_OF_ART" head="-4" lemma="journey" orth="Journey" pos="PROPN" prefix="J" shape="Xxxxx" suffix="ney" tag="NNP" />
     </node>
     <node ID="0.202" type="Word">
       <attributes paragraph="2" paragraph_position="9" text="Into" />
-      <extra dep="prep" ent_iob="1" ent_type="WORK_OF_ART" head="-1" lemma="into" orth="Into" pos="PROPN" prefix="I" shape="Xxxx" suffix="nto" tag="NNP" />
     </node>
     <node ID="0.203" type="Word">
       <attributes paragraph="2" paragraph_position="10" text="Night" />
-      <extra dep="pobj" ent_iob="1" ent_type="WORK_OF_ART" head="-1" lemma="night" orth="Night" pos="PROPN" prefix="N" shape="Xxxxx" suffix="ght" tag="NNP" />
     </node>
     <node ID="0.204" type="Punctuation">
       <attributes paragraph="2" paragraph_position="11" text="," />
-      <extra dep="punct" ent_iob="1" ent_type="WORK_OF_ART" head="2" lemma="," orth="," pos="PUNCT" prefix="," shape="," suffix="," tag="," />
     </node>
     <node ID="0.205" type="Word">
       <attributes paragraph="2" paragraph_position="12" text="Hepburn" />
-      <extra dep="nsubj" ent_iob="1" ent_type="WORK_OF_ART" head="1" lemma="hepburn" orth="Hepburn" pos="PROPN" prefix="H" shape="Xxxxx" suffix="urn" tag="NNP" />
     </node>
     <node ID="0.206" type="Word">
       <attributes paragraph="2" paragraph_position="13" text="took" />
-      <extra dep="ROOT" ent_iob="2" ent_type="" head="0" lemma="take" orth="took" pos="VERB" prefix="t" shape="xxxx" suffix="ook" tag="VBD" />
     </node>
     <node ID="0.207" type="Word">
       <attributes paragraph="2" paragraph_position="14" text="a" />
-      <extra dep="det" ent_iob="2" ent_type="" head="1" lemma="a" orth="a" pos="DET" prefix="a" shape="x" suffix="a" tag="DT" />
     </node>
     <node ID="0.208" type="Word">
       <attributes paragraph="2" paragraph_position="15" text="break" />
-      <extra dep="dobj" ent_iob="2" ent_type="" head="-2" lemma="break" orth="break" pos="NOUN" prefix="b" shape="xxxx" suffix="eak" tag="NN" />
     </node>
     <node ID="0.209" type="Word">
       <attributes paragraph="2" paragraph_position="16" text="in" />
-      <extra dep="prep" ent_iob="2" ent_type="" head="-3" lemma="in" orth="in" pos="ADP" prefix="i" shape="xx" suffix="in" tag="IN" />
     </node>
     <node ID="0.210" type="Word">
       <attributes paragraph="2" paragraph_position="17" text="her" />
-      <extra dep="poss" ent_iob="2" ent_type="" head="1" lemma="-PRON-" orth="her" pos="ADJ" prefix="h" shape="xxx" suffix="her" tag="PRP$" />
     </node>
     <node ID="0.211" type="Word">
       <attributes paragraph="2" paragraph_position="18" text="career" />
-      <extra dep="pobj" ent_iob="2" ent_type="" head="-2" lemma="career" orth="career" pos="NOUN" prefix="c" shape="xxxx" suffix="eer" tag="NN" />
     </node>
     <node ID="0.212" type="Word">
       <attributes paragraph="2" paragraph_position="19" text="to" />
-      <extra dep="aux" ent_iob="2" ent_type="" head="1" lemma="to" orth="to" pos="PART" prefix="t" shape="xx" suffix="to" tag="TO" />
     </node>
     <node ID="0.213" type="Word">
       <attributes paragraph="2" paragraph_position="20" text="care" />
-      <extra dep="advcl" ent_iob="2" ent_type="" head="-7" lemma="care" orth="care" pos="VERB" prefix="c" shape="xxxx" suffix="are" tag="VB" />
     </node>
     <node ID="0.214" type="Word">
       <attributes paragraph="2" paragraph_position="21" text="for" />
-      <extra dep="prep" ent_iob="2" ent_type="" head="-1" lemma="for" orth="for" pos="ADP" prefix="f" shape="xxx" suffix="for" tag="IN" />
     </node>
     <node ID="0.215" type="Word">
       <attributes paragraph="2" paragraph_position="22" text="the" />
-      <extra dep="det" ent_iob="2" ent_type="" head="3" lemma="the" orth="the" pos="DET" prefix="t" shape="xxx" suffix="the" tag="DT" />
     </node>
     <node ID="0.216" type="Word">
       <attributes paragraph="2" paragraph_position="23" text="ailing" />
-      <extra dep="amod" ent_iob="2" ent_type="" head="2" lemma="ailing" orth="ailing" pos="ADJ" prefix="a" shape="xxxx" suffix="ing" tag="JJ" />
     </node>
     <node ID="0.217" type="Word">
       <attributes paragraph="2" paragraph_position="24" text="Spencer" />
-      <extra dep="compound" ent_iob="3" ent_type="PERSON" head="1" lemma="spencer" orth="Spencer" pos="PROPN" prefix="S" shape="Xxxxx" suffix="cer" tag="NNP" />
     </node>
     <node ID="0.218" type="Word">
       <attributes paragraph="2" paragraph_position="25" text="Tracy" />
-      <extra dep="pobj" ent_iob="1" ent_type="PERSON" head="-4" lemma="tracy" orth="Tracy" pos="PROPN" prefix="T" shape="Xxxxx" suffix="acy" tag="NNP" />
     </node>
     <node ID="0.219" type="Punctuation">
       <attributes paragraph="2" paragraph_position="26" text="." />
-      <extra dep="punct" ent_iob="2" ent_type="" head="-13" lemma="." orth="." pos="PUNCT" prefix="." shape="." suffix="." tag="." />
     </node>
     <node ID="0.220" type="Word">
       <attributes paragraph="2" paragraph_position="27" text="She" />
-      <extra dep="nsubj" ent_iob="2" ent_type="" head="3" lemma="-PRON-" orth="She" pos="PRON" prefix="S" shape="Xxx" suffix="She" tag="PRP" />
     </node>
     <node ID="0.221" type="Word">
       <attributes paragraph="2" paragraph_position="28" text="did" />
-      <extra dep="aux" ent_iob="2" ent_type="" head="2" lemma="do" orth="did" pos="VERB" prefix="d" shape="xxx" suffix="did" tag="VBD" />
     </node>
     <node ID="0.222" type="Word">
       <attributes paragraph="2" paragraph_position="29" text="not" />
-      <extra dep="neg" ent_iob="2" ent_type="" head="1" lemma="not" orth="not" pos="ADV" prefix="n" shape="xxx" suffix="not" tag="RB" />
     </node>
     <node ID="0.223" type="Word">
       <attributes paragraph="2" paragraph_position="30" text="work" />
-      <extra dep="ROOT" ent_iob="2" ent_type="" head="0" lemma="work" orth="work" pos="VERB" prefix="w" shape="xxxx" suffix="ork" tag="VB" />
     </node>
     <node ID="0.224" type="Word">
       <attributes paragraph="2" paragraph_position="31" text="again" />
-      <extra dep="advmod" ent_iob="2" ent_type="" head="-1" lemma="again" orth="again" pos="ADV" prefix="a" shape="xxxx" suffix="ain" tag="RB" />
     </node>
     <node ID="0.225" type="Word">
       <attributes paragraph="2" paragraph_position="32" text="until" />
-      <extra dep="prep" ent_iob="2" ent_type="" head="-2" lemma="until" orth="until" pos="ADP" prefix="u" shape="xxxx" suffix="til" tag="IN" />
     </node>
     <node ID="0.226" type="Word">
       <attributes paragraph="2" paragraph_position="33" text="1967" />
-      <extra dep="poss" ent_iob="3" ent_type="DATE" head="2" lemma="1967" orth="1967" pos="NUM" prefix="1" shape="dddd" suffix="967" tag="CD" />
     </node>
     <node ID="0.227" type="Word">
       <attributes paragraph="2" paragraph_position="34" text="'s" />
-      <extra dep="case" ent_iob="2" ent_type="" head="-1" lemma="'s" orth="'s" pos="PART" prefix="'" shape="'x" suffix="'s" tag="POS" />
     </node>
     <node ID="0.228" type="Word">
       <attributes paragraph="2" paragraph_position="35" text="Guess" />
-      <extra dep="pobj" ent_iob="2" ent_type="" head="-3" lemma="guess" orth="Guess" pos="VERB" prefix="G" shape="Xxxxx" suffix="ess" tag="VB" />
     </node>
     <node ID="0.229" type="Word">
       <attributes paragraph="2" paragraph_position="36" text="Who" />
-      <extra dep="nsubj" ent_iob="2" ent_type="" head="2" lemma="who" orth="Who" pos="NOUN" prefix="W" shape="Xxx" suffix="Who" tag="WP" />
     </node>
     <node ID="0.230" type="Word">
       <attributes paragraph="2" paragraph_position="37" text="'s" />
-      <extra dep="aux" ent_iob="2" ent_type="" head="1" lemma="be" orth="'s" pos="VERB" prefix="'" shape="'x" suffix="'s" tag="VBZ" />
     </node>
     <node ID="0.231" type="Word">
       <attributes paragraph="2" paragraph_position="38" text="Coming" />
-      <extra dep="advcl" ent_iob="2" ent_type="" head="6" lemma="come" orth="Coming" pos="VERB" prefix="C" shape="Xxxxx" suffix="ing" tag="VBG" />
     </node>
     <node ID="0.232" type="Word">
       <attributes paragraph="2" paragraph_position="39" text="to" />
-      <extra dep="prep" ent_iob="2" ent_type="" head="-1" lemma="to" orth="to" pos="ADP" prefix="t" shape="xx" suffix="to" tag="IN" />
     </node>
     <node ID="0.233" type="Word">
       <attributes paragraph="2" paragraph_position="40" text="Dinner" />
-      <extra dep="pobj" ent_iob="2" ent_type="" head="-1" lemma="dinner" orth="Dinner" pos="PROPN" prefix="D" shape="Xxxxx" suffix="ner" tag="NNP" />
     </node>
     <node ID="0.234" type="Punctuation">
       <attributes paragraph="2" paragraph_position="41" text="," />
-      <extra dep="punct" ent_iob="2" ent_type="" head="3" lemma="," orth="," pos="PUNCT" prefix="," shape="," suffix="," tag="," />
     </node>
     <node ID="0.235" type="Word">
       <attributes paragraph="2" paragraph_position="42" text="her" />
-      <extra dep="poss" ent_iob="2" ent_type="" head="2" lemma="-PRON-" orth="her" pos="ADJ" prefix="h" shape="xxx" suffix="her" tag="PRP$" />
     </node>
     <node ID="0.236" type="Word">
       <attributes paragraph="2" paragraph_position="43" text="ninth" />
-      <extra dep="amod" ent_iob="3" ent_type="ORDINAL" head="1" lemma="ninth" orth="ninth" pos="ADJ" prefix="n" shape="xxxx" suffix="nth" tag="JJ" />
     </node>
     <node ID="0.237" type="Word">
       <attributes paragraph="2" paragraph_position="44" text="film" />
-      <extra dep="ROOT" ent_iob="2" ent_type="" head="0" lemma="film" orth="film" pos="NOUN" prefix="f" shape="xxxx" suffix="ilm" tag="NN" />
     </node>
     <node ID="0.238" type="Word">
       <attributes paragraph="2" paragraph_position="45" text="with" />
-      <extra dep="prep" ent_iob="2" ent_type="" head="-1" lemma="with" orth="with" pos="ADP" prefix="w" shape="xxxx" suffix="ith" tag="IN" />
     </node>
     <node ID="0.239" type="Word">
       <attributes paragraph="2" paragraph_position="46" text="Tracy" />
-      <extra dep="pobj" ent_iob="3" ent_type="PERSON" head="-1" lemma="tracy" orth="Tracy" pos="PROPN" prefix="T" shape="Xxxxx" suffix="acy" tag="NNP" />
     </node>
     <node ID="0.240" type="Punctuation">
       <attributes paragraph="2" paragraph_position="47" text="." />
-      <extra dep="punct" ent_iob="2" ent_type="" head="-3" lemma="." orth="." pos="PUNCT" prefix="." shape="." suffix="." tag="." />
     </node>
     <node ID="0.241" type="Word">
       <attributes paragraph="2" paragraph_position="48" text="The" />
-      <extra dep="det" ent_iob="2" ent_type="" head="1" lemma="the" orth="The" pos="DET" prefix="T" shape="Xxx" suffix="The" tag="DT" />
     </node>
     <node ID="0.242" type="Word">
       <attributes paragraph="2" paragraph_position="49" text="movie" />
-      <extra dep="nsubj" ent_iob="2" ent_type="" head="1" lemma="movie" orth="movie" pos="NOUN" prefix="m" shape="xxxx" suffix="vie" tag="NN" />
     </node>
     <node ID="0.243" type="Word">
       <attributes paragraph="2" paragraph_position="50" text="dealt" />
-      <extra dep="ROOT" ent_iob="2" ent_type="" head="0" lemma="deal" orth="dealt" pos="VERB" prefix="d" shape="xxxx" suffix="alt" tag="VBD" />
     </node>
     <node ID="0.244" type="Word">
       <attributes paragraph="2" paragraph_position="51" text="with" />
-      <extra dep="prep" ent_iob="2" ent_type="" head="-1" lemma="with" orth="with" pos="ADP" prefix="w" shape="xxxx" suffix="ith" tag="IN" />
     </node>
     <node ID="0.245" type="Word">
       <attributes paragraph="2" paragraph_position="52" text="the" />
-      <extra dep="det" ent_iob="2" ent_type="" head="1" lemma="the" orth="the" pos="DET" prefix="t" shape="xxx" suffix="the" tag="DT" />
     </node>
     <node ID="0.246" type="Word">
       <attributes paragraph="2" paragraph_position="53" text="subject" />
-      <extra dep="pobj" ent_iob="2" ent_type="" head="-2" lemma="subject" orth="subject" pos="NOUN" prefix="s" shape="xxxx" suffix="ect" tag="NN" />
     </node>
     <node ID="0.247" type="Word">
       <attributes paragraph="2" paragraph_position="54" text="of" />
-      <extra dep="prep" ent_iob="2" ent_type="" head="-1" lemma="of" orth="of" pos="ADP" prefix="o" shape="xx" suffix="of" tag="IN" />
     </node>
     <node ID="0.248" type="Word">
       <attributes paragraph="2" paragraph_position="55" text="interracial" />
-      <extra dep="amod" ent_iob="2" ent_type="" head="1" lemma="interracial" orth="interracial" pos="ADJ" prefix="i" shape="xxxx" suffix="ial" tag="JJ" />
     </node>
     <node ID="0.249" type="Word">
       <attributes paragraph="2" paragraph_position="56" text="marriage" />
-      <extra dep="pobj" ent_iob="2" ent_type="" head="-2" lemma="marriage" orth="marriage" pos="NOUN" prefix="m" shape="xxxx" suffix="age" tag="NN" />
     </node>
     <node ID="0.250" type="Punctuation">
       <attributes paragraph="2" paragraph_position="57" text="," />
-      <extra dep="punct" ent_iob="2" ent_type="" head="-7" lemma="," orth="," pos="PUNCT" prefix="," shape="," suffix="," tag="," />
     </node>
     <node ID="0.251" type="Word">
       <attributes paragraph="2" paragraph_position="58" text="with" />
-      <extra dep="prep" ent_iob="2" ent_type="" head="-8" lemma="with" orth="with" pos="ADP" prefix="w" shape="xxxx" suffix="ith" tag="IN" />
     </node>
     <node ID="0.252" type="Word">
       <attributes paragraph="2" paragraph_position="59" text="Hepburn" />
-      <extra dep="poss" ent_iob="3" ent_type="PERSON" head="2" lemma="hepburn" orth="Hepburn" pos="PROPN" prefix="H" shape="Xxxxx" suffix="urn" tag="NNP" />
     </node>
     <node ID="0.253" type="Word">
       <attributes paragraph="2" paragraph_position="60" text="'s" />
-      <extra dep="case" ent_iob="2" ent_type="" head="-1" lemma="'s" orth="'s" pos="PART" prefix="'" shape="'x" suffix="'s" tag="POS" />
     </node>
     <node ID="0.254" type="Word">
       <attributes paragraph="2" paragraph_position="61" text="niece" />
-      <extra dep="pobj" ent_iob="2" ent_type="" head="-3" lemma="niece" orth="niece" pos="NOUN" prefix="n" shape="xxxx" suffix="ece" tag="NN" />
     </node>
     <node ID="0.255" type="Punctuation">
       <attributes paragraph="2" paragraph_position="62" text="," />
-      <extra dep="punct" ent_iob="2" ent_type="" head="-1" lemma="," orth="," pos="PUNCT" prefix="," shape="," suffix="," tag="," />
     </node>
     <node ID="0.256" type="Word">
       <attributes paragraph="2" paragraph_position="63" text="Katharine" />
-      <extra dep="compound" ent_iob="3" ent_type="PERSON" head="1" lemma="katharine" orth="Katharine" pos="PROPN" prefix="K" shape="Xxxxx" suffix="ine" tag="NNP" />
     </node>
     <node ID="0.257" type="Word">
       <attributes paragraph="2" paragraph_position="64" text="Houghton" />
-      <extra dep="appos" ent_iob="1" ent_type="PERSON" head="-3" lemma="houghton" orth="Houghton" pos="PROPN" prefix="H" shape="Xxxxx" suffix="ton" tag="NNP" />
     </node>
     <node ID="0.258" type="Punctuation">
       <attributes paragraph="2" paragraph_position="65" text="," />
-      <extra dep="punct" ent_iob="2" ent_type="" head="-15" lemma="," orth="," pos="PUNCT" prefix="," shape="," suffix="," tag="," />
     </node>
     <node ID="0.259" type="Word">
       <attributes paragraph="2" paragraph_position="66" text="playing" />
-      <extra dep="advcl" ent_iob="2" ent_type="" head="-16" lemma="play" orth="playing" pos="VERB" prefix="p" shape="xxxx" suffix="ing" tag="VBG" />
     </node>
     <node ID="0.260" type="Word">
       <attributes paragraph="2" paragraph_position="67" text="her" />
-      <extra dep="poss" ent_iob="2" ent_type="" head="1" lemma="-PRON-" orth="her" pos="ADJ" prefix="h" shape="xxx" suffix="her" tag="PRP$" />
     </node>
     <node ID="0.261" type="Word">
       <attributes paragraph="2" paragraph_position="68" text="daughter" />
-      <extra dep="dobj" ent_iob="2" ent_type="" head="-2" lemma="daughter" orth="daughter" pos="NOUN" prefix="d" shape="xxxx" suffix="ter" tag="NN" />
     </node>
     <node ID="0.262" type="Punctuation">
       <attributes paragraph="2" paragraph_position="69" text="." />
-      <extra dep="punct" ent_iob="2" ent_type="" head="-19" lemma="." orth="." pos="PUNCT" prefix="." shape="." suffix="." tag="." />
     </node>
     <node ID="0.263" type="Word">
       <attributes paragraph="2" paragraph_position="70" text="Tracy" />
-      <extra dep="nsubj" ent_iob="3" ent_type="PERSON" head="2" lemma="tracy" orth="Tracy" pos="PROPN" prefix="T" shape="Xxxxx" suffix="acy" tag="NNP" />
     </node>
     <node ID="0.264" type="Word">
       <attributes paragraph="2" paragraph_position="71" text="was" />
-      <extra dep="aux" ent_iob="2" ent_type="" head="1" lemma="be" orth="was" pos="VERB" prefix="w" shape="xxx" suffix="was" tag="VBD" />
     </node>
     <node ID="0.265" type="Word">
       <attributes paragraph="2" paragraph_position="72" text="dying" />
-      <extra dep="ROOT" ent_iob="2" ent_type="" head="0" lemma="die" orth="dying" pos="VERB" prefix="d" shape="xxxx" suffix="ing" tag="VBG" />
     </node>
     <node ID="0.266" type="Word">
       <attributes paragraph="2" paragraph_position="73" text="by" />
-      <extra dep="prep" ent_iob="2" ent_type="" head="-1" lemma="by" orth="by" pos="ADP" prefix="b" shape="xx" suffix="by" tag="IN" />
     </node>
     <node ID="0.267" type="Word">
       <attributes paragraph="2" paragraph_position="74" text="this" />
-      <extra dep="det" ent_iob="2" ent_type="" head="1" lemma="this" orth="this" pos="DET" prefix="t" shape="xxxx" suffix="his" tag="DT" />
     </node>
     <node ID="0.268" type="Word">
       <attributes paragraph="2" paragraph_position="75" text="point" />
-      <extra dep="pobj" ent_iob="2" ent_type="" head="-2" lemma="point" orth="point" pos="NOUN" prefix="p" shape="xxxx" suffix="int" tag="NN" />
     </node>
     <node ID="0.269" type="Punctuation">
       <attributes paragraph="2" paragraph_position="76" text="," />
-      <extra dep="punct" ent_iob="2" ent_type="" head="-4" lemma="," orth="," pos="PUNCT" prefix="," shape="," suffix="," tag="," />
     </node>
     <node ID="0.270" type="Word">
       <attributes paragraph="2" paragraph_position="77" text="suffering" />
-      <extra dep="advcl" ent_iob="2" ent_type="" head="-5" lemma="suffer" orth="suffering" pos="VERB" prefix="s" shape="xxxx" suffix="ing" tag="VBG" />
     </node>
     <node ID="0.271" type="Word">
       <attributes paragraph="2" paragraph_position="78" text="the" />
-      <extra dep="det" ent_iob="2" ent_type="" head="1" lemma="the" orth="the" pos="DET" prefix="t" shape="xxx" suffix="the" tag="DT" />
     </node>
     <node ID="0.272" type="Word">
       <attributes paragraph="2" paragraph_position="79" text="effects" />
-      <extra dep="dobj" ent_iob="2" ent_type="" head="-2" lemma="effect" orth="effects" pos="NOUN" prefix="e" shape="xxxx" suffix="cts" tag="NNS" />
     </node>
     <node ID="0.273" type="Word">
       <attributes paragraph="2" paragraph_position="80" text="of" />
-      <extra dep="prep" ent_iob="2" ent_type="" head="-1" lemma="of" orth="of" pos="ADP" prefix="o" shape="xx" suffix="of" tag="IN" />
     </node>
     <node ID="0.274" type="Word">
       <attributes paragraph="2" paragraph_position="81" text="heart" />
-      <extra dep="compound" ent_iob="2" ent_type="" head="1" lemma="heart" orth="heart" pos="NOUN" prefix="h" shape="xxxx" suffix="art" tag="NN" />
     </node>
     <node ID="0.275" type="Word">
       <attributes paragraph="2" paragraph_position="82" text="disease" />
-      <extra dep="pobj" ent_iob="2" ent_type="" head="-2" lemma="disease" orth="disease" pos="NOUN" prefix="d" shape="xxxx" suffix="ase" tag="NN" />
     </node>
     <node ID="0.276" type="Punctuation">
       <attributes paragraph="2" paragraph_position="83" text="," />
-      <extra dep="punct" ent_iob="2" ent_type="" head="-11" lemma="," orth="," pos="PUNCT" prefix="," shape="," suffix="," tag="," />
     </node>
     <node ID="0.277" type="Word">
       <attributes paragraph="2" paragraph_position="84" text="and" />
-      <extra dep="cc" ent_iob="2" ent_type="" head="-12" lemma="and" orth="and" pos="CCONJ" prefix="a" shape="xxx" suffix="and" tag="CC" />
     </node>
     <node ID="0.278" type="Word">
       <attributes paragraph="2" paragraph_position="85" text="Houghton" />
-      <extra dep="nsubj" ent_iob="3" ent_type="GPE" head="2" lemma="houghton" orth="Houghton" pos="PROPN" prefix="H" shape="Xxxxx" suffix="ton" tag="NNP" />
     </node>
     <node ID="0.279" type="Word">
       <attributes paragraph="2" paragraph_position="86" text="later" />
-      <extra dep="advmod" ent_iob="2" ent_type="" head="1" lemma="later" orth="later" pos="ADV" prefix="l" shape="xxxx" suffix="ter" tag="RB" />
     </node>
     <node ID="0.280" type="Word">
       <attributes paragraph="2" paragraph_position="87" text="commented" />
-      <extra dep="conj" ent_iob="2" ent_type="" head="-15" lemma="comment" orth="commented" pos="VERB" prefix="c" shape="xxxx" suffix="ted" tag="VBD" />
     </node>
     <node ID="0.281" type="Word">
       <attributes paragraph="2" paragraph_position="88" text="that" />
-      <extra dep="mark" ent_iob="2" ent_type="" head="3" lemma="that" orth="that" pos="ADP" prefix="t" shape="xxxx" suffix="hat" tag="IN" />
     </node>
     <node ID="0.282" type="Word">
       <attributes paragraph="2" paragraph_position="89" text="her" />
-      <extra dep="poss" ent_iob="2" ent_type="" head="1" lemma="-PRON-" orth="her" pos="ADJ" prefix="h" shape="xxx" suffix="her" tag="PRP$" />
     </node>
     <node ID="0.283" type="Word">
       <attributes paragraph="2" paragraph_position="90" text="aunt" />
-      <extra dep="nsubj" ent_iob="2" ent_type="" head="1" lemma="aunt" orth="aunt" pos="NOUN" prefix="a" shape="xxxx" suffix="unt" tag="NN" />
     </node>
     <node ID="0.284" type="Word">
       <attributes paragraph="2" paragraph_position="91" text="was" />
-      <extra dep="ccomp" ent_iob="2" ent_type="" head="-4" lemma="be" orth="was" pos="VERB" prefix="w" shape="xxx" suffix="was" tag="VBD" />
     </node>
     <node ID="0.285" type="Punctuation">
       <attributes paragraph="2" paragraph_position="92" text="&quot;" />
-      <extra dep="punct" ent_iob="2" ent_type="" head="2" lemma="&quot;" orth="&quot;" pos="PUNCT" prefix="&quot;" shape="&quot;" suffix="&quot;" tag="``" />
     </node>
     <node ID="0.286" type="Word">
       <attributes paragraph="2" paragraph_position="93" text="extremely" />
-      <extra dep="advmod" ent_iob="2" ent_type="" head="1" lemma="extremely" orth="extremely" pos="ADV" prefix="e" shape="xxxx" suffix="ely" tag="RB" />
     </node>
     <node ID="0.287" type="Word">
       <attributes paragraph="2" paragraph_position="94" text="tense" />
-      <extra dep="acomp" ent_iob="2" ent_type="" head="-3" lemma="tense" orth="tense" pos="ADJ" prefix="t" shape="xxxx" suffix="nse" tag="JJ" />
     </node>
     <node ID="0.288" type="Punctuation">
       <attributes paragraph="2" paragraph_position="95" text="&quot;" />
-      <extra dep="punct" ent_iob="2" ent_type="" head="-4" lemma="&quot;" orth="&quot;" pos="PUNCT" prefix="&quot;" shape="&quot;" suffix="&quot;" tag="''" />
     </node>
     <node ID="0.289" type="Word">
       <attributes paragraph="2" paragraph_position="96" text="during" />
-      <extra dep="prep" ent_iob="2" ent_type="" head="-5" lemma="during" orth="during" pos="ADP" prefix="d" shape="xxxx" suffix="ing" tag="IN" />
     </node>
     <node ID="0.290" type="Word">
       <attributes paragraph="2" paragraph_position="97" text="the" />
-      <extra dep="det" ent_iob="2" ent_type="" head="1" lemma="the" orth="the" pos="DET" prefix="t" shape="xxx" suffix="the" tag="DT" />
     </node>
     <node ID="0.291" type="Word">
       <attributes paragraph="2" paragraph_position="98" text="production" />
-      <extra dep="pobj" ent_iob="2" ent_type="" head="-2" lemma="production" orth="production" pos="NOUN" prefix="p" shape="xxxx" suffix="ion" tag="NN" />
     </node>
     <node ID="0.292" type="Punctuation">
       <attributes paragraph="2" paragraph_position="99" text="." />
-      <extra dep="punct" ent_iob="2" ent_type="" head="-12" lemma="." orth="." pos="PUNCT" prefix="." shape="." suffix="." tag="." />
     </node>
     <node ID="0.293" type="Word">
       <attributes paragraph="2" paragraph_position="100" text="Tracy" />
-      <extra dep="nsubj" ent_iob="3" ent_type="PERSON" head="1" lemma="tracy" orth="Tracy" pos="PROPN" prefix="T" shape="Xxxxx" suffix="acy" tag="NNP" />
     </node>
     <node ID="0.294" type="Word">
       <attributes paragraph="2" paragraph_position="101" text="died" />
-      <extra dep="ROOT" ent_iob="2" ent_type="" head="0" lemma="die" orth="died" pos="VERB" prefix="d" shape="xxxx" suffix="ied" tag="VBD" />
     </node>
     <node ID="0.295" type="Word">
       <attributes paragraph="2" paragraph_position="102" text="17" />
-      <extra dep="nummod" ent_iob="3" ent_type="DATE" head="1" lemma="17" orth="17" pos="NUM" prefix="1" shape="dd" suffix="17" tag="CD" />
     </node>
     <node ID="0.296" type="Word">
       <attributes paragraph="2" paragraph_position="103" text="days" />
-      <extra dep="npadvmod" ent_iob="1" ent_type="DATE" head="-2" lemma="day" orth="days" pos="NOUN" prefix="d" shape="xxxx" suffix="ays" tag="NNS" />
     </node>
     <node ID="0.297" type="Word">
       <attributes paragraph="2" paragraph_position="104" text="after" />
-      <extra dep="prep" ent_iob="2" ent_type="" head="-3" lemma="after" orth="after" pos="ADP" prefix="a" shape="xxxx" suffix="ter" tag="IN" />
     </node>
     <node ID="0.298" type="Word">
       <attributes paragraph="2" paragraph_position="105" text="filming" />
-      <extra dep="pcomp" ent_iob="2" ent_type="" head="-1" lemma="film" orth="filming" pos="VERB" prefix="f" shape="xxxx" suffix="ing" tag="VBG" />
     </node>
     <node ID="0.299" type="Word">
       <attributes paragraph="2" paragraph_position="106" text="his" />
-      <extra dep="poss" ent_iob="2" ent_type="" head="2" lemma="-PRON-" orth="his" pos="ADJ" prefix="h" shape="xxx" suffix="his" tag="PRP$" />
     </node>
     <node ID="0.300" type="Word">
       <attributes paragraph="2" paragraph_position="107" text="last" />
-      <extra dep="amod" ent_iob="2" ent_type="" head="1" lemma="last" orth="last" pos="ADJ" prefix="l" shape="xxxx" suffix="ast" tag="JJ" />
     </node>
     <node ID="0.301" type="Word">
       <attributes paragraph="2" paragraph_position="108" text="scene" />
-      <extra dep="dobj" ent_iob="2" ent_type="" head="-3" lemma="scene" orth="scene" pos="NOUN" prefix="s" shape="xxxx" suffix="ene" tag="NN" />
     </node>
     <node ID="0.302" type="Punctuation">
       <attributes paragraph="2" paragraph_position="109" text="." />
-      <extra dep="punct" ent_iob="2" ent_type="" head="-8" lemma="." orth="." pos="PUNCT" prefix="." shape="." suffix="." tag="." />
     </node>
     <node ID="0.303" type="Word">
       <attributes paragraph="2" paragraph_position="110" text="Guess" />
-      <extra dep="ROOT" ent_iob="2" ent_type="" head="0" lemma="guess" orth="Guess" pos="VERB" prefix="G" shape="Xxxxx" suffix="ess" tag="VBP" />
     </node>
     <node ID="0.304" type="Word">
       <attributes paragraph="2" paragraph_position="111" text="Who" />
-      <extra dep="nsubj" ent_iob="2" ent_type="" head="2" lemma="who" orth="Who" pos="NOUN" prefix="W" shape="Xxx" suffix="Who" tag="WP" />
     </node>
     <node ID="0.305" type="Word">
       <attributes paragraph="2" paragraph_position="112" text="'s" />
-      <extra dep="aux" ent_iob="2" ent_type="" head="1" lemma="be" orth="'s" pos="VERB" prefix="'" shape="'x" suffix="'s" tag="VBZ" />
     </node>
     <node ID="0.306" type="Word">
       <attributes paragraph="2" paragraph_position="113" text="Coming" />
-      <extra dep="csubj" ent_iob="2" ent_type="" head="3" lemma="come" orth="Coming" pos="VERB" prefix="C" shape="Xxxxx" suffix="ing" tag="VBG" />
     </node>
     <node ID="0.307" type="Word">
       <attributes paragraph="2" paragraph_position="114" text="to" />
-      <extra dep="prep" ent_iob="2" ent_type="" head="-1" lemma="to" orth="to" pos="ADP" prefix="t" shape="xx" suffix="to" tag="IN" />
     </node>
     <node ID="0.308" type="Word">
       <attributes paragraph="2" paragraph_position="115" text="Dinner" />
-      <extra dep="pobj" ent_iob="2" ent_type="" head="-1" lemma="dinner" orth="Dinner" pos="PROPN" prefix="D" shape="Xxxxx" suffix="ner" tag="NNP" />
     </node>
     <node ID="0.309" type="Word">
       <attributes paragraph="2" paragraph_position="116" text="was" />
-      <extra dep="ROOT" ent_iob="2" ent_type="" head="0" lemma="be" orth="was" pos="VERB" prefix="w" shape="xxx" suffix="was" tag="VBD" />
     </node>
     <node ID="0.310" type="Word">
       <attributes paragraph="2" paragraph_position="117" text="a" />
-      <extra dep="det" ent_iob="2" ent_type="" head="2" lemma="a" orth="a" pos="DET" prefix="a" shape="x" suffix="a" tag="DT" />
     </node>
     <node ID="0.311" type="Word">
       <attributes paragraph="2" paragraph_position="118" text="triumphant" />
-      <extra dep="amod" ent_iob="2" ent_type="" head="1" lemma="triumphant" orth="triumphant" pos="ADJ" prefix="t" shape="xxxx" suffix="ant" tag="JJ" />
     </node>
     <node ID="0.312" type="Word">
       <attributes paragraph="2" paragraph_position="119" text="return" />
-      <extra dep="attr" ent_iob="2" ent_type="" head="-3" lemma="return" orth="return" pos="NOUN" prefix="r" shape="xxxx" suffix="urn" tag="NN" />
     </node>
     <node ID="0.313" type="Word">
       <attributes paragraph="2" paragraph_position="120" text="for" />
-      <extra dep="prep" ent_iob="2" ent_type="" head="-1" lemma="for" orth="for" pos="ADP" prefix="f" shape="xxx" suffix="for" tag="IN" />
     </node>
     <node ID="0.314" type="Word">
       <attributes paragraph="2" paragraph_position="121" text="Hepburn" />
-      <extra dep="pobj" ent_iob="2" ent_type="" head="-1" lemma="hepburn" orth="Hepburn" pos="PROPN" prefix="H" shape="Xxxxx" suffix="urn" tag="NNP" />
     </node>
     <node ID="0.315" type="Word">
       <attributes paragraph="2" paragraph_position="122" text="and" />
-      <extra dep="cc" ent_iob="2" ent_type="" head="-1" lemma="and" orth="and" pos="CCONJ" prefix="a" shape="xxx" suffix="and" tag="CC" />
     </node>
     <node ID="0.316" type="Word">
       <attributes paragraph="2" paragraph_position="123" text="her" />
-      <extra dep="poss" ent_iob="2" ent_type="" head="4" lemma="-PRON-" orth="her" pos="ADJ" prefix="h" shape="xxx" suffix="her" tag="PRP$" />
     </node>
     <node ID="0.317" type="Word">
       <attributes paragraph="2" paragraph_position="124" text="most" />
-      <extra dep="advmod" ent_iob="2" ent_type="" head="2" lemma="most" orth="most" pos="ADV" prefix="m" shape="xxxx" suffix="ost" tag="RBS" />
     </node>
     <node ID="0.318" type="Word">
       <attributes paragraph="2" paragraph_position="125" text="commercially" />
-      <extra dep="advmod" ent_iob="2" ent_type="" head="1" lemma="commercially" orth="commercially" pos="ADV" prefix="c" shape="xxxx" suffix="lly" tag="RB" />
     </node>
     <node ID="0.319" type="Word">
       <attributes paragraph="2" paragraph_position="126" text="successful" />
-      <extra dep="amod" ent_iob="2" ent_type="" head="1" lemma="successful" orth="successful" pos="ADJ" prefix="s" shape="xxxx" suffix="ful" tag="JJ" />
     </node>
     <node ID="0.320" type="Word">
       <attributes paragraph="2" paragraph_position="127" text="picture" />
-      <extra dep="conj" ent_iob="2" ent_type="" head="-6" lemma="picture" orth="picture" pos="NOUN" prefix="p" shape="xxxx" suffix="ure" tag="NN" />
     </node>
     <node ID="0.321" type="Word">
       <attributes paragraph="2" paragraph_position="128" text="to" />
-      <extra dep="prep" ent_iob="2" ent_type="" head="-1" lemma="to" orth="to" pos="ADP" prefix="t" shape="xx" suffix="to" tag="IN" />
     </node>
     <node ID="0.322" type="Word">
       <attributes paragraph="2" paragraph_position="129" text="date" />
-      <extra dep="pobj" ent_iob="2" ent_type="" head="-1" lemma="date" orth="date" pos="NOUN" prefix="d" shape="xxxx" suffix="ate" tag="NN" />
     </node>
     <node ID="0.323" type="Punctuation">
       <attributes paragraph="2" paragraph_position="130" text="." />
-      <extra dep="punct" ent_iob="2" ent_type="" head="-14" lemma="." orth="." pos="PUNCT" prefix="." shape="." suffix="." tag="." />
     </node>
     <node ID="0.324" type="Word">
       <attributes paragraph="2" paragraph_position="131" text="She" />
-      <extra dep="nsubj" ent_iob="2" ent_type="" head="1" lemma="-PRON-" orth="She" pos="PRON" prefix="S" shape="Xxx" suffix="She" tag="PRP" />
     </node>
     <node ID="0.325" type="Word">
       <attributes paragraph="2" paragraph_position="132" text="won" />
-      <extra dep="ROOT" ent_iob="2" ent_type="" head="0" lemma="win" orth="won" pos="VERB" prefix="w" shape="xxx" suffix="won" tag="VBD" />
     </node>
     <node ID="0.326" type="Word">
       <attributes paragraph="2" paragraph_position="133" text="her" />
-      <extra dep="poss" ent_iob="2" ent_type="" head="4" lemma="-PRON-" orth="her" pos="ADJ" prefix="h" shape="xxx" suffix="her" tag="PRP$" />
     </node>
     <node ID="0.327" type="Word">
       <attributes paragraph="2" paragraph_position="134" text="second" />
-      <extra dep="amod" ent_iob="3" ent_type="ORDINAL" head="3" lemma="second" orth="second" pos="ADJ" prefix="s" shape="xxxx" suffix="ond" tag="JJ" />
     </node>
     <node ID="0.328" type="Word">
       <attributes paragraph="2" paragraph_position="135" text="Best" />
-      <extra dep="compound" ent_iob="3" ent_type="WORK_OF_ART" head="1" lemma="good" orth="Best" pos="ADJ" prefix="B" shape="Xxxx" suffix="est" tag="JJS" />
     </node>
     <node ID="0.329" type="Word">
       <attributes paragraph="2" paragraph_position="136" text="Actress" />
-      <extra dep="compound" ent_iob="1" ent_type="WORK_OF_ART" head="1" lemma="actress" orth="Actress" pos="PROPN" prefix="A" shape="Xxxxx" suffix="ess" tag="NNP" />
     </node>
     <node ID="0.330" type="Word">
       <attributes paragraph="2" paragraph_position="137" text="Award" />
-      <extra dep="dobj" ent_iob="1" ent_type="WORK_OF_ART" head="-5" lemma="award" orth="Award" pos="PROPN" prefix="A" shape="Xxxxx" suffix="ard" tag="NNP" />
     </node>
     <node ID="0.331" type="Word">
       <attributes paragraph="2" paragraph_position="138" text="at" />
-      <extra dep="prep" ent_iob="2" ent_type="" head="-6" lemma="at" orth="at" pos="ADP" prefix="a" shape="xx" suffix="at" tag="IN" />
     </node>
     <node ID="0.332" type="Word">
       <attributes paragraph="2" paragraph_position="139" text="the" />
-      <extra dep="det" ent_iob="2" ent_type="" head="1" lemma="the" orth="the" pos="DET" prefix="t" shape="xxx" suffix="the" tag="DT" />
     </node>
     <node ID="0.333" type="Word">
       <attributes paragraph="2" paragraph_position="140" text="Oscars" />
-      <extra dep="pobj" ent_iob="3" ent_type="WORK_OF_ART" head="-2" lemma="oscars" orth="Oscars" pos="PROPN" prefix="O" shape="Xxxxx" suffix="ars" tag="NNPS" />
     </node>
     <node ID="0.334" type="Punctuation">
       <attributes paragraph="2" paragraph_position="141" text="," />
-      <extra dep="punct" ent_iob="2" ent_type="" head="-9" lemma="," orth="," pos="PUNCT" prefix="," shape="," suffix="," tag="," />
     </node>
     <node ID="0.335" type="Word">
       <attributes paragraph="2" paragraph_position="142" text="34" />
-      <extra dep="nummod" ent_iob="3" ent_type="DATE" head="1" lemma="34" orth="34" pos="NUM" prefix="3" shape="dd" suffix="34" tag="CD" />
     </node>
     <node ID="0.336" type="Word">
       <attributes paragraph="2" paragraph_position="143" text="years" />
-      <extra dep="npadvmod" ent_iob="1" ent_type="DATE" head="1" lemma="year" orth="years" pos="NOUN" prefix="y" shape="xxxx" suffix="ars" tag="NNS" />
     </node>
     <node ID="0.337" type="Word">
       <attributes paragraph="2" paragraph_position="144" text="after" />
-      <extra dep="prep" ent_iob="2" ent_type="" head="-12" lemma="after" orth="after" pos="ADP" prefix="a" shape="xxxx" suffix="ter" tag="IN" />
     </node>
     <node ID="0.338" type="Word">
       <attributes paragraph="2" paragraph_position="145" text="winning" />
-      <extra dep="pcomp" ent_iob="2" ent_type="" head="-1" lemma="win" orth="winning" pos="VERB" prefix="w" shape="xxxx" suffix="ing" tag="VBG" />
     </node>
     <node ID="0.339" type="Word">
       <attributes paragraph="2" paragraph_position="146" text="her" />
-      <extra dep="dobj" ent_iob="2" ent_type="" head="-1" lemma="-PRON-" orth="her" pos="ADJ" prefix="h" shape="xxx" suffix="her" tag="PRP$" />
     </node>
     <node ID="0.340" type="Word">
       <attributes paragraph="2" paragraph_position="147" text="first" />
-      <extra dep="advmod" ent_iob="3" ent_type="ORDINAL" head="-2" lemma="first" orth="first" pos="ADV" prefix="f" shape="xxxx" suffix="rst" tag="RB" />
     </node>
     <node ID="0.341" type="Punctuation">
       <attributes paragraph="2" paragraph_position="148" text="." />
-      <extra dep="punct" ent_iob="2" ent_type="" head="-16" lemma="." orth="." pos="PUNCT" prefix="." shape="." suffix="." tag="." />
     </node>
     <node ID="0.342" type="Word">
       <attributes paragraph="2" paragraph_position="149" text="Hepburn" />
-      <extra dep="nsubj" ent_iob="2" ent_type="" head="1" lemma="hepburn" orth="Hepburn" pos="PROPN" prefix="H" shape="Xxxxx" suffix="urn" tag="NNP" />
     </node>
     <node ID="0.343" type="Word">
       <attributes paragraph="2" paragraph_position="150" text="felt" />
-      <extra dep="ROOT" ent_iob="2" ent_type="" head="0" lemma="feel" orth="felt" pos="VERB" prefix="f" shape="xxxx" suffix="elt" tag="VBD" />
     </node>
     <node ID="0.344" type="Word">
       <attributes paragraph="2" paragraph_position="151" text="the" />
-      <extra dep="det" ent_iob="2" ent_type="" head="1" lemma="the" orth="the" pos="DET" prefix="t" shape="xxx" suffix="the" tag="DT" />
     </node>
     <node ID="0.345" type="Word">
       <attributes paragraph="2" paragraph_position="152" text="award" />
-      <extra dep="nsubj" ent_iob="2" ent_type="" head="1" lemma="award" orth="award" pos="NOUN" prefix="a" shape="xxxx" suffix="ard" tag="NN" />
     </node>
     <node ID="0.346" type="Word">
       <attributes paragraph="2" paragraph_position="153" text="was" />
-      <extra dep="ccomp" ent_iob="2" ent_type="" head="-3" lemma="be" orth="was" pos="VERB" prefix="w" shape="xxx" suffix="was" tag="VBD" />
     </node>
     <node ID="0.347" type="Word">
       <attributes paragraph="2" paragraph_position="154" text="not" />
-      <extra dep="neg" ent_iob="2" ent_type="" head="-1" lemma="not" orth="not" pos="ADV" prefix="n" shape="xxx" suffix="not" tag="RB" />
     </node>
     <node ID="0.348" type="Word">
       <attributes paragraph="2" paragraph_position="155" text="just" />
-      <extra dep="advmod" ent_iob="2" ent_type="" head="1" lemma="just" orth="just" pos="ADV" prefix="j" shape="xxxx" suffix="ust" tag="RB" />
     </node>
     <node ID="0.349" type="Word">
       <attributes paragraph="2" paragraph_position="156" text="for" />
-      <extra dep="prep" ent_iob="2" ent_type="" head="-3" lemma="for" orth="for" pos="ADP" prefix="f" shape="xxx" suffix="for" tag="IN" />
     </node>
     <node ID="0.350" type="Word">
       <attributes paragraph="2" paragraph_position="157" text="her" />
-      <extra dep="pobj" ent_iob="2" ent_type="" head="-1" lemma="-PRON-" orth="her" pos="PRON" prefix="h" shape="xxx" suffix="her" tag="PRP" />
     </node>
     <node ID="0.351" type="Punctuation">
       <attributes paragraph="2" paragraph_position="158" text="," />
-      <extra dep="punct" ent_iob="2" ent_type="" head="-8" lemma="," orth="," pos="PUNCT" prefix="," shape="," suffix="," tag="," />
     </node>
     <node ID="0.352" type="Word">
       <attributes paragraph="2" paragraph_position="159" text="but" />
-      <extra dep="cc" ent_iob="2" ent_type="" head="-9" lemma="but" orth="but" pos="CCONJ" prefix="b" shape="xxx" suffix="but" tag="CC" />
     </node>
     <node ID="0.353" type="Word">
       <attributes paragraph="2" paragraph_position="160" text="was" />
-      <extra dep="auxpass" ent_iob="2" ent_type="" head="2" lemma="be" orth="was" pos="VERB" prefix="w" shape="xxx" suffix="was" tag="VBD" />
     </node>
     <node ID="0.354" type="Word">
       <attributes paragraph="2" paragraph_position="161" text="also" />
-      <extra dep="advmod" ent_iob="2" ent_type="" head="1" lemma="also" orth="also" pos="ADV" prefix="a" shape="xxxx" suffix="lso" tag="RB" />
     </node>
     <node ID="0.355" type="Word">
       <attributes paragraph="2" paragraph_position="162" text="given" />
-      <extra dep="conj" ent_iob="2" ent_type="" head="-12" lemma="give" orth="given" pos="VERB" prefix="g" shape="xxxx" suffix="ven" tag="VBN" />
     </node>
     <node ID="0.356" type="Word">
       <attributes paragraph="2" paragraph_position="163" text="to" />
-      <extra dep="aux" ent_iob="2" ent_type="" head="1" lemma="to" orth="to" pos="PART" prefix="t" shape="xx" suffix="to" tag="TO" />
     </node>
     <node ID="0.357" type="Word">
       <attributes paragraph="2" paragraph_position="164" text="honor" />
-      <extra dep="advcl" ent_iob="2" ent_type="" head="-2" lemma="honor" orth="honor" pos="VERB" prefix="h" shape="xxxx" suffix="nor" tag="VB" />
     </node>
     <node ID="0.358" type="Word">
       <attributes paragraph="2" paragraph_position="165" text="Tracy" />
-      <extra dep="dobj" ent_iob="3" ent_type="PERSON" head="-1" lemma="tracy" orth="Tracy" pos="PROPN" prefix="T" shape="Xxxxx" suffix="acy" tag="NNP" />
     </node>
     <node ID="0.359" type="Punctuation">
       <attributes paragraph="2" paragraph_position="166" text="." />
-      <extra dep="punct" ent_iob="2" ent_type="" head="-16" lemma="." orth="." pos="PUNCT" prefix="." shape="." suffix="." tag="." />
     </node>
   </layer>
   <layer layerID="1">
