@@ -5,19 +5,19 @@
     <extra doc="[[], []]" />
     <node ID="0.1" type="Word">
       <attributes paragraph="1" paragraph_position="1" text="Both" />
-      <extra dep="nsubj" ent_iob="2" ent_type="" head="1" lemma="both" orig_paragraph="2" orth="Both" pos="DET" prefix="B" shape="Xxxx" suffix="oth" tag="DT" />
+      <extra orig_paragraph="2" />
     </node>
     <node ID="0.2" type="Word">
       <attributes paragraph="1" paragraph_position="2" text="were" />
-      <extra dep="ROOT" ent_iob="2" ent_type="" head="0" lemma="be" orig_paragraph="2" orth="were" pos="VERB" prefix="w" shape="xxxx" suffix="ere" tag="VBD" />
+      <extra orig_paragraph="2" />
     </node>
     <node ID="0.3" type="Word">
       <attributes paragraph="1" paragraph_position="3" text="married" />
-      <extra dep="acomp" ent_iob="2" ent_type="" head="-1" lemma="marry" orig_paragraph="2" orth="married" pos="VERB" prefix="m" shape="xxxx" suffix="ied" tag="VBN" />
+      <extra orig_paragraph="2" />
     </node>
     <node ID="0.4" type="Punctuation">
       <attributes paragraph="1" paragraph_position="4" text="." />
-      <extra dep="punct" ent_iob="2" ent_type="" head="-2" lemma="." orig_paragraph="2" orth="." pos="PUNCT" prefix="." shape="." suffix="." tag="." />
+      <extra orig_paragraph="2" />
     </node>
   </layer>
   <layer layerID="1">

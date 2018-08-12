@@ -5,35 +5,35 @@
     <extra doc="[[], []]" />
     <node ID="0.1" type="Word">
       <attributes paragraph="1" paragraph_position="1" text="Johnson" />
-      <extra dep="nsubj" ent_iob="3" ent_type="PERSON" head="1" lemma="johnson" orig_paragraph="1" orth="Johnson" pos="PROPN" prefix="J" shape="Xxxxx" suffix="son" tag="NNP" />
+      <extra orig_paragraph="1" />
     </node>
     <node ID="0.2" type="Word">
       <attributes paragraph="1" paragraph_position="2" text="resides" />
-      <extra dep="ROOT" ent_iob="2" ent_type="" head="0" lemma="reside" orig_paragraph="1" orth="resides" pos="VERB" prefix="r" shape="xxxx" suffix="des" tag="VBZ" />
+      <extra orig_paragraph="1" />
     </node>
     <node ID="0.3" type="Word">
       <attributes paragraph="1" paragraph_position="3" text="in" />
-      <extra dep="prep" ent_iob="2" ent_type="" head="-1" lemma="in" orig_paragraph="1" orth="in" pos="ADP" prefix="i" shape="xx" suffix="in" tag="IN" />
+      <extra orig_paragraph="1" />
     </node>
     <node ID="0.4" type="Word">
       <attributes paragraph="1" paragraph_position="4" text="Dana" />
-      <extra dep="compound" ent_iob="3" ent_type="GPE" head="1" lemma="dana" orig_paragraph="1" orth="Dana" pos="PROPN" prefix="D" shape="Xxxx" suffix="ana" tag="NNP" />
+      <extra orig_paragraph="1" />
     </node>
     <node ID="0.5" type="Word">
       <attributes paragraph="1" paragraph_position="5" text="Point" />
-      <extra dep="pobj" ent_iob="1" ent_type="GPE" head="-2" lemma="point" orig_paragraph="1" orth="Point" pos="PROPN" prefix="P" shape="Xxxxx" suffix="int" tag="NNP" />
+      <extra orig_paragraph="1" />
     </node>
     <node ID="0.6" type="Punctuation">
       <attributes paragraph="1" paragraph_position="6" text="," />
-      <extra dep="punct" ent_iob="2" ent_type="" head="-1" lemma="," orig_paragraph="1" orth="," pos="PUNCT" prefix="," shape="," suffix="," tag="," />
+      <extra orig_paragraph="1" />
     </node>
     <node ID="0.7" type="Word">
       <attributes paragraph="1" paragraph_position="7" text="California" />
-      <extra dep="appos" ent_iob="3" ent_type="GPE" head="-2" lemma="california" orig_paragraph="1" orth="California" pos="PROPN" prefix="C" shape="Xxxxx" suffix="nia" tag="NNP" />
+      <extra orig_paragraph="1" />
     </node>
     <node ID="0.8" type="Punctuation">
       <attributes paragraph="1" paragraph_position="8" text="." />
-      <extra dep="punct" ent_iob="2" ent_type="" head="-6" lemma="." orig_paragraph="1" orth="." pos="PUNCT" prefix="." shape="." suffix="." tag="." />
+      <extra orig_paragraph="1" />
     </node>
   </layer>
   <layer layerID="1">
