@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 645014
 # text = " The second version , told by McCartney , is that in late 1965 , Ono was in London compiling original musical scores for a book John Cage was working on , Notations , but McCartney declined to give her any of his own manuscripts for the book , suggesting that Lennon might oblige .
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	10	punct	10:punct	_
 2	The	_	Word	Word	_	4	E	4:E	_
 3	second	_	Word	Word	_	4	E	4:E	_
@@ -17,7 +16,7 @@
 13	late	_	Word	Word	_	14	E	14:E	_
 14	1965	_	Word	Word	_	4	orphan	4:orphan	_
 15	,	_	Punctuation	Punctuation	_	17	punct	17:punct	_
-16	Ono	_	Word	Word	_	17	A	17:A	_
+16	Ono	_	Word	Word	_	17	A	17:A|20:A	_
 17	was	_	Word	Word	_	4	orphan	4:orphan	_
 18	in	_	Word	Word	_	19	R	19:R	_
 19	London	_	Word	Word	_	4	orphan	4:orphan	_
@@ -37,7 +36,7 @@
 33	Notations	_	Word	Word	_	4	orphan	4:orphan	_
 34	,	_	Punctuation	Punctuation	_	10	punct	10:punct	_
 35	but	_	Word	Word	_	10	L	10:L	_
-36	McCartney	_	Word	Word	_	39	A	39:A	_
+36	McCartney	_	Word	Word	_	39	A	39:A|50:A	_
 37	declined	_	Word	Word	_	39	D	39:D	_
 38	to	_	Word	Word	_	39	F	39:F	_
 39	give	_	Word	Word	_	4	orphan	4:orphan	_

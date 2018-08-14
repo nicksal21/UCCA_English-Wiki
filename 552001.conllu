@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 552001
 # text = Shortly after losing his way in the building that housed his own office , Warner retired .
-# doc_id = 
 1	Shortly	_	Word	Word	_	2	E	2:E	_
 2	after	_	Word	Word	_	0	root	0:root	_
 3	losing	_	Word	Word	_	2	orphan	2:orphan	_
@@ -16,7 +15,7 @@
 12	own	_	Word	Word	_	13	E	13:E	_
 13	office	_	Word	Word	_	2	orphan	2:orphan	_
 14	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-15	Warner	_	Word	Word	_	16	A	16:A	_
+15	Warner	_	Word	Word	_	16	A	16:A|3:A	_
 16	retired	_	Word	Word	_	2	orphan	2:orphan	_
 17	.	_	Punctuation	Punctuation	_	16	punct	16:punct	_
 

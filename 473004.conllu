@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 473004
 # text = During the tournament , which the USA won , Johnson played infrequently because of knee problems , but he received standing ovations from the crowd , and used the opportunity to inspire HIV - positive people .
-# doc_id = 
 1	During	_	Word	Word	_	8	L	8:L	_
 2	the	_	Word	Word	_	3	E	3:E	_
 3	tournament	_	Word	Word	_	0	root	0:root	_
@@ -11,7 +10,7 @@
 7	USA	_	Word	Word	_	3	orphan	3:orphan	_
 8	won	_	Word	Word	_	3	orphan	3:orphan	_
 9	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
-10	Johnson	_	Word	Word	_	11	A	11:A	_
+10	Johnson	_	Word	Word	_	11	A	11:A|16:A	_
 11	played	_	Word	Word	_	3	orphan	3:orphan	_
 12	infrequently	_	Word	Word	_	11	D	11:D	_
 13	because	_	Word	Word	_	3	orphan	3:orphan	_
@@ -20,7 +19,7 @@
 16	problems	_	Word	Word	_	3	orphan	3:orphan	_
 17	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 18	but	_	Word	Word	_	8	L	8:L	_
-19	he	_	Word	Word	_	22	A	22:A	_
+19	he	_	Word	Word	_	22	A	22:A|28:A	_
 20	received	_	Word	Word	_	22	D	22:D	_
 21	standing	_	Word	Word	_	22	D	22:D	_
 22	ovations	_	Word	Word	_	3	orphan	3:orphan	_

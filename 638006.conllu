@@ -1,14 +1,13 @@
 # format = ucca
 # sent_id = 638006
 # text = He said in 1980 : " I used my resentment against Paul ... to create a song ... not a terrible vicious horrible vendetta ... I used my resentment and withdrawing from Paul and the Beatles , and the relationship with Paul , to write ' How Do You Sleep ' . I do n't really go ' round with those thoughts in my head all the time " .
-# doc_id = 
 1	He	_	Word	Word	_	2	A	2:A	_
 2	said	_	Word	Word	_	0	root	0:root	_
 3	in	_	Word	Word	_	4	R	4:R	_
 4	1980	_	Word	Word	_	2	orphan	2:orphan	_
 5	:	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 6	"	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-7	I	_	Word	Word	_	8	A	8:A	_
+7	I	_	Word	Word	_	8	A	8:A|15:A|40:A|24:A	_
 8	used	_	Word	Word	_	2	orphan	2:orphan	_
 9	my	_	Word	Word	_	10	A	10:A	_
 10	resentment	_	Word	Word	_	2	orphan	2:orphan	_
@@ -27,7 +26,7 @@
 23	horrible	_	Word	Word	_	24	E	24:E	_
 24	vendetta	_	Word	Word	_	2	orphan	2:orphan	_
 25	...	_	Punctuation	Punctuation	_	8	punct	8:punct	_
-26	I	_	Word	Word	_	27	A	27:A	_
+26	I	_	Word	Word	_	27	A	27:A|45:A	_
 27	used	_	Word	Word	_	2	orphan	2:orphan	_
 28	my	_	Word	Word	_	29	A	29:A	_
 29	resentment	_	Word	Word	_	2	orphan	2:orphan	_

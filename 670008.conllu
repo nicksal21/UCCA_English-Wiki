@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 670008
 # text = During the week of September 25 , 2005 , Carey set another record , becoming the first female to occupy the first two spots atop the Hot 100 , as " We Belong Together " remained at number one , and her next single , " Shake It Off " moved into the number two spot .
-# doc_id = 
 1	During	_	Word	Word	_	5	R	5:R	_
 2	the	_	Word	Word	_	5	E	5:E	_
 3	week	_	Word	Word	_	0	root	0:root	_
@@ -11,7 +10,7 @@
 7	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 8	2005	_	Word	Word	_	5	flat	5:flat	_
 9	,	_	Punctuation	Punctuation	_	13	punct	13:punct	_
-10	Carey	_	Word	Word	_	13	A	13:A	_
+10	Carey	_	Word	Word	_	13	A	13:A|15:A	_
 11	set	_	Word	Word	_	13	D	13:D	_
 12	another	_	Word	Word	_	13	D	13:D	_
 13	record	_	Word	Word	_	3	orphan	3:orphan	_

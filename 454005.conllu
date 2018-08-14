@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 454005
 # text = When his contract expired with ABC in the early 1980s , Jennings flirted with the possibility of moving back to Canada and working with the CBC on its new nightly newscast , The Journal .
-# doc_id = 
 1	When	_	Word	Word	_	4	L	4:L	_
 2	his	_	Word	Word	_	3	E	3:E	_
 3	contract	_	Word	Word	_	0	root	0:root	_
@@ -13,7 +12,7 @@
 9	early	_	Word	Word	_	10	E	10:E	_
 10	1980s	_	Word	Word	_	3	orphan	3:orphan	_
 11	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
-12	Jennings	_	Word	Word	_	13	A	13:A	_
+12	Jennings	_	Word	Word	_	13	A	13:A|23:A|18:A	_
 13	flirted	_	Word	Word	_	3	orphan	3:orphan	_
 14	with	_	Word	Word	_	16	R	16:R	_
 15	the	_	Word	Word	_	16	E	16:E	_

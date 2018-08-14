@@ -1,8 +1,7 @@
 # format = ucca
 # sent_id = 145005
 # text = She rarely appeared in public , even avoiding restaurants , and once wrestled a camera out of a photographer 's hand when he took a picture without asking .
-# doc_id = 
-1	She	_	Word	Word	_	3	A	3:A	_
+1	She	_	Word	Word	_	3	A	3:A|8:A	_
 2	rarely	_	Word	Word	_	3	D	3:D	_
 3	appeared	_	Word	Word	_	0	root	0:root	_
 4	in	_	Word	Word	_	5	R	5:R	_
@@ -24,7 +23,7 @@
 20	's	_	Word	Word	_	19	R	19:R	_
 21	hand	_	Word	Word	_	3	orphan	3:orphan	_
 22	when	_	Word	Word	_	3	L	3:L	_
-23	he	_	Word	Word	_	24	A	24:A	_
+23	he	_	Word	Word	_	24	A	24:A|28:A	_
 24	took	_	Word	Word	_	3	orphan	3:orphan	_
 25	a	_	Word	Word	_	24	flat	24:flat	_
 26	picture	_	Word	Word	_	24	flat	24:flat	_

@@ -1,13 +1,12 @@
 # format = ucca
 # sent_id = 807001
 # text = As McCartney explained , " He wrote back very kindly , saying , my doctors tell me that I must eat meat . And I wrote back again , saying , you know , I do n't think that 's right ... I think he 's now being told ... that he can get his protein somewhere else ... It just does n't seem right the Dalai Lama , on the one hand , saying , ' Hey guys , do n't harm sentient beings ... Oh , and by the way , I 'm having a steak . ' "
-# doc_id = 
 1	As	_	Word	Word	_	3	L	3:L	_
 2	McCartney	_	Word	Word	_	3	A	3:A	_
 3	explained	_	Word	Word	_	0	root	0:root	_
 4	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 5	"	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-6	He	_	Word	Word	_	7	A	7:A	_
+6	He	_	Word	Word	_	7	A	7:A|12:A	_
 7	wrote	_	Word	Word	_	3	orphan	3:orphan	_
 8	back	_	Word	Word	_	7	D	7:D	_
 9	very	_	Word	Word	_	10	E	10:E	_
@@ -26,7 +25,7 @@
 22	meat	_	Word	Word	_	21	A	21:A	_
 23	.	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 24	And	_	Word	Word	_	7	L	7:L	_
-25	I	_	Word	Word	_	26	A	26:A	_
+25	I	_	Word	Word	_	26	A	26:A|30:A	_
 26	wrote	_	Word	Word	_	3	orphan	3:orphan	_
 27	back	_	Word	Word	_	26	D	26:D	_
 28	again	_	Word	Word	_	26	D	26:D	_

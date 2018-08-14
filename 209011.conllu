@@ -1,11 +1,10 @@
 # format = ucca
 # sent_id = 209011
 # text = In 1997 , Hoffman starred opposite John Travolta in the Costa Gavras film Mad City and gained his seventh Academy Award nomination for his performance in Wag The Dog , in a role that allowed Hoffman the chance to work with both Robert De Niro and Denis Leary .
-# doc_id = 
 1	In	_	Word	Word	_	2	R	2:R	_
 2	1997	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-4	Hoffman	_	Word	Word	_	5	A	5:A	_
+4	Hoffman	_	Word	Word	_	5	A	5:A|17:A	_
 5	starred	_	Word	Word	_	2	orphan	2:orphan	_
 6	opposite	_	Word	Word	_	7	R	7:R	_
 7	John	_	Word	Word	_	2	orphan	2:orphan	_
@@ -37,7 +36,7 @@
 33	role	_	Word	Word	_	2	orphan	2:orphan	_
 34	that	_	Word	Word	_	35	F	35:F	_
 35	allowed	_	Word	Word	_	2	orphan	2:orphan	_
-36	Hoffman	_	Word	Word	_	35	A	35:A	_
+36	Hoffman	_	Word	Word	_	35	A	35:A|40:A	_
 37	the	_	Word	Word	_	38	E	38:E	_
 38	chance	_	Word	Word	_	2	orphan	2:orphan	_
 39	to	_	Word	Word	_	40	F	40:F	_

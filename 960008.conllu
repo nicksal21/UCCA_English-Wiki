@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 960008
 # text = Olivier returned her to their home in Britain , where , between periods of incoherence , Leigh told him that she was in love with Finch and had been having an affair with him .
-# doc_id = 
 1	Olivier	_	Word	Word	_	2	A	2:A	_
 2	returned	_	Word	Word	_	0	root	0:root	_
 3	her	_	Word	Word	_	2	A	2:A	_
@@ -18,11 +17,11 @@
 14	of	_	Word	Word	_	13	R	13:R	_
 15	incoherence	_	Word	Word	_	2	orphan	2:orphan	_
 16	,	_	Punctuation	Punctuation	_	15	punct	15:punct	_
-17	Leigh	_	Word	Word	_	18	A	18:A	_
+17	Leigh	_	Word	Word	_	18	A	18:A|15:A	_
 18	told	_	Word	Word	_	2	orphan	2:orphan	_
 19	him	_	Word	Word	_	18	A	18:A	_
 20	that	_	Word	Word	_	24	R	24:R	_
-21	she	_	Word	Word	_	24	A	24:A	_
+21	she	_	Word	Word	_	24	A	24:A|32:A	_
 22	was	_	Word	Word	_	24	F	24:F	_
 23	in	_	Word	Word	_	24	R	24:R	_
 24	love	_	Word	Word	_	2	orphan	2:orphan	_

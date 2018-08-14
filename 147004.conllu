@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 147004
 # text = The move to Hollywood in 1932 cemented the couple 's estrangement , and in 1934 , she traveled to Mexico to get a quick divorce .
-# doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
 2	move	_	Word	Word	_	0	root	0:root	_
 3	to	_	Word	Word	_	4	R	4:R	_
@@ -18,7 +17,7 @@
 14	in	_	Word	Word	_	15	R	15:R	_
 15	1934	_	Word	Word	_	2	orphan	2:orphan	_
 16	,	_	Punctuation	Punctuation	_	18	punct	18:punct	_
-17	she	_	Word	Word	_	18	A	18:A	_
+17	she	_	Word	Word	_	18	A	18:A|22:A	_
 18	traveled	_	Word	Word	_	2	orphan	2:orphan	_
 19	to	_	Word	Word	_	20	R	20:R	_
 20	Mexico	_	Word	Word	_	2	orphan	2:orphan	_

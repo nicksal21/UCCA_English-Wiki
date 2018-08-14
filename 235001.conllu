@@ -1,8 +1,7 @@
 # format = ucca
 # sent_id = 235001
 # text = He warned that he would lash out against anyone planning to stop him from carrying the Olympic Torch , saying , " Demonstrators better not get anywhere near me .
-# doc_id = 
-1	He	_	Word	Word	_	2	A	2:A	_
+1	He	_	Word	Word	_	2	A	2:A|20:A	_
 2	warned	_	Word	Word	_	0	root	0:root	_
 3	that	_	Word	Word	_	6	F	6:F	_
 4	he	_	Word	Word	_	6	A	6:A	_
@@ -14,7 +13,7 @@
 10	planning	_	Word	Word	_	2	orphan	2:orphan	_
 11	to	_	Word	Word	_	12	F	12:F	_
 12	stop	_	Word	Word	_	2	orphan	2:orphan	_
-13	him	_	Word	Word	_	12	A	12:A	_
+13	him	_	Word	Word	_	12	A	12:A|15:A	_
 14	from	_	Word	Word	_	15	R	15:R	_
 15	carrying	_	Word	Word	_	2	orphan	2:orphan	_
 16	the	_	Word	Word	_	18	E	18:E	_

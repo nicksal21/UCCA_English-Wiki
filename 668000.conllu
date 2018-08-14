@@ -1,12 +1,11 @@
 # format = ucca
 # sent_id = 668000
 # text = On July 26 , she was suddenly hospitalized , citing " extreme exhaustion " and a " physical and emotional breakdown " . Carey was inducted at an un - disclosed hospital in Connecticut , and remained hospitalized and under doctor 's care for two weeks , followed by an extended absence from the public .
-# doc_id = 
 1	On	_	Word	Word	_	2	R	2:R	_
 2	July	_	Word	Word	_	0	root	0:root	_
 3	26	_	Word	Word	_	2	flat	2:flat	_
 4	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
-5	she	_	Word	Word	_	8	A	8:A	_
+5	she	_	Word	Word	_	8	A	8:A|10:A	_
 6	was	_	Word	Word	_	8	F	8:F	_
 7	suddenly	_	Word	Word	_	8	D	8:D	_
 8	hospitalized	_	Word	Word	_	2	orphan	2:orphan	_
@@ -25,7 +24,7 @@
 21	breakdown	_	Word	Word	_	2	orphan	2:orphan	_
 22	"	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 23	.	_	Punctuation	Punctuation	_	8	punct	8:punct	_
-24	Carey	_	Word	Word	_	26	A	26:A	_
+24	Carey	_	Word	Word	_	26	A	26:A|38:A|43:A|52:A	_
 25	was	_	Word	Word	_	26	F	26:F	_
 26	inducted	_	Word	Word	_	2	orphan	2:orphan	_
 27	at	_	Word	Word	_	32	R	32:R	_

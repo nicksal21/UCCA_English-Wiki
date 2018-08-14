@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 548003
 # text = His wife , Ann , continually pressured him to " slow down " , and the aging studio head felt a need to put his affairs in order .
-# doc_id = 
 1	His	_	Word	Word	_	2	E	2:E	_
 2	wife	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
@@ -9,7 +8,7 @@
 5	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 6	continually	_	Word	Word	_	7	D	7:D	_
 7	pressured	_	Word	Word	_	2	orphan	2:orphan	_
-8	him	_	Word	Word	_	7	A	7:A	_
+8	him	_	Word	Word	_	7	A	7:A|11:A	_
 9	to	_	Word	Word	_	11	F	11:F	_
 10	"	_	Punctuation	Punctuation	_	11	punct	11:punct	_
 11	slow	_	Word	Word	_	2	orphan	2:orphan	_

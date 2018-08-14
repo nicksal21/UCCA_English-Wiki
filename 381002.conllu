@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 381002
 # text = The son of director Stephen Gyllenhaal and screenwriter Naomi Foner , Gyllenhaal 's immediate family includes his sister , actress Maggie , who is married to actor Peter Sarsgaard , Gyllenhaal 's co - star in Jarhead and Rendition .
-# doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
 2	son	_	Word	Word	_	0	root	0:root	_
 3	of	_	Word	Word	_	5	R	5:R	_
@@ -22,7 +21,7 @@
 18	sister	_	Word	Word	_	2	orphan	2:orphan	_
 19	,	_	Punctuation	Punctuation	_	20	punct	20:punct	_
 20	actress	_	Word	Word	_	2	orphan	2:orphan	_
-21	Maggie	_	Word	Word	_	20	E	20:E	_
+21	Maggie	_	Word	Word	_	20	E	20:E|25:A	_
 22	,	_	Punctuation	Punctuation	_	20	punct	20:punct	_
 23	who	_	Word	Word	_	25	F	25:F	_
 24	is	_	Word	Word	_	25	F	25:F	_

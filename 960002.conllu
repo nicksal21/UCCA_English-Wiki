@@ -1,13 +1,12 @@
 # format = ucca
 # sent_id = 960002
 # text = In 1951 , Leigh and Olivier performed two plays about Cleopatra , William Shakespeare 's Antony and Cleopatra and George Bernard Shaw 's Caesar and Cleopatra , alternating the play each night and winning good reviews .
-# doc_id = 
 1	In	_	Word	Word	_	2	R	2:R	_
 2	1951	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 4	Leigh	_	Word	Word	_	2	orphan	2:orphan	_
 5	and	_	Word	Word	_	4	N	4:N	_
-6	Olivier	_	Word	Word	_	4	C	4:C	_
+6	Olivier	_	Word	Word	_	4	C	4:C|34:A|28:A	_
 7	performed	_	Word	Word	_	2	orphan	2:orphan	_
 8	two	_	Word	Word	_	9	E	9:E	_
 9	plays	_	Word	Word	_	2	orphan	2:orphan	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 181008
 # text = After studying at the Royal Academy of Dramatic Art in London , she took a summer job working as a waitress in a Massachusetts restaurant .
-# doc_id = 
 1	After	_	Word	Word	_	2	L	2:L	_
 2	studying	_	Word	Word	_	0	root	0:root	_
 3	at	_	Word	Word	_	5	R	5:R	_
@@ -14,7 +13,7 @@
 10	in	_	Word	Word	_	11	R	11:R	_
 11	London	_	Word	Word	_	2	orphan	2:orphan	_
 12	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-13	she	_	Word	Word	_	14	A	14:A	_
+13	she	_	Word	Word	_	14	A	14:A|18:A|2:A	_
 14	took	_	Word	Word	_	2	orphan	2:orphan	_
 15	a	_	Word	Word	_	17	E	17:E	_
 16	summer	_	Word	Word	_	17	E	17:E	_

@@ -1,12 +1,11 @@
 # format = ucca
 # sent_id = 246003
 # text = Apart from acting , Hawke directed the music video for the 1994 song " Stay ( I Missed You ) " by singer - songwriter Lisa Loeb .
-# doc_id = 
 1	Apart	_	Word	Word	_	0	root	0:root	_
 2	from	_	Word	Word	_	1	R	1:R	_
 3	acting	_	Word	Word	_	1	orphan	1:orphan	_
 4	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-5	Hawke	_	Word	Word	_	6	A	6:A	_
+5	Hawke	_	Word	Word	_	6	A	6:A|3:A	_
 6	directed	_	Word	Word	_	1	orphan	1:orphan	_
 7	the	_	Word	Word	_	9	E	9:E	_
 8	music	_	Word	Word	_	9	E	9:E	_

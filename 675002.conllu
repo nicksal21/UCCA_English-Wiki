@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 675002
 # text = When asked if an album will be released by the end of 2011 as well , Cannon said that he was not sure .
-# doc_id = 
 1	When	_	Word	Word	_	2	L	2:L	_
 2	asked	_	Word	Word	_	0	root	0:root	_
 3	if	_	Word	Word	_	8	R	8:R	_
@@ -18,7 +17,7 @@
 14	as	_	Word	Word	_	8	D	8:D	_
 15	well	_	Word	Word	_	14	flat	14:flat	_
 16	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-17	Cannon	_	Word	Word	_	18	A	18:A	_
+17	Cannon	_	Word	Word	_	18	A	18:A|2:A	_
 18	said	_	Word	Word	_	2	orphan	2:orphan	_
 19	that	_	Word	Word	_	23	F	23:F	_
 20	he	_	Word	Word	_	23	A	23:A	_

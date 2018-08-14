@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 380003
 # text = When asked about his kissing scenes with Heath Ledger in Brokeback Mountain , Gyllenhaal said , " As an actor , I think we need to embrace the times we feel most uncomfortable .
-# doc_id = 
 1	When	_	Word	Word	_	2	L	2:L	_
 2	asked	_	Word	Word	_	0	root	0:root	_
 3	about	_	Word	Word	_	6	R	6:R	_
@@ -15,7 +14,7 @@
 11	Brokeback	_	Word	Word	_	2	orphan	2:orphan	_
 12	Mountain	_	Word	Word	_	11	flat	11:flat	_
 13	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-14	Gyllenhaal	_	Word	Word	_	15	A	15:A	_
+14	Gyllenhaal	_	Word	Word	_	15	A	15:A|2:A	_
 15	said	_	Word	Word	_	2	orphan	2:orphan	_
 16	,	_	Punctuation	Punctuation	_	15	punct	15:punct	_
 17	"	_	Punctuation	Punctuation	_	15	punct	15:punct	_
@@ -23,7 +22,7 @@
 19	an	_	Word	Word	_	20	E	20:E	_
 20	actor	_	Word	Word	_	2	orphan	2:orphan	_
 21	,	_	Punctuation	Punctuation	_	20	punct	20:punct	_
-22	I	_	Word	Word	_	23	A	23:A	_
+22	I	_	Word	Word	_	23	A	23:A|20:A	_
 23	think	_	Word	Word	_	2	orphan	2:orphan	_
 24	we	_	Word	Word	_	27	A	27:A	_
 25	need	_	Word	Word	_	2	orphan	2:orphan	_

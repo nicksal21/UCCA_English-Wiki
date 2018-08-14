@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 216011
 # text = Derek Elley of Variety described the film as " playful and sporty , " saying that this was Dunst 's best performance to date : " Believable as both a spoiled ingenue and a lover to two very different men , Dunst endows a potentially lightweight character with considerable depth and sympathy .
-# doc_id = 
 1	Derek	_	Word	Word	_	0	root	0:root	_
 2	Elley	_	Word	Word	_	1	flat	1:flat	_
 3	of	_	Word	Word	_	4	R	4:R	_
@@ -43,7 +42,7 @@
 39	different	_	Word	Word	_	1	orphan	1:orphan	_
 40	men	_	Word	Word	_	1	orphan	1:orphan	_
 41	,	_	Punctuation	Punctuation	_	27	punct	27:punct	_
-42	Dunst	_	Word	Word	_	43	A	43:A	_
+42	Dunst	_	Word	Word	_	43	A	43:A|27:A	_
 43	endows	_	Word	Word	_	1	orphan	1:orphan	_
 44	a	_	Word	Word	_	47	E	47:E	_
 45	potentially	_	Word	Word	_	46	E	46:E	_

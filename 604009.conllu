@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 604009
 # text = On 10 April 1970 , in the midst of business disagreements with his bandmates , McCartney announced his departure from the group .
-# doc_id = 
 1	On	_	Word	Word	_	2	R	2:R	_
 2	10	_	Word	Word	_	0	root	0:root	_
 3	April	_	Word	Word	_	2	flat	2:flat	_
@@ -17,7 +16,7 @@
 13	his	_	Word	Word	_	14	E	14:E	_
 14	bandmates	_	Word	Word	_	2	orphan	2:orphan	_
 15	,	_	Punctuation	Punctuation	_	11	punct	11:punct	_
-16	McCartney	_	Word	Word	_	17	A	17:A	_
+16	McCartney	_	Word	Word	_	17	A	17:A|11:A	_
 17	announced	_	Word	Word	_	2	orphan	2:orphan	_
 18	his	_	Word	Word	_	19	A	19:A	_
 19	departure	_	Word	Word	_	2	orphan	2:orphan	_

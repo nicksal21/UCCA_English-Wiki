@@ -1,9 +1,8 @@
 # format = ucca
 # sent_id = 632002
 # text = " He often drew comical cartoons which appeared in his own self - made school magazine called The Daily Howl , but despite his artistic talent , his school reports were damning : " Certainly on the road to failure ... hopeless ... rather a clown in class ... wasting other pupils ' time . "
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	50	punct	50:punct	_
-2	He	_	Word	Word	_	4	A	4:A	_
+2	He	_	Word	Word	_	4	A	4:A|46:A|50:A|42:A	_
 3	often	_	Word	Word	_	4	D	4:D	_
 4	drew	_	Word	Word	_	0	root	0:root	_
 5	comical	_	Word	Word	_	6	E	6:E	_
@@ -25,7 +24,7 @@
 21	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 22	but	_	Word	Word	_	4	L	4:L	_
 23	despite	_	Word	Word	_	4	L	4:L	_
-24	his	_	Word	Word	_	26	A	26:A	_
+24	his	_	Word	Word	_	26	A	26:A|40:A	_
 25	artistic	_	Word	Word	_	26	E	26:E	_
 26	talent	_	Word	Word	_	4	orphan	4:orphan	_
 27	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_

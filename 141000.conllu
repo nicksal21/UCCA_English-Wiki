@@ -1,8 +1,7 @@
 # format = ucca
 # sent_id = 141000
 # text = Hepburn stayed active throughout the 1970s , focusing on roles described by Andrew Britton as " either a devouring mother or a batty old lady living [ alone ] " . First she traveled to Spain to film a version of Euripides ' The Trojan Women ( 1971 ) alongside Vanessa Redgrave .
-# doc_id = 
-1	Hepburn	_	Word	Word	_	3	A	3:A	_
+1	Hepburn	_	Word	Word	_	3	A	3:A|8:A	_
 2	stayed	_	Word	Word	_	3	D	3:D	_
 3	active	_	Word	Word	_	0	root	0:root	_
 4	throughout	_	Word	Word	_	6	R	6:R	_
@@ -34,7 +33,7 @@
 30	"	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 31	.	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 32	First	_	Word	Word	_	34	D	34:D	_
-33	she	_	Word	Word	_	34	A	34:A	_
+33	she	_	Word	Word	_	34	A	34:A|38:A	_
 34	traveled	_	Word	Word	_	3	orphan	3:orphan	_
 35	to	_	Word	Word	_	36	R	36:R	_
 36	Spain	_	Word	Word	_	3	orphan	3:orphan	_

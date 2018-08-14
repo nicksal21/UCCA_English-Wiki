@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 629002
 # text = Born and raised in Liverpool , as a teenager Lennon became involved in the skiffle craze ; his first band , the Quarrymen , evolved into the Beatles in 1960 .
-# doc_id = 
 1	Born	_	Word	Word	_	0	root	0:root	_
 2	and	_	Word	Word	_	1	N	1:N	_
 3	raised	_	Word	Word	_	1	C	1:C	_
@@ -11,7 +10,7 @@
 7	as	_	Word	Word	_	1	L	1:L	_
 8	a	_	Word	Word	_	9	E	9:E	_
 9	teenager	_	Word	Word	_	1	orphan	1:orphan	_
-10	Lennon	_	Word	Word	_	12	A	12:A	_
+10	Lennon	_	Word	Word	_	12	A	12:A|9:A	_
 11	became	_	Word	Word	_	12	D	12:D	_
 12	involved	_	Word	Word	_	1	orphan	1:orphan	_
 13	in	_	Word	Word	_	16	R	16:R	_

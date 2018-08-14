@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 474025
 # text = The Lakers played poorly in a Game 1 loss , prompting Johnson to express frustration with his role in coach Del Harris ' offense .
-# doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
 2	Lakers	_	Word	Word	_	0	root	0:root	_
 3	played	_	Word	Word	_	2	orphan	2:orphan	_
@@ -13,7 +12,7 @@
 9	loss	_	Word	Word	_	2	orphan	2:orphan	_
 10	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 11	prompting	_	Word	Word	_	2	orphan	2:orphan	_
-12	Johnson	_	Word	Word	_	11	A	11:A	_
+12	Johnson	_	Word	Word	_	11	A	11:A|14:A	_
 13	to	_	Word	Word	_	14	F	14:F	_
 14	express	_	Word	Word	_	2	orphan	2:orphan	_
 15	frustration	_	Word	Word	_	14	A	14:A	_

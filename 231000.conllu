@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 231000
 # text = In recent years , the ageing Chan grew tired of being typecast as an action hero , prompting him to act with more emotion in his latest films .
-# doc_id = 
 1	In	_	Word	Word	_	3	R	3:R	_
 2	recent	_	Word	Word	_	3	E	3:E	_
 3	years	_	Word	Word	_	0	root	0:root	_
@@ -20,7 +19,7 @@
 16	hero	_	Word	Word	_	3	orphan	3:orphan	_
 17	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
 18	prompting	_	Word	Word	_	3	orphan	3:orphan	_
-19	him	_	Word	Word	_	18	A	18:A	_
+19	him	_	Word	Word	_	18	A	18:A|21:A	_
 20	to	_	Word	Word	_	21	F	21:F	_
 21	act	_	Word	Word	_	3	orphan	3:orphan	_
 22	with	_	Word	Word	_	24	R	24:R	_

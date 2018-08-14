@@ -1,19 +1,18 @@
 # format = ucca
 # sent_id = 643011
 # text = Questioned about it later , Lennon said , " Well , it was almost a love affair , but not quite . It was never consummated . But it was a pretty intense relationship . It was my first experience with a homosexual that I was conscious was homosexual . We used to sit in a café in Torremolinos looking at all the boys and I 'd say , ' Do you like that one ? Do you like this one ? ' I was rather enjoying the experience , thinking like a writer all the time : I am experiencing this .
-# doc_id = 
 1	Questioned	_	Word	Word	_	0	root	0:root	_
 2	about	_	Word	Word	_	3	R	3:R	_
 3	it	_	Word	Word	_	1	orphan	1:orphan	_
 4	later	_	Word	Word	_	1	D	1:D	_
 5	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
-6	Lennon	_	Word	Word	_	7	A	7:A	_
+6	Lennon	_	Word	Word	_	7	A	7:A|1:A	_
 7	said	_	Word	Word	_	1	orphan	1:orphan	_
 8	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 9	"	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 10	Well	_	Word	Word	_	13	G	13:G	_
 11	,	_	Punctuation	Punctuation	_	13	punct	13:punct	_
-12	it	_	Word	Word	_	13	A	13:A	_
+12	it	_	Word	Word	_	13	A	13:A|21:A	_
 13	was	_	Word	Word	_	1	orphan	1:orphan	_
 14	almost	_	Word	Word	_	13	D	13:D	_
 15	a	_	Word	Word	_	16	E	16:E	_
@@ -52,7 +51,7 @@
 48	was	_	Word	Word	_	49	F	49:F	_
 49	homosexual	_	Word	Word	_	1	orphan	1:orphan	_
 50	.	_	Punctuation	Punctuation	_	13	punct	13:punct	_
-51	We	_	Word	Word	_	54	A	54:A	_
+51	We	_	Word	Word	_	54	A	54:A|60:A	_
 52	used	_	Word	Word	_	54	D	54:D	_
 53	to	_	Word	Word	_	54	F	54:F	_
 54	sit	_	Word	Word	_	1	orphan	1:orphan	_
@@ -85,7 +84,7 @@
 81	one	_	Word	Word	_	1	orphan	1:orphan	_
 82	?	_	Punctuation	Punctuation	_	13	punct	13:punct	_
 83	'	_	Punctuation	Punctuation	_	13	punct	13:punct	_
-84	I	_	Word	Word	_	87	A	87:A	_
+84	I	_	Word	Word	_	87	A	87:A|91:A	_
 85	was	_	Word	Word	_	87	F	87:F	_
 86	rather	_	Word	Word	_	87	D	87:D	_
 87	enjoying	_	Word	Word	_	1	orphan	1:orphan	_

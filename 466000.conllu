@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 466000
 # text = Earvin " Magic " Johnson , Jr . ( born August 14 , 1959 ) is a retired American professional basketball player who played point guard for the Los Angeles Lakers of the National Basketball Association ( NBA ) . After winning championships in high school and college , Johnson was selected first overall in the 1979 NBA Draft by the Lakers .
-# doc_id = 
 1	Earvin	_	Word	Word	_	0	root	0:root	_
 2	"	_	Punctuation	Punctuation	_	1	punct	1:punct	_
 3	Magic	_	Word	Word	_	1	flat	1:flat	_
@@ -51,7 +50,7 @@
 47	and	_	Word	Word	_	45	N	45:N	_
 48	college	_	Word	Word	_	45	C	45:C	_
 49	,	_	Punctuation	Punctuation	_	42	punct	42:punct	_
-50	Johnson	_	Word	Word	_	52	A	52:A	_
+50	Johnson	_	Word	Word	_	52	A	52:A|42:A	_
 51	was	_	Word	Word	_	52	F	52:F	_
 52	selected	_	Word	Word	_	1	orphan	1:orphan	_
 53	first	_	Word	Word	_	1	orphan	1:orphan	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 1021000
 # text = The Jackson 5 " became a cutting - edge example of black crossover artists ... five working - class black boys with afros and bell bottoms , and they really did n't have to trade any of that stuff in order to become mainstream stars . "
-# doc_id = 
 1	The	_	Word	Word	_	5	A	5:A	_
 2	Jackson	_	Word	Word	_	1	flat	1:flat	_
 3	5	_	Word	Word	_	1	flat	1:flat	_
@@ -30,7 +29,7 @@
 26	bottoms	_	Word	Word	_	5	orphan	5:orphan	_
 27	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 28	and	_	Word	Word	_	5	L	5:L	_
-29	they	_	Word	Word	_	35	A	35:A	_
+29	they	_	Word	Word	_	35	A	35:A|43:A	_
 30	really	_	Word	Word	_	35	D	35:D	_
 31	did	_	Word	Word	_	35	F	35:F	_
 32	n't	_	Word	Word	_	35	D	35:D	_

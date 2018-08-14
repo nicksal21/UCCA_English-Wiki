@@ -1,14 +1,13 @@
 # format = ucca
 # sent_id = 647011
 # text = On moving to New York , they prepared a spare room in their newly rented apartment for Julian to visit .
-# doc_id = 
 1	On	_	Word	Word	_	2	L	2:L	_
 2	moving	_	Word	Word	_	0	root	0:root	_
 3	to	_	Word	Word	_	4	R	4:R	_
 4	New	_	Word	Word	_	2	orphan	2:orphan	_
 5	York	_	Word	Word	_	4	flat	4:flat	_
 6	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-7	they	_	Word	Word	_	8	A	8:A	_
+7	they	_	Word	Word	_	8	A	8:A|2:A	_
 8	prepared	_	Word	Word	_	2	orphan	2:orphan	_
 9	a	_	Word	Word	_	11	E	11:E	_
 10	spare	_	Word	Word	_	11	E	11:E	_

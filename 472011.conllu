@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 472011
 # text = He stated that his wife Cookie and their unborn child did not have HIV , and that he would dedicate his life to " battle this deadly disease " . Johnson initially said that he did not know how he contracted the disease , but later acknowledged that it was through having multiple sexual partners during his playing career .
-# doc_id = 
 1	He	_	Word	Word	_	2	A	2:A	_
 2	stated	_	Word	Word	_	0	root	0:root	_
 3	that	_	Word	Word	_	13	F	13:F	_
@@ -19,7 +18,7 @@
 15	,	_	Punctuation	Punctuation	_	13	punct	13:punct	_
 16	and	_	Word	Word	_	13	L	13:L	_
 17	that	_	Word	Word	_	20	F	20:F	_
-18	he	_	Word	Word	_	20	A	20:A	_
+18	he	_	Word	Word	_	20	A	20:A|25:A	_
 19	would	_	Word	Word	_	20	F	20:F	_
 20	dedicate	_	Word	Word	_	2	orphan	2:orphan	_
 21	his	_	Word	Word	_	22	E	22:E	_
@@ -32,7 +31,7 @@
 28	disease	_	Word	Word	_	2	orphan	2:orphan	_
 29	"	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 30	.	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-31	Johnson	_	Word	Word	_	33	A	33:A	_
+31	Johnson	_	Word	Word	_	33	A	33:A|47:A|52:A	_
 32	initially	_	Word	Word	_	33	D	33:D	_
 33	said	_	Word	Word	_	2	orphan	2:orphan	_
 34	that	_	Word	Word	_	38	F	38:F	_

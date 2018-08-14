@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 725004
 # text = " Encouraged by her Golden Globe Award win for George Wallace and the positive critical reception of Gia , she resumed her career .
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 2	Encouraged	_	Word	Word	_	0	root	0:root	_
 3	by	_	Word	Word	_	8	R	8:R	_
@@ -21,7 +20,7 @@
 17	of	_	Word	Word	_	18	R	18:R	_
 18	Gia	_	Word	Word	_	2	orphan	2:orphan	_
 19	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-20	she	_	Word	Word	_	21	A	21:A	_
+20	she	_	Word	Word	_	21	A	21:A|2:A	_
 21	resumed	_	Word	Word	_	2	orphan	2:orphan	_
 22	her	_	Word	Word	_	23	E	23:E	_
 23	career	_	Word	Word	_	2	orphan	2:orphan	_

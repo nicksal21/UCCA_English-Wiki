@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 456001
 # text = [ c ] After interrupting regular Saturday morning cartoons on January 19 to broadcast a military briefing from Saudi Arabia , Jennings and ABC became concerned about the emotional impact of the war coverage on children .
-# doc_id = 
 1	[	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 2	c	_	Word	Word	_	5	F	5:F	_
 3	]	_	Punctuation	Punctuation	_	5	punct	5:punct	_
@@ -25,7 +24,7 @@
 21	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 22	Jennings	_	Word	Word	_	5	orphan	5:orphan	_
 23	and	_	Word	Word	_	22	N	22:N	_
-24	ABC	_	Word	Word	_	22	C	22:C	_
+24	ABC	_	Word	Word	_	22	C	22:C|14:A|5:A	_
 25	became	_	Word	Word	_	26	D	26:D	_
 26	concerned	_	Word	Word	_	5	orphan	5:orphan	_
 27	about	_	Word	Word	_	30	R	30:R	_

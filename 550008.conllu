@@ -1,9 +1,8 @@
 # format = ucca
 # sent_id = 550008
 # text = When he attempted to report for work , studio guards denied him entry .
-# doc_id = 
 1	When	_	Word	Word	_	3	L	3:L	_
-2	he	_	Word	Word	_	3	A	3:A	_
+2	he	_	Word	Word	_	3	A	3:A|5:A	_
 3	attempted	_	Word	Word	_	0	root	0:root	_
 4	to	_	Word	Word	_	5	F	5:F	_
 5	report	_	Word	Word	_	3	orphan	3:orphan	_
@@ -13,7 +12,7 @@
 9	studio	_	Word	Word	_	10	E	10:E	_
 10	guards	_	Word	Word	_	3	orphan	3:orphan	_
 11	denied	_	Word	Word	_	3	orphan	3:orphan	_
-12	him	_	Word	Word	_	11	A	11:A	_
+12	him	_	Word	Word	_	11	A	11:A|13:A	_
 13	entry	_	Word	Word	_	3	orphan	3:orphan	_
 14	.	_	Punctuation	Punctuation	_	13	punct	13:punct	_
 

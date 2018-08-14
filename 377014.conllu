@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 377014
 # text = Gyllenhaal 's performance was well received by critics ; Gary Mairs of Culture Vulture wrote that " Gyllenhaal manages the difficult trick of seeming both blandly normal and profoundly disturbed , often within the same scene . "
-# doc_id = 
 1	Gyllenhaal	_	Word	Word	_	0	root	0:root	_
 2	's	_	Word	Word	_	1	R	1:R	_
 3	performance	_	Word	Word	_	1	orphan	1:orphan	_
@@ -19,7 +18,7 @@
 15	wrote	_	Word	Word	_	1	orphan	1:orphan	_
 16	that	_	Word	Word	_	19	F	19:F	_
 17	"	_	Punctuation	Punctuation	_	19	punct	19:punct	_
-18	Gyllenhaal	_	Word	Word	_	19	A	19:A	_
+18	Gyllenhaal	_	Word	Word	_	19	A	19:A|24:A	_
 19	manages	_	Word	Word	_	1	orphan	1:orphan	_
 20	the	_	Word	Word	_	22	E	22:E	_
 21	difficult	_	Word	Word	_	22	E	22:E	_

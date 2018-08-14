@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 530009
 # text = Over the next few weeks several quarts of fluid were drained from her body until , still weak , she was released from the hospital in January 1960 .
-# doc_id = 
 1	Over	_	Word	Word	_	5	R	5:R	_
 2	the	_	Word	Word	_	5	E	5:E	_
 3	next	_	Word	Word	_	5	E	5:E	_
@@ -21,7 +20,7 @@
 17	still	_	Word	Word	_	18	D	18:D	_
 18	weak	_	Word	Word	_	5	orphan	5:orphan	_
 19	,	_	Punctuation	Punctuation	_	18	punct	18:punct	_
-20	she	_	Word	Word	_	22	A	22:A	_
+20	she	_	Word	Word	_	22	A	22:A|18:A	_
 21	was	_	Word	Word	_	22	F	22:F	_
 22	released	_	Word	Word	_	5	orphan	5:orphan	_
 23	from	_	Word	Word	_	25	R	25:R	_

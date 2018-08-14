@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 543006
 # text = Comedian Jack Benny , who once worked at Warner Bros . , quipped , " Jack Warner would rather tell a bad joke than make a good movie " . Warner frequently clashed with actors and supposedly banned them from the studio 's executive dining room , with the explanation , " I do n't need to look at actors when I eat .
-# doc_id = 
 1	Comedian	_	Word	Word	_	2	E	2:E	_
 2	Jack	_	Word	Word	_	0	root	0:root	_
 3	Benny	_	Word	Word	_	2	flat	2:flat	_
@@ -17,7 +16,7 @@
 13	quipped	_	Word	Word	_	2	orphan	2:orphan	_
 14	,	_	Punctuation	Punctuation	_	13	punct	13:punct	_
 15	"	_	Punctuation	Punctuation	_	13	punct	13:punct	_
-16	Jack	_	Word	Word	_	19	A	19:A	_
+16	Jack	_	Word	Word	_	19	A	19:A|25:A|20:A	_
 17	Warner	_	Word	Word	_	16	flat	16:flat	_
 18	would	_	Word	Word	_	19	F	19:F	_
 19	rather	_	Word	Word	_	2	orphan	2:orphan	_
@@ -32,7 +31,7 @@
 28	movie	_	Word	Word	_	2	orphan	2:orphan	_
 29	"	_	Punctuation	Punctuation	_	13	punct	13:punct	_
 30	.	_	Punctuation	Punctuation	_	13	punct	13:punct	_
-31	Warner	_	Word	Word	_	33	A	33:A	_
+31	Warner	_	Word	Word	_	33	A	33:A|38:A|58:A|50:A	_
 32	frequently	_	Word	Word	_	33	D	33:D	_
 33	clashed	_	Word	Word	_	2	orphan	2:orphan	_
 34	with	_	Word	Word	_	35	R	35:R	_

@@ -1,8 +1,7 @@
 # format = ucca
 # sent_id = 229005
 # text = Elaine Ng Yi - Lei had a daughter , Etta , in 1999 , and claimed Chan was the father ; Chan admitted the affair , but did not formally acknowledge her as his daughter .
-# doc_id = 
-1	Elaine	_	Word	Word	_	8	A	8:A	_
+1	Elaine	_	Word	Word	_	8	A	8:A|16:A	_
 2	Ng	_	Word	Word	_	1	flat	1:flat	_
 3	Yi	_	Word	Word	_	1	flat	1:flat	_
 4	-	_	Punctuation	Punctuation	_	8	punct	8:punct	_
@@ -23,7 +22,7 @@
 19	the	_	Word	Word	_	20	E	20:E	_
 20	father	_	Word	Word	_	8	orphan	8:orphan	_
 21	;	_	Punctuation	Punctuation	_	8	punct	8:punct	_
-22	Chan	_	Word	Word	_	23	A	23:A	_
+22	Chan	_	Word	Word	_	23	A	23:A|31:A	_
 23	admitted	_	Word	Word	_	8	orphan	8:orphan	_
 24	the	_	Word	Word	_	25	E	25:E	_
 25	affair	_	Word	Word	_	8	orphan	8:orphan	_

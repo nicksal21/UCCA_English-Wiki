@@ -1,8 +1,7 @@
 # format = ucca
 # sent_id = 211007
 # text = Hoffman adopted Karina ( b . 1966 ) , Byrne 's child from a previous marriage , and with Byrne had daughter Jenna ( born October 15 , 1970 ) . In 1970 , Hoffman and Byrne were living in Greenwich Village in a building next door to the townhouse destroyed by members of the Weathermen when they detonated a bomb in the building 's basement , killing three people .
-# doc_id = 
-1	Hoffman	_	Word	Word	_	2	A	2:A	_
+1	Hoffman	_	Word	Word	_	2	A	2:A|21:A	_
 2	adopted	_	Word	Word	_	0	root	0:root	_
 3	Karina	_	Word	Word	_	2	orphan	2:orphan	_
 4	(	_	Punctuation	Punctuation	_	3	punct	3:punct	_
@@ -59,7 +58,7 @@
 55	the	_	Word	Word	_	56	E	56:E	_
 56	Weathermen	_	Word	Word	_	2	orphan	2:orphan	_
 57	when	_	Word	Word	_	51	L	51:L	_
-58	they	_	Word	Word	_	61	A	61:A	_
+58	they	_	Word	Word	_	61	A	61:A|68:A	_
 59	detonated	_	Word	Word	_	61	D	61:D	_
 60	a	_	Word	Word	_	61	E	61:E	_
 61	bomb	_	Word	Word	_	2	orphan	2:orphan	_

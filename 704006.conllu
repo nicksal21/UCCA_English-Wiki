@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 704006
 # text = Martin Scorsese 's acclaimed cinematic chronicle of this show , The Last Waltz , was released in 1978 and included about half of Dylan 's set .
-# doc_id = 
 1	Martin	_	Word	Word	_	0	root	0:root	_
 2	Scorsese	_	Word	Word	_	1	flat	1:flat	_
 3	's	_	Word	Word	_	1	R	1:R	_
@@ -12,7 +11,7 @@
 8	this	_	Word	Word	_	9	E	9:E	_
 9	show	_	Word	Word	_	1	orphan	1:orphan	_
 10	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-11	The	_	Word	Word	_	6	E	6:E	_
+11	The	_	Word	Word	_	6	E	6:E|20:A	_
 12	Last	_	Word	Word	_	11	flat	11:flat	_
 13	Waltz	_	Word	Word	_	11	flat	11:flat	_
 14	,	_	Punctuation	Punctuation	_	16	punct	16:punct	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 474013
 # text = On February 14 , Johnson recorded the final triple - double of his career , when he scored 15 points , along with 10 rebounds and 13 assists in a victory against the Atlanta Hawks .
-# doc_id = 
 1	On	_	Word	Word	_	2	R	2:R	_
 2	February	_	Word	Word	_	0	root	0:root	_
 3	14	_	Word	Word	_	2	E	2:E	_
@@ -18,7 +17,7 @@
 14	career	_	Word	Word	_	2	orphan	2:orphan	_
 15	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 16	when	_	Word	Word	_	6	L	6:L	_
-17	he	_	Word	Word	_	18	A	18:A	_
+17	he	_	Word	Word	_	18	A	18:A|31:A	_
 18	scored	_	Word	Word	_	2	orphan	2:orphan	_
 19	15	_	Word	Word	_	20	E	20:E	_
 20	points	_	Word	Word	_	2	orphan	2:orphan	_

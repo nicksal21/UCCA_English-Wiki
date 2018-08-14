@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 646000
 # text = Ono began telephoning and calling at Lennon 's home , and when his wife asked for an explanation , he explained that Ono was only trying to obtain money for her " avant - garde bullshit " . In May 1968 , while his wife was on holiday in Greece , Lennon invited Ono to visit .
-# doc_id = 
 1	Ono	_	Word	Word	_	3	A	3:A	_
 2	began	_	Word	Word	_	3	D	3:D	_
 3	telephoning	_	Word	Word	_	0	root	0:root	_
@@ -55,7 +54,7 @@
 51	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 52	Lennon	_	Word	Word	_	53	A	53:A	_
 53	invited	_	Word	Word	_	3	orphan	3:orphan	_
-54	Ono	_	Word	Word	_	53	A	53:A	_
+54	Ono	_	Word	Word	_	53	A	53:A|56:A	_
 55	to	_	Word	Word	_	56	F	56:F	_
 56	visit	_	Word	Word	_	3	orphan	3:orphan	_
 57	.	_	Punctuation	Punctuation	_	56	punct	56:punct	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 472002
 # text = - doubles Playing without Abdul - Jabbar for the first time , Johnson won his third MVP award after a strong 1989 - 90 NBA season in which he averaged 22.3 points , 11.5 assists , and 6.6 rebounds per game .
-# doc_id = 
 1	-	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 2	doubles	_	Word	Word	_	3	A	3:A	_
 3	Playing	_	Word	Word	_	0	root	0:root	_
@@ -14,7 +13,7 @@
 10	first	_	Word	Word	_	11	E	11:E	_
 11	time	_	Word	Word	_	3	orphan	3:orphan	_
 12	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-13	Johnson	_	Word	Word	_	14	A	14:A	_
+13	Johnson	_	Word	Word	_	14	A	14:A|3:A|26:A	_
 14	won	_	Word	Word	_	3	orphan	3:orphan	_
 15	his	_	Word	Word	_	16	E	16:E	_
 16	third	_	Word	Word	_	3	orphan	3:orphan	_

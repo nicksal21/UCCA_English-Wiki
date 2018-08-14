@@ -1,13 +1,12 @@
 # format = ucca
 # sent_id = 449010
 # text = In addition to anchoring , he was the host of many ABC News special reports and moderated several American presidential debates .
-# doc_id = 
 1	In	_	Word	Word	_	4	L	4:L	_
 2	addition	_	Word	Word	_	1	flat	1:flat	_
 3	to	_	Word	Word	_	1	flat	1:flat	_
 4	anchoring	_	Word	Word	_	0	root	0:root	_
 5	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
-6	he	_	Word	Word	_	7	A	7:A	_
+6	he	_	Word	Word	_	7	A	7:A|17:A|4:A	_
 7	was	_	Word	Word	_	4	orphan	4:orphan	_
 8	the	_	Word	Word	_	9	E	9:E	_
 9	host	_	Word	Word	_	4	orphan	4:orphan	_

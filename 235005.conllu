@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 235005
 # text = On 18 April 2009 , during a panel discussion at the annual Boao Forum for Asia titled " Tapping into Asia 's Creative Industry Potential , " Chan said " ... in the 10 years after Hong Kong 's return to Chinese rule , I can gradually see , I 'm not sure if it 's good to have freedom or not .
-# doc_id = 
 1	On	_	Word	Word	_	2	R	2:R	_
 2	18	_	Word	Word	_	0	root	0:root	_
 3	April	_	Word	Word	_	2	flat	2:flat	_
@@ -61,7 +60,7 @@
 57	good	_	Word	Word	_	2	orphan	2:orphan	_
 58	to	_	Word	Word	_	59	F	59:F	_
 59	have	_	Word	Word	_	2	orphan	2:orphan	_
-60	freedom	_	Word	Word	_	59	A	59:A	_
+60	freedom	_	Word	Word	_	59	A	59:A|62:A	_
 61	or	_	Word	Word	_	57	N	57:N	_
 62	not	_	Word	Word	_	2	orphan	2:orphan	_
 63	.	_	Punctuation	Punctuation	_	62	punct	62:punct	_

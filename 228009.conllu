@@ -1,13 +1,12 @@
 # format = ucca
 # sent_id = 228009
 # text = On 22 June 2009 , he left Los Angeles to begin filming The Karate Kid , a remake of the 1984 original , in Beijing .
-# doc_id = 
 1	On	_	Word	Word	_	2	R	2:R	_
 2	22	_	Word	Word	_	0	root	0:root	_
 3	June	_	Word	Word	_	2	flat	2:flat	_
 4	2009	_	Word	Word	_	2	flat	2:flat	_
 5	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
-6	he	_	Word	Word	_	7	A	7:A	_
+6	he	_	Word	Word	_	7	A	7:A|12:A	_
 7	left	_	Word	Word	_	2	orphan	2:orphan	_
 8	Los	_	Word	Word	_	7	A	7:A	_
 9	Angeles	_	Word	Word	_	8	flat	8:flat	_

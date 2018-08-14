@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 502005
 # text = Before the end of 1976 , Bowie 's interest in the burgeoning German music scene , as well as his drug addiction , prompted him to move to West Berlin to clean up and revitalise his career .
-# doc_id = 
 1	Before	_	Word	Word	_	5	R	5:R	_
 2	the	_	Word	Word	_	3	E	3:E	_
 3	end	_	Word	Word	_	0	root	0:root	_
@@ -26,7 +25,7 @@
 22	addiction	_	Word	Word	_	3	orphan	3:orphan	_
 23	,	_	Punctuation	Punctuation	_	24	punct	24:punct	_
 24	prompted	_	Word	Word	_	3	orphan	3:orphan	_
-25	him	_	Word	Word	_	24	A	24:A	_
+25	him	_	Word	Word	_	24	A	24:A|27:A	_
 26	to	_	Word	Word	_	27	F	27:F	_
 27	move	_	Word	Word	_	3	orphan	3:orphan	_
 28	to	_	Word	Word	_	30	R	30:R	_

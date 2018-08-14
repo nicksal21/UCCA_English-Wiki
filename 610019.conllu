@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 610019
 # text = More than forty-five years after the Beatles first appeared on American television during The Ed Sullivan Show , he returned to the same New York theatre to perform on Late Show with David Letterman .
-# doc_id = 
 1	More	_	Word	Word	_	3	R	3:R	_
 2	than	_	Word	Word	_	3	F	3:F	_
 3	forty-five	_	Word	Word	_	0	root	0:root	_
@@ -20,7 +19,7 @@
 16	Sullivan	_	Word	Word	_	14	flat	14:flat	_
 17	Show	_	Word	Word	_	14	flat	14:flat	_
 18	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
-19	he	_	Word	Word	_	20	A	20:A	_
+19	he	_	Word	Word	_	20	A	20:A|28:A	_
 20	returned	_	Word	Word	_	3	orphan	3:orphan	_
 21	to	_	Word	Word	_	26	R	26:R	_
 22	the	_	Word	Word	_	26	E	26:E	_

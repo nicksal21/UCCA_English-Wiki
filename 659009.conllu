@@ -1,14 +1,13 @@
 # format = ucca
 # sent_id = 659009
 # text = While a high school student , Carey developed a relationship with Gavin Christopher , with whom she shared musical aspirations .
-# doc_id = 
 1	While	_	Word	Word	_	5	L	5:L	_
 2	a	_	Word	Word	_	5	E	5:E	_
 3	high	_	Word	Word	_	4	E	4:E	_
 4	school	_	Word	Word	_	0	root	0:root	_
 5	student	_	Word	Word	_	4	orphan	4:orphan	_
 6	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-7	Carey	_	Word	Word	_	10	A	10:A	_
+7	Carey	_	Word	Word	_	10	A	10:A|5:A	_
 8	developed	_	Word	Word	_	10	D	10:D	_
 9	a	_	Word	Word	_	10	E	10:E	_
 10	relationship	_	Word	Word	_	4	orphan	4:orphan	_

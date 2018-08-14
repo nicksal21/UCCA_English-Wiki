@@ -1,12 +1,11 @@
 # format = ucca
 # sent_id = 516005
 # text = Through perpetual reinvention , he has seen his influence continue to broaden and extend : music reviewer Brad Filicky writes that over the decades , " Bowie has become known as a musical chameleon , changing and dictating trends as much as he has altered his style to fit , influencing fashion and pop culture .
-# doc_id = 
 1	Through	_	Word	Word	_	3	L	3:L	_
 2	perpetual	_	Word	Word	_	3	D	3:D	_
 3	reinvention	_	Word	Word	_	0	root	0:root	_
 4	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-5	he	_	Word	Word	_	7	A	7:A	_
+5	he	_	Word	Word	_	7	A	7:A|3:A	_
 6	has	_	Word	Word	_	7	F	7:F	_
 7	seen	_	Word	Word	_	3	orphan	3:orphan	_
 8	his	_	Word	Word	_	9	A	9:A	_
@@ -28,7 +27,7 @@
 24	decades	_	Word	Word	_	3	orphan	3:orphan	_
 25	,	_	Punctuation	Punctuation	_	30	punct	30:punct	_
 26	"	_	Punctuation	Punctuation	_	30	punct	30:punct	_
-27	Bowie	_	Word	Word	_	30	A	30:A	_
+27	Bowie	_	Word	Word	_	30	A	30:A|51:A|36:A	_
 28	has	_	Word	Word	_	30	F	30:F	_
 29	become	_	Word	Word	_	30	E	30:E	_
 30	known	_	Word	Word	_	3	orphan	3:orphan	_

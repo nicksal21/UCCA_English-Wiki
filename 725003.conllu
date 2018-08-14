@@ -1,9 +1,8 @@
 # format = ucca
 # sent_id = 725003
 # text = " She separated from Miller and moved to New York , where she enrolled at New York University to study filmmaking and attend writing classes ; she later described it as " just good for me to collect myself .
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-2	She	_	Word	Word	_	3	A	3:A	_
+2	She	_	Word	Word	_	3	A	3:A|7:A	_
 3	separated	_	Word	Word	_	0	root	0:root	_
 4	from	_	Word	Word	_	5	R	5:R	_
 5	Miller	_	Word	Word	_	3	orphan	3:orphan	_
@@ -14,7 +13,7 @@
 10	York	_	Word	Word	_	9	flat	9:flat	_
 11	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 12	where	_	Word	Word	_	3	L	3:L	_
-13	she	_	Word	Word	_	14	A	14:A	_
+13	she	_	Word	Word	_	14	A	14:A|23:A|20:A	_
 14	enrolled	_	Word	Word	_	3	orphan	3:orphan	_
 15	at	_	Word	Word	_	14	R	14:R	_
 16	New	_	Word	Word	_	18	E	18:E	_

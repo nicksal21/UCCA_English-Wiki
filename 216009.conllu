@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 216009
 # text = The following year , Dunst had the lead in the teen comedy Get Over It ( 2001 ) . She later explained that one of the reasons for accepting the role was that it gave her the opportunity to sing .
-# doc_id = 
 1	The	_	Word	Word	_	3	E	3:E	_
 2	following	_	Word	Word	_	3	E	3:E	_
 3	year	_	Word	Word	_	0	root	0:root	_
@@ -21,7 +20,7 @@
 17	2001	_	Word	Word	_	3	orphan	3:orphan	_
 18	)	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 19	.	_	Punctuation	Punctuation	_	8	punct	8:punct	_
-20	She	_	Word	Word	_	22	A	22:A	_
+20	She	_	Word	Word	_	22	A	22:A|29:A	_
 21	later	_	Word	Word	_	22	D	22:D	_
 22	explained	_	Word	Word	_	3	orphan	3:orphan	_
 23	that	_	Word	Word	_	27	F	27:F	_
@@ -37,7 +36,7 @@
 33	that	_	Word	Word	_	35	F	35:F	_
 34	it	_	Word	Word	_	35	A	35:A	_
 35	gave	_	Word	Word	_	3	orphan	3:orphan	_
-36	her	_	Word	Word	_	35	A	35:A	_
+36	her	_	Word	Word	_	35	A	35:A|40:A	_
 37	the	_	Word	Word	_	38	E	38:E	_
 38	opportunity	_	Word	Word	_	3	orphan	3:orphan	_
 39	to	_	Word	Word	_	40	F	40:F	_

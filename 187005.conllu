@@ -1,14 +1,13 @@
 # format = ucca
 # sent_id = 187005
 # text = It was a devastating setback because he wanted to be an actor , and the Drama department did not allow students to take the stage until they completed all the core freshman classes .
-# doc_id = 
 1	It	_	Word	Word	_	2	A	2:A	_
 2	was	_	Word	Word	_	0	root	0:root	_
 3	a	_	Word	Word	_	5	E	5:E	_
 4	devastating	_	Word	Word	_	5	E	5:E	_
 5	setback	_	Word	Word	_	2	orphan	2:orphan	_
 6	because	_	Word	Word	_	2	L	2:L	_
-7	he	_	Word	Word	_	8	A	8:A	_
+7	he	_	Word	Word	_	8	A	8:A|10:A	_
 8	wanted	_	Word	Word	_	2	orphan	2:orphan	_
 9	to	_	Word	Word	_	10	F	10:F	_
 10	be	_	Word	Word	_	2	orphan	2:orphan	_
@@ -22,7 +21,7 @@
 18	did	_	Word	Word	_	20	F	20:F	_
 19	not	_	Word	Word	_	20	D	20:D	_
 20	allow	_	Word	Word	_	2	orphan	2:orphan	_
-21	students	_	Word	Word	_	20	A	20:A	_
+21	students	_	Word	Word	_	20	A	20:A|23:A	_
 22	to	_	Word	Word	_	23	F	23:F	_
 23	take	_	Word	Word	_	2	orphan	2:orphan	_
 24	the	_	Word	Word	_	25	E	25:E	_

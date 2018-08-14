@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 468006
 # text = Paul Westhead decided to start Johnson at center in Game 6 ; Johnson recorded 42 points , 15 rebounds , 7 assists , and 3 steals in a 123 - 107 win , while playing guard , forward , and center at different times during the game .
-# doc_id = 
 1	Paul	_	Word	Word	_	5	A	5:A	_
 2	Westhead	_	Word	Word	_	1	flat	1:flat	_
 3	decided	_	Word	Word	_	5	D	5:D	_
@@ -14,7 +13,7 @@
 10	Game	_	Word	Word	_	5	orphan	5:orphan	_
 11	6	_	Word	Word	_	10	E	10:E	_
 12	;	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-13	Johnson	_	Word	Word	_	14	A	14:A	_
+13	Johnson	_	Word	Word	_	14	A	14:A|35:A	_
 14	recorded	_	Word	Word	_	5	orphan	5:orphan	_
 15	42	_	Word	Word	_	16	E	16:E	_
 16	points	_	Word	Word	_	5	orphan	5:orphan	_

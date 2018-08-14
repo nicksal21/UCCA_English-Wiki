@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 186001
 # text = He was a cocaine addict for many years , but after a highly publicized arrest in 2001 he received treatment in a drug diversion program and is reported to have recovered .
-# doc_id = 
 1	He	_	Word	Word	_	5	A	5:A	_
 2	was	_	Word	Word	_	5	F	5:F	_
 3	a	_	Word	Word	_	5	E	5:E	_
@@ -19,7 +18,7 @@
 15	arrest	_	Word	Word	_	5	orphan	5:orphan	_
 16	in	_	Word	Word	_	17	R	17:R	_
 17	2001	_	Word	Word	_	5	orphan	5:orphan	_
-18	he	_	Word	Word	_	20	A	20:A	_
+18	he	_	Word	Word	_	20	A	20:A|15:A|31:A|28:A	_
 19	received	_	Word	Word	_	20	D	20:D	_
 20	treatment	_	Word	Word	_	5	orphan	5:orphan	_
 21	in	_	Word	Word	_	23	R	23:R	_

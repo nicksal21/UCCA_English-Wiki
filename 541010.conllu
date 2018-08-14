@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 541010
 # text = By 1932 , despite his longstanding association with the Republican Party , he openly supported Democratic presidential candidate Franklin D . Roosevelt , staging a " Motion Picture and Electrical Parade Sports Pageant " at L.A . Stadium in Roosevelt 's honor .
-# doc_id = 
 1	By	_	Word	Word	_	2	R	2:R	_
 2	1932	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	15	punct	15:punct	_
@@ -14,7 +13,7 @@
 10	Republican	_	Word	Word	_	11	E	11:E	_
 11	Party	_	Word	Word	_	2	orphan	2:orphan	_
 12	,	_	Punctuation	Punctuation	_	15	punct	15:punct	_
-13	he	_	Word	Word	_	15	A	15:A	_
+13	he	_	Word	Word	_	15	A	15:A|24:A	_
 14	openly	_	Word	Word	_	15	D	15:D	_
 15	supported	_	Word	Word	_	2	orphan	2:orphan	_
 16	Democratic	_	Word	Word	_	18	E	18:E	_

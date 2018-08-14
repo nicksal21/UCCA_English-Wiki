@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 955003
 # text = Goldwyn and the film 's director , William Wyler , offered Leigh the secondary role of Isabella ; but she refused , preferring the role of Cathy , which went to Merle Oberon .
-# doc_id = 
 1	Goldwyn	_	Word	Word	_	0	root	0:root	_
 2	and	_	Word	Word	_	1	N	1:N	_
 3	the	_	Word	Word	_	6	E	6:E	_
@@ -13,7 +12,7 @@
 9	Wyler	_	Word	Word	_	8	flat	8:flat	_
 10	,	_	Punctuation	Punctuation	_	11	punct	11:punct	_
 11	offered	_	Word	Word	_	1	orphan	1:orphan	_
-12	Leigh	_	Word	Word	_	11	A	11:A	_
+12	Leigh	_	Word	Word	_	11	A	11:A|23:A	_
 13	the	_	Word	Word	_	15	E	15:E	_
 14	secondary	_	Word	Word	_	15	E	15:E	_
 15	role	_	Word	Word	_	1	orphan	1:orphan	_

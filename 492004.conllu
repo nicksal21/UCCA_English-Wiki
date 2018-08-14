@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 492004
 # text = After a three - year period of experimentation he re - emerged in 1972 during the glam rock era with the flamboyant , androgynous alter ego Ziggy Stardust , spearheaded by the hit single " Starman " and the album The Rise and Fall of Ziggy Stardust and the Spiders from Mars .
-# doc_id = 
 1	After	_	Word	Word	_	8	L	8:L	_
 2	a	_	Word	Word	_	6	E	6:E	_
 3	three	_	Word	Word	_	5	E	5:E	_
@@ -10,7 +9,7 @@
 6	period	_	Word	Word	_	5	orphan	5:orphan	_
 7	of	_	Word	Word	_	6	R	6:R	_
 8	experimentation	_	Word	Word	_	5	orphan	5:orphan	_
-9	he	_	Word	Word	_	12	A	12:A	_
+9	he	_	Word	Word	_	12	A	12:A|8:A	_
 10	re	_	Word	Word	_	12	D	12:D	_
 11	-	_	Punctuation	Punctuation	_	12	punct	12:punct	_
 12	emerged	_	Word	Word	_	5	orphan	5:orphan	_
@@ -28,7 +27,7 @@
 24	androgynous	_	Word	Word	_	26	E	26:E	_
 25	alter	_	Word	Word	_	26	E	26:E	_
 26	ego	_	Word	Word	_	5	orphan	5:orphan	_
-27	Ziggy	_	Word	Word	_	26	E	26:E	_
+27	Ziggy	_	Word	Word	_	26	E	26:E|30:A	_
 28	Stardust	_	Word	Word	_	27	flat	27:flat	_
 29	,	_	Punctuation	Punctuation	_	30	punct	30:punct	_
 30	spearheaded	_	Word	Word	_	5	orphan	5:orphan	_

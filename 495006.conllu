@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 495006
 # text = His new manager , Ralph Horton , later instrumental in his transition to solo artist , soon witnessed Bowie 's move to yet another group , the Buzz , yielding the singer 's fifth unsuccessful single release , " Do Anything You Say " . While with the Buzz , Bowie also joined the Riot Squad ; their recordings , which included a Bowie number and Velvet Underground material , went unreleased .
-# doc_id = 
 1	His	_	Word	Word	_	3	E	3:E	_
 2	new	_	Word	Word	_	3	E	3:E	_
 3	manager	_	Word	Word	_	0	root	0:root	_
@@ -52,7 +51,7 @@
 48	the	_	Word	Word	_	49	E	49:E	_
 49	Buzz	_	Word	Word	_	3	orphan	3:orphan	_
 50	,	_	Punctuation	Punctuation	_	49	punct	49:punct	_
-51	Bowie	_	Word	Word	_	53	A	53:A	_
+51	Bowie	_	Word	Word	_	53	A	53:A|49:A	_
 52	also	_	Word	Word	_	53	D	53:D	_
 53	joined	_	Word	Word	_	3	orphan	3:orphan	_
 54	the	_	Word	Word	_	55	E	55:E	_

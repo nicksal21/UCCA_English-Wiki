@@ -1,12 +1,11 @@
 # format = ucca
 # sent_id = 461010
 # text = By late 2004 , Brokaw had retired from his anchoring duties at NBC , ceding the reins to Brian Williams ; Rather planned to step down in March 2005 .
-# doc_id = 
 1	By	_	Word	Word	_	3	R	3:R	_
 2	late	_	Word	Word	_	3	E	3:E	_
 3	2004	_	Word	Word	_	0	root	0:root	_
 4	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
-5	Brokaw	_	Word	Word	_	7	A	7:A	_
+5	Brokaw	_	Word	Word	_	7	A	7:A|15:A	_
 6	had	_	Word	Word	_	7	F	7:F	_
 7	retired	_	Word	Word	_	3	orphan	3:orphan	_
 8	from	_	Word	Word	_	11	R	11:R	_

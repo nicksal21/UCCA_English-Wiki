@@ -1,14 +1,13 @@
 # format = ucca
 # sent_id = 558009
 # text = Interviewing Presley on - air , Phillips asked him what high school he attended in order to clarify his color for the many callers who had assumed he was black .
-# doc_id = 
 1	Interviewing	_	Word	Word	_	0	root	0:root	_
 2	Presley	_	Word	Word	_	1	A	1:A	_
 3	on	_	Word	Word	_	1	A	1:A	_
 4	-	_	Punctuation	Punctuation	_	1	punct	1:punct	_
 5	air	_	Word	Word	_	3	flat	3:flat	_
 6	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
-7	Phillips	_	Word	Word	_	8	A	8:A	_
+7	Phillips	_	Word	Word	_	8	A	8:A|1:A|18:A	_
 8	asked	_	Word	Word	_	1	orphan	1:orphan	_
 9	him	_	Word	Word	_	8	A	8:A	_
 10	what	_	Word	Word	_	11	E	11:E	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 209006
 # text = As a reference to this episode , during the episode featuring the Itchy & Scratchy movie , Lisa claims that Dustin Hoffman had a cameo in that movie but did n't use his real name .
-# doc_id = 
 1	As	_	Word	Word	_	3	R	3:R	_
 2	a	_	Word	Word	_	3	E	3:E	_
 3	reference	_	Word	Word	_	0	root	0:root	_
@@ -22,7 +21,7 @@
 18	Lisa	_	Word	Word	_	19	A	19:A	_
 19	claims	_	Word	Word	_	3	orphan	3:orphan	_
 20	that	_	Word	Word	_	25	R	25:R	_
-21	Dustin	_	Word	Word	_	25	A	25:A	_
+21	Dustin	_	Word	Word	_	25	A	25:A|32:A	_
 22	Hoffman	_	Word	Word	_	21	flat	21:flat	_
 23	had	_	Word	Word	_	25	F	25:F	_
 24	a	_	Word	Word	_	25	E	25:E	_

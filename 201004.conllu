@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 201004
 # text = A The New York Times article by Peter De Jonge explained that " The West Wing is never plotted out for more than a few weeks ahead and has no major story lines " , which De Jonge believed was because " with characters who have no flaws , it is impossible to give them significant arcs " . Sorkin has stated : " I seldom plan ahead , not because I do n't think it 's good to plan ahead , there just is n't time .
-# doc_id = 
 1	A	_	Word	Word	_	6	E	6:E	_
 2	The	_	Word	Word	_	1	flat	1:flat	_
 3	New	_	Word	Word	_	1	flat	1:flat	_
@@ -15,7 +14,7 @@
 11	explained	_	Word	Word	_	6	orphan	6:orphan	_
 12	that	_	Word	Word	_	19	F	19:F	_
 13	"	_	Punctuation	Punctuation	_	19	punct	19:punct	_
-14	The	_	Word	Word	_	19	A	19:A	_
+14	The	_	Word	Word	_	19	A	19:A|29:A	_
 15	West	_	Word	Word	_	14	flat	14:flat	_
 16	Wing	_	Word	Word	_	14	flat	14:flat	_
 17	is	_	Word	Word	_	19	F	19:F	_

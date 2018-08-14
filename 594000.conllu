@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 594000
 # text = In 2011 , Depp became a U . S . resident again , because France wanted him to become a permanent resident , which he said would require him to pay income tax in both countries .
-# doc_id = 
 1	In	_	Word	Word	_	2	R	2:R	_
 2	2011	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
@@ -18,7 +17,7 @@
 14	because	_	Word	Word	_	5	L	5:L	_
 15	France	_	Word	Word	_	16	A	16:A	_
 16	wanted	_	Word	Word	_	2	orphan	2:orphan	_
-17	him	_	Word	Word	_	16	A	16:A	_
+17	him	_	Word	Word	_	16	A	16:A|19:A	_
 18	to	_	Word	Word	_	19	F	19:F	_
 19	become	_	Word	Word	_	2	orphan	2:orphan	_
 20	a	_	Word	Word	_	22	E	22:E	_
@@ -30,7 +29,7 @@
 26	said	_	Word	Word	_	2	orphan	2:orphan	_
 27	would	_	Word	Word	_	28	F	28:F	_
 28	require	_	Word	Word	_	2	orphan	2:orphan	_
-29	him	_	Word	Word	_	28	A	28:A	_
+29	him	_	Word	Word	_	28	A	28:A|31:A	_
 30	to	_	Word	Word	_	31	F	31:F	_
 31	pay	_	Word	Word	_	2	orphan	2:orphan	_
 32	income	_	Word	Word	_	33	E	33:E	_

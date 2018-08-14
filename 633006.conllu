@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 633006
 # text = George Harrison joined the band as lead guitarist , even though Lennon thought Harrison ( at 14 years old ) was too young to join the band , so McCartney engineered a second audition on the upper deck of a Liverpool bus , where Harrison played " Raunchy " for Lennon .
-# doc_id = 
 1	George	_	Word	Word	_	3	A	3:A	_
 2	Harrison	_	Word	Word	_	1	flat	1:flat	_
 3	joined	_	Word	Word	_	0	root	0:root	_
@@ -15,7 +14,7 @@
 11	though	_	Word	Word	_	10	flat	10:flat	_
 12	Lennon	_	Word	Word	_	13	A	13:A	_
 13	thought	_	Word	Word	_	3	orphan	3:orphan	_
-14	Harrison	_	Word	Word	_	23	A	23:A	_
+14	Harrison	_	Word	Word	_	23	A	23:A|25:A|19:A	_
 15	(	_	Punctuation	Punctuation	_	23	punct	23:punct	_
 16	at	_	Word	Word	_	23	L	23:L	_
 17	14	_	Word	Word	_	18	E	18:E	_

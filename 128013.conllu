@@ -1,14 +1,13 @@
 # format = ucca
 # sent_id = 128013
 # text = " Hepburn refused , and paid Harris $ 14,000 to close the production instead . She later referred to Harris as " hands - down the most diabolical person I have ever met " , and claimed this experience was important in teaching her to take responsibility for her career .
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-2	Hepburn	_	Word	Word	_	3	A	3:A	_
+2	Hepburn	_	Word	Word	_	3	A	3:A|6:A	_
 3	refused	_	Word	Word	_	0	root	0:root	_
 4	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 5	and	_	Word	Word	_	3	L	3:L	_
 6	paid	_	Word	Word	_	3	orphan	3:orphan	_
-7	Harris	_	Word	Word	_	6	A	6:A	_
+7	Harris	_	Word	Word	_	6	A	6:A|11:A	_
 8	$	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 9	14,000	_	Word	Word	_	6	A	6:A	_
 10	to	_	Word	Word	_	11	R	11:R	_
@@ -17,7 +16,7 @@
 13	production	_	Word	Word	_	3	orphan	3:orphan	_
 14	instead	_	Word	Word	_	5	flat	5:flat	_
 15	.	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-16	She	_	Word	Word	_	18	A	18:A	_
+16	She	_	Word	Word	_	18	A	18:A|37:A	_
 17	later	_	Word	Word	_	18	D	18:D	_
 18	referred	_	Word	Word	_	3	orphan	3:orphan	_
 19	to	_	Word	Word	_	20	R	20:R	_
@@ -45,7 +44,7 @@
 41	important	_	Word	Word	_	3	orphan	3:orphan	_
 42	in	_	Word	Word	_	43	R	43:R	_
 43	teaching	_	Word	Word	_	3	orphan	3:orphan	_
-44	her	_	Word	Word	_	43	A	43:A	_
+44	her	_	Word	Word	_	43	A	43:A|46:A	_
 45	to	_	Word	Word	_	46	R	46:R	_
 46	take	_	Word	Word	_	3	orphan	3:orphan	_
 47	responsibility	_	Word	Word	_	46	flat	46:flat	_

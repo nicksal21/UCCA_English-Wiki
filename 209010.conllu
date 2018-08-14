@@ -1,14 +1,13 @@
 # format = ucca
 # sent_id = 209010
 # text = In the mid - 1990s , Hoffman starred in - and was deeply involved in the production of - David Mamet 's American Buffalo ( also 1996 ) , and an early effort of film editor Kate Sanford .
-# doc_id = 
 1	In	_	Word	Word	_	5	R	5:R	_
 2	the	_	Word	Word	_	5	E	5:E	_
 3	mid	_	Word	Word	_	5	E	5:E	_
 4	-	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 5	1990s	_	Word	Word	_	0	root	0:root	_
 6	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
-7	Hoffman	_	Word	Word	_	8	A	8:A	_
+7	Hoffman	_	Word	Word	_	8	A	8:A|14:A	_
 8	starred	_	Word	Word	_	5	orphan	5:orphan	_
 9	in	_	Word	Word	_	5	orphan	5:orphan	_
 10	-	_	Punctuation	Punctuation	_	8	punct	8:punct	_

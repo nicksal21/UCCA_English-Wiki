@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 470010
 # text = In the 1984 - 85 regular season , Johnson averaged 18.3 points , 12.6 assists , and 6.2 rebounds per game and led the Lakers into the 1985 NBA Finals , where they faced the Celtics again .
-# doc_id = 
 1	In	_	Word	Word	_	7	L	7:L	_
 2	the	_	Word	Word	_	3	E	3:E	_
 3	1984	_	Word	Word	_	0	root	0:root	_
@@ -10,7 +9,7 @@
 6	regular	_	Word	Word	_	7	D	7:D	_
 7	season	_	Word	Word	_	3	orphan	3:orphan	_
 8	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
-9	Johnson	_	Word	Word	_	10	A	10:A	_
+9	Johnson	_	Word	Word	_	10	A	10:A|23:A	_
 10	averaged	_	Word	Word	_	3	orphan	3:orphan	_
 11	18.3	_	Word	Word	_	12	E	12:E	_
 12	points	_	Word	Word	_	3	orphan	3:orphan	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 652000
 # text = John and Yoko add a great voice and drive to the country 's so - called art institution . They inspire and transcend and stimulate and by doing so , only help others to see pure light and in doing that , put an end to this dull taste of petty commercialism which is being passed off as Artist Art by the overpowering mass media . Hurray for John and Yoko . Let them stay and live here and breathe . The country 's got plenty of room and space . Let John and Yoko stay !
-# doc_id = 
 1	John	_	Word	Word	_	0	root	0:root	_
 2	and	_	Word	Word	_	1	N	1:N	_
 3	Yoko	_	Word	Word	_	1	C	1:C	_
@@ -21,7 +20,7 @@
 17	art	_	Word	Word	_	18	E	18:E	_
 18	institution	_	Word	Word	_	1	orphan	1:orphan	_
 19	.	_	Punctuation	Punctuation	_	4	punct	4:punct	_
-20	They	_	Word	Word	_	21	A	21:A	_
+20	They	_	Word	Word	_	21	A	21:A|23:A|25:A|32:A|40:A|43:A|28:A	_
 21	inspire	_	Word	Word	_	1	orphan	1:orphan	_
 22	and	_	Word	Word	_	4	L	4:L	_
 23	transcend	_	Word	Word	_	1	orphan	1:orphan	_
@@ -34,7 +33,7 @@
 30	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 31	only	_	Word	Word	_	32	D	32:D	_
 32	help	_	Word	Word	_	1	orphan	1:orphan	_
-33	others	_	Word	Word	_	32	A	32:A	_
+33	others	_	Word	Word	_	32	A	32:A|35:A	_
 34	to	_	Word	Word	_	35	F	35:F	_
 35	see	_	Word	Word	_	1	orphan	1:orphan	_
 36	pure	_	Word	Word	_	37	E	37:E	_
@@ -75,7 +74,7 @@
 71	Yoko	_	Word	Word	_	69	C	69:C	_
 72	.	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 73	Let	_	Word	Word	_	1	orphan	1:orphan	_
-74	them	_	Word	Word	_	73	A	73:A	_
+74	them	_	Word	Word	_	73	A	73:A|80:A|75:A|77:A	_
 75	stay	_	Word	Word	_	1	orphan	1:orphan	_
 76	and	_	Word	Word	_	4	L	4:L	_
 77	live	_	Word	Word	_	1	orphan	1:orphan	_

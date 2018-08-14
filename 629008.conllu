@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 629008
 # text = As of 2012 , Lennon 's solo album sales in the United States exceed 14 million units , and as writer , co - writer or performer , he is responsible for 25 number - one singles on the US Hot 100 chart .
-# doc_id = 
 1	As	_	Word	Word	_	3	R	3:R	_
 2	of	_	Word	Word	_	3	R	3:R	_
 3	2012	_	Word	Word	_	0	root	0:root	_
@@ -30,7 +29,7 @@
 26	or	_	Word	Word	_	21	R	21:R	_
 27	performer	_	Word	Word	_	21	C	21:C	_
 28	,	_	Punctuation	Punctuation	_	21	punct	21:punct	_
-29	he	_	Word	Word	_	31	A	31:A	_
+29	he	_	Word	Word	_	31	A	31:A|21:A	_
 30	is	_	Word	Word	_	31	F	31:F	_
 31	responsible	_	Word	Word	_	3	orphan	3:orphan	_
 32	for	_	Word	Word	_	37	R	37:R	_

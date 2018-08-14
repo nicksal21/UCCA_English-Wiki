@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 1027000
 # text = Why not just tell people I 'm an alien from Mars ? Tell them I eat live chickens and do a voodoo dance at midnight . They 'll believe anything you say , because you 're a reporter . But if I , Michael Jackson , were to say , " I 'm an alien from Mars and I eat live chickens and do a voodoo dance at midnight , " people would say , " Oh , man , that Michael Jackson is nuts . He 's cracked up . You ca n't believe a single word that comes out of his mouth . "
-# doc_id = 
 1	Why	_	Word	Word	_	4	F	4:F	_
 2	not	_	Word	Word	_	4	D	4:D	_
 3	just	_	Word	Word	_	4	D	4:D	_
@@ -16,7 +15,7 @@
 12	?	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 13	Tell	_	Word	Word	_	4	orphan	4:orphan	_
 14	them	_	Word	Word	_	13	A	13:A	_
-15	I	_	Word	Word	_	16	A	16:A	_
+15	I	_	Word	Word	_	16	A	16:A|23:A	_
 16	eat	_	Word	Word	_	4	orphan	4:orphan	_
 17	live	_	Word	Word	_	18	E	18:E	_
 18	chickens	_	Word	Word	_	4	orphan	4:orphan	_
@@ -60,7 +59,7 @@
 56	from	_	Word	Word	_	57	R	57:R	_
 57	Mars	_	Word	Word	_	4	orphan	4:orphan	_
 58	and	_	Word	Word	_	55	L	55:L	_
-59	I	_	Word	Word	_	60	A	60:A	_
+59	I	_	Word	Word	_	60	A	60:A|67:A	_
 60	eat	_	Word	Word	_	4	orphan	4:orphan	_
 61	live	_	Word	Word	_	62	E	62:E	_
 62	chickens	_	Word	Word	_	4	orphan	4:orphan	_

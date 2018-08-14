@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 649007
 # text = At a second Bed - In three months later at the Queen Elizabeth Hotel in Montreal Lennon wrote and recorded " Give Peace a Chance " . Released as a single , it was quickly taken up as an anti - war anthem and sung by a quarter of a million demonstrators against the Vietnam War in Washington , DC , on 15 November , the second Vietnam Moratorium Day .
-# doc_id = 
 1	At	_	Word	Word	_	4	L	4:L	_
 2	a	_	Word	Word	_	4	E	4:E	_
 3	second	_	Word	Word	_	4	E	4:E	_
@@ -23,7 +22,7 @@
 19	and	_	Word	Word	_	18	N	18:N	_
 20	recorded	_	Word	Word	_	18	C	18:C	_
 21	"	_	Punctuation	Punctuation	_	18	punct	18:punct	_
-22	Give	_	Word	Word	_	18	A	18:A	_
+22	Give	_	Word	Word	_	18	A	18:A|28:A	_
 23	Peace	_	Word	Word	_	22	flat	22:flat	_
 24	a	_	Word	Word	_	22	flat	22:flat	_
 25	Chance	_	Word	Word	_	22	flat	22:flat	_
@@ -34,7 +33,7 @@
 30	a	_	Word	Word	_	31	E	31:E	_
 31	single	_	Word	Word	_	4	orphan	4:orphan	_
 32	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
-33	it	_	Word	Word	_	36	A	36:A	_
+33	it	_	Word	Word	_	36	A	36:A|45:A	_
 34	was	_	Word	Word	_	36	F	36:F	_
 35	quickly	_	Word	Word	_	36	D	36:D	_
 36	taken	_	Word	Word	_	4	orphan	4:orphan	_

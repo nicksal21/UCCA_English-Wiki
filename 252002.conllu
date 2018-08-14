@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 252002
 # text = Hawke said that he was drawn to the play 's take on " the nature of reality " , and its " weird juxtaposition of humor and mysticism " . In his review for the New York Times , Ben Brantley noted the production 's " scary , splendid clarity " , and praised Hawke for providing his cast " with a mood - stirring mise en scène " and , moreover , for eliciting a performance that " connoisseurs of precision acting will be savoring for years to come " . Entertainment Weekly commented that although A Lie of the Mind " wobbles a bit in its late stages " , Hawke 's " hearty " revival managed to " resurrect the spellbinding uneasiness of the original " . The production garnered five Lucille Lortel Award nominations including Outstanding Revival , and earned Hawke a Drama Desk Award nomination for Outstanding Director of a Play .
-# doc_id = 
 1	Hawke	_	Word	Word	_	2	A	2:A	_
 2	said	_	Word	Word	_	0	root	0:root	_
 3	that	_	Word	Word	_	6	F	6:F	_
@@ -41,7 +40,7 @@
 37	York	_	Word	Word	_	36	flat	36:flat	_
 38	Times	_	Word	Word	_	36	flat	36:flat	_
 39	,	_	Punctuation	Punctuation	_	42	punct	42:punct	_
-40	Ben	_	Word	Word	_	42	A	42:A	_
+40	Ben	_	Word	Word	_	42	A	42:A|54:A	_
 41	Brantley	_	Word	Word	_	40	flat	40:flat	_
 42	noted	_	Word	Word	_	2	orphan	2:orphan	_
 43	the	_	Word	Word	_	44	E	44:E	_
@@ -56,7 +55,7 @@
 52	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 53	and	_	Word	Word	_	2	L	2:L	_
 54	praised	_	Word	Word	_	2	orphan	2:orphan	_
-55	Hawke	_	Word	Word	_	54	A	54:A	_
+55	Hawke	_	Word	Word	_	54	A	54:A|57:A|75:A	_
 56	for	_	Word	Word	_	57	R	57:R	_
 57	providing	_	Word	Word	_	2	orphan	2:orphan	_
 58	his	_	Word	Word	_	59	E	59:E	_

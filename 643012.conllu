@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 643012
 # text = " Soon after their return from Spain , at McCartney 's twenty - first birthday party in June 1963 , Lennon physically attacked Cavern Club MC Bob Wooler for saying " How was your honeymoon , John ?
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 2	Soon	_	Word	Word	_	3	E	3:E	_
 3	after	_	Word	Word	_	0	root	0:root	_
@@ -28,7 +27,7 @@
 24	Cavern	_	Word	Word	_	26	E	26:E	_
 25	Club	_	Word	Word	_	24	flat	24:flat	_
 26	MC	_	Word	Word	_	3	orphan	3:orphan	_
-27	Bob	_	Word	Word	_	26	E	26:E	_
+27	Bob	_	Word	Word	_	26	E	26:E|30:A	_
 28	Wooler	_	Word	Word	_	27	flat	27:flat	_
 29	for	_	Word	Word	_	30	R	30:R	_
 30	saying	_	Word	Word	_	3	orphan	3:orphan	_

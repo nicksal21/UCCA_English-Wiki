@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 381001
 # text = The film was released on September 21 , 2012 and received positive reviews , with Roger Ebert saying that " End of Watch " is one of the best police movies in recent years , a virtuoso fusion of performances and often startling action " and Salon . com 's Andrew O ' Hehir stating that the film was " at least the best cop movie since James Gray 's " We Own the Night , " and very likely since Antoine Fuqua 's memorable " Training Day " ( which , not coincidentally , was written by Ayer ) " . To train for the role , Gyllenhaal took tactical training and participated in actual police drives with co - star Michael Peña to help establish the language of the Salon characters
-# doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
 2	film	_	Word	Word	_	0	root	0:root	_
 3	was	_	Word	Word	_	4	F	4:F	_
@@ -110,7 +109,7 @@
 106	the	_	Word	Word	_	107	E	107:E	_
 107	role	_	Word	Word	_	2	orphan	2:orphan	_
 108	,	_	Punctuation	Punctuation	_	104	punct	104:punct	_
-109	Gyllenhaal	_	Word	Word	_	112	A	112:A	_
+109	Gyllenhaal	_	Word	Word	_	112	A	112:A|127:A|104:A|114:A	_
 110	took	_	Word	Word	_	112	F	112:F	_
 111	tactical	_	Word	Word	_	112	E	112:E	_
 112	training	_	Word	Word	_	2	orphan	2:orphan	_

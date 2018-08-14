@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 234009
 # text = Some 50 police and security personnel were required to separate protesters from Chan , as they were attempting to spit at him when he arrived at Taipei airport for a charity sponsored by cable TV channel TVBS on 18 June 2008 .
-# doc_id = 
 1	Some	_	Word	Word	_	3	E	3:E	_
 2	50	_	Word	Word	_	3	E	3:E	_
 3	police	_	Word	Word	_	0	root	0:root	_
@@ -17,7 +16,7 @@
 13	Chan	_	Word	Word	_	3	orphan	3:orphan	_
 14	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 15	as	_	Word	Word	_	8	L	8:L	_
-16	they	_	Word	Word	_	18	A	18:A	_
+16	they	_	Word	Word	_	18	A	18:A|20:A	_
 17	were	_	Word	Word	_	18	F	18:F	_
 18	attempting	_	Word	Word	_	3	orphan	3:orphan	_
 19	to	_	Word	Word	_	20	F	20:F	_

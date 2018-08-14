@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 650007
 # text = Following the Bloody Sunday incident in Northern Ireland in 1972 , in which 14 unarmed civil rights protesters were shot dead by the British Army , Lennon said that given the choice between the army and the IRA ( who were not involved in the incident ) he would side with the latter .
-# doc_id = 
 1	Following	_	Word	Word	_	5	L	5:L	_
 2	the	_	Word	Word	_	3	E	3:E	_
 3	Bloody	_	Word	Word	_	0	root	0:root	_
@@ -28,7 +27,7 @@
 24	British	_	Word	Word	_	25	E	25:E	_
 25	Army	_	Word	Word	_	3	orphan	3:orphan	_
 26	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-27	Lennon	_	Word	Word	_	28	A	28:A	_
+27	Lennon	_	Word	Word	_	28	A	28:A|32:A	_
 28	said	_	Word	Word	_	3	orphan	3:orphan	_
 29	that	_	Word	Word	_	32	F	32:F	_
 30	given	_	Word	Word	_	32	F	32:F	_

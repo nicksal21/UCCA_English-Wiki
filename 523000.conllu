@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 523000
 # text = On November 16 , 1935 , in the midst of preparing for a radio performance on the Shell Chateau Hour , Garland learned that her father , who had been hospitalized with meningitis , had taken a turn for the worse .
-# doc_id = 
 1	On	_	Word	Word	_	2	R	2:R	_
 2	November	_	Word	Word	_	0	root	0:root	_
 3	16	_	Word	Word	_	2	flat	2:flat	_
@@ -23,7 +22,7 @@
 19	Chateau	_	Word	Word	_	20	E	20:E	_
 20	Hour	_	Word	Word	_	2	orphan	2:orphan	_
 21	,	_	Punctuation	Punctuation	_	15	punct	15:punct	_
-22	Garland	_	Word	Word	_	23	A	23:A	_
+22	Garland	_	Word	Word	_	23	A	23:A|15:A	_
 23	learned	_	Word	Word	_	2	orphan	2:orphan	_
 24	that	_	Word	Word	_	38	F	38:F	_
 25	her	_	Word	Word	_	26	E	26:E	_

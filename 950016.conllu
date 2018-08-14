@@ -1,11 +1,10 @@
 # format = ucca
 # sent_id = 950016
 # text = In response , Angel released a statement confirming that the dress was designed by Stefani for L . A . M . B . to wear and be auctioned off at the amfAR gala , adding , " I 'm disappointed that the focus has shifted away from what Gwen and I originally intended , which was to create a custom outfit for a great cause . We both were thrilled with the outcome and enjoyed the process . I have nothing but respect for her and look forward to working with her on more projects in the future .
-# doc_id = 
 1	In	_	Word	Word	_	2	R	2:R	_
 2	response	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-4	Angel	_	Word	Word	_	5	A	5:A	_
+4	Angel	_	Word	Word	_	5	A	5:A|36:A	_
 5	released	_	Word	Word	_	2	orphan	2:orphan	_
 6	a	_	Word	Word	_	7	E	7:E	_
 7	statement	_	Word	Word	_	2	orphan	2:orphan	_
@@ -69,7 +68,7 @@
 65	great	_	Word	Word	_	66	E	66:E	_
 66	cause	_	Word	Word	_	2	orphan	2:orphan	_
 67	.	_	Punctuation	Punctuation	_	41	punct	41:punct	_
-68	We	_	Word	Word	_	71	A	71:A	_
+68	We	_	Word	Word	_	71	A	71:A|76:A	_
 69	both	_	Word	Word	_	71	D	71:D	_
 70	were	_	Word	Word	_	71	F	71:F	_
 71	thrilled	_	Word	Word	_	2	orphan	2:orphan	_
@@ -81,7 +80,7 @@
 77	the	_	Word	Word	_	78	E	78:E	_
 78	process	_	Word	Word	_	2	orphan	2:orphan	_
 79	.	_	Punctuation	Punctuation	_	41	punct	41:punct	_
-80	I	_	Word	Word	_	84	A	84:A	_
+80	I	_	Word	Word	_	84	A	84:A|91:A	_
 81	have	_	Word	Word	_	84	F	84:F	_
 82	nothing	_	Word	Word	_	2	orphan	2:orphan	_
 83	but	_	Word	Word	_	82	R	82:R	_

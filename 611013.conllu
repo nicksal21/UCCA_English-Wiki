@@ -1,12 +1,11 @@
 # format = ucca
 # sent_id = 611013
 # text = On 12 December , McCartney performed , supported by Krist Novoselic , Dave Grohl , and Pat Smear ( all former members of Nirvana ) , the closing act of 12 - 12 - 12 : The Concert for Sandy Relief , seen by approximately two billion people worldwide .
-# doc_id = 
 1	On	_	Word	Word	_	2	R	2:R	_
 2	12	_	Word	Word	_	0	root	0:root	_
 3	December	_	Word	Word	_	2	flat	2:flat	_
 4	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-5	McCartney	_	Word	Word	_	6	A	6:A	_
+5	McCartney	_	Word	Word	_	6	A	6:A|8:A	_
 6	performed	_	Word	Word	_	2	orphan	2:orphan	_
 7	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 8	supported	_	Word	Word	_	2	orphan	2:orphan	_

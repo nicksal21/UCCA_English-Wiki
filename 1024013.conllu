@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 1024013
 # text = In 1986 , " We Are the World " won four Grammys ( one for Jackson for Song of the Year ) . American Music Award directors removed the charity song from the competition because they felt it would be inappropriate , but recognized it with two special honors : one for the creation of the song and one for the USA for Africa idea .
-# doc_id = 
 1	In	_	Word	Word	_	2	R	2:R	_
 2	1986	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	10	punct	10:punct	_
@@ -37,7 +36,7 @@
 33	the	_	Word	Word	_	34	E	34:E	_
 34	competition	_	Word	Word	_	2	orphan	2:orphan	_
 35	because	_	Word	Word	_	10	L	10:L	_
-36	they	_	Word	Word	_	37	A	37:A	_
+36	they	_	Word	Word	_	37	A	37:A|44:A	_
 37	felt	_	Word	Word	_	2	orphan	2:orphan	_
 38	it	_	Word	Word	_	41	A	41:A	_
 39	would	_	Word	Word	_	41	F	41:F	_

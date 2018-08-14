@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 710010
 # text = In December 1997 , U.S . President Bill Clinton presented Dylan with a Kennedy Center Honor in the East Room of the White House , paying this tribute : " He probably had more impact on people of my generation than any other creative artist . His voice and lyrics have n't always been easy on the ear , but throughout his career Bob Dylan has never aimed to please . He 's disturbed the peace and discomforted the powerful . "
-# doc_id = 
 1	In	_	Word	Word	_	3	R	3:R	_
 2	December	_	Word	Word	_	3	E	3:E	_
 3	1997	_	Word	Word	_	0	root	0:root	_
@@ -9,7 +8,7 @@
 5	U.S	_	Word	Word	_	7	E	7:E	_
 6	.	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 7	President	_	Word	Word	_	3	orphan	3:orphan	_
-8	Bill	_	Word	Word	_	7	E	7:E	_
+8	Bill	_	Word	Word	_	7	E	7:E|26:A	_
 9	Clinton	_	Word	Word	_	8	flat	8:flat	_
 10	presented	_	Word	Word	_	3	orphan	3:orphan	_
 11	Dylan	_	Word	Word	_	10	A	10:A	_
@@ -73,7 +72,7 @@
 69	to	_	Word	Word	_	70	F	70:F	_
 70	please	_	Word	Word	_	3	orphan	3:orphan	_
 71	.	_	Punctuation	Punctuation	_	35	punct	35:punct	_
-72	He	_	Word	Word	_	74	A	74:A	_
+72	He	_	Word	Word	_	74	A	74:A|78:A	_
 73	's	_	Word	Word	_	74	F	74:F	_
 74	disturbed	_	Word	Word	_	3	orphan	3:orphan	_
 75	the	_	Word	Word	_	76	E	76:E	_

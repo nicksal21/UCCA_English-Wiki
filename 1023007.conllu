@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 1023007
 # text = Anna Kisselgoff of The New York Times later wrote , " The moonwalk that he made famous is an apt metaphor for his dance style . How does he do it ? As a technician , he is a great illusionist , a genuine mime . His ability to keep one leg straight as he glides while the other bends and seems to walk requires perfect timing .
-# doc_id = 
 1	Anna	_	Word	Word	_	0	root	0:root	_
 2	Kisselgoff	_	Word	Word	_	1	flat	1:flat	_
 3	of	_	Word	Word	_	1	R	1:R	_
@@ -38,7 +37,7 @@
 34	a	_	Word	Word	_	35	E	35:E	_
 35	technician	_	Word	Word	_	1	orphan	1:orphan	_
 36	,	_	Punctuation	Punctuation	_	35	punct	35:punct	_
-37	he	_	Word	Word	_	41	A	41:A	_
+37	he	_	Word	Word	_	41	A	41:A|35:A	_
 38	is	_	Word	Word	_	41	F	41:F	_
 39	a	_	Word	Word	_	41	E	41:E	_
 40	great	_	Word	Word	_	41	E	41:E	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 1021004
 # text = Younger brother Randy formally joined the band around this time , while Jermaine chose to stay with Motown and pursue a solo career .
-# doc_id = 
 1	Younger	_	Word	Word	_	2	E	2:E	_
 2	brother	_	Word	Word	_	0	root	0:root	_
 3	Randy	_	Word	Word	_	2	orphan	2:orphan	_
@@ -14,7 +13,7 @@
 10	time	_	Word	Word	_	2	orphan	2:orphan	_
 11	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 12	while	_	Word	Word	_	5	L	5:L	_
-13	Jermaine	_	Word	Word	_	14	A	14:A	_
+13	Jermaine	_	Word	Word	_	14	A	14:A|16:A|20:A	_
 14	chose	_	Word	Word	_	2	orphan	2:orphan	_
 15	to	_	Word	Word	_	16	F	16:F	_
 16	stay	_	Word	Word	_	2	orphan	2:orphan	_

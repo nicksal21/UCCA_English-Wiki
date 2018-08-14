@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 548010
 # text = Evidence of Warner 's eroding control at Warner Bros . included his failure to block production of the controversial but highly influential film , Bonnie and Clyde , a film project he initially " hated " . Similarly , as producer of the film adaptation of Camelot , Warner was unable to persuade director Joshua Logan to cast Richard Burton and Julie Andrews in the leading roles .
-# doc_id = 
 1	Evidence	_	Word	Word	_	0	root	0:root	_
 2	of	_	Word	Word	_	6	R	6:R	_
 3	Warner	_	Word	Word	_	1	orphan	1:orphan	_
@@ -50,7 +49,7 @@
 46	of	_	Word	Word	_	47	R	47:R	_
 47	Camelot	_	Word	Word	_	1	orphan	1:orphan	_
 48	,	_	Punctuation	Punctuation	_	41	punct	41:punct	_
-49	Warner	_	Word	Word	_	53	A	53:A	_
+49	Warner	_	Word	Word	_	53	A	53:A|41:A	_
 50	was	_	Word	Word	_	53	F	53:F	_
 51	unable	_	Word	Word	_	53	E	53:E	_
 52	to	_	Word	Word	_	53	F	53:F	_

@@ -1,12 +1,11 @@
 # format = ucca
 # sent_id = 551000
 # text = An ardent Republican , Jack Warner nevertheless supported Franklin D . Roosevelt in the early 1930s .
-# doc_id = 
 1	An	_	Word	Word	_	3	E	3:E	_
 2	ardent	_	Word	Word	_	3	E	3:E	_
 3	Republican	_	Word	Word	_	0	root	0:root	_
 4	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-5	Jack	_	Word	Word	_	8	A	8:A	_
+5	Jack	_	Word	Word	_	8	A	8:A|3:A	_
 6	Warner	_	Word	Word	_	5	flat	5:flat	_
 7	nevertheless	_	Word	Word	_	3	L	3:L	_
 8	supported	_	Word	Word	_	3	orphan	3:orphan	_

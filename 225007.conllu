@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 225007
 # text = With Dragon Lord , he began experimenting with elaborate stunt action sequences , including a pyramid fight scene that holds the record for the most takes for a single sequence of scenes with 2900 takes , and the final fight scene where he performs various stunts , including one where he does a back flip off a loft and falls to the lower ground .
-# doc_id = 
 1	With	_	Word	Word	_	2	R	2:R	_
 2	Dragon	_	Word	Word	_	0	root	0:root	_
 3	Lord	_	Word	Word	_	2	flat	2:flat	_
@@ -17,7 +16,7 @@
 13	,	_	Punctuation	Punctuation	_	12	punct	12:punct	_
 14	including	_	Word	Word	_	18	R	18:R	_
 15	a	_	Word	Word	_	18	E	18:E	_
-16	pyramid	_	Word	Word	_	18	E	18:E	_
+16	pyramid	_	Word	Word	_	18	E	18:E|22:A	_
 17	fight	_	Word	Word	_	18	E	18:E	_
 18	scene	_	Word	Word	_	2	orphan	2:orphan	_
 19	that	_	Word	Word	_	22	R	22:R	_
@@ -52,7 +51,7 @@
 48	including	_	Word	Word	_	49	R	49:R	_
 49	one	_	Word	Word	_	2	orphan	2:orphan	_
 50	where	_	Word	Word	_	52	F	52:F	_
-51	he	_	Word	Word	_	52	A	52:A	_
+51	he	_	Word	Word	_	52	A	52:A|60:A	_
 52	does	_	Word	Word	_	2	orphan	2:orphan	_
 53	a	_	Word	Word	_	55	E	55:E	_
 54	back	_	Word	Word	_	55	E	55:E	_

@@ -1,13 +1,12 @@
 # format = ucca
 # sent_id = 610020
 # text = On 9 September 2009 , EMI reissued the Beatles catalogue following a four - year digital remastering effort , releasing a music video game called The Beatles : Rock Band the same day .
-# doc_id = 
 1	On	_	Word	Word	_	2	R	2:R	_
 2	9	_	Word	Word	_	0	root	0:root	_
 3	September	_	Word	Word	_	2	flat	2:flat	_
 4	2009	_	Word	Word	_	2	flat	2:flat	_
 5	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
-6	EMI	_	Word	Word	_	7	A	7:A	_
+6	EMI	_	Word	Word	_	7	A	7:A|20:A	_
 7	reissued	_	Word	Word	_	2	orphan	2:orphan	_
 8	the	_	Word	Word	_	10	E	10:E	_
 9	Beatles	_	Word	Word	_	10	E	10:E	_

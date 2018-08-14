@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 642011
 # text = The Beatles ' song " Getting Better " , he said , told his own story , " I used to be cruel to my woman , and physically - any woman . I was a hitter . I could n't express myself and I hit . I fought men and I hit women . That is why I am always on about peace " .
-# doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
 2	Beatles	_	Word	Word	_	0	root	0:root	_
 3	'	_	Punctuation	Punctuation	_	4	punct	4:punct	_
@@ -11,7 +10,7 @@
 7	Better	_	Word	Word	_	6	flat	6:flat	_
 8	"	_	Punctuation	Punctuation	_	11	punct	11:punct	_
 9	,	_	Punctuation	Punctuation	_	11	punct	11:punct	_
-10	he	_	Word	Word	_	11	A	11:A	_
+10	he	_	Word	Word	_	11	A	11:A|23:A	_
 11	said	_	Word	Word	_	2	orphan	2:orphan	_
 12	,	_	Punctuation	Punctuation	_	11	punct	11:punct	_
 13	told	_	Word	Word	_	2	orphan	2:orphan	_
@@ -20,7 +19,7 @@
 16	story	_	Word	Word	_	2	orphan	2:orphan	_
 17	,	_	Punctuation	Punctuation	_	11	punct	11:punct	_
 18	"	_	Punctuation	Punctuation	_	11	punct	11:punct	_
-19	I	_	Word	Word	_	23	A	23:A	_
+19	I	_	Word	Word	_	23	A	23:A|29:A	_
 20	used	_	Word	Word	_	23	D	23:D	_
 21	to	_	Word	Word	_	23	F	23:F	_
 22	be	_	Word	Word	_	23	F	23:F	_

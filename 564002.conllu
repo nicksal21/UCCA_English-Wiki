@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 564002
 # text = " In August , a judge in Jacksonville , Florida , ordered Presley to tame his act .
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	12	punct	12:punct	_
 2	In	_	Word	Word	_	3	R	3:R	_
 3	August	_	Word	Word	_	0	root	0:root	_
@@ -14,7 +13,7 @@
 10	Florida	_	Word	Word	_	8	E	8:E	_
 11	,	_	Punctuation	Punctuation	_	12	punct	12:punct	_
 12	ordered	_	Word	Word	_	3	orphan	3:orphan	_
-13	Presley	_	Word	Word	_	12	A	12:A	_
+13	Presley	_	Word	Word	_	12	A	12:A|15:A	_
 14	to	_	Word	Word	_	15	F	15:F	_
 15	tame	_	Word	Word	_	3	orphan	3:orphan	_
 16	his	_	Word	Word	_	17	E	17:E	_

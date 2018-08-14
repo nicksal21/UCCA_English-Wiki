@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 547010
 # text = Jack Valenti , who just assumed leadership of the Motion Picture Association of America , recalled that a meeting with Warner and studio aide Ben Kalmenson left him " uneasy " . " I was uncomfortable with the thought that this was just the beginning of an unsettling new era in film , in which we would lurch from crisis to crisis without any suitable solution in sight , " Valenti wrote .
-# doc_id = 
 1	Jack	_	Word	Word	_	0	root	0:root	_
 2	Valenti	_	Word	Word	_	1	flat	1:flat	_
 3	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
@@ -29,7 +28,7 @@
 25	Ben	_	Word	Word	_	1	orphan	1:orphan	_
 26	Kalmenson	_	Word	Word	_	25	flat	25:flat	_
 27	left	_	Word	Word	_	1	orphan	1:orphan	_
-28	him	_	Word	Word	_	27	A	27:A	_
+28	him	_	Word	Word	_	27	A	27:A|30:A	_
 29	"	_	Punctuation	Punctuation	_	27	punct	27:punct	_
 30	uneasy	_	Word	Word	_	1	orphan	1:orphan	_
 31	"	_	Punctuation	Punctuation	_	16	punct	16:punct	_

@@ -1,11 +1,10 @@
 # format = ucca
 # sent_id = 528014
 # text = Before release , it was edited at the instruction of Jack Warner ; theater operators , concerned that they were losing money because they were only able to run the film for three or four shows per day instead of five or six , pressured the studio to make additional reductions .
-# doc_id = 
 1	Before	_	Word	Word	_	2	L	2:L	_
 2	release	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-4	it	_	Word	Word	_	6	A	6:A	_
+4	it	_	Word	Word	_	6	A	6:A|2:A	_
 5	was	_	Word	Word	_	6	F	6:F	_
 6	edited	_	Word	Word	_	2	orphan	2:orphan	_
 7	at	_	Word	Word	_	9	R	9:R	_

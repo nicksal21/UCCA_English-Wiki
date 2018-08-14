@@ -1,14 +1,13 @@
 # format = ucca
 # sent_id = 459006
 # text = On December 31 , 1999 , Jennings was on the air for 23 straight hours to anchor ABC 2000 Today , ABC 's massive millennium eve special .
-# doc_id = 
 1	On	_	Word	Word	_	2	R	2:R	_
 2	December	_	Word	Word	_	0	root	0:root	_
 3	31	_	Word	Word	_	2	flat	2:flat	_
 4	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 5	1999	_	Word	Word	_	2	flat	2:flat	_
 6	,	_	Punctuation	Punctuation	_	11	punct	11:punct	_
-7	Jennings	_	Word	Word	_	11	A	11:A	_
+7	Jennings	_	Word	Word	_	11	A	11:A|17:A	_
 8	was	_	Word	Word	_	11	F	11:F	_
 9	on	_	Word	Word	_	11	R	11:R	_
 10	the	_	Word	Word	_	11	E	11:E	_

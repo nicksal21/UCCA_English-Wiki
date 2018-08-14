@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 557003
 # text = Asked by receptionist Marion Keisker what kind of singer he was , Presley responded , " I sing all kinds .
-# doc_id = 
 1	Asked	_	Word	Word	_	0	root	0:root	_
 2	by	_	Word	Word	_	4	R	4:R	_
 3	receptionist	_	Word	Word	_	4	E	4:E	_
@@ -14,7 +13,7 @@
 10	he	_	Word	Word	_	11	A	11:A	_
 11	was	_	Word	Word	_	1	orphan	1:orphan	_
 12	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
-13	Presley	_	Word	Word	_	14	A	14:A	_
+13	Presley	_	Word	Word	_	14	A	14:A|1:A	_
 14	responded	_	Word	Word	_	1	orphan	1:orphan	_
 15	,	_	Punctuation	Punctuation	_	14	punct	14:punct	_
 16	"	_	Punctuation	Punctuation	_	14	punct	14:punct	_

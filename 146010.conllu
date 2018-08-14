@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 146010
 # text = Targeted by right - wing activists as a supposed communist sympathizer , she was mentioned at the hearings of the House Un - American Activities Committee .
-# doc_id = 
 1	Targeted	_	Word	Word	_	0	root	0:root	_
 2	by	_	Word	Word	_	6	R	6:R	_
 3	right	_	Word	Word	_	5	E	5:E	_
@@ -14,7 +13,7 @@
 10	communist	_	Word	Word	_	11	E	11:E	_
 11	sympathizer	_	Word	Word	_	1	orphan	1:orphan	_
 12	,	_	Punctuation	Punctuation	_	11	punct	11:punct	_
-13	she	_	Word	Word	_	15	A	15:A	_
+13	she	_	Word	Word	_	15	A	15:A|1:A|11:A	_
 14	was	_	Word	Word	_	15	F	15:F	_
 15	mentioned	_	Word	Word	_	1	orphan	1:orphan	_
 16	at	_	Word	Word	_	18	R	18:R	_

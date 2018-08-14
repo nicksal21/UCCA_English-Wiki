@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 193006
 # text = Following the awards ceremony , a fiasco ensued , centered on the Emmy for writing The West Wing episode " In Excelsis Deo " which was awarded to Sorkin and Rick Cleveland , when it was reported in a The New York Times article that Cleveland had been ushered off the stage by Sorkin without being given a chance to say a few words .
-# doc_id = 
 1	Following	_	Word	Word	_	4	L	4:L	_
 2	the	_	Word	Word	_	4	E	4:E	_
 3	awards	_	Word	Word	_	4	E	4:E	_
@@ -47,7 +46,7 @@
 43	Times	_	Word	Word	_	40	flat	40:flat	_
 44	article	_	Word	Word	_	4	orphan	4:orphan	_
 45	that	_	Word	Word	_	49	R	49:R	_
-46	Cleveland	_	Word	Word	_	49	A	49:A	_
+46	Cleveland	_	Word	Word	_	49	A	49:A|57:A|61:A	_
 47	had	_	Word	Word	_	49	F	49:F	_
 48	been	_	Word	Word	_	49	F	49:F	_
 49	ushered	_	Word	Word	_	4	orphan	4:orphan	_

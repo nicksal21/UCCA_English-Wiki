@@ -1,14 +1,13 @@
 # format = ucca
 # sent_id = 661006
 # text = On September 17 , 1991 , Emotions was released around the world , and was accepted by critics as a more mature album than its predecessor .
-# doc_id = 
 1	On	_	Word	Word	_	2	R	2:R	_
 2	September	_	Word	Word	_	0	root	0:root	_
 3	17	_	Word	Word	_	2	flat	2:flat	_
 4	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 5	1991	_	Word	Word	_	2	flat	2:flat	_
 6	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
-7	Emotions	_	Word	Word	_	9	A	9:A	_
+7	Emotions	_	Word	Word	_	9	A	9:A|16:A	_
 8	was	_	Word	Word	_	9	F	9:F	_
 9	released	_	Word	Word	_	2	orphan	2:orphan	_
 10	around	_	Word	Word	_	12	R	12:R	_

@@ -1,14 +1,13 @@
 # format = ucca
 # sent_id = 474009
 # text = At the age of 36 , Johnson attempted another comeback as a player when he re - joined the Lakers during the 1995 - 96 NBA season .
-# doc_id = 
 1	At	_	Word	Word	_	3	L	3:L	_
 2	the	_	Word	Word	_	3	E	3:E	_
 3	age	_	Word	Word	_	0	root	0:root	_
 4	of	_	Word	Word	_	5	R	5:R	_
 5	36	_	Word	Word	_	3	orphan	3:orphan	_
 6	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-7	Johnson	_	Word	Word	_	8	A	8:A	_
+7	Johnson	_	Word	Word	_	8	A	8:A|3:A	_
 8	attempted	_	Word	Word	_	3	orphan	3:orphan	_
 9	another	_	Word	Word	_	10	E	10:E	_
 10	comeback	_	Word	Word	_	3	orphan	3:orphan	_

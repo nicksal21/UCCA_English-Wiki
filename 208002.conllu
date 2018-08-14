@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 208002
 # text = Less than two years after the Watergate scandal , Hoffman and Robert Redford starred as Carl Bernstein and Bob Woodward , respectively , in All the President 's Men ( 1976 ) . Hoffman next starred in Marathon Man ( also 1976 ) , a film based on William Goldman 's novel of the same name , opposite Laurence Olivier and Roy Scheider .
-# doc_id = 
 1	Less	_	Word	Word	_	0	root	0:root	_
 2	than	_	Word	Word	_	1	F	1:F	_
 3	two	_	Word	Word	_	1	orphan	1:orphan	_
@@ -35,7 +34,7 @@
 31	1976	_	Word	Word	_	25	E	25:E	_
 32	)	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 33	.	_	Punctuation	Punctuation	_	8	punct	8:punct	_
-34	Hoffman	_	Word	Word	_	36	A	36:A	_
+34	Hoffman	_	Word	Word	_	36	A	36:A|58:A	_
 35	next	_	Word	Word	_	36	D	36:D	_
 36	starred	_	Word	Word	_	1	orphan	1:orphan	_
 37	in	_	Word	Word	_	38	R	38:R	_

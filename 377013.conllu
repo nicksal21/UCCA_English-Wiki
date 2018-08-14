@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 377013
 # text = The film , directed by Richard Kelly , is set in 1988 and stars Gyllenhaal as a troubled teenager who , after narrowly escaping death , experiences visions of a 6 foot ( 1.8 m ) tall rabbit named Frank who tells him that the world is coming to an end .
-# doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
 2	film	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	10	punct	10:punct	_
@@ -41,7 +40,7 @@
 37	tall	_	Word	Word	_	2	orphan	2:orphan	_
 38	rabbit	_	Word	Word	_	2	orphan	2:orphan	_
 39	named	_	Word	Word	_	2	orphan	2:orphan	_
-40	Frank	_	Word	Word	_	39	A	39:A	_
+40	Frank	_	Word	Word	_	39	A	39:A|42:A	_
 41	who	_	Word	Word	_	42	F	42:F	_
 42	tells	_	Word	Word	_	2	orphan	2:orphan	_
 43	him	_	Word	Word	_	42	A	42:A	_

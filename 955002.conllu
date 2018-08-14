@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 955002
 # text = Offered the role of Heathcliff in Samuel Goldwyn 's production of Wuthering Heights ( 1939 ) , he travelled to Hollywood , leaving Leigh in London .
-# doc_id = 
 1	Offered	_	Word	Word	_	0	root	0:root	_
 2	the	_	Word	Word	_	3	E	3:E	_
 3	role	_	Word	Word	_	1	orphan	1:orphan	_
@@ -19,7 +18,7 @@
 15	1939	_	Word	Word	_	1	orphan	1:orphan	_
 16	)	_	Punctuation	Punctuation	_	1	punct	1:punct	_
 17	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
-18	he	_	Word	Word	_	19	A	19:A	_
+18	he	_	Word	Word	_	19	A	19:A|23:A|1:A	_
 19	travelled	_	Word	Word	_	1	orphan	1:orphan	_
 20	to	_	Word	Word	_	19	R	19:R	_
 21	Hollywood	_	Word	Word	_	19	A	19:A	_

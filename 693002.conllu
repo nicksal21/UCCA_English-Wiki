@@ -1,13 +1,12 @@
 # format = ucca
 # sent_id = 693002
 # text = George Harrison said , " We just played it , just wore it out . The content of the song lyrics and just the attitude - it was incredibly original and wonderful . "
-# doc_id = 
 1	George	_	Word	Word	_	3	A	3:A	_
 2	Harrison	_	Word	Word	_	1	flat	1:flat	_
 3	said	_	Word	Word	_	0	root	0:root	_
 4	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 5	"	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-6	We	_	Word	Word	_	8	A	8:A	_
+6	We	_	Word	Word	_	8	A	8:A|12:A	_
 7	just	_	Word	Word	_	8	D	8:D	_
 8	played	_	Word	Word	_	3	orphan	3:orphan	_
 9	it	_	Word	Word	_	8	A	8:A	_

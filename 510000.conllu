@@ -1,12 +1,11 @@
 # format = ucca
 # sent_id = 510000
 # text = In October 2001 , Bowie opened The Concert for New York City , a charity event to benefit the victims of the September 11 attacks , with a minimalist performance of Simon & Garfunkel 's " America " , followed by a full band performance of " Heroes " . 2002 saw the release of Heathen , and , during the second half of the year , the Heathen Tour .
-# doc_id = 
 1	In	_	Word	Word	_	3	R	3:R	_
 2	October	_	Word	Word	_	3	E	3:E	_
 3	2001	_	Word	Word	_	0	root	0:root	_
 4	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-5	Bowie	_	Word	Word	_	6	A	6:A	_
+5	Bowie	_	Word	Word	_	6	A	6:A|30:A	_
 6	opened	_	Word	Word	_	3	orphan	3:orphan	_
 7	The	_	Word	Word	_	8	E	8:E	_
 8	Concert	_	Word	Word	_	3	orphan	3:orphan	_

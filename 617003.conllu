@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 617003
 # text = In the foreword of the book , he explains : " When I was a teenager ... I had an overwhelming desire to have a poem published in the school magazine . I wrote something deep and meaningful - which was promptly rejected - and I suppose I have been trying to get my own back ever since " . In 2005 , he released High in the Clouds : An Urban Furry Tail , a collaboration with author Philip Ardagh and animator Geoff Dunbar that The Guardian labelled an " anti - capitalist children 's book " .
-# doc_id = 
 1	In	_	Word	Word	_	3	R	3:R	_
 2	the	_	Word	Word	_	3	E	3:E	_
 3	foreword	_	Word	Word	_	0	root	0:root	_
@@ -49,7 +48,7 @@
 45	and	_	Word	Word	_	16	L	16:L	_
 46	I	_	Word	Word	_	47	A	47:A	_
 47	suppose	_	Word	Word	_	3	orphan	3:orphan	_
-48	I	_	Word	Word	_	51	A	51:A	_
+48	I	_	Word	Word	_	51	A	51:A|53:A	_
 49	have	_	Word	Word	_	51	F	51:F	_
 50	been	_	Word	Word	_	51	F	51:F	_
 51	trying	_	Word	Word	_	3	orphan	3:orphan	_
@@ -65,7 +64,7 @@
 61	In	_	Word	Word	_	62	R	62:R	_
 62	2005	_	Word	Word	_	3	orphan	3:orphan	_
 63	,	_	Punctuation	Punctuation	_	65	punct	65:punct	_
-64	he	_	Word	Word	_	65	A	65:A	_
+64	he	_	Word	Word	_	65	A	65:A|77:A	_
 65	released	_	Word	Word	_	3	orphan	3:orphan	_
 66	High	_	Word	Word	_	3	orphan	3:orphan	_
 67	in	_	Word	Word	_	66	flat	66:flat	_

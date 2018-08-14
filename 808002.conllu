@@ -1,8 +1,7 @@
 # format = ucca
 # sent_id = 808002
 # text = He often chose clothes and make - up for her , encouraging her to grow her hair out like Brigitte Bardot ' s , and at least once insisting she have it re - styled , to disappointing effect .
-# doc_id = 
-1	He	_	Word	Word	_	3	A	3:A	_
+1	He	_	Word	Word	_	3	A	3:A|12:A	_
 2	often	_	Word	Word	_	3	D	3:D	_
 3	chose	_	Word	Word	_	0	root	0:root	_
 4	clothes	_	Word	Word	_	3	orphan	3:orphan	_
@@ -14,7 +13,7 @@
 10	her	_	Word	Word	_	3	orphan	3:orphan	_
 11	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 12	encouraging	_	Word	Word	_	3	orphan	3:orphan	_
-13	her	_	Word	Word	_	12	A	12:A	_
+13	her	_	Word	Word	_	12	A	12:A|15:A	_
 14	to	_	Word	Word	_	15	F	15:F	_
 15	grow	_	Word	Word	_	3	orphan	3:orphan	_
 16	her	_	Word	Word	_	17	E	17:E	_

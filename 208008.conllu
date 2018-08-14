@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 208008
 # text = In Tootsie ( 1982 ) , Hoffman portrays Michael Dorsey , a struggling actor who finds himself dressing up as a woman to land a role on a soap opera .
-# doc_id = 
 1	In	_	Word	Word	_	2	R	2:R	_
 2	Tootsie	_	Word	Word	_	0	root	0:root	_
 3	(	_	Punctuation	Punctuation	_	2	punct	2:punct	_
@@ -18,7 +17,7 @@
 14	actor	_	Word	Word	_	2	orphan	2:orphan	_
 15	who	_	Word	Word	_	16	F	16:F	_
 16	finds	_	Word	Word	_	2	orphan	2:orphan	_
-17	himself	_	Word	Word	_	16	A	16:A	_
+17	himself	_	Word	Word	_	16	A	16:A|24:A|18:A	_
 18	dressing	_	Word	Word	_	2	orphan	2:orphan	_
 19	up	_	Word	Word	_	18	flat	18:flat	_
 20	as	_	Word	Word	_	22	R	22:R	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 203005
 # text = During the 2004 US presidential election campaign , the liberal advocacy group MoveOn 's political action committee enlisted Sorkin and Rob Reiner to create one of their anti - Bush campaign advertisements .
-# doc_id = 
 1	During	_	Word	Word	_	7	L	7:L	_
 2	the	_	Word	Word	_	7	E	7:E	_
 3	2004	_	Word	Word	_	7	E	7:E	_
@@ -22,7 +21,7 @@
 18	enlisted	_	Word	Word	_	5	orphan	5:orphan	_
 19	Sorkin	_	Word	Word	_	5	orphan	5:orphan	_
 20	and	_	Word	Word	_	19	N	19:N	_
-21	Rob	_	Word	Word	_	19	C	19:C	_
+21	Rob	_	Word	Word	_	19	C	19:C|24:A	_
 22	Reiner	_	Word	Word	_	21	flat	21:flat	_
 23	to	_	Word	Word	_	24	F	24:F	_
 24	create	_	Word	Word	_	5	orphan	5:orphan	_

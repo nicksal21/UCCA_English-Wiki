@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 456000
 # text = When the Gulf War started on January 16 , 1991 , Jennings began a marathon anchoring stint to cover the story , spending 20 of the first 48 hours of the war on - air , and leading ABC News to its highest - ever ratings .
-# doc_id = 
 1	When	_	Word	Word	_	5	L	5:L	_
 2	the	_	Word	Word	_	4	E	4:E	_
 3	Gulf	_	Word	Word	_	4	E	4:E	_
@@ -13,7 +12,7 @@
 9	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 10	1991	_	Word	Word	_	7	flat	7:flat	_
 11	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-12	Jennings	_	Word	Word	_	13	A	13:A	_
+12	Jennings	_	Word	Word	_	13	A	13:A|23:A|38:A|19:A	_
 13	began	_	Word	Word	_	4	orphan	4:orphan	_
 14	a	_	Word	Word	_	17	E	17:E	_
 15	marathon	_	Word	Word	_	17	E	17:E	_

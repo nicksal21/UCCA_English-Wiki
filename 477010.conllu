@@ -1,8 +1,7 @@
 # format = ucca
 # sent_id = 477010
 # text = Johnson stated that his aim was to " help educate all people about what [ HIV ] is about " and teach others not to " discriminate against people who have HIV and AIDS " . Johnson was later criticized by the AIDS community for his decreased involvement in publicizing the spread of the disease .
-# doc_id = 
-1	Johnson	_	Word	Word	_	2	A	2:A	_
+1	Johnson	_	Word	Word	_	2	A	2:A|22:A|10:A	_
 2	stated	_	Word	Word	_	0	root	0:root	_
 3	that	_	Word	Word	_	6	F	6:F	_
 4	his	_	Word	Word	_	5	E	5:E	_
@@ -47,7 +46,7 @@
 43	AIDS	_	Word	Word	_	44	E	44:E	_
 44	community	_	Word	Word	_	2	orphan	2:orphan	_
 45	for	_	Word	Word	_	48	R	48:R	_
-46	his	_	Word	Word	_	48	A	48:A	_
+46	his	_	Word	Word	_	48	A	48:A|50:A	_
 47	decreased	_	Word	Word	_	48	D	48:D	_
 48	involvement	_	Word	Word	_	2	orphan	2:orphan	_
 49	in	_	Word	Word	_	50	R	50:R	_

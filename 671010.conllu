@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 671010
 # text = The promoter instead blamed poor ticket sales ( allegedly , only 4 , 000 tickets had sold ) and " Carey 's outrageous demands " . Carey ultimately sued the promoter , claiming $ 1 million in damages due to the concert 's abrupt cancellation .
-# doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
 2	promoter	_	Word	Word	_	0	root	0:root	_
 3	instead	_	Word	Word	_	4	L	4:L	_
@@ -28,7 +27,7 @@
 24	demands	_	Word	Word	_	2	orphan	2:orphan	_
 25	"	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 26	.	_	Punctuation	Punctuation	_	4	punct	4:punct	_
-27	Carey	_	Word	Word	_	29	A	29:A	_
+27	Carey	_	Word	Word	_	29	A	29:A|33:A	_
 28	ultimately	_	Word	Word	_	29	D	29:D	_
 29	sued	_	Word	Word	_	2	orphan	2:orphan	_
 30	the	_	Word	Word	_	31	E	31:E	_

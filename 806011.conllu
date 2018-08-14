@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 806011
 # text = The couple debated with Danny Williams , Newfoundland 's then Premier , on Larry King Live , stating that fishermen should stop hunting seals and start seal - watching businesses instead .
-# doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
 2	couple	_	Word	Word	_	0	root	0:root	_
 3	debated	_	Word	Word	_	2	orphan	2:orphan	_
@@ -21,7 +20,7 @@
 17	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 18	stating	_	Word	Word	_	2	orphan	2:orphan	_
 19	that	_	Word	Word	_	23	R	23:R	_
-20	fishermen	_	Word	Word	_	23	A	23:A	_
+20	fishermen	_	Word	Word	_	23	A	23:A|26:A	_
 21	should	_	Word	Word	_	23	D	23:D	_
 22	stop	_	Word	Word	_	23	D	23:D	_
 23	hunting	_	Word	Word	_	2	orphan	2:orphan	_

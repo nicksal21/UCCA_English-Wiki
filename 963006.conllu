@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 963006
 # text = Director George Cukor commented that Leigh was a " consummate actress , hampered by beauty " , and Laurence Olivier said that critics should " give her credit for being an actress and not go on forever letting their judgments be distorted by her great beauty .
-# doc_id = 
 1	Director	_	Word	Word	_	2	R	2:R	_
 2	George	_	Word	Word	_	0	root	0:root	_
 3	Cukor	_	Word	Word	_	2	flat	2:flat	_
@@ -24,11 +23,11 @@
 20	Olivier	_	Word	Word	_	19	flat	19:flat	_
 21	said	_	Word	Word	_	2	orphan	2:orphan	_
 22	that	_	Word	Word	_	21	F	21:F	_
-23	critics	_	Word	Word	_	26	A	26:A	_
+23	critics	_	Word	Word	_	26	A	26:A|38:A	_
 24	should	_	Word	Word	_	26	D	26:D	_
 25	"	_	Punctuation	Punctuation	_	26	punct	26:punct	_
 26	give	_	Word	Word	_	2	orphan	2:orphan	_
-27	her	_	Word	Word	_	26	E	26:E	_
+27	her	_	Word	Word	_	26	E	26:E|32:A	_
 28	credit	_	Word	Word	_	26	flat	26:flat	_
 29	for	_	Word	Word	_	32	F	32:F	_
 30	being	_	Word	Word	_	32	D	32:D	_

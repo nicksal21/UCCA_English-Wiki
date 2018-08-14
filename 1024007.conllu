@@ -1,14 +1,13 @@
 # format = ucca
 # sent_id = 1024007
 # text = On May 14 , 1984 , Jackson was invited to the White House to receive an award from President Ronald Reagan for his support of charities that helped people overcome alcohol and drug abuse .
-# doc_id = 
 1	On	_	Word	Word	_	2	R	2:R	_
 2	May	_	Word	Word	_	0	root	0:root	_
 3	14	_	Word	Word	_	2	flat	2:flat	_
 4	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 5	1984	_	Word	Word	_	2	flat	2:flat	_
 6	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
-7	Jackson	_	Word	Word	_	9	A	9:A	_
+7	Jackson	_	Word	Word	_	9	A	9:A|15:A	_
 8	was	_	Word	Word	_	9	F	9:F	_
 9	invited	_	Word	Word	_	2	orphan	2:orphan	_
 10	to	_	Word	Word	_	9	R	9:R	_
@@ -30,7 +29,7 @@
 26	charities	_	Word	Word	_	2	orphan	2:orphan	_
 27	that	_	Word	Word	_	28	F	28:F	_
 28	helped	_	Word	Word	_	2	orphan	2:orphan	_
-29	people	_	Word	Word	_	28	A	28:A	_
+29	people	_	Word	Word	_	28	A	28:A|30:A	_
 30	overcome	_	Word	Word	_	2	orphan	2:orphan	_
 31	alcohol	_	Word	Word	_	2	orphan	2:orphan	_
 32	and	_	Word	Word	_	31	N	31:N	_

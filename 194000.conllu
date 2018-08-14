@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 194000
 # text = In 2001 , after wrapping up the second season of The West Wing , Sorkin had a drug relapse , only two months after receiving a Phoenix Rising Award for drug recovery ; this became public knowledge when he was arrested at Burbank Airport for possession of hallucinogenic mushrooms , marijuana , and crack cocaine .
-# doc_id = 
 1	In	_	Word	Word	_	2	R	2:R	_
 2	2001	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
@@ -16,7 +15,7 @@
 12	West	_	Word	Word	_	11	flat	11:flat	_
 13	Wing	_	Word	Word	_	11	flat	11:flat	_
 14	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-15	Sorkin	_	Word	Word	_	19	A	19:A	_
+15	Sorkin	_	Word	Word	_	19	A	19:A|25:A	_
 16	had	_	Word	Word	_	19	F	19:F	_
 17	a	_	Word	Word	_	19	E	19:E	_
 18	drug	_	Word	Word	_	19	E	19:E	_
@@ -40,7 +39,7 @@
 36	public	_	Word	Word	_	37	E	37:E	_
 37	knowledge	_	Word	Word	_	2	orphan	2:orphan	_
 38	when	_	Word	Word	_	5	L	5:L	_
-39	he	_	Word	Word	_	41	A	41:A	_
+39	he	_	Word	Word	_	41	A	41:A|46:A	_
 40	was	_	Word	Word	_	41	F	41:F	_
 41	arrested	_	Word	Word	_	2	orphan	2:orphan	_
 42	at	_	Word	Word	_	43	R	43:R	_

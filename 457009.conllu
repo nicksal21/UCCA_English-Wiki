@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 457009
 # text = Some viewers of the documentary mailed bus fares to Jennings , telling him to return to Canada .
-# doc_id = 
 1	Some	_	Word	Word	_	2	E	2:E	_
 2	viewers	_	Word	Word	_	0	root	0:root	_
 3	of	_	Word	Word	_	5	R	5:R	_
@@ -14,7 +13,7 @@
 10	Jennings	_	Word	Word	_	2	orphan	2:orphan	_
 11	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 12	telling	_	Word	Word	_	2	orphan	2:orphan	_
-13	him	_	Word	Word	_	12	A	12:A	_
+13	him	_	Word	Word	_	12	A	12:A|15:A	_
 14	to	_	Word	Word	_	15	F	15:F	_
 15	return	_	Word	Word	_	2	orphan	2:orphan	_
 16	to	_	Word	Word	_	17	R	17:R	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 471003
 # text = The Lakers met the Celtics for the third time in the NBA Finals , and in Game 4 Johnson hit a last - second hook shot over Celtics big men Parish and Kevin McHale to win the game 107 - 106 .
-# doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
 2	Lakers	_	Word	Word	_	0	root	0:root	_
 3	met	_	Word	Word	_	2	orphan	2:orphan	_
@@ -20,7 +19,7 @@
 16	in	_	Word	Word	_	17	R	17:R	_
 17	Game	_	Word	Word	_	2	orphan	2:orphan	_
 18	4	_	Word	Word	_	17	E	17:E	_
-19	Johnson	_	Word	Word	_	20	A	20:A	_
+19	Johnson	_	Word	Word	_	20	A	20:A|36:A	_
 20	hit	_	Word	Word	_	2	orphan	2:orphan	_
 21	a	_	Word	Word	_	26	E	26:E	_
 22	last	_	Word	Word	_	24	E	24:E	_

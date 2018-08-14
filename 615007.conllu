@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 615007
 # text = " McCartney stated that for his bassline for " I Saw Her Standing There " , he directly quoted Berry 's " I 'm Talking About You " . McCartney called Little Richard an idol , whose falsetto vocalizations inspired McCartney 's own vocal technique .
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 2	McCartney	_	Word	Word	_	3	A	3:A	_
 3	stated	_	Word	Word	_	0	root	0:root	_
@@ -33,7 +32,7 @@
 29	.	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 30	McCartney	_	Word	Word	_	31	A	31:A	_
 31	called	_	Word	Word	_	3	orphan	3:orphan	_
-32	Little	_	Word	Word	_	31	A	31:A	_
+32	Little	_	Word	Word	_	31	A	31:A|35:A	_
 33	Richard	_	Word	Word	_	32	flat	32:flat	_
 34	an	_	Word	Word	_	35	E	35:E	_
 35	idol	_	Word	Word	_	3	orphan	3:orphan	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 462010
 # text = On August 7 , 2005 , just after 11 : 30 pm EDT , Charles Gibson broke into local news in the Eastern U . S . and regular programming on ABC 's western affiliates to announce Jennings 's death from lung cancer .
-# doc_id = 
 1	On	_	Word	Word	_	2	R	2:R	_
 2	August	_	Word	Word	_	0	root	0:root	_
 3	7	_	Word	Word	_	2	flat	2:flat	_
@@ -16,7 +15,7 @@
 12	pm	_	Word	Word	_	9	flat	9:flat	_
 13	EDT	_	Word	Word	_	9	E	9:E	_
 14	,	_	Punctuation	Punctuation	_	17	punct	17:punct	_
-15	Charles	_	Word	Word	_	17	A	17:A	_
+15	Charles	_	Word	Word	_	17	A	17:A|37:A	_
 16	Gibson	_	Word	Word	_	15	flat	15:flat	_
 17	broke	_	Word	Word	_	2	orphan	2:orphan	_
 18	into	_	Word	Word	_	20	R	20:R	_

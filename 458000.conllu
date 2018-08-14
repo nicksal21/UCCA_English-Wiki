@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 458000
 # text = During the mid - 1990s , television critics praised Jennings for his insistence on not letting the O . J . Simpson murder case swamp the newscast .
-# doc_id = 
 1	During	_	Word	Word	_	5	R	5:R	_
 2	the	_	Word	Word	_	5	E	5:E	_
 3	mid	_	Word	Word	_	5	E	5:E	_
@@ -13,7 +12,7 @@
 9	praised	_	Word	Word	_	5	orphan	5:orphan	_
 10	Jennings	_	Word	Word	_	9	A	9:A	_
 11	for	_	Word	Word	_	13	R	13:R	_
-12	his	_	Word	Word	_	13	A	13:A	_
+12	his	_	Word	Word	_	13	A	13:A|25:A	_
 13	insistence	_	Word	Word	_	5	orphan	5:orphan	_
 14	on	_	Word	Word	_	25	R	25:R	_
 15	not	_	Word	Word	_	25	D	25:D	_

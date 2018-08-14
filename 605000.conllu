@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 605000
 # text = Following the addition of guitarist Henry McCullough , Wings ' first concert tour began in 1972 with a debut performance in front of an audience of seven hundred at the University of Nottingham .
-# doc_id = 
 1	Following	_	Word	Word	_	3	L	3:L	_
 2	the	_	Word	Word	_	3	E	3:E	_
 3	addition	_	Word	Word	_	0	root	0:root	_
@@ -10,7 +9,7 @@
 6	Henry	_	Word	Word	_	3	orphan	3:orphan	_
 7	McCullough	_	Word	Word	_	6	flat	6:flat	_
 8	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-9	Wings	_	Word	Word	_	13	A	13:A	_
+9	Wings	_	Word	Word	_	13	A	13:A|20:A	_
 10	'	_	Punctuation	Punctuation	_	13	punct	13:punct	_
 11	first	_	Word	Word	_	13	E	13:E	_
 12	concert	_	Word	Word	_	13	E	13:E	_

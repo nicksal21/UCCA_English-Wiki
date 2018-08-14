@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 806003
 # text = In his first interview after Linda 's death , he promised to continue working for animal rights , and in 1999 he spent £ 3 , 000 , 000 to ensure Linda McCartney Foods remained free of genetically engineered ingredients .
-# doc_id = 
 1	In	_	Word	Word	_	4	R	4:R	_
 2	his	_	Word	Word	_	4	E	4:E	_
 3	first	_	Word	Word	_	4	E	4:E	_
@@ -11,7 +10,7 @@
 7	's	_	Word	Word	_	6	R	6:R	_
 8	death	_	Word	Word	_	4	orphan	4:orphan	_
 9	,	_	Punctuation	Punctuation	_	11	punct	11:punct	_
-10	he	_	Word	Word	_	11	A	11:A	_
+10	he	_	Word	Word	_	11	A	11:A|14:A	_
 11	promised	_	Word	Word	_	4	orphan	4:orphan	_
 12	to	_	Word	Word	_	13	F	13:F	_
 13	continue	_	Word	Word	_	4	orphan	4:orphan	_
@@ -23,7 +22,7 @@
 19	and	_	Word	Word	_	11	L	11:L	_
 20	in	_	Word	Word	_	21	R	21:R	_
 21	1999	_	Word	Word	_	4	orphan	4:orphan	_
-22	he	_	Word	Word	_	23	A	23:A	_
+22	he	_	Word	Word	_	23	A	23:A|31:A	_
 23	spent	_	Word	Word	_	4	orphan	4:orphan	_
 24	£	_	Punctuation	Punctuation	_	23	punct	23:punct	_
 25	3	_	Word	Word	_	23	A	23:A	_

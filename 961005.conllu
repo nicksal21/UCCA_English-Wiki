@@ -1,12 +1,11 @@
 # format = ucca
 # sent_id = 961005
 # text = Several weeks later , she miscarried and entered a period of depression that lasted for months .
-# doc_id = 
 1	Several	_	Word	Word	_	2	E	2:E	_
 2	weeks	_	Word	Word	_	0	root	0:root	_
 3	later	_	Word	Word	_	2	E	2:E	_
 4	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-5	she	_	Word	Word	_	6	A	6:A	_
+5	she	_	Word	Word	_	6	A	6:A|8:A	_
 6	miscarried	_	Word	Word	_	2	orphan	2:orphan	_
 7	and	_	Word	Word	_	6	L	6:L	_
 8	entered	_	Word	Word	_	2	orphan	2:orphan	_

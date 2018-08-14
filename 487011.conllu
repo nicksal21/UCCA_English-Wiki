@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 487011
 # text = In 2001 , director Ridley Scott cast Bana as an American soldier in the film Black Hawk Down ( 2001 ) . Scott , impressed by Bana 's performance in Chopper , did not require him to audition .
-# doc_id = 
 1	In	_	Word	Word	_	2	R	2:R	_
 2	2001	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
@@ -37,7 +36,7 @@
 33	did	_	Word	Word	_	35	F	35:F	_
 34	not	_	Word	Word	_	35	D	35:D	_
 35	require	_	Word	Word	_	2	orphan	2:orphan	_
-36	him	_	Word	Word	_	35	A	35:A	_
+36	him	_	Word	Word	_	35	A	35:A|38:A	_
 37	to	_	Word	Word	_	38	F	38:F	_
 38	audition	_	Word	Word	_	2	orphan	2:orphan	_
 39	.	_	Punctuation	Punctuation	_	38	punct	38:punct	_

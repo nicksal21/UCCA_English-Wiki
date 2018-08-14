@@ -1,13 +1,12 @@
 # format = ucca
 # sent_id = 585003
 # text = Dissatisfied with that status , Depp turned to film for more challenging roles ; he played the title character of the acclaimed Edward Scissorhands ( 1990 ) and later found box office success in films such as Sleepy Hollow ( 1999 ) , Charlie and the Chocolate Factory ( 2005 ) , Alice in Wonderland ( 2010 ) , Rango ( 2011 ) and the Pirates of the Caribbean film series ( 2003 - present ) . He has collaborated with director and friend Tim Burton in eight films ; the most recent being Dark Shadows ( 2012 ) .
-# doc_id = 
 1	Dissatisfied	_	Word	Word	_	0	root	0:root	_
 2	with	_	Word	Word	_	4	R	4:R	_
 3	that	_	Word	Word	_	4	E	4:E	_
 4	status	_	Word	Word	_	1	orphan	1:orphan	_
 5	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
-6	Depp	_	Word	Word	_	7	A	7:A	_
+6	Depp	_	Word	Word	_	7	A	7:A|1:A	_
 7	turned	_	Word	Word	_	1	orphan	1:orphan	_
 8	to	_	Word	Word	_	9	R	9:R	_
 9	film	_	Word	Word	_	1	orphan	1:orphan	_
@@ -16,7 +15,7 @@
 12	challenging	_	Word	Word	_	1	orphan	1:orphan	_
 13	roles	_	Word	Word	_	1	orphan	1:orphan	_
 14	;	_	Punctuation	Punctuation	_	1	punct	1:punct	_
-15	he	_	Word	Word	_	16	A	16:A	_
+15	he	_	Word	Word	_	16	A	16:A|33:A	_
 16	played	_	Word	Word	_	1	orphan	1:orphan	_
 17	the	_	Word	Word	_	19	E	19:E	_
 18	title	_	Word	Word	_	19	E	19:E	_

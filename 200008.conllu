@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 200008
 # text = The musical is expected to come out in 2013 - 14 , with Sorkin saying " The chance to collaborate with Stephen Schwartz , ( the director ) Jack O ' Brien , and Hugh Jackman on a new Broadway musical is a huge gift . "
-# doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
 2	musical	_	Word	Word	_	0	root	0:root	_
 3	is	_	Word	Word	_	6	F	6:F	_
@@ -15,7 +14,7 @@
 11	14	_	Word	Word	_	9	C	9:C	_
 12	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 13	with	_	Word	Word	_	6	L	6:L	_
-14	Sorkin	_	Word	Word	_	15	A	15:A	_
+14	Sorkin	_	Word	Word	_	15	A	15:A|20:A	_
 15	saying	_	Word	Word	_	2	orphan	2:orphan	_
 16	"	_	Punctuation	Punctuation	_	15	punct	15:punct	_
 17	The	_	Word	Word	_	18	E	18:E	_

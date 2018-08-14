@@ -1,14 +1,13 @@
 # format = ucca
 # sent_id = 248004
 # text = A second novel , 2002 's Ash Wednesday , was better received and made the New York Times Best Seller list for hardcover fiction .
-# doc_id = 
 1	A	_	Word	Word	_	3	E	3:E	_
 2	second	_	Word	Word	_	3	E	3:E	_
 3	novel	_	Word	Word	_	0	root	0:root	_
 4	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 5	2002	_	Word	Word	_	3	orphan	3:orphan	_
 6	's	_	Word	Word	_	5	R	5:R	_
-7	Ash	_	Word	Word	_	3	E	3:E	_
+7	Ash	_	Word	Word	_	3	E	3:E|14:A	_
 8	Wednesday	_	Word	Word	_	7	flat	7:flat	_
 9	,	_	Punctuation	Punctuation	_	12	punct	12:punct	_
 10	was	_	Word	Word	_	12	F	12:F	_

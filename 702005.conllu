@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 702005
 # text = As one critic described it , the song projected " something hymnal and heartfelt that spoke of the father in Dylan " , and Dylan himself commented : " I wrote it thinking about one of my boys and not wanting to be too sentimental .
-# doc_id = 
 1	As	_	Word	Word	_	3	R	3:R	_
 2	one	_	Word	Word	_	3	E	3:E	_
 3	critic	_	Word	Word	_	0	root	0:root	_
@@ -31,7 +30,7 @@
 27	commented	_	Word	Word	_	3	orphan	3:orphan	_
 28	:	_	Punctuation	Punctuation	_	27	punct	27:punct	_
 29	"	_	Punctuation	Punctuation	_	27	punct	27:punct	_
-30	I	_	Word	Word	_	31	A	31:A	_
+30	I	_	Word	Word	_	31	A	31:A|33:A|43:A	_
 31	wrote	_	Word	Word	_	3	orphan	3:orphan	_
 32	it	_	Word	Word	_	31	A	31:A	_
 33	thinking	_	Word	Word	_	3	orphan	3:orphan	_

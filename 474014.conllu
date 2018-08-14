@@ -1,12 +1,11 @@
 # format = ucca
 # sent_id = 474014
 # text = Playing power forward , he averaged 14.6 points , 6.9 assists , and 5.7 rebounds per game in 32 games , and finished tied for 12th place with Charles Barkley in voting for the MVP Award .
-# doc_id = 
 1	Playing	_	Word	Word	_	0	root	0:root	_
 2	power	_	Word	Word	_	1	A	1:A	_
 3	forward	_	Word	Word	_	2	flat	2:flat	_
 4	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
-5	he	_	Word	Word	_	6	A	6:A	_
+5	he	_	Word	Word	_	6	A	6:A|1:A|24:A	_
 6	averaged	_	Word	Word	_	1	orphan	1:orphan	_
 7	14.6	_	Word	Word	_	8	E	8:E	_
 8	points	_	Word	Word	_	1	orphan	1:orphan	_

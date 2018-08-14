@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 475000
 # text = After the Lakers lost to the Houston Rockets in the first round of the playoffs , Johnson initially expressed a desire to return to the team for the 1996 - 97 NBA season , but he also talked about joining another team as a free agent , hoping to see more playing time at point guard instead of power forward .
-# doc_id = 
 1	After	_	Word	Word	_	4	L	4:L	_
 2	the	_	Word	Word	_	3	E	3:E	_
 3	Lakers	_	Word	Word	_	0	root	0:root	_
@@ -18,7 +17,7 @@
 14	the	_	Word	Word	_	15	E	15:E	_
 15	playoffs	_	Word	Word	_	3	orphan	3:orphan	_
 16	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
-17	Johnson	_	Word	Word	_	21	A	21:A	_
+17	Johnson	_	Word	Word	_	21	A	21:A|23:A	_
 18	initially	_	Word	Word	_	21	D	21:D	_
 19	expressed	_	Word	Word	_	21	D	21:D	_
 20	a	_	Word	Word	_	21	E	21:E	_
@@ -37,7 +36,7 @@
 33	season	_	Word	Word	_	3	orphan	3:orphan	_
 34	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 35	but	_	Word	Word	_	4	L	4:L	_
-36	he	_	Word	Word	_	38	A	38:A	_
+36	he	_	Word	Word	_	38	A	38:A|40:A|48:A|53:A	_
 37	also	_	Word	Word	_	38	D	38:D	_
 38	talked	_	Word	Word	_	3	orphan	3:orphan	_
 39	about	_	Word	Word	_	40	R	40:R	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 953013
 # text = After rejecting his suggestion , " April Morn " , she took " Vivian Leigh " as her professional name .
-# doc_id = 
 1	After	_	Word	Word	_	2	L	2:L	_
 2	rejecting	_	Word	Word	_	0	root	0:root	_
 3	his	_	Word	Word	_	4	E	4:E	_
@@ -12,7 +11,7 @@
 8	Morn	_	Word	Word	_	7	flat	7:flat	_
 9	"	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 10	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-11	she	_	Word	Word	_	12	A	12:A	_
+11	she	_	Word	Word	_	12	A	12:A|2:A	_
 12	took	_	Word	Word	_	2	orphan	2:orphan	_
 13	"	_	Punctuation	Punctuation	_	12	punct	12:punct	_
 14	Vivian	_	Word	Word	_	12	A	12:A	_

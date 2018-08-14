@@ -1,12 +1,11 @@
 # format = ucca
 # sent_id = 222001
 # text = In his movies , he is known for his acrobatic fighting style , comic timing , use of improvised weapons , and innovative stunts .
-# doc_id = 
 1	In	_	Word	Word	_	3	R	3:R	_
 2	his	_	Word	Word	_	3	E	3:E	_
 3	movies	_	Word	Word	_	0	root	0:root	_
 4	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
-5	he	_	Word	Word	_	7	A	7:A	_
+5	he	_	Word	Word	_	7	A	7:A|17:A	_
 6	is	_	Word	Word	_	7	F	7:F	_
 7	known	_	Word	Word	_	3	orphan	3:orphan	_
 8	for	_	Word	Word	_	12	R	12:R	_

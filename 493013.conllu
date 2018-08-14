@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 493013
 # text = Upon listening to " Tutti Frutti " , Bowie would later say , " I had heard God " . Presley 's impact on him was likewise emphatic : " I saw a cousin of mine dance to ... ' Hound Dog ' and I had never seen her get up and be moved so much by anything . It really impressed me , the power of the music . I started getting records immediately after that .
-# doc_id = 
 1	Upon	_	Word	Word	_	2	L	2:L	_
 2	listening	_	Word	Word	_	0	root	0:root	_
 3	to	_	Word	Word	_	5	R	5:R	_
@@ -10,7 +9,7 @@
 6	Frutti	_	Word	Word	_	5	flat	5:flat	_
 7	"	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 8	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-9	Bowie	_	Word	Word	_	12	A	12:A	_
+9	Bowie	_	Word	Word	_	12	A	12:A|32:A|2:A	_
 10	would	_	Word	Word	_	12	F	12:F	_
 11	later	_	Word	Word	_	12	D	12:D	_
 12	say	_	Word	Word	_	2	orphan	2:orphan	_
@@ -50,7 +49,7 @@
 46	had	_	Word	Word	_	48	F	48:F	_
 47	never	_	Word	Word	_	48	D	48:D	_
 48	seen	_	Word	Word	_	2	orphan	2:orphan	_
-49	her	_	Word	Word	_	48	A	48:A	_
+49	her	_	Word	Word	_	48	A	48:A|50:A	_
 50	get	_	Word	Word	_	2	orphan	2:orphan	_
 51	up	_	Word	Word	_	50	flat	50:flat	_
 52	and	_	Word	Word	_	50	N	50:N	_
@@ -64,7 +63,7 @@
 60	It	_	Word	Word	_	62	A	62:A	_
 61	really	_	Word	Word	_	62	D	62:D	_
 62	impressed	_	Word	Word	_	2	orphan	2:orphan	_
-63	me	_	Word	Word	_	62	A	62:A	_
+63	me	_	Word	Word	_	62	A	62:A|66:A	_
 64	,	_	Punctuation	Punctuation	_	66	punct	66:punct	_
 65	the	_	Word	Word	_	66	E	66:E	_
 66	power	_	Word	Word	_	2	orphan	2:orphan	_

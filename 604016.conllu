@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 604016
 # text = A UK number one and a US top five , Ram included the co - co - written US number - one hit single " Uncle Albert / Admiral Halsey " . Later that year , ex - Moody Blues guitarist Denny Laine joined the McCartneys and Seiwell to form the band Wings .
-# doc_id = 
 1	A	_	Word	Word	_	3	E	3:E	_
 2	UK	_	Word	Word	_	3	E	3:E	_
 3	number	_	Word	Word	_	0	root	0:root	_
@@ -12,7 +11,7 @@
 8	top	_	Word	Word	_	9	E	9:E	_
 9	five	_	Word	Word	_	3	orphan	3:orphan	_
 10	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-11	Ram	_	Word	Word	_	12	A	12:A	_
+11	Ram	_	Word	Word	_	12	A	12:A|3:A	_
 12	included	_	Word	Word	_	3	orphan	3:orphan	_
 13	the	_	Word	Word	_	24	E	24:E	_
 14	co	_	Word	Word	_	18	E	18:E	_

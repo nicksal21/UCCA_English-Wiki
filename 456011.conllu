@@ -1,14 +1,13 @@
 # format = ucca
 # sent_id = 456011
 # text = On September 9 , 1992 , ABC announced that it would be switching the format of its political coverage to give less recognition to staged sound bites .
-# doc_id = 
 1	On	_	Word	Word	_	2	R	2:R	_
 2	September	_	Word	Word	_	0	root	0:root	_
 3	9	_	Word	Word	_	2	flat	2:flat	_
 4	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 5	1992	_	Word	Word	_	2	flat	2:flat	_
 6	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
-7	ABC	_	Word	Word	_	8	A	8:A	_
+7	ABC	_	Word	Word	_	8	A	8:A|23:A	_
 8	announced	_	Word	Word	_	2	orphan	2:orphan	_
 9	that	_	Word	Word	_	13	F	13:F	_
 10	it	_	Word	Word	_	13	F	13:F	_

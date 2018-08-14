@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 707002
 # text = " His remarks were widely criticized as inappropriate , but they did inspire Willie Nelson to organize a series of events , Farm Aid , to benefit debt - ridden American farmers .
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 2	His	_	Word	Word	_	3	A	3:A	_
 3	remarks	_	Word	Word	_	0	root	0:root	_
@@ -24,7 +23,7 @@
 20	of	_	Word	Word	_	21	R	21:R	_
 21	events	_	Word	Word	_	3	orphan	3:orphan	_
 22	,	_	Punctuation	Punctuation	_	21	punct	21:punct	_
-23	Farm	_	Word	Word	_	21	E	21:E	_
+23	Farm	_	Word	Word	_	21	E	21:E|27:A	_
 24	Aid	_	Word	Word	_	23	flat	23:flat	_
 25	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 26	to	_	Word	Word	_	6	L	6:L	_

@@ -1,12 +1,11 @@
 # format = ucca
 # sent_id = 195008
 # text = A week later , NBC bought from Warner Bros . TV the right to show the TV series on their network for a near - record license fee in a bidding war with CBS .
-# doc_id = 
 1	A	_	Word	Word	_	3	E	3:E	_
 2	week	_	Word	Word	_	3	E	3:E	_
 3	later	_	Word	Word	_	0	root	0:root	_
 4	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-5	NBC	_	Word	Word	_	6	A	6:A	_
+5	NBC	_	Word	Word	_	6	A	6:A|15:A|31:A	_
 6	bought	_	Word	Word	_	3	orphan	3:orphan	_
 7	from	_	Word	Word	_	8	R	8:R	_
 8	Warner	_	Word	Word	_	3	orphan	3:orphan	_

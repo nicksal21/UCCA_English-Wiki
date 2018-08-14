@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 543004
 # text = " Harry Cohn was a sonofabitch , " Reinhardt said , " but he did it for business ; he was not a sadist . [ Louis B . ] Mayer could be a monster , but he was not mean for the sake of meanness . Jack was . "
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 2	Harry	_	Word	Word	_	6	A	6:A	_
 3	Cohn	_	Word	Word	_	2	flat	2:flat	_
@@ -39,7 +38,7 @@
 35	monster	_	Word	Word	_	6	orphan	6:orphan	_
 36	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 37	but	_	Word	Word	_	6	L	6:L	_
-38	he	_	Word	Word	_	41	A	41:A	_
+38	he	_	Word	Word	_	41	A	41:A|46:A	_
 39	was	_	Word	Word	_	41	F	41:F	_
 40	not	_	Word	Word	_	41	D	41:D	_
 41	mean	_	Word	Word	_	6	orphan	6:orphan	_

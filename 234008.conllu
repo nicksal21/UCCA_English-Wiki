@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 234008
 # text = " Chan 's comments were criticised by Parris Chang , a Taiwanese legislator and senior member of the DPP , who called for the government of Taiwan to take punitive steps against Chan for his comments , such as banning his movies and barring him the right to visit Taiwan .
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 2	Chan	_	Word	Word	_	0	root	0:root	_
 3	's	_	Word	Word	_	2	R	2:R	_
@@ -46,7 +45,7 @@
 42	movies	_	Word	Word	_	2	orphan	2:orphan	_
 43	and	_	Word	Word	_	40	N	40:N	_
 44	barring	_	Word	Word	_	2	orphan	2:orphan	_
-45	him	_	Word	Word	_	44	A	44:A	_
+45	him	_	Word	Word	_	44	A	44:A|49:A	_
 46	the	_	Word	Word	_	47	E	47:E	_
 47	right	_	Word	Word	_	2	orphan	2:orphan	_
 48	to	_	Word	Word	_	49	R	49:R	_

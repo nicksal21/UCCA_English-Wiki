@@ -1,8 +1,7 @@
 # format = ucca
 # sent_id = 381011
 # text = He shot a commercial for Rock the Vote , and along with his sister , visited the University of Southern California to encourage students to vote during the 2004 U.S. Election .
-# doc_id = 
-1	He	_	Word	Word	_	2	A	2:A	_
+1	He	_	Word	Word	_	2	A	2:A|23:A|16:A	_
 2	shot	_	Word	Word	_	0	root	0:root	_
 3	a	_	Word	Word	_	4	E	4:E	_
 4	commercial	_	Word	Word	_	2	orphan	2:orphan	_
@@ -25,7 +24,7 @@
 21	California	_	Word	Word	_	20	flat	20:flat	_
 22	to	_	Word	Word	_	2	L	2:L	_
 23	encourage	_	Word	Word	_	2	orphan	2:orphan	_
-24	students	_	Word	Word	_	23	A	23:A	_
+24	students	_	Word	Word	_	23	A	23:A|26:A	_
 25	to	_	Word	Word	_	26	F	26:F	_
 26	vote	_	Word	Word	_	2	orphan	2:orphan	_
 27	during	_	Word	Word	_	2	L	2:L	_

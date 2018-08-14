@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 236006
 # text = He issued a statement on 27 August 2010 apologising for his comments and claiming that his assistant who helped him post the tweets had misunderstood the meaning of his original message .
-# doc_id = 
 1	He	_	Word	Word	_	2	A	2:A	_
 2	issued	_	Word	Word	_	0	root	0:root	_
 3	a	_	Word	Word	_	4	E	4:E	_
@@ -21,7 +20,7 @@
 17	assistant	_	Word	Word	_	2	orphan	2:orphan	_
 18	who	_	Word	Word	_	19	F	19:F	_
 19	helped	_	Word	Word	_	2	orphan	2:orphan	_
-20	him	_	Word	Word	_	19	A	19:A	_
+20	him	_	Word	Word	_	19	A	19:A|21:A	_
 21	post	_	Word	Word	_	2	orphan	2:orphan	_
 22	the	_	Word	Word	_	23	E	23:E	_
 23	tweets	_	Word	Word	_	2	orphan	2:orphan	_

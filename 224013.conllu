@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 224013
 # text = The dispute was resolved with the help of fellow actor and director Jimmy Wang Yu , allowing Chan to stay with Golden Harvest .
-# doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
 2	dispute	_	Word	Word	_	0	root	0:root	_
 3	was	_	Word	Word	_	4	F	4:F	_
@@ -19,7 +18,7 @@
 15	Yu	_	Word	Word	_	13	flat	13:flat	_
 16	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 17	allowing	_	Word	Word	_	2	orphan	2:orphan	_
-18	Chan	_	Word	Word	_	17	A	17:A	_
+18	Chan	_	Word	Word	_	17	A	17:A|20:A	_
 19	to	_	Word	Word	_	20	F	20:F	_
 20	stay	_	Word	Word	_	2	orphan	2:orphan	_
 21	with	_	Word	Word	_	22	R	22:R	_

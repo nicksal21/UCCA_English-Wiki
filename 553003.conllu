@@ -1,14 +1,13 @@
 # format = ucca
 # sent_id = 553003
 # text = Born in Tupelo , Mississippi , Presley moved to Memphis , Tennessee , with his family at the age of 13 .
-# doc_id = 
 1	Born	_	Word	Word	_	0	root	0:root	_
 2	in	_	Word	Word	_	3	R	3:R	_
 3	Tupelo	_	Word	Word	_	1	orphan	1:orphan	_
 4	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 5	Mississippi	_	Word	Word	_	3	flat	3:flat	_
 6	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
-7	Presley	_	Word	Word	_	8	A	8:A	_
+7	Presley	_	Word	Word	_	8	A	8:A|1:A	_
 8	moved	_	Word	Word	_	1	orphan	1:orphan	_
 9	to	_	Word	Word	_	10	R	10:R	_
 10	Memphis	_	Word	Word	_	1	orphan	1:orphan	_

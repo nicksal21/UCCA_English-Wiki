@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 194004
 # text = Sorkin 's TV series The West Wing aired on the same network , and so at the request of NBC 's Entertainment President Jeff Zucker he apologized , but would later say " there should be a difference between what NBC News does and what The West Wing TV series does . "
-# doc_id = 
 1	Sorkin	_	Word	Word	_	0	root	0:root	_
 2	's	_	Word	Word	_	1	R	1:R	_
 3	TV	_	Word	Word	_	4	E	4:E	_
@@ -27,7 +26,7 @@
 23	President	_	Word	Word	_	1	orphan	1:orphan	_
 24	Jeff	_	Word	Word	_	23	E	23:E	_
 25	Zucker	_	Word	Word	_	24	flat	24:flat	_
-26	he	_	Word	Word	_	27	A	27:A	_
+26	he	_	Word	Word	_	27	A	27:A|32:A	_
 27	apologized	_	Word	Word	_	1	orphan	1:orphan	_
 28	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 29	but	_	Word	Word	_	8	L	8:L	_

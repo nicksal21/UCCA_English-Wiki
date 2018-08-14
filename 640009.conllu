@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 640009
 # text = Playing acoustic guitar and backed by an eight - piece band , Lennon performed two songs from Rock ' n ' Roll ( " Stand By Me " , which was not broadcast , and " Slippin ' and Slidin ' " ) followed by " Imagine " . The band , known as Etc . , wore masks behind their heads , a dig by Lennon who thought Grade was two - faced .
-# doc_id = 
 1	Playing	_	Word	Word	_	0	root	0:root	_
 2	acoustic	_	Word	Word	_	3	E	3:E	_
 3	guitar	_	Word	Word	_	1	orphan	1:orphan	_
@@ -14,7 +13,7 @@
 10	piece	_	Word	Word	_	1	orphan	1:orphan	_
 11	band	_	Word	Word	_	1	orphan	1:orphan	_
 12	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-13	Lennon	_	Word	Word	_	14	A	14:A	_
+13	Lennon	_	Word	Word	_	14	A	14:A|1:A|5:A	_
 14	performed	_	Word	Word	_	1	orphan	1:orphan	_
 15	two	_	Word	Word	_	16	E	16:E	_
 16	songs	_	Word	Word	_	1	orphan	1:orphan	_

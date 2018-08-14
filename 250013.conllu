@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 250013
 # text = " Ben Brantley of the New York Times reported that Hawke 's interpretation of Hotspur was " too contemporary for some tastes . It 's hard to credit him as the embodiment of an older order of chivalry " , but allowed " [ He ' s ] great fun to watch as he fumes and fulminates .
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	42	punct	42:punct	_
 2	Ben	_	Word	Word	_	0	root	0:root	_
 3	Brantley	_	Word	Word	_	2	flat	2:flat	_
@@ -46,7 +45,7 @@
 42	allowed	_	Word	Word	_	2	orphan	2:orphan	_
 43	"	_	Punctuation	Punctuation	_	42	punct	42:punct	_
 44	[	_	Punctuation	Punctuation	_	42	punct	42:punct	_
-45	He	_	Word	Word	_	47	A	47:A	_
+45	He	_	Word	Word	_	47	A	47:A|52:A	_
 46	'	_	Punctuation	Punctuation	_	47	punct	47:punct	_
 47	s	_	Word	Word	_	2	orphan	2:orphan	_
 48	]	_	Punctuation	Punctuation	_	47	punct	47:punct	_

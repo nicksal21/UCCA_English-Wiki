@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 494001
 # text = Despite its status it was , by the time David arrived in 1958 , as rich in arcane ritual as any [ English ] public school . There were houses , named after eighteenth - century statesmen like Pitt and Wilberforce . There was a uniform , and an elaborate system of rewards and punishments . There was also an accent on languages , science and particularly design , where a collegiate atmosphere flourished under the tutorship of Owen Frampton . In David 's account , Frampton led through force of personality , not intellect ; his colleagues at Bromley Tech were famous for neither , and yielded the school 's most gifted pupils to the arts , a regime so liberal that Frampton actively encouraged his own son , Peter , to pursue a musical career with David , a partnership briefly intact thirty years later .
-# doc_id = 
 1	Despite	_	Word	Word	_	3	L	3:L	_
 2	its	_	Word	Word	_	3	A	3:A	_
 3	status	_	Word	Word	_	0	root	0:root	_
@@ -88,7 +87,7 @@
 84	's	_	Word	Word	_	83	R	83:R	_
 85	account	_	Word	Word	_	3	orphan	3:orphan	_
 86	,	_	Punctuation	Punctuation	_	85	punct	85:punct	_
-87	Frampton	_	Word	Word	_	88	A	88:A	_
+87	Frampton	_	Word	Word	_	88	A	88:A|108:A	_
 88	led	_	Word	Word	_	3	orphan	3:orphan	_
 89	through	_	Word	Word	_	92	R	92:R	_
 90	force	_	Word	Word	_	92	E	92:E	_
@@ -96,7 +95,7 @@
 92	personality	_	Word	Word	_	3	orphan	3:orphan	_
 93	,	_	Punctuation	Punctuation	_	92	punct	92:punct	_
 94	not	_	Word	Word	_	92	N	92:N	_
-95	intellect	_	Word	Word	_	92	C	92:C	_
+95	intellect	_	Word	Word	_	92	C	92:C|105:C	_
 96	;	_	Punctuation	Punctuation	_	103	punct	103:punct	_
 97	his	_	Word	Word	_	98	E	98:E	_
 98	colleagues	_	Word	Word	_	3	orphan	3:orphan	_

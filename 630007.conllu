@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 630007
 # text = Lennon twice chose his father , but as his mother walked away , he began to cry and followed her .
-# doc_id = 
 1	Lennon	_	Word	Word	_	3	A	3:A	_
 2	twice	_	Word	Word	_	3	D	3:D	_
 3	chose	_	Word	Word	_	0	root	0:root	_
@@ -15,7 +14,7 @@
 11	walked	_	Word	Word	_	3	orphan	3:orphan	_
 12	away	_	Word	Word	_	11	D	11:D	_
 13	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-14	he	_	Word	Word	_	17	A	17:A	_
+14	he	_	Word	Word	_	17	A	17:A|19:A	_
 15	began	_	Word	Word	_	17	D	17:D	_
 16	to	_	Word	Word	_	17	F	17:F	_
 17	cry	_	Word	Word	_	3	orphan	3:orphan	_

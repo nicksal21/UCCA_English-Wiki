@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 652003
 # text = In response , Lennon and Ono held a press conference on 1 April 1973 at the New York City Bar Association , where they announced the formation of the state of Nutopia ; a place with " no land , no boundaries , no passports , only people " . Waving the white flag of Nutopia ( two handkerchiefs ) , they asked for political asylum in the US .
-# doc_id = 
 1	In	_	Word	Word	_	7	L	7:L	_
 2	response	_	Word	Word	_	1	flat	1:flat	_
 3	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
@@ -63,7 +62,7 @@
 59	handkerchiefs	_	Word	Word	_	4	orphan	4:orphan	_
 60	)	_	Punctuation	Punctuation	_	51	punct	51:punct	_
 61	,	_	Punctuation	Punctuation	_	51	punct	51:punct	_
-62	they	_	Word	Word	_	63	A	63:A	_
+62	they	_	Word	Word	_	63	A	63:A|51:A	_
 63	asked	_	Word	Word	_	4	orphan	4:orphan	_
 64	for	_	Word	Word	_	66	R	66:R	_
 65	political	_	Word	Word	_	66	E	66:E	_

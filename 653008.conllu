@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 653008
 # text = One story , " Good Dog Nigel " , tells the tale of " a happy dog , urinating on a lamp post , barking , wagging his tail - until he suddenly hears a message that he will be killed at three o ' clock " . The Times Literary Supplement considered the poems and stories " remarkable ... also very funny ... the nonsense runs on , words and images prompting one another in a chain of pure fantasy " . Book Week reported , " This is nonsense writing , but one has only to review the literature of nonsense to see how well Lennon has brought it off . While some of his homonyms are gratuitous word play , many others have not only double meaning but a double edge .
-# doc_id = 
 1	One	_	Word	Word	_	2	E	2:E	_
 2	story	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
@@ -58,7 +57,7 @@
 54	the	_	Word	Word	_	55	E	55:E	_
 55	poems	_	Word	Word	_	2	orphan	2:orphan	_
 56	and	_	Word	Word	_	55	N	55:N	_
-57	stories	_	Word	Word	_	55	C	55:C	_
+57	stories	_	Word	Word	_	55	C	55:C|63:A	_
 58	"	_	Punctuation	Punctuation	_	59	punct	59:punct	_
 59	remarkable	_	Word	Word	_	2	orphan	2:orphan	_
 60	...	_	Punctuation	Punctuation	_	59	punct	59:punct	_
@@ -96,7 +95,7 @@
 92	writing	_	Word	Word	_	2	orphan	2:orphan	_
 93	,	_	Punctuation	Punctuation	_	92	punct	92:punct	_
 94	but	_	Word	Word	_	92	L	92:L	_
-95	one	_	Word	Word	_	99	A	99:A	_
+95	one	_	Word	Word	_	99	A	99:A|105:A	_
 96	has	_	Word	Word	_	99	F	99:F	_
 97	only	_	Word	Word	_	99	D	99:D	_
 98	to	_	Word	Word	_	99	F	99:F	_

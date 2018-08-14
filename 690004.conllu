@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 690004
 # text = Dylan dropped out of college at the end of his first year ( May 1960 ) . In January 1961 , he traveled to New York City , hoping to perform there and visit his musical idol Woody Guthrie , who was seriously ill with Huntington 's Disease in Greystone Park Psychiatric Hospital .
-# doc_id = 
 1	Dylan	_	Word	Word	_	2	A	2:A	_
 2	dropped	_	Word	Word	_	0	root	0:root	_
 3	out	_	Word	Word	_	2	flat	2:flat	_
@@ -23,7 +22,7 @@
 19	January	_	Word	Word	_	20	E	20:E	_
 20	1961	_	Word	Word	_	2	orphan	2:orphan	_
 21	,	_	Punctuation	Punctuation	_	23	punct	23:punct	_
-22	he	_	Word	Word	_	23	A	23:A	_
+22	he	_	Word	Word	_	23	A	23:A|31:A|34:A	_
 23	traveled	_	Word	Word	_	2	orphan	2:orphan	_
 24	to	_	Word	Word	_	25	R	25:R	_
 25	New	_	Word	Word	_	2	orphan	2:orphan	_
@@ -39,7 +38,7 @@
 35	his	_	Word	Word	_	37	E	37:E	_
 36	musical	_	Word	Word	_	37	E	37:E	_
 37	idol	_	Word	Word	_	2	orphan	2:orphan	_
-38	Woody	_	Word	Word	_	37	E	37:E	_
+38	Woody	_	Word	Word	_	37	E	37:E|44:A	_
 39	Guthrie	_	Word	Word	_	38	flat	38:flat	_
 40	,	_	Punctuation	Punctuation	_	37	punct	37:punct	_
 41	who	_	Word	Word	_	44	R	44:R	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 467012
 # text = During the 1978 - 79 season , Michigan State again qualified for the NCAA Tournament , where they advanced to the championship game and faced Indiana State University , which was led by senior Larry Bird .
-# doc_id = 
 1	During	_	Word	Word	_	6	L	6:L	_
 2	the	_	Word	Word	_	3	E	3:E	_
 3	1978	_	Word	Word	_	0	root	0:root	_
@@ -19,7 +18,7 @@
 15	Tournament	_	Word	Word	_	3	orphan	3:orphan	_
 16	,	_	Punctuation	Punctuation	_	15	punct	15:punct	_
 17	where	_	Word	Word	_	19	F	19:F	_
-18	they	_	Word	Word	_	19	A	19:A	_
+18	they	_	Word	Word	_	19	A	19:A|25:A	_
 19	advanced	_	Word	Word	_	3	orphan	3:orphan	_
 20	to	_	Word	Word	_	23	R	23:R	_
 21	the	_	Word	Word	_	23	E	23:E	_

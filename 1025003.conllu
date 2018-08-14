@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 1025003
 # text = In 1981 , McCartney was offered the ATV music catalog for £ 20 million ( $ 40 million ) . According to McCartney , he contacted Yoko Ono about making a joint purchase by splitting the cost equally at £ 10 million each , but Ono thought they could buy it for £ 5 million each . When they were unable to make the joint purchase , McCartney let the offer fall through , not wanting to be the sole owner of the Beatles ' songs .
-# doc_id = 
 1	In	_	Word	Word	_	2	R	2:R	_
 2	1981	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
@@ -69,7 +68,7 @@
 65	joint	_	Word	Word	_	66	E	66:E	_
 66	purchase	_	Word	Word	_	2	orphan	2:orphan	_
 67	,	_	Punctuation	Punctuation	_	26	punct	26:punct	_
-68	McCartney	_	Word	Word	_	69	A	69:A	_
+68	McCartney	_	Word	Word	_	69	A	69:A|76:A	_
 69	let	_	Word	Word	_	2	orphan	2:orphan	_
 70	the	_	Word	Word	_	71	E	71:E	_
 71	offer	_	Word	Word	_	2	orphan	2:orphan	_

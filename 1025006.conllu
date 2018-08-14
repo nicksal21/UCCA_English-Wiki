@@ -1,12 +1,11 @@
 # format = ucca
 # sent_id = 1025006
 # text = In September 1984 , Jackson was first informed about the sale by Branca and sent a bid of $ 46 million on November 20 , 1984 .
-# doc_id = 
 1	In	_	Word	Word	_	2	R	2:R	_
 2	September	_	Word	Word	_	0	root	0:root	_
 3	1984	_	Word	Word	_	2	flat	2:flat	_
 4	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
-5	Jackson	_	Word	Word	_	8	A	8:A	_
+5	Jackson	_	Word	Word	_	8	A	8:A|15:A	_
 6	was	_	Word	Word	_	8	F	8:F	_
 7	first	_	Word	Word	_	8	D	8:D	_
 8	informed	_	Word	Word	_	2	orphan	2:orphan	_

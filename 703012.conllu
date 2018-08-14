@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 703012
 # text = The tour was a varied evening of entertainment featuring about one hundred performers and supporters drawn from the resurgent Greenwich Village folk scene , including T - Bone Burnett , Ramblin ' Jack Elliott , Joni Mitchell , David Mansfield , Roger McGuinn , Mick Ronson , Joan Baez , and violinist Scarlet Rivera , whom Dylan discovered while she was walking down the street , her violin case hanging on her back .
-# doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
 2	tour	_	Word	Word	_	0	root	0:root	_
 3	was	_	Word	Word	_	2	orphan	2:orphan	_
@@ -54,7 +53,7 @@
 50	,	_	Punctuation	Punctuation	_	26	punct	26:punct	_
 51	and	_	Word	Word	_	26	N	26:N	_
 52	violinist	_	Word	Word	_	2	orphan	2:orphan	_
-53	Scarlet	_	Word	Word	_	52	E	52:E	_
+53	Scarlet	_	Word	Word	_	52	E	52:E|58:A	_
 54	Rivera	_	Word	Word	_	53	flat	53:flat	_
 55	,	_	Punctuation	Punctuation	_	52	punct	52:punct	_
 56	whom	_	Word	Word	_	58	R	58:R	_

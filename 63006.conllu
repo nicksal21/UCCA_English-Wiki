@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 63006
 # text = After Thelma & Louise , Pitt starred in the 1991 film Johnny Suede , a low - budget picture about an aspiring rock star , and the 1992 film Cool World , although neither furthered his career , having poor reviews and box office performance .
-# doc_id = 
 1	After	_	Word	Word	_	2	R	2:R	_
 2	Thelma	_	Word	Word	_	0	root	0:root	_
 3	&	_	Punctuation	Punctuation	_	2	punct	2:punct	_
@@ -12,7 +11,7 @@
 8	in	_	Word	Word	_	12	R	12:R	_
 9	the	_	Word	Word	_	12	E	12:E	_
 10	1991	_	Word	Word	_	12	E	12:E	_
-11	film	_	Word	Word	_	12	E	12:E	_
+11	film	_	Word	Word	_	12	E	12:E|39:A|34:C	_
 12	Johnny	_	Word	Word	_	2	orphan	2:orphan	_
 13	Suede	_	Word	Word	_	12	flat	12:flat	_
 14	,	_	Punctuation	Punctuation	_	12	punct	12:punct	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 634005
 # text = With few exceptions - one being the album title itself - Lennon had yet to bring his love of wordplay to bear on his song lyrics , saying : " We were just writing songs ... pop songs with no more thought of them than that - to create a sound . And the words were almost irrelevant " . In a 1987 interview , McCartney said that the other Beatles idolised John : " He was like our own little Elvis ... We all looked up to John . He was older and he was very much the leader ; he was the quickest wit and the smartest " .
-# doc_id = 
 1	With	_	Word	Word	_	3	R	3:R	_
 2	few	_	Word	Word	_	3	E	3:E	_
 3	exceptions	_	Word	Word	_	0	root	0:root	_
@@ -13,7 +12,7 @@
 9	title	_	Word	Word	_	3	orphan	3:orphan	_
 10	itself	_	Word	Word	_	6	D	6:D	_
 11	-	_	Punctuation	Punctuation	_	16	punct	16:punct	_
-12	Lennon	_	Word	Word	_	16	A	16:A	_
+12	Lennon	_	Word	Word	_	16	A	16:A|28:A	_
 13	had	_	Word	Word	_	16	F	16:F	_
 14	yet	_	Word	Word	_	16	D	16:D	_
 15	to	_	Word	Word	_	16	F	16:F	_
@@ -32,7 +31,7 @@
 28	saying	_	Word	Word	_	3	orphan	3:orphan	_
 29	:	_	Punctuation	Punctuation	_	28	punct	28:punct	_
 30	"	_	Punctuation	Punctuation	_	28	punct	28:punct	_
-31	We	_	Word	Word	_	34	A	34:A	_
+31	We	_	Word	Word	_	34	A	34:A|38:A|42:A	_
 32	were	_	Word	Word	_	34	F	34:F	_
 33	just	_	Word	Word	_	34	D	34:D	_
 34	writing	_	Word	Word	_	3	orphan	3:orphan	_
@@ -67,7 +66,7 @@
 63	1987	_	Word	Word	_	3	orphan	3:orphan	_
 64	interview	_	Word	Word	_	3	orphan	3:orphan	_
 65	,	_	Punctuation	Punctuation	_	16	punct	16:punct	_
-66	McCartney	_	Word	Word	_	67	A	67:A	_
+66	McCartney	_	Word	Word	_	67	A	67:A|77:A	_
 67	said	_	Word	Word	_	3	orphan	3:orphan	_
 68	that	_	Word	Word	_	72	F	72:F	_
 69	the	_	Word	Word	_	71	E	71:E	_

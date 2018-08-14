@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 666014
 # text = " Vibe magazine expressed similar sentiments , writing , " She pulls out all stops [ ... ] Rainbow will garner even more adoration " . Though a commercial success , Rainbow became Carey 's lowest selling album to that point in her career .
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 2	Vibe	_	Word	Word	_	3	E	3:E	_
 3	magazine	_	Word	Word	_	0	root	0:root	_
@@ -33,7 +32,7 @@
 29	commercial	_	Word	Word	_	30	A	30:A	_
 30	success	_	Word	Word	_	3	orphan	3:orphan	_
 31	,	_	Punctuation	Punctuation	_	30	punct	30:punct	_
-32	Rainbow	_	Word	Word	_	33	A	33:A	_
+32	Rainbow	_	Word	Word	_	33	A	33:A|30:A	_
 33	became	_	Word	Word	_	3	orphan	3:orphan	_
 34	Carey	_	Word	Word	_	3	orphan	3:orphan	_
 35	's	_	Word	Word	_	34	R	34:R	_

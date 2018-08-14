@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 703009
 # text = That summer Dylan wrote a lengthy ballad championing the cause of boxer Rubin " Hurricane " Carter , who had been imprisoned for a triple murder committed in Paterson , New Jersey , in 1966 .
-# doc_id = 
 1	That	_	Word	Word	_	2	E	2:E	_
 2	summer	_	Word	Word	_	0	root	0:root	_
 3	Dylan	_	Word	Word	_	4	A	4:A	_
@@ -14,7 +13,7 @@
 10	cause	_	Word	Word	_	2	orphan	2:orphan	_
 11	of	_	Word	Word	_	12	R	12:R	_
 12	boxer	_	Word	Word	_	2	orphan	2:orphan	_
-13	Rubin	_	Word	Word	_	12	E	12:E	_
+13	Rubin	_	Word	Word	_	12	E	12:E|22:A	_
 14	"	_	Punctuation	Punctuation	_	12	punct	12:punct	_
 15	Hurricane	_	Word	Word	_	13	flat	13:flat	_
 16	"	_	Punctuation	Punctuation	_	12	punct	12:punct	_

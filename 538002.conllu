@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 538002
 # text = Warner wrote : " J . Edgar Hoover told me that Youngstown in those days was one of the toughest cities in America , and a gathering place for Sicilian thugs active in the Mafia . There was a murder or two almost every Saturday night in our neighborhood , and knives and brass knuckles were standard equipment for the young hotheads on the prowl .
-# doc_id = 
 1	Warner	_	Word	Word	_	2	A	2:A	_
 2	wrote	_	Word	Word	_	0	root	0:root	_
 3	:	_	Punctuation	Punctuation	_	2	punct	2:punct	_
@@ -13,7 +12,7 @@
 9	told	_	Word	Word	_	2	orphan	2:orphan	_
 10	me	_	Word	Word	_	9	A	9:A	_
 11	that	_	Word	Word	_	9	F	9:F	_
-12	Youngstown	_	Word	Word	_	16	A	16:A	_
+12	Youngstown	_	Word	Word	_	16	A	16:A|21:A|28:A	_
 13	in	_	Word	Word	_	15	R	15:R	_
 14	those	_	Word	Word	_	15	E	15:E	_
 15	days	_	Word	Word	_	2	orphan	2:orphan	_

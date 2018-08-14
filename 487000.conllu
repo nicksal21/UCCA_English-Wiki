@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 487000
 # text = That same year , Bana made his film debut in the Australian film The Castle , which tells the story of a Melbourne - based family 's struggles to keep their home by Melbourne 's airport as the airport authority force them to move .
-# doc_id = 
 1	That	_	Word	Word	_	3	F	3:F	_
 2	same	_	Word	Word	_	3	E	3:E	_
 3	year	_	Word	Word	_	0	root	0:root	_
@@ -43,7 +42,7 @@
 39	airport	_	Word	Word	_	40	E	40:E	_
 40	authority	_	Word	Word	_	3	orphan	3:orphan	_
 41	force	_	Word	Word	_	3	orphan	3:orphan	_
-42	them	_	Word	Word	_	41	A	41:A	_
+42	them	_	Word	Word	_	41	A	41:A|44:A	_
 43	to	_	Word	Word	_	44	F	44:F	_
 44	move	_	Word	Word	_	3	orphan	3:orphan	_
 45	.	_	Punctuation	Punctuation	_	44	punct	44:punct	_

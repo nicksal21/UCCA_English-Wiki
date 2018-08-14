@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 647008
 # text = The pair soon moved to California , beginning an 18 - month period he later called his " lost weekend " . In Los Angeles , Pang encouraged Lennon to develop regular contact with Julian , whom he had not seen for two years .
-# doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
 2	pair	_	Word	Word	_	0	root	0:root	_
 3	soon	_	Word	Word	_	4	D	4:D	_
@@ -30,7 +29,7 @@
 26	,	_	Punctuation	Punctuation	_	28	punct	28:punct	_
 27	Pang	_	Word	Word	_	28	A	28:A	_
 28	encouraged	_	Word	Word	_	2	orphan	2:orphan	_
-29	Lennon	_	Word	Word	_	28	A	28:A	_
+29	Lennon	_	Word	Word	_	28	A	28:A|33:A	_
 30	to	_	Word	Word	_	33	F	33:F	_
 31	develop	_	Word	Word	_	33	D	33:D	_
 32	regular	_	Word	Word	_	33	D	33:D	_

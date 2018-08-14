@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 955005
 # text = Selznick , who watched her performance that month in Fire Over England and A Yank at Oxford , thought her to be excellent but in no way a possible Scarlett , as she was " too British " . Leigh travelled to Los Angeles to be with Olivier and to try to convince Selznick that she was Scarlett .
-# doc_id = 
 1	Selznick	_	Word	Word	_	4	A	4:A	_
 2	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 3	who	_	Word	Word	_	4	F	4:F	_
@@ -21,7 +20,7 @@
 17	Oxford	_	Word	Word	_	14	flat	14:flat	_
 18	,	_	Punctuation	Punctuation	_	19	punct	19:punct	_
 19	thought	_	Word	Word	_	4	orphan	4:orphan	_
-20	her	_	Word	Word	_	23	A	23:A	_
+20	her	_	Word	Word	_	23	A	23:A|30:A	_
 21	to	_	Word	Word	_	23	F	23:F	_
 22	be	_	Word	Word	_	23	D	23:D	_
 23	excellent	_	Word	Word	_	4	orphan	4:orphan	_
@@ -41,7 +40,7 @@
 37	British	_	Word	Word	_	4	orphan	4:orphan	_
 38	"	_	Punctuation	Punctuation	_	19	punct	19:punct	_
 39	.	_	Punctuation	Punctuation	_	19	punct	19:punct	_
-40	Leigh	_	Word	Word	_	41	A	41:A	_
+40	Leigh	_	Word	Word	_	41	A	41:A|46:A	_
 41	travelled	_	Word	Word	_	4	orphan	4:orphan	_
 42	to	_	Word	Word	_	41	R	41:R	_
 43	Los	_	Word	Word	_	41	A	41:A	_

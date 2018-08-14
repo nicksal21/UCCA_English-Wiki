@@ -1,14 +1,13 @@
 # format = ucca
 # sent_id = 567011
 # text = " Asked for a response , Presley said , " I admire the man . He has a right to say what he wants to say . He is a great success and a fine actor , but I think he should n't have said it . ... This is a trend , just the same as he faced when he started years ago . "
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 2	Asked	_	Word	Word	_	0	root	0:root	_
 3	for	_	Word	Word	_	5	R	5:R	_
 4	a	_	Word	Word	_	5	E	5:E	_
 5	response	_	Word	Word	_	2	orphan	2:orphan	_
 6	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-7	Presley	_	Word	Word	_	8	A	8:A	_
+7	Presley	_	Word	Word	_	8	A	8:A|2:A	_
 8	said	_	Word	Word	_	2	orphan	2:orphan	_
 9	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 10	"	_	Punctuation	Punctuation	_	8	punct	8:punct	_

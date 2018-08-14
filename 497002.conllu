@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 497002
 # text = Exploiting his androgynous appearance , the original cover of the UK version unveiled two months later depicted the singer wearing a dress : taking the garment with him , he wore it during interviews - to the approval of critics , including Rolling Stone 's John Mendelsohn who described him as " ravishing , almost disconcertingly reminiscent of Lauren Bacall " - and in the street , to mixed reaction including laughter and , in the case of one male pedestrian , producing a gun and telling Bowie to " kiss my ass " . During the tour Bowie 's observation of two seminal American proto - punk artists led him to develop a concept that eventually found form in the Ziggy Stardust character : a melding of the persona of Iggy Pop with the music of Lou Reed , producing " the ultimate pop idol " . A girlfriend recalled his " scrawling notes on a cocktail napkin about a crazy rock star named Iggy or Ziggy " , and on his return to England he declared his intention to create a character " who looks like he 's landed from Mars " .
-# doc_id = 
 1	Exploiting	_	Word	Word	_	0	root	0:root	_
 2	his	_	Word	Word	_	4	A	4:A	_
 3	androgynous	_	Word	Word	_	4	E	4:E	_
@@ -31,7 +30,7 @@
 27	with	_	Word	Word	_	28	R	28:R	_
 28	him	_	Word	Word	_	1	orphan	1:orphan	_
 29	,	_	Punctuation	Punctuation	_	24	punct	24:punct	_
-30	he	_	Word	Word	_	31	A	31:A	_
+30	he	_	Word	Word	_	31	A	31:A|24:A	_
 31	wore	_	Word	Word	_	1	orphan	1:orphan	_
 32	it	_	Word	Word	_	31	A	31:A	_
 33	during	_	Word	Word	_	34	R	34:R	_
@@ -51,7 +50,7 @@
 47	Mendelsohn	_	Word	Word	_	46	flat	46:flat	_
 48	who	_	Word	Word	_	49	F	49:F	_
 49	described	_	Word	Word	_	1	orphan	1:orphan	_
-50	him	_	Word	Word	_	49	A	49:A	_
+50	him	_	Word	Word	_	49	A	49:A|57:A|53:A	_
 51	as	_	Word	Word	_	53	R	53:R	_
 52	"	_	Punctuation	Punctuation	_	53	punct	53:punct	_
 53	ravishing	_	Word	Word	_	1	orphan	1:orphan	_
@@ -89,7 +88,7 @@
 85	gun	_	Word	Word	_	1	orphan	1:orphan	_
 86	and	_	Word	Word	_	83	L	83:L	_
 87	telling	_	Word	Word	_	1	orphan	1:orphan	_
-88	Bowie	_	Word	Word	_	87	A	87:A	_
+88	Bowie	_	Word	Word	_	87	A	87:A|91:A	_
 89	to	_	Word	Word	_	91	F	91:F	_
 90	"	_	Punctuation	Punctuation	_	91	punct	91:punct	_
 91	kiss	_	Word	Word	_	1	orphan	1:orphan	_
@@ -178,7 +177,7 @@
 174	return	_	Word	Word	_	1	orphan	1:orphan	_
 175	to	_	Word	Word	_	176	R	176:R	_
 176	England	_	Word	Word	_	1	orphan	1:orphan	_
-177	he	_	Word	Word	_	178	A	178:A	_
+177	he	_	Word	Word	_	178	A	178:A|182:A	_
 178	declared	_	Word	Word	_	1	orphan	1:orphan	_
 179	his	_	Word	Word	_	180	E	180:E	_
 180	intention	_	Word	Word	_	1	orphan	1:orphan	_

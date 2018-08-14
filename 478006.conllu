@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 478006
 # text = ESPN 's SportsCentury ranked Johnson # 17 in their " 50 Greatest Athletes of the 20th Century " In 2006 , ESPN.com rated Johnson the greatest point guard of all time , stating , " It could be argued that he 's the one player in NBA history who was better than Michael Jordan .
-# doc_id = 
 1	ESPN	_	Word	Word	_	0	root	0:root	_
 2	's	_	Word	Word	_	1	R	1:R	_
 3	SportsCentury	_	Word	Word	_	1	orphan	1:orphan	_
@@ -23,7 +22,7 @@
 19	In	_	Word	Word	_	20	R	20:R	_
 20	2006	_	Word	Word	_	1	orphan	1:orphan	_
 21	,	_	Punctuation	Punctuation	_	23	punct	23:punct	_
-22	ESPN.com	_	Word	Word	_	23	A	23:A	_
+22	ESPN.com	_	Word	Word	_	23	A	23:A|33:A	_
 23	rated	_	Word	Word	_	1	orphan	1:orphan	_
 24	Johnson	_	Word	Word	_	23	A	23:A	_
 25	the	_	Word	Word	_	27	E	27:E	_

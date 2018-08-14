@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 475005
 # text = In the final game of the CBA series , Magic Johnson had 30 points , 17 rebounds , and 13 assists , leading the All - Stars to a 126 - 121 victory over the Oklahoma City Cavalry .
-# doc_id = 
 1	In	_	Word	Word	_	4	L	4:L	_
 2	the	_	Word	Word	_	4	E	4:E	_
 3	final	_	Word	Word	_	4	E	4:E	_
@@ -11,7 +10,7 @@
 7	CBA	_	Word	Word	_	8	E	8:E	_
 8	series	_	Word	Word	_	4	orphan	4:orphan	_
 9	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
-10	Magic	_	Word	Word	_	12	A	12:A	_
+10	Magic	_	Word	Word	_	12	A	12:A|23:A	_
 11	Johnson	_	Word	Word	_	10	flat	10:flat	_
 12	had	_	Word	Word	_	4	orphan	4:orphan	_
 13	30	_	Word	Word	_	14	E	14:E	_

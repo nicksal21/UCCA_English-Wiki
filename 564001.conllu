@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 564001
 # text = A few days later , the singer made an outdoor concert appearance in Memphis at which he announced , " You know , those people in New York are not gonna change me none . I 'm gonna show you what the real Elvis is like tonight .
-# doc_id = 
 1	A	_	Word	Word	_	3	E	3:E	_
 2	few	_	Word	Word	_	3	E	3:E	_
 3	days	_	Word	Word	_	0	root	0:root	_
@@ -12,7 +11,7 @@
 8	made	_	Word	Word	_	12	F	12:F	_
 9	an	_	Word	Word	_	10	E	10:E	_
 10	outdoor	_	Word	Word	_	3	orphan	3:orphan	_
-11	concert	_	Word	Word	_	12	E	12:E	_
+11	concert	_	Word	Word	_	12	E	12:E|15:C	_
 12	appearance	_	Word	Word	_	3	orphan	3:orphan	_
 13	in	_	Word	Word	_	14	R	14:R	_
 14	Memphis	_	Word	Word	_	3	orphan	3:orphan	_

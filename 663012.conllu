@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 663012
 # text = " In 1995 , due to Daydream 's enormous Japanese sales , Billboard declared Carey the " Overseas Artist of the Year " in Japan .
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	14	punct	14:punct	_
 2	In	_	Word	Word	_	3	R	3:R	_
 3	1995	_	Word	Word	_	0	root	0:root	_
@@ -16,7 +15,7 @@
 12	,	_	Punctuation	Punctuation	_	14	punct	14:punct	_
 13	Billboard	_	Word	Word	_	14	A	14:A	_
 14	declared	_	Word	Word	_	3	orphan	3:orphan	_
-15	Carey	_	Word	Word	_	14	A	14:A	_
+15	Carey	_	Word	Word	_	14	A	14:A|19:A	_
 16	the	_	Word	Word	_	19	E	19:E	_
 17	"	_	Punctuation	Punctuation	_	19	punct	19:punct	_
 18	Overseas	_	Word	Word	_	19	E	19:E	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 200000
 # text = In March 2007 , it was reported that Sorkin had signed on to write a musical adaptation of the hit 2002 record Yoshimi Battles the Pink Robots by psychedelic - rock band The Flaming Lips , collaborating with director Des McAnuff who has been developing the project .
-# doc_id = 
 1	In	_	Word	Word	_	3	R	3:R	_
 2	March	_	Word	Word	_	3	E	3:E	_
 3	2007	_	Word	Word	_	0	root	0:root	_
@@ -10,7 +9,7 @@
 6	was	_	Word	Word	_	7	F	7:F	_
 7	reported	_	Word	Word	_	3	orphan	3:orphan	_
 8	that	_	Word	Word	_	11	F	11:F	_
-9	Sorkin	_	Word	Word	_	11	A	11:A	_
+9	Sorkin	_	Word	Word	_	11	A	11:A|37:A	_
 10	had	_	Word	Word	_	11	F	11:F	_
 11	signed	_	Word	Word	_	3	orphan	3:orphan	_
 12	on	_	Word	Word	_	11	flat	11:flat	_
@@ -40,7 +39,7 @@
 36	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 37	collaborating	_	Word	Word	_	3	orphan	3:orphan	_
 38	with	_	Word	Word	_	40	R	40:R	_
-39	director	_	Word	Word	_	40	E	40:E	_
+39	director	_	Word	Word	_	40	E	40:E|45:A	_
 40	Des	_	Word	Word	_	3	orphan	3:orphan	_
 41	McAnuff	_	Word	Word	_	40	flat	40:flat	_
 42	who	_	Word	Word	_	45	F	45:F	_

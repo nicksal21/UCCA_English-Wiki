@@ -1,14 +1,13 @@
 # format = ucca
 # sent_id = 618013
 # text = In 1963 , Dick James established Northern Songs to publish the songs of Lennon - McCartney .
-# doc_id = 
 1	In	_	Word	Word	_	2	R	2:R	_
 2	1963	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 4	Dick	_	Word	Word	_	6	A	6:A	_
 5	James	_	Word	Word	_	4	flat	4:flat	_
 6	established	_	Word	Word	_	2	orphan	2:orphan	_
-7	Northern	_	Word	Word	_	6	A	6:A	_
+7	Northern	_	Word	Word	_	6	A	6:A|10:A	_
 8	Songs	_	Word	Word	_	7	flat	7:flat	_
 9	to	_	Word	Word	_	6	L	6:L	_
 10	publish	_	Word	Word	_	2	orphan	2:orphan	_

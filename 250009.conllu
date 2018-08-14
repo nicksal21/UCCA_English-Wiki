@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 250009
 # text = Outside of the New York stage , Hawke made an appearance in a 1995 production of Sam Shepard 's Buried Child , directed by Gary Sinise at the Steppenwolf Theater in Chicago .
-# doc_id = 
 1	Outside	_	Word	Word	_	0	root	0:root	_
 2	of	_	Word	Word	_	1	F	1:F	_
 3	the	_	Word	Word	_	6	E	6:E	_
@@ -9,7 +8,7 @@
 5	York	_	Word	Word	_	4	flat	4:flat	_
 6	stage	_	Word	Word	_	1	orphan	1:orphan	_
 7	,	_	Punctuation	Punctuation	_	11	punct	11:punct	_
-8	Hawke	_	Word	Word	_	11	A	11:A	_
+8	Hawke	_	Word	Word	_	11	A	11:A|15:A	_
 9	made	_	Word	Word	_	11	F	11:F	_
 10	an	_	Word	Word	_	11	E	11:E	_
 11	appearance	_	Word	Word	_	1	orphan	1:orphan	_

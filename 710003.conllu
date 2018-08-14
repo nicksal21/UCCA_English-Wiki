@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 710003
 # text = His scheduled European tour was cancelled , but Dylan made a speedy recovery and left the hospital saying , " I really thought I 'd be seeing Elvis soon .
-# doc_id = 
 1	His	_	Word	Word	_	4	E	4:E	_
 2	scheduled	_	Word	Word	_	4	E	4:E	_
 3	European	_	Word	Word	_	4	E	4:E	_
@@ -10,7 +9,7 @@
 6	cancelled	_	Word	Word	_	4	orphan	4:orphan	_
 7	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 8	but	_	Word	Word	_	6	L	6:L	_
-9	Dylan	_	Word	Word	_	13	A	13:A	_
+9	Dylan	_	Word	Word	_	13	A	13:A|15:A|18:A	_
 10	made	_	Word	Word	_	13	F	13:F	_
 11	a	_	Word	Word	_	12	E	12:E	_
 12	speedy	_	Word	Word	_	4	orphan	4:orphan	_

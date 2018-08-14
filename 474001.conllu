@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 474001
 # text = Johnson , who took the job at the urging of owner Jerry Buss , admitted " I 've always had the desire ( to coach ) in the back of my mind .
-# doc_id = 
 1	Johnson	_	Word	Word	_	0	root	0:root	_
 2	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
 3	who	_	Word	Word	_	4	F	4:F	_
@@ -18,7 +17,7 @@
 14	,	_	Punctuation	Punctuation	_	15	punct	15:punct	_
 15	admitted	_	Word	Word	_	1	orphan	1:orphan	_
 16	"	_	Punctuation	Punctuation	_	15	punct	15:punct	_
-17	I	_	Word	Word	_	22	A	22:A	_
+17	I	_	Word	Word	_	22	A	22:A|25:A	_
 18	've	_	Word	Word	_	22	F	22:F	_
 19	always	_	Word	Word	_	22	D	22:D	_
 20	had	_	Word	Word	_	22	F	22:F	_

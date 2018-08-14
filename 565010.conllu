@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 565010
 # text = Though he was not top billed , the film 's original title - The Reno Brothers - was changed to capitalize on his latest number one record : " Love Me Tender " had hit the top of the charts earlier that month .
-# doc_id = 
 1	Though	_	Word	Word	_	5	L	5:L	_
 2	he	_	Word	Word	_	5	A	5:A	_
 3	was	_	Word	Word	_	5	D	5:D	_
@@ -31,7 +30,7 @@
 27	record	_	Word	Word	_	5	orphan	5:orphan	_
 28	:	_	Punctuation	Punctuation	_	27	punct	27:punct	_
 29	"	_	Punctuation	Punctuation	_	27	punct	27:punct	_
-30	Love	_	Word	Word	_	27	E	27:E	_
+30	Love	_	Word	Word	_	27	E	27:E|35:A	_
 31	Me	_	Word	Word	_	30	flat	30:flat	_
 32	Tender	_	Word	Word	_	30	flat	30:flat	_
 33	"	_	Punctuation	Punctuation	_	27	punct	27:punct	_

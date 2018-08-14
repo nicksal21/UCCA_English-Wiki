@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 477011
 # text = To prevent his HIV infection from progressing to AIDS , Johnson takes a daily combination of drugs .
-# doc_id = 
 1	To	_	Word	Word	_	2	L	2:L	_
 2	prevent	_	Word	Word	_	0	root	0:root	_
 3	his	_	Word	Word	_	5	A	5:A	_
@@ -12,7 +11,7 @@
 8	to	_	Word	Word	_	9	R	9:R	_
 9	AIDS	_	Word	Word	_	2	orphan	2:orphan	_
 10	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-11	Johnson	_	Word	Word	_	12	A	12:A	_
+11	Johnson	_	Word	Word	_	12	A	12:A|2:A	_
 12	takes	_	Word	Word	_	2	orphan	2:orphan	_
 13	a	_	Word	Word	_	15	E	15:E	_
 14	daily	_	Word	Word	_	15	E	15:E	_

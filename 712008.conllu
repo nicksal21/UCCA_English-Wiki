@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 712008
 # text = Despite some coarsening of Dylan 's voice ( a critic for The Guardian characterised his singing on the album as " a catarrhal death rattle " ) most reviewers praised the album , and many described it as the final installment of a successful trilogy , embracing Time Out of Mind and " Love and Theft " . Modern Times entered the U.S. charts at number one , making it Dylan 's first album to reach that position since 1976 's Desire .
-# doc_id = 
 1	Despite	_	Word	Word	_	3	L	3:L	_
 2	some	_	Word	Word	_	3	D	3:D	_
 3	coarsening	_	Word	Word	_	0	root	0:root	_
@@ -36,9 +35,9 @@
 32	album	_	Word	Word	_	3	orphan	3:orphan	_
 33	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 34	and	_	Word	Word	_	3	L	3:L	_
-35	many	_	Word	Word	_	36	A	36:A	_
+35	many	_	Word	Word	_	36	A	36:A|47:A	_
 36	described	_	Word	Word	_	3	orphan	3:orphan	_
-37	it	_	Word	Word	_	36	A	36:A	_
+37	it	_	Word	Word	_	36	A	36:A|41:A	_
 38	as	_	Word	Word	_	41	R	41:R	_
 39	the	_	Word	Word	_	41	E	41:E	_
 40	final	_	Word	Word	_	41	E	41:E	_

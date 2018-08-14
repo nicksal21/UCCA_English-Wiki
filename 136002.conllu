@@ -1,14 +1,13 @@
 # format = ucca
 # sent_id = 136002
 # text = Co - starring Humphrey Bogart , The African Queen was shot mostly on location in the Belgian Congo , an opportunity Hepburn embraced .
-# doc_id = 
 1	Co	_	Word	Word	_	3	E	3:E	_
 2	-	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 3	starring	_	Word	Word	_	0	root	0:root	_
 4	Humphrey	_	Word	Word	_	3	A	3:A	_
 5	Bogart	_	Word	Word	_	4	flat	4:flat	_
 6	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-7	The	_	Word	Word	_	11	A	11:A	_
+7	The	_	Word	Word	_	11	A	11:A|3:A	_
 8	African	_	Word	Word	_	7	flat	7:flat	_
 9	Queen	_	Word	Word	_	7	flat	7:flat	_
 10	was	_	Word	Word	_	11	F	11:F	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 586010
 # text = Both Depp and his subsequent fiancé Sherilyn Fenn auditioned for the 1986 film Thrashin ' and they were both cast , with Depp being chosen by the film 's director to star as the lead , which would have been Depp 's second major role .
-# doc_id = 
 1	Both	_	Word	Word	_	2	N	2:N	_
 2	Depp	_	Word	Word	_	0	root	0:root	_
 3	and	_	Word	Word	_	1	flat	1:flat	_
@@ -24,7 +23,7 @@
 20	cast	_	Word	Word	_	2	orphan	2:orphan	_
 21	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
 22	with	_	Word	Word	_	9	L	9:L	_
-23	Depp	_	Word	Word	_	25	A	25:A	_
+23	Depp	_	Word	Word	_	25	A	25:A|32:A	_
 24	being	_	Word	Word	_	25	F	25:F	_
 25	chosen	_	Word	Word	_	2	orphan	2:orphan	_
 26	by	_	Word	Word	_	30	R	30:R	_

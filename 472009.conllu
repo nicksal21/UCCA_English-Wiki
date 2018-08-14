@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 472009
 # text = After a physical before the 1991 - 92 NBA season , Johnson discovered that he had tested positive for HIV .
-# doc_id = 
 1	After	_	Word	Word	_	3	L	3:L	_
 2	a	_	Word	Word	_	3	E	3:E	_
 3	physical	_	Word	Word	_	0	root	0:root	_
@@ -13,7 +12,7 @@
 9	NBA	_	Word	Word	_	10	E	10:E	_
 10	season	_	Word	Word	_	3	orphan	3:orphan	_
 11	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-12	Johnson	_	Word	Word	_	13	A	13:A	_
+12	Johnson	_	Word	Word	_	13	A	13:A|3:A	_
 13	discovered	_	Word	Word	_	3	orphan	3:orphan	_
 14	that	_	Word	Word	_	17	F	17:F	_
 15	he	_	Word	Word	_	17	A	17:A	_

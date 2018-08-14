@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 651007
 # text = The next month the United States Immigration and Naturalization Service ( INS ) began deportation proceedings , arguing that his 1968 misdemeanor conviction for cannabis possession in London had made him ineligible for admission to the United States .
-# doc_id = 
 1	The	_	Word	Word	_	3	E	3:E	_
 2	next	_	Word	Word	_	3	E	3:E	_
 3	month	_	Word	Word	_	0	root	0:root	_
@@ -13,7 +12,7 @@
 9	Naturalization	_	Word	Word	_	7	C	7:C	_
 10	Service	_	Word	Word	_	3	orphan	3:orphan	_
 11	(	_	Punctuation	Punctuation	_	10	punct	10:punct	_
-12	INS	_	Word	Word	_	10	E	10:E	_
+12	INS	_	Word	Word	_	10	E	10:E|18:A	_
 13	)	_	Punctuation	Punctuation	_	14	punct	14:punct	_
 14	began	_	Word	Word	_	3	orphan	3:orphan	_
 15	deportation	_	Word	Word	_	16	E	16:E	_
@@ -21,7 +20,7 @@
 17	,	_	Punctuation	Punctuation	_	14	punct	14:punct	_
 18	arguing	_	Word	Word	_	3	orphan	3:orphan	_
 19	that	_	Word	Word	_	32	F	32:F	_
-20	his	_	Word	Word	_	23	A	23:A	_
+20	his	_	Word	Word	_	23	A	23:A|26:A	_
 21	1968	_	Word	Word	_	23	D	23:D	_
 22	misdemeanor	_	Word	Word	_	23	E	23:E	_
 23	conviction	_	Word	Word	_	3	orphan	3:orphan	_
@@ -32,7 +31,7 @@
 28	London	_	Word	Word	_	3	orphan	3:orphan	_
 29	had	_	Word	Word	_	32	F	32:F	_
 30	made	_	Word	Word	_	32	D	32:D	_
-31	him	_	Word	Word	_	32	A	32:A	_
+31	him	_	Word	Word	_	32	A	32:A|34:A	_
 32	ineligible	_	Word	Word	_	3	orphan	3:orphan	_
 33	for	_	Word	Word	_	34	F	34:F	_
 34	admission	_	Word	Word	_	3	orphan	3:orphan	_

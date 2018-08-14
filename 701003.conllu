@@ -1,12 +1,11 @@
 # format = ucca
 # sent_id = 701003
 # text = In May 1969 , Dylan appeared on the first episode of Johnny Cash 's new television show , duetting with Cash on " Girl from the North Country " , " I Threw It All Away " , and " Living the Blues " . Dylan next traveled to England to top the bill at the Isle of Wight rock festival on August 31 , 1969 , after rejecting overtures to appear at the Woodstock Festival far closer to his home .
-# doc_id = 
 1	In	_	Word	Word	_	3	R	3:R	_
 2	May	_	Word	Word	_	3	E	3:E	_
 3	1969	_	Word	Word	_	0	root	0:root	_
 4	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-5	Dylan	_	Word	Word	_	6	A	6:A	_
+5	Dylan	_	Word	Word	_	6	A	6:A|19:A	_
 6	appeared	_	Word	Word	_	3	orphan	3:orphan	_
 7	on	_	Word	Word	_	10	R	10:R	_
 8	the	_	Word	Word	_	10	E	10:E	_
@@ -47,7 +46,7 @@
 43	Blues	_	Word	Word	_	41	flat	41:flat	_
 44	"	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 45	.	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-46	Dylan	_	Word	Word	_	48	A	48:A	_
+46	Dylan	_	Word	Word	_	48	A	48:A|69:A|52:A	_
 47	next	_	Word	Word	_	48	D	48:D	_
 48	traveled	_	Word	Word	_	3	orphan	3:orphan	_
 49	to	_	Word	Word	_	50	R	50:R	_

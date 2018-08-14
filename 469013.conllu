@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 469013
 # text = In a losing effort against Philadelphia , Johnson averaged 19.0 points on .403 shooting , 12.5 assists , and 7.8 rebounds per game .
-# doc_id = 
 1	In	_	Word	Word	_	4	L	4:L	_
 2	a	_	Word	Word	_	4	E	4:E	_
 3	losing	_	Word	Word	_	4	E	4:E	_
@@ -9,7 +8,7 @@
 5	against	_	Word	Word	_	6	R	6:R	_
 6	Philadelphia	_	Word	Word	_	4	orphan	4:orphan	_
 7	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
-8	Johnson	_	Word	Word	_	9	A	9:A	_
+8	Johnson	_	Word	Word	_	9	A	9:A|4:A	_
 9	averaged	_	Word	Word	_	4	orphan	4:orphan	_
 10	19.0	_	Word	Word	_	11	E	11:E	_
 11	points	_	Word	Word	_	4	orphan	4:orphan	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 665008
 # text = In an interview with Ebony , Houston described working with Carey , as well as their growing friendship : " Mariah and I got along very great . We had never talked and never sang together before . We just had a chance for camaraderie , singer - to - singer , artist - to - artist , that kind of thing . We just laughed and talked and laughed and talked and sang in between that ... It 's good to know that two ladies of soul and music can still be friends .
-# doc_id = 
 1	In	_	Word	Word	_	3	R	3:R	_
 2	an	_	Word	Word	_	3	E	3:E	_
 3	interview	_	Word	Word	_	0	root	0:root	_
@@ -30,7 +29,7 @@
 26	very	_	Word	Word	_	27	E	27:E	_
 27	great	_	Word	Word	_	3	orphan	3:orphan	_
 28	.	_	Punctuation	Punctuation	_	24	punct	24:punct	_
-29	We	_	Word	Word	_	32	A	32:A	_
+29	We	_	Word	Word	_	32	A	32:A|35:A	_
 30	had	_	Word	Word	_	32	F	32:F	_
 31	never	_	Word	Word	_	32	D	32:D	_
 32	talked	_	Word	Word	_	3	orphan	3:orphan	_
@@ -65,7 +64,7 @@
 61	of	_	Word	Word	_	60	R	60:R	_
 62	thing	_	Word	Word	_	3	orphan	3:orphan	_
 63	.	_	Punctuation	Punctuation	_	24	punct	24:punct	_
-64	We	_	Word	Word	_	66	A	66:A	_
+64	We	_	Word	Word	_	66	A	66:A|70:A	_
 65	just	_	Word	Word	_	66	D	66:D	_
 66	laughed	_	Word	Word	_	3	orphan	3:orphan	_
 67	and	_	Word	Word	_	66	N	66:N	_

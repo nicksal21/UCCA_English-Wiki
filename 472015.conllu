@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 472015
 # text = Many articles praised Johnson as a hero , and former U . S . President George H . W . Bush said , " For me , Magic is a hero , a hero for anyone who loves sports . "
-# doc_id = 
 1	Many	_	Word	Word	_	2	E	2:E	_
 2	articles	_	Word	Word	_	0	root	0:root	_
 3	praised	_	Word	Word	_	2	orphan	2:orphan	_
@@ -29,7 +28,7 @@
 25	For	_	Word	Word	_	26	R	26:R	_
 26	me	_	Word	Word	_	2	orphan	2:orphan	_
 27	,	_	Punctuation	Punctuation	_	29	punct	29:punct	_
-28	Magic	_	Word	Word	_	29	A	29:A	_
+28	Magic	_	Word	Word	_	29	A	29:A|36:A	_
 29	is	_	Word	Word	_	2	orphan	2:orphan	_
 30	a	_	Word	Word	_	31	E	31:E	_
 31	hero	_	Word	Word	_	2	orphan	2:orphan	_

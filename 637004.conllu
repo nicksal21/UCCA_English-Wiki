@@ -1,9 +1,8 @@
 # format = ucca
 # sent_id = 637004
 # text = " He spoke too of the hostility he perceived the other members had towards Ono , and of how he , Harrison , and Starr " got fed up with being sidemen for Paul ... After Brian Epstein died we collapsed . Paul took over and supposedly led us . But what is leading us when we went round in circles ? "
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	39	punct	39:punct	_
-2	He	_	Word	Word	_	3	A	3:A	_
+2	He	_	Word	Word	_	3	A	3:A|39:A	_
 3	spoke	_	Word	Word	_	0	root	0:root	_
 4	too	_	Word	Word	_	3	D	3:D	_
 5	of	_	Word	Word	_	7	R	7:R	_
@@ -44,7 +43,7 @@
 40	we	_	Word	Word	_	41	A	41:A	_
 41	collapsed	_	Word	Word	_	3	orphan	3:orphan	_
 42	.	_	Punctuation	Punctuation	_	39	punct	39:punct	_
-43	Paul	_	Word	Word	_	44	A	44:A	_
+43	Paul	_	Word	Word	_	44	A	44:A|48:A	_
 44	took	_	Word	Word	_	3	orphan	3:orphan	_
 45	over	_	Word	Word	_	44	flat	44:flat	_
 46	and	_	Word	Word	_	39	L	39:L	_

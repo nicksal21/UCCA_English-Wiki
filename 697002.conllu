@@ -1,8 +1,7 @@
 # format = ucca
 # sent_id = 697002
 # text = Bruce Springsteen , in his speech for Dylan 's inauguration into the Rock and Roll Hall of Fame , said that on first hearing the single , " that snare shot sounded like somebody ' dkickedso kicked open the door to your mind " . In 2004 and again in 2011 , Rolling Stone magazine listed it as number one on its list of " The 500 Greatest Songs of All Time " . The song also opened Dylan 's next album , Highway 61 Revisited , titled after the road that led from Dylan 's Minnesota to the musical hotbed of New Orleans .
-# doc_id = 
-1	Bruce	_	Word	Word	_	20	A	20:A	_
+1	Bruce	_	Word	Word	_	20	A	20:A|24:A	_
 2	Springsteen	_	Word	Word	_	1	flat	1:flat	_
 3	,	_	Punctuation	Punctuation	_	20	punct	20:punct	_
 4	in	_	Word	Word	_	20	L	20:L	_
@@ -85,7 +84,7 @@
 81	next	_	Word	Word	_	82	E	82:E	_
 82	album	_	Word	Word	_	6	orphan	6:orphan	_
 83	,	_	Punctuation	Punctuation	_	82	punct	82:punct	_
-84	Highway	_	Word	Word	_	82	E	82:E	_
+84	Highway	_	Word	Word	_	82	E	82:E|88:A	_
 85	61	_	Word	Word	_	84	flat	84:flat	_
 86	Revisited	_	Word	Word	_	84	flat	84:flat	_
 87	,	_	Punctuation	Punctuation	_	88	punct	88:punct	_

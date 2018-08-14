@@ -1,9 +1,8 @@
 # format = ucca
 # sent_id = 613001
 # text = " MacDonald considered the track the Beatles ' best B - B - side , stating that its " clangorously saturated texture resonates around McCartney 's [ bassline ] " , which MacDonald described as " so inventive that it threatens to overwhelm the track " . MacDonald also indicated the influence of Indian classical music in " exotic melismas in the bass part " . McCartney identified Sgt . Pepper 's Lonely Hearts Club Band as containing his strongest and most inventive bass playing , particularly on " Lucy in the Sky with Diamonds " .
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-2	MacDonald	_	Word	Word	_	3	A	3:A	_
+2	MacDonald	_	Word	Word	_	3	A	3:A|16:A	_
 3	considered	_	Word	Word	_	0	root	0:root	_
 4	the	_	Word	Word	_	5	E	5:E	_
 5	track	_	Word	Word	_	3	orphan	3:orphan	_
@@ -41,7 +40,7 @@
 37	so	_	Word	Word	_	38	D	38:D	_
 38	inventive	_	Word	Word	_	3	orphan	3:orphan	_
 39	that	_	Word	Word	_	41	F	41:F	_
-40	it	_	Word	Word	_	41	A	41:A	_
+40	it	_	Word	Word	_	41	A	41:A|43:A	_
 41	threatens	_	Word	Word	_	3	orphan	3:orphan	_
 42	to	_	Word	Word	_	43	F	43:F	_
 43	overwhelm	_	Word	Word	_	3	orphan	3:orphan	_
@@ -70,7 +69,7 @@
 66	.	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 67	McCartney	_	Word	Word	_	68	A	68:A	_
 68	identified	_	Word	Word	_	3	orphan	3:orphan	_
-69	Sgt	_	Word	Word	_	68	A	68:A	_
+69	Sgt	_	Word	Word	_	68	A	68:A|78:A	_
 70	.	_	Punctuation	Punctuation	_	68	punct	68:punct	_
 71	Pepper	_	Word	Word	_	69	flat	69:flat	_
 72	's	_	Word	Word	_	69	flat	69:flat	_

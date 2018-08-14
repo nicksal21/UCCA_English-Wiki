@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 615006
 # text = When asked why the Beatles did not include Presley on the Sgt . Pepper cover , McCartney replied , " Elvis was too important and too far above the rest even to mention ... so we did n't put him on the list because he was more than merely a ... pop singer , he was Elvis the King .
-# doc_id = 
 1	When	_	Word	Word	_	2	L	2:L	_
 2	asked	_	Word	Word	_	0	root	0:root	_
 3	why	_	Word	Word	_	8	R	8:R	_
@@ -18,11 +17,11 @@
 14	Pepper	_	Word	Word	_	12	flat	12:flat	_
 15	cover	_	Word	Word	_	2	orphan	2:orphan	_
 16	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-17	McCartney	_	Word	Word	_	18	A	18:A	_
+17	McCartney	_	Word	Word	_	18	A	18:A|2:A	_
 18	replied	_	Word	Word	_	2	orphan	2:orphan	_
 19	,	_	Punctuation	Punctuation	_	18	punct	18:punct	_
 20	"	_	Punctuation	Punctuation	_	18	punct	18:punct	_
-21	Elvis	_	Word	Word	_	22	A	22:A	_
+21	Elvis	_	Word	Word	_	22	A	22:A|33:A	_
 22	was	_	Word	Word	_	2	orphan	2:orphan	_
 23	too	_	Word	Word	_	24	D	24:D	_
 24	important	_	Word	Word	_	2	orphan	2:orphan	_

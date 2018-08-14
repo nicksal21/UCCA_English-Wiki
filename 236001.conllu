@@ -1,14 +1,13 @@
 # format = ucca
 # sent_id = 236001
 # text = Although saddened by the news , he also tweeted " If they killed the guy sooner , they will say why not negotiate first ? If they negotiate first , they ask why not kill the guy sooner ?
-# doc_id = 
 1	Although	_	Word	Word	_	2	L	2:L	_
 2	saddened	_	Word	Word	_	0	root	0:root	_
 3	by	_	Word	Word	_	5	R	5:R	_
 4	the	_	Word	Word	_	5	E	5:E	_
 5	news	_	Word	Word	_	2	orphan	2:orphan	_
 6	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-7	he	_	Word	Word	_	9	A	9:A	_
+7	he	_	Word	Word	_	9	A	9:A|2:A	_
 8	also	_	Word	Word	_	9	D	9:D	_
 9	tweeted	_	Word	Word	_	2	orphan	2:orphan	_
 10	"	_	Punctuation	Punctuation	_	9	punct	9:punct	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 563005
 # text = " Ben Gross of the New York Daily News opined that popular music " has reached its lowest depths in the ' grunt and groin ' antics of one Elvis Presley . ... Elvis , who rotates his pelvis ... gave an exhibition that was suggestive and vulgar , tinged with the kind of animalism that should be confined to dives and bordellos " . Ed Sullivan , whose own variety show was the nation 's most popular , declared him " unfit for family viewing " . To Presley 's displeasure , he soon found himself being referred to as " Elvis the Pelvis " , which he called " one of the most childish expressions I ever heard , comin ' from an adult . "
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	10	punct	10:punct	_
 2	Ben	_	Word	Word	_	0	root	0:root	_
 3	Gross	_	Word	Word	_	2	flat	2:flat	_
@@ -82,7 +81,7 @@
 78	popular	_	Word	Word	_	2	orphan	2:orphan	_
 79	,	_	Punctuation	Punctuation	_	80	punct	80:punct	_
 80	declared	_	Word	Word	_	2	orphan	2:orphan	_
-81	him	_	Word	Word	_	80	A	80:A	_
+81	him	_	Word	Word	_	80	A	80:A|83:A	_
 82	"	_	Punctuation	Punctuation	_	80	punct	80:punct	_
 83	unfit	_	Word	Word	_	2	orphan	2:orphan	_
 84	for	_	Word	Word	_	86	R	86:R	_

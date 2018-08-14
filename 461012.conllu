@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 461012
 # text = However , despite having almost always reported from the scene of any major news story , Jennings was sidelined by an upper respiratory infection in late December 2004 ; he was forced to anchor from New York during the aftermath of the Asian tsunami , while his competitors traveled to the region .
-# doc_id = 
 1	However	_	Word	Word	_	7	L	7:L	_
 2	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 3	despite	_	Word	Word	_	7	L	7:L	_
@@ -18,7 +17,7 @@
 14	news	_	Word	Word	_	15	E	15:E	_
 15	story	_	Word	Word	_	6	orphan	6:orphan	_
 16	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
-17	Jennings	_	Word	Word	_	19	A	19:A	_
+17	Jennings	_	Word	Word	_	19	A	19:A|7:A	_
 18	was	_	Word	Word	_	19	F	19:F	_
 19	sidelined	_	Word	Word	_	6	orphan	6:orphan	_
 20	by	_	Word	Word	_	24	R	24:R	_

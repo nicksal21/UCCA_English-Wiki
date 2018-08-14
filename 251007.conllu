@@ -1,9 +1,8 @@
 # format = ucca
 # sent_id = 251007
 # text = " New York magazine praised Hawke 's " understated direction " , particularly his ability to " steer a gifted cast away from the histrionics " .
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	15	punct	15:punct	_
-2	New	_	Word	Word	_	5	A	5:A	_
+2	New	_	Word	Word	_	5	A	5:A|15:A	_
 3	York	_	Word	Word	_	2	flat	2:flat	_
 4	magazine	_	Word	Word	_	2	flat	2:flat	_
 5	praised	_	Word	Word	_	0	root	0:root	_
@@ -15,7 +14,7 @@
 11	"	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 12	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 13	particularly	_	Word	Word	_	15	D	15:D	_
-14	his	_	Word	Word	_	15	E	15:E	_
+14	his	_	Word	Word	_	15	E	15:E|18:A	_
 15	ability	_	Word	Word	_	5	orphan	5:orphan	_
 16	to	_	Word	Word	_	18	F	18:F	_
 17	"	_	Punctuation	Punctuation	_	18	punct	18:punct	_

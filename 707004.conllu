@@ -1,14 +1,13 @@
 # format = ucca
 # sent_id = 707004
 # text = Dylan 's next studio album , Knocked Out Loaded , was released in July 1986 and contained three cover songs ( by Little Junior Parker , Kris Kristofferson and the traditional gospel hymn " Precious Memories " ) , plus three collaborations with other writers ( Tom Petty , Sam Shepard and Carole Bayer Sager ) , and two solo compositions by Dylan .
-# doc_id = 
 1	Dylan	_	Word	Word	_	0	root	0:root	_
 2	's	_	Word	Word	_	1	R	1:R	_
 3	next	_	Word	Word	_	5	E	5:E	_
 4	studio	_	Word	Word	_	5	E	5:E	_
 5	album	_	Word	Word	_	1	orphan	1:orphan	_
 6	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-7	Knocked	_	Word	Word	_	5	E	5:E	_
+7	Knocked	_	Word	Word	_	5	E	5:E|17:A	_
 8	Out	_	Word	Word	_	7	flat	7:flat	_
 9	Loaded	_	Word	Word	_	7	flat	7:flat	_
 10	,	_	Punctuation	Punctuation	_	12	punct	12:punct	_

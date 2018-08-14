@@ -1,11 +1,10 @@
 # format = ucca
 # sent_id = 204002
 # text = In 1995 , he checked into rehab at the Hazelden Institute in Minnesota , on the advice of his then girlfriend and soon to be wife Julia Bingham , to try to beat his addiction to cocaine .
-# doc_id = 
 1	In	_	Word	Word	_	2	R	2:R	_
 2	1995	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
-4	he	_	Word	Word	_	7	A	7:A	_
+4	he	_	Word	Word	_	7	A	7:A|33:A	_
 5	checked	_	Word	Word	_	2	orphan	2:orphan	_
 6	into	_	Word	Word	_	5	R	5:R	_
 7	rehab	_	Word	Word	_	2	orphan	2:orphan	_

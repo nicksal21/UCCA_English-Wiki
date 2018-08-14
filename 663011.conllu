@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 663011
 # text = Carey , along with Boyz II Men , opened the event with a performance of " One Sweet Day " . However , Carey did not receive any award , prompting her to comment " What can you do ? I will never be disappointed again . After I sat through the whole show and did n't win once , I can handle anything .
-# doc_id = 
 1	Carey	_	Word	Word	_	0	root	0:root	_
 2	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
 3	along	_	Word	Word	_	1	N	1:N	_
@@ -50,7 +49,7 @@
 46	again	_	Word	Word	_	45	D	45:D	_
 47	.	_	Punctuation	Punctuation	_	39	punct	39:punct	_
 48	After	_	Word	Word	_	39	L	39:L	_
-49	I	_	Word	Word	_	50	A	50:A	_
+49	I	_	Word	Word	_	50	A	50:A|58:A	_
 50	sat	_	Word	Word	_	1	orphan	1:orphan	_
 51	through	_	Word	Word	_	50	R	50:R	_
 52	the	_	Word	Word	_	54	E	54:E	_

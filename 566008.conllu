@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 566008
 # text = " To close , displaying his range and defying Sullivan 's wishes , Presley sang a gentle black spiritual , " Peace in the Valley " . At the end of the show , Sullivan declared Presley " a real decent , fine boy " . Two days later , the Memphis draft board announced that Presley would be classified 1A and would probably be drafted sometime that year .
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 2	To	_	Word	Word	_	3	L	3:L	_
 3	close	_	Word	Word	_	0	root	0:root	_
@@ -15,7 +14,7 @@
 11	's	_	Word	Word	_	10	R	10:R	_
 12	wishes	_	Word	Word	_	3	orphan	3:orphan	_
 13	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
-14	Presley	_	Word	Word	_	15	A	15:A	_
+14	Presley	_	Word	Word	_	15	A	15:A|9:A|3:A	_
 15	sang	_	Word	Word	_	3	orphan	3:orphan	_
 16	a	_	Word	Word	_	22	E	22:E	_
 17	gentle	_	Word	Word	_	19	E	19:E	_
@@ -58,7 +57,7 @@
 54	board	_	Word	Word	_	3	orphan	3:orphan	_
 55	announced	_	Word	Word	_	3	orphan	3:orphan	_
 56	that	_	Word	Word	_	60	R	60:R	_
-57	Presley	_	Word	Word	_	60	A	60:A	_
+57	Presley	_	Word	Word	_	60	A	60:A|66:A	_
 58	would	_	Word	Word	_	60	D	60:D	_
 59	be	_	Word	Word	_	60	F	60:F	_
 60	classified	_	Word	Word	_	3	orphan	3:orphan	_

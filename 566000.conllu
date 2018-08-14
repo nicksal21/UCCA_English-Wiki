@@ -1,12 +1,11 @@
 # format = ucca
 # sent_id = 566000
 # text = On December 4 , Presley dropped into Sun Records where Carl Perkins and Jerry Lee Lewis were recording and jammed with them .
-# doc_id = 
 1	On	_	Word	Word	_	2	R	2:R	_
 2	December	_	Word	Word	_	0	root	0:root	_
 3	4	_	Word	Word	_	2	flat	2:flat	_
 4	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-5	Presley	_	Word	Word	_	6	A	6:A	_
+5	Presley	_	Word	Word	_	6	A	6:A|20:A	_
 6	dropped	_	Word	Word	_	2	orphan	2:orphan	_
 7	into	_	Word	Word	_	8	R	8:R	_
 8	Sun	_	Word	Word	_	2	orphan	2:orphan	_

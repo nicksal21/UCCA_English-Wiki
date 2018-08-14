@@ -1,8 +1,7 @@
 # format = ucca
 # sent_id = 116009
 # text = Thomas Hepburn was eager for his children to use their minds and bodies to the limit , and taught them to swim , run , dive , ride , wrestle , and play golf and tennis .
-# doc_id = 
-1	Thomas	_	Word	Word	_	4	A	4:A	_
+1	Thomas	_	Word	Word	_	4	A	4:A|19:A	_
 2	Hepburn	_	Word	Word	_	1	flat	1:flat	_
 3	was	_	Word	Word	_	4	F	4:F	_
 4	eager	_	Word	Word	_	0	root	0:root	_
@@ -21,7 +20,7 @@
 17	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 18	and	_	Word	Word	_	4	L	4:L	_
 19	taught	_	Word	Word	_	4	orphan	4:orphan	_
-20	them	_	Word	Word	_	19	A	19:A	_
+20	them	_	Word	Word	_	19	A	19:A|30:A|24:A|26:A|33:A|22:A|28:A	_
 21	to	_	Word	Word	_	22	F	22:F	_
 22	swim	_	Word	Word	_	4	orphan	4:orphan	_
 23	,	_	Punctuation	Punctuation	_	22	punct	22:punct	_

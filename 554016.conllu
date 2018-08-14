@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 554016
 # text = The contest , held at the Mississippi - Alabama Fair and Dairy Show on October 3 , 1945 , was his first public performance : dressed as a cowboy , the ten - year - old Presley stood on a chair to reach the microphone and sang " Old Shep " . He recalled placing fifth .
-# doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
 2	contest	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
@@ -54,7 +53,7 @@
 50	Shep	_	Word	Word	_	49	flat	49:flat	_
 51	"	_	Punctuation	Punctuation	_	20	punct	20:punct	_
 52	.	_	Punctuation	Punctuation	_	20	punct	20:punct	_
-53	He	_	Word	Word	_	54	A	54:A	_
+53	He	_	Word	Word	_	54	A	54:A|56:A	_
 54	recalled	_	Word	Word	_	2	orphan	2:orphan	_
 55	placing	_	Word	Word	_	56	D	56:D	_
 56	fifth	_	Word	Word	_	2	orphan	2:orphan	_

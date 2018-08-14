@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 605004
 # text = Of his first two post - Beatles tours , McCartney said , " The main thing I did n't want was to come on stage , faced with the whole torment of five rows of press people with little pads , all looking at me and saying , ' Oh well , he is not as good as he was . ' So we decided to go out on that university tour which made me less nervous ... by the end of that tour I felt ready for something else , so we went into Europe . "
-# doc_id = 
 1	Of	_	Word	Word	_	8	R	8:R	_
 2	his	_	Word	Word	_	8	A	8:A	_
 3	first	_	Word	Word	_	7	E	7:E	_
@@ -18,7 +17,7 @@
 14	The	_	Word	Word	_	16	E	16:E	_
 15	main	_	Word	Word	_	16	E	16:E	_
 16	thing	_	Word	Word	_	7	orphan	7:orphan	_
-17	I	_	Word	Word	_	20	A	20:A	_
+17	I	_	Word	Word	_	20	A	20:A|27:A	_
 18	did	_	Word	Word	_	20	F	20:F	_
 19	n't	_	Word	Word	_	20	D	20:D	_
 20	want	_	Word	Word	_	7	orphan	7:orphan	_
@@ -43,7 +42,7 @@
 39	little	_	Word	Word	_	40	E	40:E	_
 40	pads	_	Word	Word	_	7	orphan	7:orphan	_
 41	,	_	Punctuation	Punctuation	_	37	punct	37:punct	_
-42	all	_	Word	Word	_	43	A	43:A	_
+42	all	_	Word	Word	_	43	A	43:A|47:A	_
 43	looking	_	Word	Word	_	7	orphan	7:orphan	_
 44	at	_	Word	Word	_	45	R	45:R	_
 45	me	_	Word	Word	_	7	orphan	7:orphan	_
@@ -65,7 +64,7 @@
 61	.	_	Punctuation	Punctuation	_	21	punct	21:punct	_
 62	'	_	Punctuation	Punctuation	_	21	punct	21:punct	_
 63	So	_	Word	Word	_	21	L	21:L	_
-64	we	_	Word	Word	_	65	A	65:A	_
+64	we	_	Word	Word	_	65	A	65:A|67:A	_
 65	decided	_	Word	Word	_	7	orphan	7:orphan	_
 66	to	_	Word	Word	_	67	F	67:F	_
 67	go	_	Word	Word	_	7	orphan	7:orphan	_
@@ -76,7 +75,7 @@
 72	tour	_	Word	Word	_	7	orphan	7:orphan	_
 73	which	_	Word	Word	_	21	L	21:L	_
 74	made	_	Word	Word	_	7	orphan	7:orphan	_
-75	me	_	Word	Word	_	74	A	74:A	_
+75	me	_	Word	Word	_	74	A	74:A|77:A	_
 76	less	_	Word	Word	_	77	D	77:D	_
 77	nervous	_	Word	Word	_	7	orphan	7:orphan	_
 78	...	_	Punctuation	Punctuation	_	21	punct	21:punct	_
@@ -86,7 +85,7 @@
 82	of	_	Word	Word	_	81	R	81:R	_
 83	that	_	Word	Word	_	84	E	84:E	_
 84	tour	_	Word	Word	_	7	orphan	7:orphan	_
-85	I	_	Word	Word	_	86	A	86:A	_
+85	I	_	Word	Word	_	86	A	86:A|87:A	_
 86	felt	_	Word	Word	_	7	orphan	7:orphan	_
 87	ready	_	Word	Word	_	7	orphan	7:orphan	_
 88	for	_	Word	Word	_	90	R	90:R	_

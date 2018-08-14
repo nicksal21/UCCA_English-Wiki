@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 632001
 # text = From September 1952 to 1957 , after passing his Eleven - Plus exam , he attended Quarry Bank High School in Liverpool , and was described by Harvey at the time as , " A happy - go - lucky , good - humoured , easy going , lively lad .
-# doc_id = 
 1	From	_	Word	Word	_	2	R	2:R	_
 2	September	_	Word	Word	_	0	root	0:root	_
 3	1952	_	Word	Word	_	2	flat	2:flat	_
@@ -16,7 +15,7 @@
 12	Plus	_	Word	Word	_	10	E	10:E	_
 13	exam	_	Word	Word	_	2	orphan	2:orphan	_
 14	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
-15	he	_	Word	Word	_	16	A	16:A	_
+15	he	_	Word	Word	_	16	A	16:A|8:A|26:A	_
 16	attended	_	Word	Word	_	2	orphan	2:orphan	_
 17	Quarry	_	Word	Word	_	19	E	19:E	_
 18	Bank	_	Word	Word	_	17	flat	17:flat	_

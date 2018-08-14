@@ -1,8 +1,7 @@
 # format = ucca
 # sent_id = 485001
 # text = He began his career as a comedian in the sketch comedy series Full Frontal before gaining critical recognition in the biopic Chopper ( 2000 ) . After a decade of roles in Australian TV shows and films , Bana gained Hollywood 's attention by playing the role of American Delta Force Sergeant Norm " Hoot " Hooten in Black Hawk Down ( 2001 ) , the lead role as Bruce Banner from Marvel Comics , in the Ang Lee directed film Hulk ( 2003 ) , Hector in the movie Troy ( 2004 ) , the lead in Steven Spielberg 's Munich ( 2005 ) , and the villain Nero in the science - fiction film Star Trek ( 2009 ) .
-# doc_id = 
-1	He	_	Word	Word	_	2	A	2:A	_
+1	He	_	Word	Word	_	2	A	2:A|31:A|16:A	_
 2	began	_	Word	Word	_	0	root	0:root	_
 3	his	_	Word	Word	_	4	A	4:A	_
 4	career	_	Word	Word	_	2	orphan	2:orphan	_
@@ -40,7 +39,7 @@
 36	and	_	Word	Word	_	35	N	35:N	_
 37	films	_	Word	Word	_	35	C	35:C	_
 38	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-39	Bana	_	Word	Word	_	40	A	40:A	_
+39	Bana	_	Word	Word	_	40	A	40:A|45:A	_
 40	gained	_	Word	Word	_	2	orphan	2:orphan	_
 41	Hollywood	_	Word	Word	_	2	orphan	2:orphan	_
 42	's	_	Word	Word	_	41	R	41:R	_

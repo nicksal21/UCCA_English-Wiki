@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 451011
 # text = " ABC was in bad shape at the time , " Jennings said . " They were willing to try anything , and , to demonstrate the point , they tried me . "
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 2	ABC	_	Word	Word	_	6	A	6:A	_
 3	was	_	Word	Word	_	6	F	6:F	_
@@ -31,7 +30,7 @@
 27	the	_	Word	Word	_	28	E	28:E	_
 28	point	_	Word	Word	_	6	orphan	6:orphan	_
 29	,	_	Punctuation	Punctuation	_	26	punct	26:punct	_
-30	they	_	Word	Word	_	31	A	31:A	_
+30	they	_	Word	Word	_	31	A	31:A|26:A	_
 31	tried	_	Word	Word	_	6	orphan	6:orphan	_
 32	me	_	Word	Word	_	31	A	31:A	_
 33	.	_	Punctuation	Punctuation	_	31	punct	31:punct	_

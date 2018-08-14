@@ -1,11 +1,10 @@
 # format = ucca
 # sent_id = 207002
 # text = Time magazine called Hoffman " a symbol of youth " who represented " a new breed of actors .
-# doc_id = 
 1	Time	_	Word	Word	_	2	E	2:E	_
 2	magazine	_	Word	Word	_	0	root	0:root	_
 3	called	_	Word	Word	_	2	orphan	2:orphan	_
-4	Hoffman	_	Word	Word	_	3	A	3:A	_
+4	Hoffman	_	Word	Word	_	3	A	3:A|12:A	_
 5	"	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 6	a	_	Word	Word	_	7	E	7:E	_
 7	symbol	_	Word	Word	_	2	orphan	2:orphan	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 666011
 # text = " Fearing to lose their label 's highest seller , Sony chose to release the song .
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 2	Fearing	_	Word	Word	_	0	root	0:root	_
 3	to	_	Word	Word	_	4	F	4:F	_
@@ -12,7 +11,7 @@
 8	highest	_	Word	Word	_	9	E	9:E	_
 9	seller	_	Word	Word	_	2	orphan	2:orphan	_
 10	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-11	Sony	_	Word	Word	_	14	A	14:A	_
+11	Sony	_	Word	Word	_	14	A	14:A|2:A	_
 12	chose	_	Word	Word	_	14	D	14:D	_
 13	to	_	Word	Word	_	14	F	14:F	_
 14	release	_	Word	Word	_	2	orphan	2:orphan	_

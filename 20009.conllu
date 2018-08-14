@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 20009
 # text = Two weeks before earning his degree , Pitt left the university and moved to Los Angeles , where he took acting lessons and worked odd jobs .
-# doc_id = 
 1	Two	_	Word	Word	_	2	E	2:E	_
 2	weeks	_	Word	Word	_	0	root	0:root	_
 3	before	_	Word	Word	_	2	R	2:R	_
@@ -9,7 +8,7 @@
 5	his	_	Word	Word	_	6	E	6:E	_
 6	degree	_	Word	Word	_	2	orphan	2:orphan	_
 7	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
-8	Pitt	_	Word	Word	_	9	A	9:A	_
+8	Pitt	_	Word	Word	_	9	A	9:A|13:A|4:A	_
 9	left	_	Word	Word	_	2	orphan	2:orphan	_
 10	the	_	Word	Word	_	11	E	11:E	_
 11	university	_	Word	Word	_	2	orphan	2:orphan	_
@@ -20,7 +19,7 @@
 16	Angeles	_	Word	Word	_	15	flat	15:flat	_
 17	,	_	Punctuation	Punctuation	_	15	punct	15:punct	_
 18	where	_	Word	Word	_	20	R	20:R	_
-19	he	_	Word	Word	_	20	A	20:A	_
+19	he	_	Word	Word	_	20	A	20:A|24:A	_
 20	took	_	Word	Word	_	2	orphan	2:orphan	_
 21	acting	_	Word	Word	_	22	E	22:E	_
 22	lessons	_	Word	Word	_	2	orphan	2:orphan	_

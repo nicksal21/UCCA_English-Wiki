@@ -1,10 +1,9 @@
 # format = ucca
 # sent_id = 469003
 # text = However , Buss was also unhappy with the Lakers offense and had intended on firing Westhead days before the Westhead - Johnson altercation , but assistant GMJerry West and GM Bill Sharman had convinced Buss to delay his decision .
-# doc_id = 
 1	However	_	Word	Word	_	6	L	6:L	_
 2	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-3	Buss	_	Word	Word	_	6	A	6:A	_
+3	Buss	_	Word	Word	_	6	A	6:A|15:A	_
 4	was	_	Word	Word	_	6	F	6:F	_
 5	also	_	Word	Word	_	6	D	6:D	_
 6	unhappy	_	Word	Word	_	0	root	0:root	_
@@ -36,7 +35,7 @@
 32	Sharman	_	Word	Word	_	31	flat	31:flat	_
 33	had	_	Word	Word	_	34	F	34:F	_
 34	convinced	_	Word	Word	_	6	orphan	6:orphan	_
-35	Buss	_	Word	Word	_	34	A	34:A	_
+35	Buss	_	Word	Word	_	34	A	34:A|37:A	_
 36	to	_	Word	Word	_	37	F	37:F	_
 37	delay	_	Word	Word	_	6	orphan	6:orphan	_
 38	his	_	Word	Word	_	39	E	39:E	_

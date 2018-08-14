@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 245003
 # text = Hawke later described the opportunities he was offered as a result of the film 's success as critical to his decision to continue acting : " I did n't want to be an actor and I went back to college . But then the [ film ' s ] success was so monumental that I was getting offers to be in such interesting movies and be in such interesting places , and it seemed silly to pursue anything else . "
-# doc_id = 
 1	Hawke	_	Word	Word	_	3	A	3:A	_
 2	later	_	Word	Word	_	3	G	3:G	_
 3	described	_	Word	Word	_	0	root	0:root	_
@@ -21,14 +20,14 @@
 17	as	_	Word	Word	_	18	R	18:R	_
 18	critical	_	Word	Word	_	3	orphan	3:orphan	_
 19	to	_	Word	Word	_	21	R	21:R	_
-20	his	_	Word	Word	_	21	A	21:A	_
+20	his	_	Word	Word	_	21	A	21:A|24:A	_
 21	decision	_	Word	Word	_	3	orphan	3:orphan	_
 22	to	_	Word	Word	_	24	F	24:F	_
 23	continue	_	Word	Word	_	24	D	24:D	_
 24	acting	_	Word	Word	_	3	orphan	3:orphan	_
 25	:	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 26	"	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-27	I	_	Word	Word	_	30	A	30:A	_
+27	I	_	Word	Word	_	30	A	30:A|32:A	_
 28	did	_	Word	Word	_	30	F	30:F	_
 29	n't	_	Word	Word	_	30	D	30:D	_
 30	want	_	Word	Word	_	3	orphan	3:orphan	_
@@ -56,11 +55,11 @@
 52	so	_	Word	Word	_	53	E	53:E	_
 53	monumental	_	Word	Word	_	3	orphan	3:orphan	_
 54	that	_	Word	Word	_	57	R	57:R	_
-55	I	_	Word	Word	_	57	A	57:A	_
+55	I	_	Word	Word	_	57	A	57:A|66:A|77:A|60:A	_
 56	was	_	Word	Word	_	57	F	57:F	_
 57	getting	_	Word	Word	_	3	orphan	3:orphan	_
 58	offers	_	Word	Word	_	3	orphan	3:orphan	_
-59	to	_	Word	Word	_	60	F	60:F	_
+59	to	_	Word	Word	_	60	F	60:F|66:R	_
 60	be	_	Word	Word	_	3	orphan	3:orphan	_
 61	in	_	Word	Word	_	64	R	64:R	_
 62	such	_	Word	Word	_	63	E	63:E	_

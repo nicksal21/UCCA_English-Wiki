@@ -1,11 +1,10 @@
 # format = ucca
 # sent_id = 963005
 # text = When asked if she believed her beauty had been an impediment to being taken seriously as an actress , she said , " People think that if you look fairly reasonable , you ca n't possibly act , and as I only care about acting , I think beauty can be a great handicap , if you really want to look like the part you 're playing , which is n't necessarily like you . "
-# doc_id = 
 1	When	_	Word	Word	_	2	L	2:L	_
 2	asked	_	Word	Word	_	0	root	0:root	_
 3	if	_	Word	Word	_	5	R	5:R	_
-4	she	_	Word	Word	_	5	A	5:A	_
+4	she	_	Word	Word	_	5	A	5:A|14:A	_
 5	believed	_	Word	Word	_	2	orphan	2:orphan	_
 6	her	_	Word	Word	_	7	E	7:E	_
 7	beauty	_	Word	Word	_	2	orphan	2:orphan	_
@@ -58,7 +57,7 @@
 54	handicap	_	Word	Word	_	2	orphan	2:orphan	_
 55	,	_	Punctuation	Punctuation	_	54	punct	54:punct	_
 56	if	_	Word	Word	_	54	L	54:L	_
-57	you	_	Word	Word	_	59	A	59:A	_
+57	you	_	Word	Word	_	59	A	59:A|61:A	_
 58	really	_	Word	Word	_	59	D	59:D	_
 59	want	_	Word	Word	_	2	orphan	2:orphan	_
 60	to	_	Word	Word	_	61	F	61:F	_

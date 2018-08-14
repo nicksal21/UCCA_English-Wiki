@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 519008
 # text = Despite her professional triumphs , Garland struggled immensely in her personal life , starting when she was a child .
-# doc_id = 
 1	Despite	_	Word	Word	_	4	L	4:L	_
 2	her	_	Word	Word	_	4	E	4:E	_
 3	professional	_	Word	Word	_	4	E	4:E	_
@@ -17,7 +16,7 @@
 13	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 14	starting	_	Word	Word	_	4	orphan	4:orphan	_
 15	when	_	Word	Word	_	4	L	4:L	_
-16	she	_	Word	Word	_	19	A	19:A	_
+16	she	_	Word	Word	_	19	A	19:A|14:A	_
 17	was	_	Word	Word	_	19	F	19:F	_
 18	a	_	Word	Word	_	19	E	19:E	_
 19	child	_	Word	Word	_	4	orphan	4:orphan	_

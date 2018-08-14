@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 235000
 # text = Referring to his participation in the torch relay for the 2008 Summer Olympics in Beijing , Chan spoke out against demonstrators who disrupted the relay several times attempting to draw attention to a wide - ranging number of grievances against the Chinese government , including China 's human rights record and the political status of Taiwan .
-# doc_id = 
 1	Referring	_	Word	Word	_	0	root	0:root	_
 2	to	_	Word	Word	_	4	F	4:F	_
 3	his	_	Word	Word	_	4	A	4:A	_
@@ -18,7 +17,7 @@
 14	in	_	Word	Word	_	15	R	15:R	_
 15	Beijing	_	Word	Word	_	1	orphan	1:orphan	_
 16	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
-17	Chan	_	Word	Word	_	18	A	18:A	_
+17	Chan	_	Word	Word	_	18	A	18:A|1:A	_
 18	spoke	_	Word	Word	_	1	orphan	1:orphan	_
 19	out	_	Word	Word	_	18	E	18:E	_
 20	against	_	Word	Word	_	21	R	21:R	_

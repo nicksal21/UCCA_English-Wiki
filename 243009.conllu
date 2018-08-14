@@ -1,12 +1,11 @@
 # format = ucca
 # sent_id = 243009
 # text = Aside from acting , he has written two novels , The Hottest State ( 1996 ) and Ash Wednesday ( 2002 ) . Between 1998 and 2004 , Hawke was married to actress Uma Thurman .
-# doc_id = 
 1	Aside	_	Word	Word	_	0	root	0:root	_
 2	from	_	Word	Word	_	1	F	1:F	_
 3	acting	_	Word	Word	_	1	orphan	1:orphan	_
 4	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-5	he	_	Word	Word	_	7	A	7:A	_
+5	he	_	Word	Word	_	7	A	7:A|3:A	_
 6	has	_	Word	Word	_	7	F	7:F	_
 7	written	_	Word	Word	_	1	orphan	1:orphan	_
 8	two	_	Word	Word	_	9	E	9:E	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 467005
 # text = Although Johnson was recruited by several top - ranked colleges such as Indiana and UCLA , he decided to play close to home .
-# doc_id = 
 1	Although	_	Word	Word	_	4	L	4:L	_
 2	Johnson	_	Word	Word	_	4	A	4:A	_
 3	was	_	Word	Word	_	4	F	4:F	_
@@ -18,7 +17,7 @@
 14	and	_	Word	Word	_	13	N	13:N	_
 15	UCLA	_	Word	Word	_	13	C	13:C	_
 16	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
-17	he	_	Word	Word	_	18	A	18:A	_
+17	he	_	Word	Word	_	18	A	18:A|20:A	_
 18	decided	_	Word	Word	_	4	orphan	4:orphan	_
 19	to	_	Word	Word	_	20	F	20:F	_
 20	play	_	Word	Word	_	4	orphan	4:orphan	_

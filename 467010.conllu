@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 467010
 # text = Playing with future NBA draftees Greg Kelser , Jay Vincent and Mike Brkovich , Johnson averaged 17.0 points , 7.9 rebounds , and 7.4 assists per game as a freshman , and led the Spartans to a 25 - 5 record , the Big Ten Conference title , and a berth in the 1978 NCAA Tournament .
-# doc_id = 
 1	Playing	_	Word	Word	_	0	root	0:root	_
 2	with	_	Word	Word	_	6	R	6:R	_
 3	future	_	Word	Word	_	5	E	5:E	_
@@ -16,7 +15,7 @@
 12	Mike	_	Word	Word	_	6	C	6:C	_
 13	Brkovich	_	Word	Word	_	12	flat	12:flat	_
 14	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
-15	Johnson	_	Word	Word	_	16	A	16:A	_
+15	Johnson	_	Word	Word	_	16	A	16:A|33:A	_
 16	averaged	_	Word	Word	_	1	orphan	1:orphan	_
 17	17.0	_	Word	Word	_	18	E	18:E	_
 18	points	_	Word	Word	_	1	orphan	1:orphan	_

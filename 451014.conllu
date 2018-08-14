@@ -1,8 +1,7 @@
 # format = ucca
 # sent_id = 451014
 # text = He pronounced lieutenant as " leftenant " , mangled the pronunciation of " Appomattox , " and misidentified the " Marines ' Hymn " as " Anchors Aweigh " at Lyndon Johnson 's presidential inauguration ; his lack of in - depth knowledge of American affairs and culture led critics to deride Jennings as a " glamorcaster " . " It was a little ridiculous when you think about it , " he later reflected . " A 26 - year - old trying to compete with Cronkite , Huntley and Brinkley . I was simply unqualified .
-# doc_id = 
-1	He	_	Word	Word	_	2	A	2:A	_
+1	He	_	Word	Word	_	2	A	2:A|9:A|18:A	_
 2	pronounced	_	Word	Word	_	0	root	0:root	_
 3	lieutenant	_	Word	Word	_	2	A	2:A	_
 4	as	_	Word	Word	_	6	R	6:R	_
@@ -54,7 +53,7 @@
 50	critics	_	Word	Word	_	52	A	52:A	_
 51	to	_	Word	Word	_	52	F	52:F	_
 52	deride	_	Word	Word	_	2	orphan	2:orphan	_
-53	Jennings	_	Word	Word	_	52	A	52:A	_
+53	Jennings	_	Word	Word	_	52	A	52:A|57:A	_
 54	as	_	Word	Word	_	57	R	57:R	_
 55	a	_	Word	Word	_	57	E	57:E	_
 56	"	_	Punctuation	Punctuation	_	57	punct	57:punct	_

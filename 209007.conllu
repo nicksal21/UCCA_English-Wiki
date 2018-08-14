@@ -1,12 +1,11 @@
 # format = ucca
 # sent_id = 209007
 # text = Throughout the 1990s , Hoffman appeared in many large , studio films , such as Dick Tracy ( 1990 ) ( where his Ishtar co-star Beatty plays the titular character ) , Hero ( 1992 ) and Billy Bathgate ( 1991 ) co-starring with Nicole Kidman who was nominated for a Golden Globe ) . Hoffman also played the title role of Captain Hook in Steven Spielberg 's Hook ( also 1991 ) , earning a Golden Globe nomination ; in this movie , Hoffman 's costume was so heavy that he had to wear an air-conditioned suit under it .
-# doc_id = 
 1	Throughout	_	Word	Word	_	3	R	3:R	_
 2	the	_	Word	Word	_	3	E	3:E	_
 3	1990s	_	Word	Word	_	0	root	0:root	_
 4	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-5	Hoffman	_	Word	Word	_	6	A	6:A	_
+5	Hoffman	_	Word	Word	_	6	A	6:A|43:A	_
 6	appeared	_	Word	Word	_	3	orphan	3:orphan	_
 7	in	_	Word	Word	_	12	R	12:R	_
 8	many	_	Word	Word	_	12	E	12:E	_
@@ -57,7 +56,7 @@
 53	Globe	_	Word	Word	_	52	flat	52:flat	_
 54	)	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 55	.	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-56	Hoffman	_	Word	Word	_	58	A	58:A	_
+56	Hoffman	_	Word	Word	_	58	A	58:A|75:A	_
 57	also	_	Word	Word	_	58	D	58:D	_
 58	played	_	Word	Word	_	3	orphan	3:orphan	_
 59	the	_	Word	Word	_	61	E	61:E	_

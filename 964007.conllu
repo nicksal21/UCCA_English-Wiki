@@ -1,9 +1,8 @@
 # format = ucca
 # sent_id = 964007
 # text = " He was one of several critics to react negatively to her reinterpretation of Lady Macbeth in 1955 , saying that her performance was insubstantial and lacked the necessary fury demanded of the role ; however , after her death he revised his opinion , describing his earlier criticism as " one of the worst errors of judgment " he had ever made .
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	9	punct	9:punct	_
-2	He	_	Word	Word	_	3	A	3:A	_
+2	He	_	Word	Word	_	3	A	3:A|20:A	_
 3	was	_	Word	Word	_	0	root	0:root	_
 4	one	_	Word	Word	_	3	orphan	3:orphan	_
 5	of	_	Word	Word	_	4	R	4:R	_
@@ -42,7 +41,7 @@
 38	after	_	Word	Word	_	9	L	9:L	_
 39	her	_	Word	Word	_	40	A	40:A	_
 40	death	_	Word	Word	_	3	orphan	3:orphan	_
-41	he	_	Word	Word	_	42	A	42:A	_
+41	he	_	Word	Word	_	42	A	42:A|46:A	_
 42	revised	_	Word	Word	_	3	orphan	3:orphan	_
 43	his	_	Word	Word	_	44	E	44:E	_
 44	opinion	_	Word	Word	_	3	orphan	3:orphan	_

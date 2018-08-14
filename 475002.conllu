@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 475002
 # text = Determined to play competitive basketball despite being out of the NBA , Johnson formed the Magic Johnson All - Stars , a barnstorming team composed of former NBA and college players .
-# doc_id = 
 1	Determined	_	Word	Word	_	3	D	3:D	_
 2	to	_	Word	Word	_	3	F	3:F	_
 3	play	_	Word	Word	_	0	root	0:root	_
@@ -14,7 +13,7 @@
 10	the	_	Word	Word	_	11	E	11:E	_
 11	NBA	_	Word	Word	_	3	orphan	3:orphan	_
 12	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
-13	Johnson	_	Word	Word	_	14	A	14:A	_
+13	Johnson	_	Word	Word	_	14	A	14:A|7:A|3:A	_
 14	formed	_	Word	Word	_	3	orphan	3:orphan	_
 15	the	_	Word	Word	_	18	E	18:E	_
 16	Magic	_	Word	Word	_	18	E	18:E	_

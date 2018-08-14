@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 650001
 # text = On moving to New York City in August that year , they befriended two of the Chicago Seven , Yippie peace activists Jerry Rubin and Abbie Hoffman .
-# doc_id = 
 1	On	_	Word	Word	_	2	L	2:L	_
 2	moving	_	Word	Word	_	0	root	0:root	_
 3	to	_	Word	Word	_	4	R	4:R	_
@@ -13,7 +12,7 @@
 9	that	_	Word	Word	_	10	E	10:E	_
 10	year	_	Word	Word	_	2	orphan	2:orphan	_
 11	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-12	they	_	Word	Word	_	13	A	13:A	_
+12	they	_	Word	Word	_	13	A	13:A|2:A	_
 13	befriended	_	Word	Word	_	2	orphan	2:orphan	_
 14	two	_	Word	Word	_	2	orphan	2:orphan	_
 15	of	_	Word	Word	_	14	R	14:R	_

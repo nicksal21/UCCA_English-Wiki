@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 495002
 # text = Dissatisfied with the King Bees and their repertoire of Howlin ' Wolf and Willie Dixon blues numbers , Bowie quit the band less than a month later to join the Manish Boys , another blues outfit , who incorporated folk and soul - " I used to dream of being their Mick Jagger " , Bowie was to recall .
-# doc_id = 
 1	Dissatisfied	_	Word	Word	_	0	root	0:root	_
 2	with	_	Word	Word	_	4	R	4:R	_
 3	the	_	Word	Word	_	4	E	4:E	_
@@ -20,7 +19,7 @@
 16	blues	_	Word	Word	_	14	flat	14:flat	_
 17	numbers	_	Word	Word	_	1	orphan	1:orphan	_
 18	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
-19	Bowie	_	Word	Word	_	20	A	20:A	_
+19	Bowie	_	Word	Word	_	20	A	20:A|29:A|1:A	_
 20	quit	_	Word	Word	_	1	orphan	1:orphan	_
 21	the	_	Word	Word	_	22	E	22:E	_
 22	band	_	Word	Word	_	1	orphan	1:orphan	_
@@ -57,7 +56,7 @@
 53	Jagger	_	Word	Word	_	52	flat	52:flat	_
 54	"	_	Punctuation	Punctuation	_	50	punct	50:punct	_
 55	,	_	Punctuation	Punctuation	_	50	punct	50:punct	_
-56	Bowie	_	Word	Word	_	59	A	59:A	_
+56	Bowie	_	Word	Word	_	59	A	59:A|50:A	_
 57	was	_	Word	Word	_	59	F	59:F	_
 58	to	_	Word	Word	_	59	F	59:F	_
 59	recall	_	Word	Word	_	1	orphan	1:orphan	_

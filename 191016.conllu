@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 191016
 # text = Beatty , known for occasionally personally financing his film projects through pre - production , also hired Sorkin to rewrite a script titled Ocean of Storms which never went into production .
-# doc_id = 
 1	Beatty	_	Word	Word	_	0	root	0:root	_
 2	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
 3	known	_	Word	Word	_	1	orphan	1:orphan	_
@@ -19,13 +18,13 @@
 15	,	_	Punctuation	Punctuation	_	17	punct	17:punct	_
 16	also	_	Word	Word	_	17	D	17:D	_
 17	hired	_	Word	Word	_	1	orphan	1:orphan	_
-18	Sorkin	_	Word	Word	_	17	A	17:A	_
+18	Sorkin	_	Word	Word	_	17	A	17:A|20:A	_
 19	to	_	Word	Word	_	20	F	20:F	_
 20	rewrite	_	Word	Word	_	1	orphan	1:orphan	_
 21	a	_	Word	Word	_	22	E	22:E	_
 22	script	_	Word	Word	_	1	orphan	1:orphan	_
 23	titled	_	Word	Word	_	1	orphan	1:orphan	_
-24	Ocean	_	Word	Word	_	23	A	23:A	_
+24	Ocean	_	Word	Word	_	23	A	23:A|31:A	_
 25	of	_	Word	Word	_	24	flat	24:flat	_
 26	Storms	_	Word	Word	_	24	flat	24:flat	_
 27	which	_	Word	Word	_	31	F	31:F	_

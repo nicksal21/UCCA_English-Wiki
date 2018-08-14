@@ -1,12 +1,11 @@
 # format = ucca
 # sent_id = 477000
 # text = In January 2012 , Johnson joined with Guggenheim Partners and Stan Kasten in a bid for ownership of the Los Angeles Dodgers baseball team .
-# doc_id = 
 1	In	_	Word	Word	_	3	R	3:R	_
 2	January	_	Word	Word	_	3	E	3:E	_
 3	2012	_	Word	Word	_	0	root	0:root	_
 4	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-5	Johnson	_	Word	Word	_	6	A	6:A	_
+5	Johnson	_	Word	Word	_	6	A	6:A|15:A	_
 6	joined	_	Word	Word	_	3	orphan	3:orphan	_
 7	with	_	Word	Word	_	8	R	8:R	_
 8	Guggenheim	_	Word	Word	_	3	orphan	3:orphan	_

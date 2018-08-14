@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 214004
 # text = After graduating from Notre Dame in 2000 , Dunst continued the acting career that she had begun .
-# doc_id = 
 1	After	_	Word	Word	_	2	L	2:L	_
 2	graduating	_	Word	Word	_	0	root	0:root	_
 3	from	_	Word	Word	_	4	R	4:R	_
@@ -10,7 +9,7 @@
 6	in	_	Word	Word	_	7	R	7:R	_
 7	2000	_	Word	Word	_	2	orphan	2:orphan	_
 8	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-9	Dunst	_	Word	Word	_	10	A	10:A	_
+9	Dunst	_	Word	Word	_	10	A	10:A|2:A	_
 10	continued	_	Word	Word	_	2	orphan	2:orphan	_
 11	the	_	Word	Word	_	13	E	13:E	_
 12	acting	_	Word	Word	_	13	E	13:E	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 490009
 # text = They married in 1997 , after Bana proposed to her on a trip to the United States , which he won from Cleo Magazine after being named their " Bachelor of the Year " in 1996 .
-# doc_id = 
 1	They	_	Word	Word	_	2	A	2:A	_
 2	married	_	Word	Word	_	0	root	0:root	_
 3	in	_	Word	Word	_	4	R	4:R	_
@@ -21,7 +20,7 @@
 17	States	_	Word	Word	_	16	flat	16:flat	_
 18	,	_	Punctuation	Punctuation	_	13	punct	13:punct	_
 19	which	_	Word	Word	_	21	F	21:F	_
-20	he	_	Word	Word	_	21	A	21:A	_
+20	he	_	Word	Word	_	21	A	21:A|27:A	_
 21	won	_	Word	Word	_	2	orphan	2:orphan	_
 22	from	_	Word	Word	_	23	R	23:R	_
 23	Cleo	_	Word	Word	_	2	orphan	2:orphan	_

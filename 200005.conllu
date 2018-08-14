@@ -1,11 +1,10 @@
 # format = ucca
 # sent_id = 200005
 # text = In 2010 , Sorkin reportedly obtained the film rights to Andrew Young 's book , The Politician ( about Sen . John Edwards ) , and announced that he would make his debut as a film director while also adapting the book for the screen .
-# doc_id = 
 1	In	_	Word	Word	_	2	R	2:R	_
 2	2010	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-4	Sorkin	_	Word	Word	_	6	A	6:A	_
+4	Sorkin	_	Word	Word	_	6	A	6:A|27:A	_
 5	reportedly	_	Word	Word	_	6	D	6:D	_
 6	obtained	_	Word	Word	_	2	orphan	2:orphan	_
 7	the	_	Word	Word	_	9	E	9:E	_
@@ -30,7 +29,7 @@
 26	and	_	Word	Word	_	6	L	6:L	_
 27	announced	_	Word	Word	_	2	orphan	2:orphan	_
 28	that	_	Word	Word	_	33	F	33:F	_
-29	he	_	Word	Word	_	33	A	33:A	_
+29	he	_	Word	Word	_	33	A	33:A|40:A	_
 30	would	_	Word	Word	_	33	F	33:F	_
 31	make	_	Word	Word	_	33	F	33:F	_
 32	his	_	Word	Word	_	33	E	33:E	_

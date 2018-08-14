@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 604006
 # text = For Abbey Road , the band 's last recorded album , Martin suggested " a continuously moving piece of music " , urging the group to think symphonically .
-# doc_id = 
 1	For	_	Word	Word	_	2	R	2:R	_
 2	Abbey	_	Word	Word	_	0	root	0:root	_
 3	Road	_	Word	Word	_	2	flat	2:flat	_
@@ -13,7 +12,7 @@
 9	recorded	_	Word	Word	_	10	D	10:D	_
 10	album	_	Word	Word	_	2	orphan	2:orphan	_
 11	,	_	Punctuation	Punctuation	_	13	punct	13:punct	_
-12	Martin	_	Word	Word	_	13	A	13:A	_
+12	Martin	_	Word	Word	_	13	A	13:A|23:A	_
 13	suggested	_	Word	Word	_	2	orphan	2:orphan	_
 14	"	_	Punctuation	Punctuation	_	13	punct	13:punct	_
 15	a	_	Word	Word	_	18	E	18:E	_

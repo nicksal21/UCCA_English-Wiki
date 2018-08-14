@@ -1,8 +1,7 @@
 # format = ucca
 # sent_id = 641004
 # text = He formally announced his break from music in Tokyo in 1977 , saying , " we have basically decided , without any great decision , to be with our baby as much as we can until we feel we can take time off to indulge ourselves in creating things outside of the family .
-# doc_id = 
-1	He	_	Word	Word	_	3	A	3:A	_
+1	He	_	Word	Word	_	3	A	3:A|13:A	_
 2	formally	_	Word	Word	_	3	D	3:D	_
 3	announced	_	Word	Word	_	0	root	0:root	_
 4	his	_	Word	Word	_	5	A	5:A	_
@@ -17,7 +16,7 @@
 13	saying	_	Word	Word	_	3	orphan	3:orphan	_
 14	,	_	Punctuation	Punctuation	_	13	punct	13:punct	_
 15	"	_	Punctuation	Punctuation	_	13	punct	13:punct	_
-16	we	_	Word	Word	_	19	A	19:A	_
+16	we	_	Word	Word	_	19	A	19:A|27:A	_
 17	have	_	Word	Word	_	19	F	19:F	_
 18	basically	_	Word	Word	_	19	D	19:D	_
 19	decided	_	Word	Word	_	3	orphan	3:orphan	_
@@ -40,7 +39,7 @@
 36	until	_	Word	Word	_	19	L	19:L	_
 37	we	_	Word	Word	_	38	A	38:A	_
 38	feel	_	Word	Word	_	3	orphan	3:orphan	_
-39	we	_	Word	Word	_	41	A	41:A	_
+39	we	_	Word	Word	_	41	A	41:A|48:A|45:A	_
 40	can	_	Word	Word	_	41	F	41:F	_
 41	take	_	Word	Word	_	3	orphan	3:orphan	_
 42	time	_	Word	Word	_	41	flat	41:flat	_

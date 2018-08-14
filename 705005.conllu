@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 705005
 # text = " The album won Dylan a Grammy Award as " Best Male Vocalist " for the song " Gotta Serve Somebody " . The second evangelical album , Saved ( 1980 ) , received mixed reviews , and was described by Dylan critic Michael Gray as " the nearest thing to a follow - up album Dylan has ever made , Slow Train Coming II and inferior .
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 2	The	_	Word	Word	_	3	E	3:E	_
 3	album	_	Word	Word	_	0	root	0:root	_
@@ -30,7 +29,7 @@
 26	evangelical	_	Word	Word	_	27	E	27:E	_
 27	album	_	Word	Word	_	3	orphan	3:orphan	_
 28	,	_	Punctuation	Punctuation	_	27	punct	27:punct	_
-29	Saved	_	Word	Word	_	27	E	27:E	_
+29	Saved	_	Word	Word	_	27	E	27:E|40:A|67:A	_
 30	(	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 31	1980	_	Word	Word	_	27	D	27:D	_
 32	)	_	Punctuation	Punctuation	_	34	punct	34:punct	_

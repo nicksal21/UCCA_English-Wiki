@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 690003
 # text = [ a 1 ] Explaining his change of name in a 2004 interview , Dylan remarked : " You 're born , you know , the wrong names , wrong parents . I mean , that happens . You call yourself what you want to call yourself . This is the land of the free . "
-# doc_id = 
 1	[	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 2	a	_	Word	Word	_	5	F	5:F	_
 3	1	_	Word	Word	_	5	F	5:F	_
@@ -44,7 +43,7 @@
 40	call	_	Word	Word	_	5	orphan	5:orphan	_
 41	yourself	_	Word	Word	_	40	D	40:D	_
 42	what	_	Word	Word	_	44	A	44:A	_
-43	you	_	Word	Word	_	44	A	44:A	_
+43	you	_	Word	Word	_	44	A	44:A|46:A	_
 44	want	_	Word	Word	_	5	orphan	5:orphan	_
 45	to	_	Word	Word	_	46	F	46:F	_
 46	call	_	Word	Word	_	5	orphan	5:orphan	_

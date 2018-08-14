@@ -1,14 +1,13 @@
 # format = ucca
 # sent_id = 670002
 # text = Caroline Sullivan of The Guardian defined it as " cool , focused and urban [ ... some of ] the first Mariah Carey tunes in years which I would n't have to be paid to listen to again " , while USA Today 's Elysa Gardner wrote , " The ballads and midtempo numbers that truly reflect the renewed confidence of a songbird who has taken her shots and kept on flying .
-# doc_id = 
 1	Caroline	_	Word	Word	_	0	root	0:root	_
 2	Sullivan	_	Word	Word	_	1	flat	1:flat	_
 3	of	_	Word	Word	_	1	R	1:R	_
 4	The	_	Word	Word	_	1	E	1:E	_
 5	Guardian	_	Word	Word	_	4	flat	4:flat	_
 6	defined	_	Word	Word	_	1	orphan	1:orphan	_
-7	it	_	Word	Word	_	6	A	6:A	_
+7	it	_	Word	Word	_	6	A	6:A|10:A	_
 8	as	_	Word	Word	_	10	R	10:R	_
 9	"	_	Punctuation	Punctuation	_	10	punct	10:punct	_
 10	cool	_	Word	Word	_	1	orphan	1:orphan	_
@@ -29,7 +28,7 @@
 25	in	_	Word	Word	_	26	R	26:R	_
 26	years	_	Word	Word	_	1	orphan	1:orphan	_
 27	which	_	Word	Word	_	34	F	34:F	_
-28	I	_	Word	Word	_	34	A	34:A	_
+28	I	_	Word	Word	_	34	A	34:A|36:A	_
 29	would	_	Word	Word	_	34	F	34:F	_
 30	n't	_	Word	Word	_	34	D	34:D	_
 31	have	_	Word	Word	_	34	F	34:F	_

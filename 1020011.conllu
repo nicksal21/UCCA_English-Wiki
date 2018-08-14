@@ -1,13 +1,12 @@
 # format = ucca
 # sent_id = 1020011
 # text = Between 1972 and 1975 , Michael released four solo studio albums with Motown , among them Got to Be There and Ben , released as part of the Jackson 5 franchise , and producing successful singles such as " Got to Be There " , " Ben " , and a remake of Bobby Day 's " Rockin ' Robin " .
-# doc_id = 
 1	Between	_	Word	Word	_	2	R	2:R	_
 2	1972	_	Word	Word	_	0	root	0:root	_
 3	and	_	Word	Word	_	2	N	2:N	_
 4	1975	_	Word	Word	_	2	C	2:C	_
 5	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
-6	Michael	_	Word	Word	_	7	A	7:A	_
+6	Michael	_	Word	Word	_	7	A	7:A|34:A	_
 7	released	_	Word	Word	_	2	orphan	2:orphan	_
 8	four	_	Word	Word	_	11	E	11:E	_
 9	solo	_	Word	Word	_	11	E	11:E	_
