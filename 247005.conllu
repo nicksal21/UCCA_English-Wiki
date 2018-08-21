@@ -1,25 +1,25 @@
 # format = ucca
 # sent_id = 247005
 # text = " In 2001 , Hawke appeared in two more Linklater movies : Waking Life and Tape , both critically acclaimed .
-1	"	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+1	"	_	Punctuation	Punctuation	_	6	U	6:U	_
 2	In	_	Word	Word	_	3	R	3:R	_
-3	2001	_	Word	Word	_	0	root	0:root	_
-4	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+3	2001	_	Word	Word	_	6	D	6:D	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 5	Hawke	_	Word	Word	_	6	A	6:A	_
-6	appeared	_	Word	Word	_	3	orphan	3:orphan	_
+6	appeared	_	Word	Word	_	0	root	0:root	_
 7	in	_	Word	Word	_	13	R	13:R	_
 8	two	_	Word	Word	_	9	E	9:E	_
-9	more	_	Word	Word	_	3	orphan	3:orphan	_
+9	more	_	Word	Word	_	11	E	11:E	_
 10	Linklater	_	Word	Word	_	11	E	11:E	_
-11	movies	_	Word	Word	_	3	orphan	3:orphan	_
-12	:	_	Punctuation	Punctuation	_	13	punct	13:punct	_
-13	Waking	_	Word	Word	_	3	orphan	3:orphan	_
-14	Life	_	Word	Word	_	13	flat	13:flat	_
+11	movies	_	Word	Word	_	13	E	13:E	_
+12	:	_	Punctuation	Punctuation	_	13	U	13:U	_
+13	Waking	_	Word	Word	_	6	A	6:A	_
+14	Life	_	Word	Word	_	13	Terminal	13:Terminal	_
 15	and	_	Word	Word	_	13	N	13:N	_
 16	Tape	_	Word	Word	_	13	C	13:C	_
-17	,	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+17	,	_	Punctuation	Punctuation	_	13	U	13:U	_
 18	both	_	Word	Word	_	20	A	20:A	_
 19	critically	_	Word	Word	_	20	A	20:A	_
-20	acclaimed	_	Word	Word	_	3	orphan	3:orphan	_
-21	.	_	Punctuation	Punctuation	_	20	punct	20:punct	_
+20	acclaimed	_	Word	Word	_	13	E	13:E	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
 

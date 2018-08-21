@@ -1,37 +1,37 @@
 # format = ucca
 # sent_id = 694012
 # text = " It Ai n't Me Babe " , on the surface a song about spurned love , has been described as a rejection of the role his reputation had thrust at him .
-1	"	_	Punctuation	Punctuation	_	20	punct	20:punct	_
-2	It	_	Word	Word	_	0	root	0:root	_
-3	Ai	_	Word	Word	_	2	flat	2:flat	_
-4	n't	_	Word	Word	_	2	flat	2:flat	_
-5	Me	_	Word	Word	_	2	flat	2:flat	_
-6	Babe	_	Word	Word	_	2	flat	2:flat	_
-7	"	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-8	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+1	"	_	Punctuation	Punctuation	_	20	U	20:U	_
+2	It	_	Word	Word	_	20	A	20:A	_
+3	Ai	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	n't	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	Me	_	Word	Word	_	2	Terminal	2:Terminal	_
+6	Babe	_	Word	Word	_	2	Terminal	2:Terminal	_
+7	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+8	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 9	on	_	Word	Word	_	11	R	11:R	_
 10	the	_	Word	Word	_	11	E	11:E	_
-11	surface	_	Word	Word	_	2	orphan	2:orphan	_
+11	surface	_	Word	Word	_	13	E	13:E	_
 12	a	_	Word	Word	_	13	E	13:E	_
-13	song	_	Word	Word	_	2	orphan	2:orphan	_
+13	song	_	Word	Word	_	2	E	2:E	_
 14	about	_	Word	Word	_	16	R	16:R	_
 15	spurned	_	Word	Word	_	16	E	16:E	_
-16	love	_	Word	Word	_	2	orphan	2:orphan	_
-17	,	_	Punctuation	Punctuation	_	20	punct	20:punct	_
+16	love	_	Word	Word	_	13	E	13:E	_
+17	,	_	Punctuation	Punctuation	_	20	U	20:U	_
 18	has	_	Word	Word	_	20	F	20:F	_
 19	been	_	Word	Word	_	20	F	20:F	_
-20	described	_	Word	Word	_	2	orphan	2:orphan	_
+20	described	_	Word	Word	_	0	root	0:root	_
 21	as	_	Word	Word	_	23	R	23:R	_
 22	a	_	Word	Word	_	23	E	23:E	_
-23	rejection	_	Word	Word	_	2	orphan	2:orphan	_
+23	rejection	_	Word	Word	_	20	A	20:A	_
 24	of	_	Word	Word	_	26	R	26:R	_
 25	the	_	Word	Word	_	26	E	26:E	_
-26	role	_	Word	Word	_	2	orphan	2:orphan	_
+26	role	_	Word	Word	_	23	A	23:A	_
 27	his	_	Word	Word	_	28	E	28:E	_
-28	reputation	_	Word	Word	_	2	orphan	2:orphan	_
+28	reputation	_	Word	Word	_	30	A	30:A	_
 29	had	_	Word	Word	_	30	F	30:F	_
-30	thrust	_	Word	Word	_	2	orphan	2:orphan	_
+30	thrust	_	Word	Word	_	26	E	26:E	_
 31	at	_	Word	Word	_	32	R	32:R	_
-32	him	_	Word	Word	_	2	orphan	2:orphan	_
-33	.	_	Punctuation	Punctuation	_	32	punct	32:punct	_
+32	him	_	Word	Word	_	30	A	30:A	_
+33	.	_	Punctuation	Punctuation	_	32	U	32:U	_
 

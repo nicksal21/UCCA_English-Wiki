@@ -1,25 +1,25 @@
 # format = ucca
 # sent_id = 377009
 # text = Gyllenhaal dropped out after two years to concentrate on acting , but has expressed intentions to eventually finish his degree .
-1	Gyllenhaal	_	Word	Word	_	2	A	2:A|14:A|8:A|10:A|18:A	_
+1	Gyllenhaal	_	Word	Word	_	2	A	2:A|10:A|18:A|8:A|14:A	_
 2	dropped	_	Word	Word	_	0	root	0:root	_
-3	out	_	Word	Word	_	2	flat	2:flat	_
+3	out	_	Word	Word	_	2	Terminal	2:Terminal	_
 4	after	_	Word	Word	_	6	R	6:R	_
 5	two	_	Word	Word	_	6	E	6:E	_
-6	years	_	Word	Word	_	2	orphan	2:orphan	_
+6	years	_	Word	Word	_	2	D	2:D	_
 7	to	_	Word	Word	_	2	L	2:L	_
-8	concentrate	_	Word	Word	_	2	orphan	2:orphan	_
+8	concentrate	_	Word	Word	_	2	H	2:H	_
 9	on	_	Word	Word	_	10	R	10:R	_
-10	acting	_	Word	Word	_	2	orphan	2:orphan	_
-11	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+10	acting	_	Word	Word	_	8	A	8:A	_
+11	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 12	but	_	Word	Word	_	2	L	2:L	_
 13	has	_	Word	Word	_	14	F	14:F	_
-14	expressed	_	Word	Word	_	2	orphan	2:orphan	_
+14	expressed	_	Word	Word	_	2	H	2:H	_
 15	intentions	_	Word	Word	_	14	A	14:A	_
 16	to	_	Word	Word	_	18	F	18:F	_
 17	eventually	_	Word	Word	_	18	D	18:D	_
-18	finish	_	Word	Word	_	2	orphan	2:orphan	_
+18	finish	_	Word	Word	_	14	A	14:A	_
 19	his	_	Word	Word	_	20	E	20:E	_
-20	degree	_	Word	Word	_	2	orphan	2:orphan	_
-21	.	_	Punctuation	Punctuation	_	20	punct	20:punct	_
+20	degree	_	Word	Word	_	18	A	18:A	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
 

@@ -1,30 +1,30 @@
 # format = ucca
 # sent_id = 455004
 # text = " Jennings and ABC were criticized for suddenly halting coverage of the convention for 30 minutes and airing a rerun of Hart to Hart instead .
-1	"	_	Punctuation	Punctuation	_	18	punct	18:punct	_
-2	Jennings	_	Word	Word	_	0	root	0:root	_
+1	"	_	Punctuation	Punctuation	_	18	U	18:U	_
+2	Jennings	_	Word	Word	_	6	A	6:A|9:A|18:A	_
 3	and	_	Word	Word	_	2	N	2:N	_
 4	ABC	_	Word	Word	_	2	C	2:C	_
 5	were	_	Word	Word	_	6	F	6:F	_
-6	criticized	_	Word	Word	_	2	orphan	2:orphan	_
+6	criticized	_	Word	Word	_	0	root	0:root	_
 7	for	_	Word	Word	_	9	R	9:R	_
 8	suddenly	_	Word	Word	_	9	D	9:D	_
-9	halting	_	Word	Word	_	2	orphan	2:orphan	_
-10	coverage	_	Word	Word	_	2	orphan	2:orphan	_
+9	halting	_	Word	Word	_	6	A	6:A	_
+10	coverage	_	Word	Word	_	9	A	9:A	_
 11	of	_	Word	Word	_	10	E	10:E	_
 12	the	_	Word	Word	_	13	E	13:E	_
-13	convention	_	Word	Word	_	2	orphan	2:orphan	_
+13	convention	_	Word	Word	_	10	A	10:A	_
 14	for	_	Word	Word	_	16	R	16:R	_
 15	30	_	Word	Word	_	16	E	16:E	_
-16	minutes	_	Word	Word	_	2	orphan	2:orphan	_
+16	minutes	_	Word	Word	_	10	D	10:D	_
 17	and	_	Word	Word	_	9	L	9:L	_
-18	airing	_	Word	Word	_	2	orphan	2:orphan	_
+18	airing	_	Word	Word	_	9	H	9:H	_
 19	a	_	Word	Word	_	20	E	20:E	_
-20	rerun	_	Word	Word	_	2	orphan	2:orphan	_
+20	rerun	_	Word	Word	_	18	A	18:A	_
 21	of	_	Word	Word	_	22	R	22:R	_
-22	Hart	_	Word	Word	_	2	orphan	2:orphan	_
-23	to	_	Word	Word	_	22	flat	22:flat	_
-24	Hart	_	Word	Word	_	22	flat	22:flat	_
+22	Hart	_	Word	Word	_	20	E	20:E	_
+23	to	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	Hart	_	Word	Word	_	22	Terminal	22:Terminal	_
 25	instead	_	Word	Word	_	18	D	18:D	_
-26	.	_	Punctuation	Punctuation	_	18	punct	18:punct	_
+26	.	_	Punctuation	Punctuation	_	18	U	18:U	_
 

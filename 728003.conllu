@@ -1,24 +1,24 @@
 # format = ucca
 # sent_id = 728003
 # text = " The movie earned $ 478 million worldwide , making it the seventh - highest grossing film of 2005 .
-1	"	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+1	"	_	Punctuation	Punctuation	_	4	U	4:U	_
 2	The	_	Word	Word	_	3	E	3:E	_
-3	movie	_	Word	Word	_	0	root	0:root	_
-4	earned	_	Word	Word	_	3	orphan	3:orphan	_
-5	$	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+3	movie	_	Word	Word	_	4	A	4:A	_
+4	earned	_	Word	Word	_	0	root	0:root	_
+5	$	_	Punctuation	Punctuation	_	4	U	4:U	_
 6	478	_	Word	Word	_	4	A	4:A	_
-7	million	_	Word	Word	_	6	flat	6:flat	_
+7	million	_	Word	Word	_	6	Terminal	6:Terminal	_
 8	worldwide	_	Word	Word	_	4	A	4:A	_
-9	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
-10	making	_	Word	Word	_	3	orphan	3:orphan	_
+9	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+10	making	_	Word	Word	_	4	H	4:H	_
 11	it	_	Word	Word	_	10	A	10:A	_
 12	the	_	Word	Word	_	17	E	17:E	_
 13	seventh	_	Word	Word	_	15	E	15:E	_
-14	-	_	Punctuation	Punctuation	_	15	punct	15:punct	_
-15	highest	_	Word	Word	_	3	orphan	3:orphan	_
+14	-	_	Punctuation	Punctuation	_	15	U	15:U	_
+15	highest	_	Word	Word	_	17	E	17:E	_
 16	grossing	_	Word	Word	_	17	E	17:E	_
-17	film	_	Word	Word	_	3	orphan	3:orphan	_
+17	film	_	Word	Word	_	10	A	10:A	_
 18	of	_	Word	Word	_	19	R	19:R	_
-19	2005	_	Word	Word	_	3	orphan	3:orphan	_
-20	.	_	Punctuation	Punctuation	_	19	punct	19:punct	_
+19	2005	_	Word	Word	_	17	E	17:E	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
 

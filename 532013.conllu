@@ -1,22 +1,22 @@
 # format = ucca
 # sent_id = 532013
 # text = Some of that bad press was deflected by the announcement of a near fatal episode of pleurisy .
-1	Some	_	Word	Word	_	0	root	0:root	_
+1	Some	_	Word	Word	_	5	E	5:E	_
 2	of	_	Word	Word	_	1	R	1:R	_
 3	that	_	Word	Word	_	5	E	5:E	_
 4	bad	_	Word	Word	_	5	E	5:E	_
-5	press	_	Word	Word	_	1	orphan	1:orphan	_
+5	press	_	Word	Word	_	7	A	7:A	_
 6	was	_	Word	Word	_	7	F	7:F	_
-7	deflected	_	Word	Word	_	1	orphan	1:orphan	_
+7	deflected	_	Word	Word	_	0	root	0:root	_
 8	by	_	Word	Word	_	10	R	10:R	_
 9	the	_	Word	Word	_	10	E	10:E	_
-10	announcement	_	Word	Word	_	1	orphan	1:orphan	_
+10	announcement	_	Word	Word	_	7	A	7:A	_
 11	of	_	Word	Word	_	15	R	15:R	_
 12	a	_	Word	Word	_	15	E	15:E	_
 13	near	_	Word	Word	_	14	E	14:E	_
-14	fatal	_	Word	Word	_	1	orphan	1:orphan	_
-15	episode	_	Word	Word	_	1	orphan	1:orphan	_
+14	fatal	_	Word	Word	_	15	E	15:E	_
+15	episode	_	Word	Word	_	10	E	10:E	_
 16	of	_	Word	Word	_	17	R	17:R	_
-17	pleurisy	_	Word	Word	_	1	orphan	1:orphan	_
-18	.	_	Punctuation	Punctuation	_	17	punct	17:punct	_
+17	pleurisy	_	Word	Word	_	15	E	15:E	_
+18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
 

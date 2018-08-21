@@ -1,29 +1,29 @@
 # format = ucca
 # sent_id = 561015
 # text = " It became the first rock - and - roll album to top the Billboard chart , a position it held for 10 weeks .
-1	"	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+1	"	_	Punctuation	Punctuation	_	3	U	3:U	_
 2	It	_	Word	Word	_	3	A	3:A	_
 3	became	_	Word	Word	_	0	root	0:root	_
 4	the	_	Word	Word	_	11	E	11:E	_
 5	first	_	Word	Word	_	11	E	11:E	_
 6	rock	_	Word	Word	_	11	E	11:E	_
-7	-	_	Punctuation	Punctuation	_	11	punct	11:punct	_
-8	and	_	Word	Word	_	6	flat	6:flat	_
-9	-	_	Punctuation	Punctuation	_	11	punct	11:punct	_
-10	roll	_	Word	Word	_	6	flat	6:flat	_
-11	album	_	Word	Word	_	3	orphan	3:orphan	_
+7	-	_	Punctuation	Punctuation	_	11	U	11:U	_
+8	and	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	-	_	Punctuation	Punctuation	_	11	U	11:U	_
+10	roll	_	Word	Word	_	6	Terminal	6:Terminal	_
+11	album	_	Word	Word	_	3	A	3:A	_
 12	to	_	Word	Word	_	13	R	13:R	_
-13	top	_	Word	Word	_	3	orphan	3:orphan	_
+13	top	_	Word	Word	_	11	E	11:E	_
 14	the	_	Word	Word	_	16	E	16:E	_
 15	Billboard	_	Word	Word	_	16	E	16:E	_
-16	chart	_	Word	Word	_	3	orphan	3:orphan	_
-17	,	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+16	chart	_	Word	Word	_	13	A	13:A	_
+17	,	_	Punctuation	Punctuation	_	13	U	13:U	_
 18	a	_	Word	Word	_	19	E	19:E	_
-19	position	_	Word	Word	_	3	orphan	3:orphan	_
+19	position	_	Word	Word	_	13	A	13:A	_
 20	it	_	Word	Word	_	21	F	21:F	_
-21	held	_	Word	Word	_	3	orphan	3:orphan	_
+21	held	_	Word	Word	_	19	E	19:E	_
 22	for	_	Word	Word	_	24	R	24:R	_
 23	10	_	Word	Word	_	24	E	24:E	_
-24	weeks	_	Word	Word	_	3	orphan	3:orphan	_
-25	.	_	Punctuation	Punctuation	_	24	punct	24:punct	_
+24	weeks	_	Word	Word	_	21	D	21:D	_
+25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
 

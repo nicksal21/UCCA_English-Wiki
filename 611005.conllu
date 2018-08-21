@@ -2,28 +2,28 @@
 # sent_id = 611005
 # text = A New York Times review of the first concert reported that McCartney was " not saying goodbye but touring stadiums and playing marathon concerts .
 1	A	_	Word	Word	_	2	E	2:E	_
-2	New	_	Word	Word	_	0	root	0:root	_
-3	York	_	Word	Word	_	2	flat	2:flat	_
-4	Times	_	Word	Word	_	2	flat	2:flat	_
-5	review	_	Word	Word	_	2	orphan	2:orphan	_
+2	New	_	Word	Word	_	5	A	5:A	_
+3	York	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	Times	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	review	_	Word	Word	_	10	A	10:A	_
 6	of	_	Word	Word	_	9	R	9:R	_
 7	the	_	Word	Word	_	9	E	9:E	_
 8	first	_	Word	Word	_	9	E	9:E	_
-9	concert	_	Word	Word	_	2	orphan	2:orphan	_
-10	reported	_	Word	Word	_	2	orphan	2:orphan	_
+9	concert	_	Word	Word	_	5	A	5:A	_
+10	reported	_	Word	Word	_	0	root	0:root	_
 11	that	_	Word	Word	_	16	R	16:R	_
-12	McCartney	_	Word	Word	_	16	A	16:A|19:A|22:A	_
+12	McCartney	_	Word	Word	_	16	A	16:A|22:A|19:A	_
 13	was	_	Word	Word	_	16	F	16:F	_
-14	"	_	Punctuation	Punctuation	_	16	punct	16:punct	_
+14	"	_	Punctuation	Punctuation	_	16	U	16:U	_
 15	not	_	Word	Word	_	16	D	16:D	_
-16	saying	_	Word	Word	_	2	orphan	2:orphan	_
+16	saying	_	Word	Word	_	10	A	10:A	_
 17	goodbye	_	Word	Word	_	16	A	16:A	_
 18	but	_	Word	Word	_	16	L	16:L	_
-19	touring	_	Word	Word	_	2	orphan	2:orphan	_
+19	touring	_	Word	Word	_	16	H	16:H	_
 20	stadiums	_	Word	Word	_	19	A	19:A	_
 21	and	_	Word	Word	_	16	L	16:L	_
-22	playing	_	Word	Word	_	2	orphan	2:orphan	_
+22	playing	_	Word	Word	_	16	H	16:H	_
 23	marathon	_	Word	Word	_	24	E	24:E	_
-24	concerts	_	Word	Word	_	2	orphan	2:orphan	_
-25	.	_	Punctuation	Punctuation	_	24	punct	24:punct	_
+24	concerts	_	Word	Word	_	22	A	22:A	_
+25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
 

@@ -2,17 +2,17 @@
 # sent_id = 540000
 # text = The studio discovered a trained German Shepherd named Rin Tin Tin in 1923 .
 1	The	_	Word	Word	_	2	E	2:E	_
-2	studio	_	Word	Word	_	0	root	0:root	_
-3	discovered	_	Word	Word	_	2	orphan	2:orphan	_
+2	studio	_	Word	Word	_	3	A	3:A	_
+3	discovered	_	Word	Word	_	0	root	0:root	_
 4	a	_	Word	Word	_	6	E	6:E	_
 5	trained	_	Word	Word	_	6	E	6:E	_
-6	German	_	Word	Word	_	2	orphan	2:orphan	_
-7	Shepherd	_	Word	Word	_	6	flat	6:flat	_
-8	named	_	Word	Word	_	2	orphan	2:orphan	_
+6	German	_	Word	Word	_	3	A	3:A	_
+7	Shepherd	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	named	_	Word	Word	_	6	E	6:E	_
 9	Rin	_	Word	Word	_	8	A	8:A	_
-10	Tin	_	Word	Word	_	9	flat	9:flat	_
-11	Tin	_	Word	Word	_	9	flat	9:flat	_
+10	Tin	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	Tin	_	Word	Word	_	9	Terminal	9:Terminal	_
 12	in	_	Word	Word	_	13	R	13:R	_
-13	1923	_	Word	Word	_	2	orphan	2:orphan	_
-14	.	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+13	1923	_	Word	Word	_	3	D	3:D	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
 

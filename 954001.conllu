@@ -2,25 +2,25 @@
 # sent_id = 954001
 # text = Laurence Olivier saw Leigh in The Mask of Virtue , and a friendship developed after he congratulated her on her performance .
 1	Laurence	_	Word	Word	_	3	A	3:A	_
-2	Olivier	_	Word	Word	_	1	flat	1:flat	_
+2	Olivier	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	saw	_	Word	Word	_	0	root	0:root	_
 4	Leigh	_	Word	Word	_	3	A	3:A	_
 5	in	_	Word	Word	_	6	R	6:R	_
-6	The	_	Word	Word	_	3	orphan	3:orphan	_
-7	Mask	_	Word	Word	_	6	flat	6:flat	_
-8	of	_	Word	Word	_	6	flat	6:flat	_
-9	Virtue	_	Word	Word	_	6	flat	6:flat	_
-10	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+6	The	_	Word	Word	_	3	A	3:A	_
+7	Mask	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	of	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	Virtue	_	Word	Word	_	6	Terminal	6:Terminal	_
+10	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 11	and	_	Word	Word	_	3	L	3:L	_
 12	a	_	Word	Word	_	13	E	13:E	_
-13	friendship	_	Word	Word	_	3	orphan	3:orphan	_
-14	developed	_	Word	Word	_	3	orphan	3:orphan	_
+13	friendship	_	Word	Word	_	14	A	14:A	_
+14	developed	_	Word	Word	_	3	H	3:H	_
 15	after	_	Word	Word	_	3	L	3:L	_
 16	he	_	Word	Word	_	17	A	17:A	_
-17	congratulated	_	Word	Word	_	3	orphan	3:orphan	_
+17	congratulated	_	Word	Word	_	3	H	3:H	_
 18	her	_	Word	Word	_	17	A	17:A	_
 19	on	_	Word	Word	_	21	R	21:R	_
 20	her	_	Word	Word	_	21	E	21:E	_
-21	performance	_	Word	Word	_	3	orphan	3:orphan	_
-22	.	_	Punctuation	Punctuation	_	21	punct	21:punct	_
+21	performance	_	Word	Word	_	17	A	17:A	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
 

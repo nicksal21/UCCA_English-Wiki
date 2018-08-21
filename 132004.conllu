@@ -1,25 +1,25 @@
 # format = ucca
 # sent_id = 132004
 # text = " Hepburn chose her friend and previous co - star , Cary Grant , to whom she ceded top billing .
-1	"	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+1	"	_	Punctuation	Punctuation	_	3	U	3:U	_
 2	Hepburn	_	Word	Word	_	3	A	3:A	_
 3	chose	_	Word	Word	_	0	root	0:root	_
 4	her	_	Word	Word	_	5	E	5:E	_
-5	friend	_	Word	Word	_	3	orphan	3:orphan	_
+5	friend	_	Word	Word	_	12	E	12:E	_
 6	and	_	Word	Word	_	5	N	5:N	_
 7	previous	_	Word	Word	_	10	E	10:E	_
 8	co	_	Word	Word	_	10	E	10:E	_
-9	-	_	Punctuation	Punctuation	_	10	punct	10:punct	_
-10	star	_	Word	Word	_	3	orphan	3:orphan	_
-11	,	_	Punctuation	Punctuation	_	12	punct	12:punct	_
-12	Cary	_	Word	Word	_	3	orphan	3:orphan	_
-13	Grant	_	Word	Word	_	12	flat	12:flat	_
-14	,	_	Punctuation	Punctuation	_	12	punct	12:punct	_
+9	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+10	star	_	Word	Word	_	5	C	5:C	_
+11	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+12	Cary	_	Word	Word	_	3	A	3:A	_
+13	Grant	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	,	_	Punctuation	Punctuation	_	12	U	12:U	_
 15	to	_	Word	Word	_	16	R	16:R	_
-16	whom	_	Word	Word	_	3	orphan	3:orphan	_
+16	whom	_	Word	Word	_	18	R	18:R	_
 17	she	_	Word	Word	_	18	A	18:A	_
-18	ceded	_	Word	Word	_	3	orphan	3:orphan	_
+18	ceded	_	Word	Word	_	12	E	12:E	_
 19	top	_	Word	Word	_	20	E	20:E	_
-20	billing	_	Word	Word	_	3	orphan	3:orphan	_
-21	.	_	Punctuation	Punctuation	_	20	punct	20:punct	_
+20	billing	_	Word	Word	_	18	A	18:A	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
 

@@ -2,27 +2,27 @@
 # sent_id = 135004
 # text = The New York Times critic Bosley Crowther was full of praise for the film and hailed the duo 's " perfect compatibility " .
 1	The	_	Word	Word	_	5	E	5:E	_
-2	New	_	Word	Word	_	1	flat	1:flat	_
-3	York	_	Word	Word	_	1	flat	1:flat	_
-4	Times	_	Word	Word	_	1	flat	1:flat	_
-5	critic	_	Word	Word	_	0	root	0:root	_
-6	Bosley	_	Word	Word	_	5	orphan	5:orphan	_
-7	Crowther	_	Word	Word	_	6	flat	6:flat	_
+2	New	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	York	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	Times	_	Word	Word	_	1	Terminal	1:Terminal	_
+5	critic	_	Word	Word	_	6	E	6:E	_
+6	Bosley	_	Word	Word	_	0	root	0:root	_
+7	Crowther	_	Word	Word	_	6	Terminal	6:Terminal	_
 8	was	_	Word	Word	_	11	D	11:D	_
-9	full	_	Word	Word	_	5	orphan	5:orphan	_
+9	full	_	Word	Word	_	11	D	11:D	_
 10	of	_	Word	Word	_	9	R	9:R	_
-11	praise	_	Word	Word	_	5	orphan	5:orphan	_
+11	praise	_	Word	Word	_	6	orphan	6:orphan	_
 12	for	_	Word	Word	_	14	R	14:R	_
 13	the	_	Word	Word	_	14	E	14:E	_
-14	film	_	Word	Word	_	5	orphan	5:orphan	_
+14	film	_	Word	Word	_	11	A	11:A	_
 15	and	_	Word	Word	_	11	L	11:L	_
-16	hailed	_	Word	Word	_	5	orphan	5:orphan	_
+16	hailed	_	Word	Word	_	11	H	11:H	_
 17	the	_	Word	Word	_	18	E	18:E	_
-18	duo	_	Word	Word	_	5	orphan	5:orphan	_
+18	duo	_	Word	Word	_	22	A	22:A	_
 19	's	_	Word	Word	_	18	R	18:R	_
-20	"	_	Punctuation	Punctuation	_	22	punct	22:punct	_
+20	"	_	Punctuation	Punctuation	_	22	U	22:U	_
 21	perfect	_	Word	Word	_	22	E	22:E	_
-22	compatibility	_	Word	Word	_	5	orphan	5:orphan	_
-23	"	_	Punctuation	Punctuation	_	22	punct	22:punct	_
-24	.	_	Punctuation	Punctuation	_	22	punct	22:punct	_
+22	compatibility	_	Word	Word	_	16	A	16:A	_
+23	"	_	Punctuation	Punctuation	_	22	U	22:U	_
+24	.	_	Punctuation	Punctuation	_	22	U	22:U	_
 

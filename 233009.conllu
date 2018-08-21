@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 233009
 # text = Chan has always wanted to be a role model to children , remaining popular with them due to his good - natured acting style .
-1	Chan	_	Word	Word	_	4	A	4:A|14:A|9:A	_
+1	Chan	_	Word	Word	_	4	A	4:A|9:A|14:A	_
 2	has	_	Word	Word	_	4	F	4:F	_
 3	always	_	Word	Word	_	4	D	4:D	_
 4	wanted	_	Word	Word	_	0	root	0:root	_
@@ -9,21 +9,21 @@
 6	be	_	Word	Word	_	9	F	9:F	_
 7	a	_	Word	Word	_	9	E	9:E	_
 8	role	_	Word	Word	_	9	E	9:E	_
-9	model	_	Word	Word	_	4	orphan	4:orphan	_
+9	model	_	Word	Word	_	4	A	4:A	_
 10	to	_	Word	Word	_	11	R	11:R	_
-11	children	_	Word	Word	_	4	orphan	4:orphan	_
-12	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+11	children	_	Word	Word	_	9	A	9:A	_
+12	,	_	Punctuation	Punctuation	_	4	U	4:U	_
 13	remaining	_	Word	Word	_	14	D	14:D	_
-14	popular	_	Word	Word	_	4	orphan	4:orphan	_
+14	popular	_	Word	Word	_	4	H	4:H	_
 15	with	_	Word	Word	_	16	R	16:R	_
-16	them	_	Word	Word	_	4	orphan	4:orphan	_
+16	them	_	Word	Word	_	14	A	14:A	_
 17	due	_	Word	Word	_	24	R	24:R	_
 18	to	_	Word	Word	_	24	F	24:F	_
 19	his	_	Word	Word	_	24	E	24:E	_
 20	good	_	Word	Word	_	22	E	22:E	_
-21	-	_	Punctuation	Punctuation	_	22	punct	22:punct	_
-22	natured	_	Word	Word	_	4	orphan	4:orphan	_
+21	-	_	Punctuation	Punctuation	_	22	U	22:U	_
+22	natured	_	Word	Word	_	24	E	24:E	_
 23	acting	_	Word	Word	_	24	E	24:E	_
-24	style	_	Word	Word	_	4	orphan	4:orphan	_
-25	.	_	Punctuation	Punctuation	_	24	punct	24:punct	_
+24	style	_	Word	Word	_	14	A	14:A	_
+25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
 

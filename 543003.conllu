@@ -1,20 +1,20 @@
 # format = ucca
 # sent_id = 543003
 # text = " Film director Gottfried Reinhardt claimed that Warner " derived pleasure " from humiliating subordinates .
-1	"	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+1	"	_	Punctuation	Punctuation	_	6	U	6:U	_
 2	Film	_	Word	Word	_	3	E	3:E	_
-3	director	_	Word	Word	_	0	root	0:root	_
-4	Gottfried	_	Word	Word	_	3	orphan	3:orphan	_
-5	Reinhardt	_	Word	Word	_	4	flat	4:flat	_
-6	claimed	_	Word	Word	_	3	orphan	3:orphan	_
+3	director	_	Word	Word	_	4	E	4:E	_
+4	Gottfried	_	Word	Word	_	6	A	6:A	_
+5	Reinhardt	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	claimed	_	Word	Word	_	0	root	0:root	_
 7	that	_	Word	Word	_	11	F	11:F	_
 8	Warner	_	Word	Word	_	11	A	11:A|14:A	_
-9	"	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+9	"	_	Punctuation	Punctuation	_	11	U	11:U	_
 10	derived	_	Word	Word	_	11	D	11:D	_
-11	pleasure	_	Word	Word	_	3	orphan	3:orphan	_
-12	"	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+11	pleasure	_	Word	Word	_	6	A	6:A	_
+12	"	_	Punctuation	Punctuation	_	11	U	11:U	_
 13	from	_	Word	Word	_	14	R	14:R	_
-14	humiliating	_	Word	Word	_	3	orphan	3:orphan	_
+14	humiliating	_	Word	Word	_	11	A	11:A	_
 15	subordinates	_	Word	Word	_	14	A	14:A	_
-16	.	_	Punctuation	Punctuation	_	14	punct	14:punct	_
+16	.	_	Punctuation	Punctuation	_	14	U	14:U	_
 
