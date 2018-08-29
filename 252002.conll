@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 252002
 1	Hawke	_	Word	Word	_	2	A	_	_
-2	said	_	Word	Word	_	0	ROOT	_	_
+2	said	_	Word	Word	_	0	H	_	_
 3	that	_	Word	Word	_	6	F	_	_
 4	he	_	Word	Word	_	6	A	_	_
 5	was	_	Word	Word	_	6	F	_	_
@@ -73,7 +73,7 @@
 68	scène	_	Word	Word	_	66	Terminal	_	_
 69	"	_	Punctuation	Punctuation	_	57	U	_	_
 70	and	_	Word	Word	_	57	L	_	_
-71	,	_	Punctuation	Punctuation	_	57	U	_	_
+71	,	_	Punctuation	Punctuation	_	70	U	_	_
 72	moreover	_	Word	Word	_	70	Terminal	_	_
 73	,	_	Punctuation	Punctuation	_	57	U	_	_
 74	for	_	Word	Word	_	75	R	_	_
@@ -134,6 +134,7 @@
 129	"	_	Punctuation	Punctuation	_	2	U	_	_
 130	.	_	Punctuation	Punctuation	_	2	U	_	_
 131	The	_	Word	Word	_	132	E	_	_
+132	production	_	Word	Word	_	0	C	_	_
 132	production	_	Word	Word	_	144	A*	_	_
 133	garnered	_	Word	Word	_	2	H	_	_
 134	five	_	Word	Word	_	138	E	_	_

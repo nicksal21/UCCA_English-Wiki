@@ -1,9 +1,10 @@
 # format = ucca
 # sent_id = 381001
 1	The	_	Word	Word	_	2	E	_	_
+2	film	_	Word	Word	_	0	C	_	_
 2	film	_	Word	Word	_	11	A*	_	_
 3	was	_	Word	Word	_	4	F	_	_
-4	released	_	Word	Word	_	0	ROOT	_	_
+4	released	_	Word	Word	_	0	H	_	_
 5	on	_	Word	Word	_	9	R	_	_
 6	September	_	Word	Word	_	9	E	_	_
 7	21	_	Word	Word	_	9	E	_	_
@@ -67,7 +68,8 @@
 63	the	_	Word	Word	_	66	E	_	_
 64	best	_	Word	Word	_	66	E	_	_
 65	cop	_	Word	Word	_	66	E	_	_
-66	movie	_	Word	Word	_	0	ROOT	_	_
+66	movie	_	Word	Word	_	0	A	_	_
+66	movie	_	Word	Word	_	80	A*	_	_
 67	since	_	Word	Word	_	66	L	_	_
 68	James	_	Word	Word	_	72	E	_	_
 69	Gray	_	Word	Word	_	68	Terminal	_	_
@@ -111,9 +113,9 @@
 107	role	_	Word	Word	_	104	A	_	_
 108	,	_	Punctuation	Punctuation	_	104	U	_	_
 109	Gyllenhaal	_	Word	Word	_	112	A	_	_
-109	Gyllenhaal	_	Word	Word	_	114	A*	_	_
 109	Gyllenhaal	_	Word	Word	_	104	A*	_	_
 109	Gyllenhaal	_	Word	Word	_	127	A*	_	_
+109	Gyllenhaal	_	Word	Word	_	114	A*	_	_
 110	took	_	Word	Word	_	112	F	_	_
 111	tactical	_	Word	Word	_	112	E	_	_
 112	training	_	Word	Word	_	4	H	_	_
