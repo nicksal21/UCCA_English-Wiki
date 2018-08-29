@@ -3,8 +3,8 @@
 # text = " The album debuted on the US Billboard 200 albums chart at number seven , selling 309 , 000 copies in its first week .
 1	"	_	Punctuation	Punctuation	_	4	U	4:U	_
 2	The	_	Word	Word	_	3	E	3:E	_
-3	album	_	Word	Word	_	0	root	0:root	_
-4	debuted	_	Word	Word	_	3	orphan	3:orphan	_
+3	album	_	Word	Word	_	0	C	0:C|16:A	_
+4	debuted	_	Word	Word	_	0	H	0:H	_
 5	on	_	Word	Word	_	11	R	11:R	_
 6	the	_	Word	Word	_	11	E	11:E	_
 7	US	_	Word	Word	_	8	E	8:E	_
@@ -18,7 +18,7 @@
 15	,	_	Punctuation	Punctuation	_	4	U	4:U	_
 16	selling	_	Word	Word	_	4	H	4:H	_
 17	309	_	Word	Word	_	20	E	20:E	_
-18	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+18	,	_	Punctuation	Punctuation	_	17	U	17:U	_
 19	000	_	Word	Word	_	17	Terminal	17:Terminal	_
 20	copies	_	Word	Word	_	16	A	16:A	_
 21	in	_	Word	Word	_	24	R	24:R	_

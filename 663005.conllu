@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 663005
 # text = Critically , the album was heralded as Carey 's best to date ; The New York Times named it one of 1995 's best albums , and wrote , " best cuts bring R & B candy - making to a new peak of textural refinement [ ... ] Carey 's songwriting has taken a leap forward and become more relaxed , sexier and less reliant on thudding clichés .
-1	Critically	_	Word	Word	_	0	root	0:root	_
+1	Critically	_	Word	Word	_	0	H	0:H	_
 2	,	_	Punctuation	Punctuation	_	1	U	1:U	_
 3	the	_	Word	Word	_	4	E	4:E	_
 4	album	_	Word	Word	_	6	A	6:A	_
@@ -52,7 +52,7 @@
 49	]	_	Punctuation	Punctuation	_	33	U	33:U	_
 50	Carey	_	Word	Word	_	52	E	52:E	_
 51	's	_	Word	Word	_	50	R	50:R	_
-52	songwriting	_	Word	Word	_	1	orphan	1:orphan	_
+52	songwriting	_	Word	Word	_	0	C	0:C|66:A|59:A	_
 53	has	_	Word	Word	_	54	F	54:F	_
 54	taken	_	Word	Word	_	33	H	33:H	_
 55	a	_	Word	Word	_	56	E	56:E	_

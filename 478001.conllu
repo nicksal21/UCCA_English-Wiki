@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 478001
 # text = Johnson shares the single - game playoff record for assists ( 24 ) , holds the Finals record for assists in a game ( 21 ) , and has the most playoff assists ( 2,346 ) . He holds the All - Star Game single - game record for assists ( 22 ) , and the All - Star Game record for career assists ( 127 ) . Johnson introduced a fast - paced style of basketball called " Showtime " , described as a mix of " no - look passes off the fastbreak , pin - point alley - oops from halfcourt , spinning feeds and overhand bullets under the basket through triple teams .
-1	Johnson	_	Word	Word	_	2	A	2:A|10:A|20:A|33:A|29:A|15:A	_
-2	shares	_	Word	Word	_	0	root	0:root	_
+1	Johnson	_	Word	Word	_	2	A	2:A|20:A|33:A|10:A|29:A|15:A	_
+2	shares	_	Word	Word	_	0	H	0:H	_
 3	the	_	Word	Word	_	8	E	8:E	_
 4	single	_	Word	Word	_	6	E	6:E	_
 5	-	_	Punctuation	Punctuation	_	6	U	6:U	_
@@ -42,7 +42,7 @@
 39	holds	_	Word	Word	_	2	H	2:H	_
 40	the	_	Word	Word	_	47	E	47:E	_
 41	All	_	Word	Word	_	44	E	44:E	_
-42	-	_	Punctuation	Punctuation	_	44	U	44:U	_
+42	-	_	Punctuation	Punctuation	_	41	U	41:U	_
 43	Star	_	Word	Word	_	41	Terminal	41:Terminal	_
 44	Game	_	Word	Word	_	47	E	47:E	_
 45	single	_	Word	Word	_	47	E	47:E	_
@@ -58,7 +58,7 @@
 55	and	_	Word	Word	_	48	N	48:N	_
 56	the	_	Word	Word	_	61	E	61:E	_
 57	All	_	Word	Word	_	60	E	60:E	_
-58	-	_	Punctuation	Punctuation	_	60	U	60:U	_
+58	-	_	Punctuation	Punctuation	_	57	U	57:U	_
 59	Star	_	Word	Word	_	57	Terminal	57:Terminal	_
 60	Game	_	Word	Word	_	61	E	61:E	_
 61	record	_	Word	Word	_	48	C	48:C	_
@@ -98,7 +98,7 @@
 95	fastbreak	_	Word	Word	_	92	A	92:A	_
 96	,	_	Punctuation	Punctuation	_	92	U	92:U	_
 97	pin	_	Word	Word	_	100	E	100:E	_
-98	-	_	Punctuation	Punctuation	_	100	U	100:U	_
+98	-	_	Punctuation	Punctuation	_	97	U	97:U	_
 99	point	_	Word	Word	_	97	Terminal	97:Terminal	_
 100	alley	_	Word	Word	_	92	C	92:C	_
 101	-	_	Punctuation	Punctuation	_	100	U	100:U	_

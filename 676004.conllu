@@ -2,7 +2,7 @@
 # sent_id = 676004
 # text = Carey said about her fourteenth studio album : " I 'm collaborating with a lot of my favorite people but the main thing is [ that ] I 'm not trying to follow any particular trend , I want it to be well received . I want to stay true to myself and the music that I love and make the fans happy " . Some of the people that Carey worked with on the album include : DJ Clue ? , Randy Jackson , Q - Tip , R . Kelly , David Morales , Loris Holland , Stevie J , James Fauntleroy , Ray Angry , Walter Afanasieff , Jermaine Dupri , Bryan - Michael Cox , James " Big Jim " Wright , Hit - Boy , The - Dream , Da Brat , and Rodney Jerkins .
 1	Carey	_	Word	Word	_	2	A	2:A	_
-2	said	_	Word	Word	_	0	root	0:root	_
+2	said	_	Word	Word	_	0	H	0:H	_
 3	about	_	Word	Word	_	7	R	7:R	_
 4	her	_	Word	Word	_	7	E	7:E	_
 5	fourteenth	_	Word	Word	_	7	E	7:E	_
@@ -87,11 +87,11 @@
 84	Jackson	_	Word	Word	_	83	Terminal	83:Terminal	_
 85	,	_	Punctuation	Punctuation	_	79	U	79:U	_
 86	Q	_	Word	Word	_	79	C	79:C	_
-87	-	_	Punctuation	Punctuation	_	79	U	79:U	_
+87	-	_	Punctuation	Punctuation	_	86	U	86:U	_
 88	Tip	_	Word	Word	_	86	Terminal	86:Terminal	_
 89	,	_	Punctuation	Punctuation	_	79	U	79:U	_
 90	R	_	Word	Word	_	79	C	79:C	_
-91	.	_	Punctuation	Punctuation	_	79	U	79:U	_
+91	.	_	Punctuation	Punctuation	_	90	U	90:U	_
 92	Kelly	_	Word	Word	_	90	Terminal	90:Terminal	_
 93	,	_	Punctuation	Punctuation	_	79	U	79:U	_
 94	David	_	Word	Word	_	79	C	79:C	_
@@ -116,23 +116,23 @@
 113	Dupri	_	Word	Word	_	112	Terminal	112:Terminal	_
 114	,	_	Punctuation	Punctuation	_	79	U	79:U	_
 115	Bryan	_	Word	Word	_	79	C	79:C	_
-116	-	_	Punctuation	Punctuation	_	79	U	79:U	_
+116	-	_	Punctuation	Punctuation	_	115	U	115:U	_
 117	Michael	_	Word	Word	_	115	Terminal	115:Terminal	_
 118	Cox	_	Word	Word	_	115	Terminal	115:Terminal	_
 119	,	_	Punctuation	Punctuation	_	79	U	79:U	_
 120	James	_	Word	Word	_	79	C	79:C	_
-121	"	_	Punctuation	Punctuation	_	79	U	79:U	_
+121	"	_	Punctuation	Punctuation	_	120	U	120:U	_
 122	Big	_	Word	Word	_	120	Terminal	120:Terminal	_
 123	Jim	_	Word	Word	_	120	Terminal	120:Terminal	_
-124	"	_	Punctuation	Punctuation	_	79	U	79:U	_
+124	"	_	Punctuation	Punctuation	_	120	U	120:U	_
 125	Wright	_	Word	Word	_	120	Terminal	120:Terminal	_
 126	,	_	Punctuation	Punctuation	_	79	U	79:U	_
 127	Hit	_	Word	Word	_	79	C	79:C	_
-128	-	_	Punctuation	Punctuation	_	79	U	79:U	_
+128	-	_	Punctuation	Punctuation	_	127	U	127:U	_
 129	Boy	_	Word	Word	_	127	Terminal	127:Terminal	_
 130	,	_	Punctuation	Punctuation	_	79	U	79:U	_
 131	The	_	Word	Word	_	79	C	79:C	_
-132	-	_	Punctuation	Punctuation	_	79	U	79:U	_
+132	-	_	Punctuation	Punctuation	_	131	U	131:U	_
 133	Dream	_	Word	Word	_	131	Terminal	131:Terminal	_
 134	,	_	Punctuation	Punctuation	_	79	U	79:U	_
 135	Da	_	Word	Word	_	79	C	79:C	_

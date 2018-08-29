@@ -2,7 +2,7 @@
 # sent_id = 216008
 # text = " Peter Stack of the San Francisco Chronicle , despite giving the film an unfavorable review , commended Dunst for her willingness " to be as silly and cloyingly agreeable as it takes to get through a slapdash film . "
 1	"	_	Punctuation	Punctuation	_	18	U	18:U	_
-2	Peter	_	Word	Word	_	0	root	0:root	_
+2	Peter	_	Word	Word	_	0	C	0:C|18:A	_
 3	Stack	_	Word	Word	_	2	Terminal	2:Terminal	_
 4	of	_	Word	Word	_	8	R	8:R	_
 5	the	_	Word	Word	_	8	E	8:E	_
@@ -11,7 +11,7 @@
 8	Chronicle	_	Word	Word	_	2	E	2:E	_
 9	,	_	Punctuation	Punctuation	_	11	U	11:U	_
 10	despite	_	Word	Word	_	11	L	11:L	_
-11	giving	_	Word	Word	_	2	orphan	2:orphan	_
+11	giving	_	Word	Word	_	0	H	0:H	_
 12	the	_	Word	Word	_	13	E	13:E	_
 13	film	_	Word	Word	_	11	A	11:A	_
 14	an	_	Word	Word	_	16	E	16:E	_

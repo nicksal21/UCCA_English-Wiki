@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 506009
 # text = Peaking at number six in the UK , the album yielded the hits " Day - In , Day - Out " ( his 60th single ) , " Time Will Crawl " , and " Never Let Me Down " . Bowie later described it as his " nadir " , calling it " an awful album " . Supporting Never Let Me Down , and preceded by nine promotional press shows , the 86 - concert Glass Spider Tour commenced on 30 May .
-1	Peaking	_	Word	Word	_	0	root	0:root	_
+1	Peaking	_	Word	Word	_	0	H	0:H	_
 2	at	_	Word	Word	_	3	R	3:R	_
 3	number	_	Word	Word	_	1	A	1:A	_
 4	six	_	Word	Word	_	3	E	3:E	_
@@ -81,7 +81,7 @@
 78	concert	_	Word	Word	_	81	E	81:E	_
 79	Glass	_	Word	Word	_	81	E	81:E	_
 80	Spider	_	Word	Word	_	79	Terminal	79:Terminal	_
-81	Tour	_	Word	Word	_	1	orphan	1:orphan	_
+81	Tour	_	Word	Word	_	0	C	0:C|68:A|61:A	_
 82	commenced	_	Word	Word	_	1	H	1:H	_
 83	on	_	Word	Word	_	85	R	85:R	_
 84	30	_	Word	Word	_	85	E	85:E	_

@@ -2,7 +2,7 @@
 # sent_id = 468011
 # text = Johnson returned before the start of the 1981 playoffs , but the Lakers ' then - assistant and future head coach Pat Riley later said Johnson 's much - anticipated return made the Lakers a " divided team " . The 54 - win Lakers faced the 40 - 42 Houston Rockets in the first round of playoffs , where Houston upset the Lakers 2 - 1 after Johnson airballed a last - second shot in Game 3 .
 1	Johnson	_	Word	Word	_	2	A	2:A	_
-2	returned	_	Word	Word	_	0	root	0:root	_
+2	returned	_	Word	Word	_	0	H	0:H	_
 3	before	_	Word	Word	_	2	L	2:L	_
 4	the	_	Word	Word	_	5	E	5:E	_
 5	start	_	Word	Word	_	2	H	2:H	_
@@ -49,7 +49,7 @@
 46	faced	_	Word	Word	_	2	H	2:H	_
 47	the	_	Word	Word	_	51	E	51:E	_
 48	40	_	Word	Word	_	51	E	51:E	_
-49	-	_	Punctuation	Punctuation	_	51	U	51:U	_
+49	-	_	Punctuation	Punctuation	_	48	U	48:U	_
 50	42	_	Word	Word	_	48	Terminal	48:Terminal	_
 51	Houston	_	Word	Word	_	46	A	46:A	_
 52	Rockets	_	Word	Word	_	51	Terminal	51:Terminal	_
@@ -66,7 +66,7 @@
 63	the	_	Word	Word	_	64	E	64:E	_
 64	Lakers	_	Word	Word	_	62	A	62:A	_
 65	2	_	Word	Word	_	62	A	62:A	_
-66	-	_	Punctuation	Punctuation	_	62	U	62:U	_
+66	-	_	Punctuation	Punctuation	_	65	U	65:U	_
 67	1	_	Word	Word	_	65	Terminal	65:Terminal	_
 68	after	_	Word	Word	_	62	L	62:L	_
 69	Johnson	_	Word	Word	_	70	A	70:A	_

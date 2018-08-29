@@ -2,11 +2,11 @@
 # sent_id = 555013
 # text = " He was generally too shy to perform openly , and was occasionally bullied by classmates who viewed him as a " mama 's boy " . In 1950 , he began practicing guitar regularly under the tutelage of Jesse Lee Denson , a neighbor two - and - a - half years his senior .
 1	"	_	Punctuation	Punctuation	_	6	U	6:U	_
-2	He	_	Word	Word	_	6	A	6:A|8:A|14:A	_
+2	He	_	Word	Word	_	6	A	6:A|14:A|8:A	_
 3	was	_	Word	Word	_	6	D	6:D	_
 4	generally	_	Word	Word	_	6	D	6:D	_
 5	too	_	Word	Word	_	6	D	6:D	_
-6	shy	_	Word	Word	_	0	root	0:root	_
+6	shy	_	Word	Word	_	0	H	0:H	_
 7	to	_	Word	Word	_	6	L	6:L	_
 8	perform	_	Word	Word	_	6	H	6:H	_
 9	openly	_	Word	Word	_	8	D	8:D	_
@@ -47,11 +47,11 @@
 44	a	_	Word	Word	_	45	E	45:E	_
 45	neighbor	_	Word	Word	_	40	E	40:E	_
 46	two	_	Word	Word	_	53	E	53:E	_
-47	-	_	Punctuation	Punctuation	_	53	U	53:U	_
+47	-	_	Punctuation	Punctuation	_	46	U	46:U	_
 48	and	_	Word	Word	_	46	Terminal	46:Terminal	_
-49	-	_	Punctuation	Punctuation	_	53	U	53:U	_
+49	-	_	Punctuation	Punctuation	_	46	U	46:U	_
 50	a	_	Word	Word	_	46	Terminal	46:Terminal	_
-51	-	_	Punctuation	Punctuation	_	53	U	53:U	_
+51	-	_	Punctuation	Punctuation	_	46	U	46:U	_
 52	half	_	Word	Word	_	46	Terminal	46:Terminal	_
 53	years	_	Word	Word	_	55	E	55:E	_
 54	his	_	Word	Word	_	55	E	55:E	_

@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 590021
 # text = He cited Peter Lorre in Mad Love ( 1935 ) as his main influence for the role , and practiced the songs his character would perform while filming Pirates of the Caribbean : At World 's End .
-1	He	_	Word	Word	_	2	A	2:A|20:A|28:A	_
-2	cited	_	Word	Word	_	0	root	0:root	_
+1	He	_	Word	Word	_	2	A	2:A|28:A|20:A	_
+2	cited	_	Word	Word	_	0	H	0:H	_
 3	Peter	_	Word	Word	_	2	A	2:A	_
 4	Lorre	_	Word	Word	_	3	Terminal	3:Terminal	_
 5	in	_	Word	Word	_	6	R	6:R	_
@@ -33,7 +33,7 @@
 30	of	_	Word	Word	_	29	Terminal	29:Terminal	_
 31	the	_	Word	Word	_	29	Terminal	29:Terminal	_
 32	Caribbean	_	Word	Word	_	29	Terminal	29:Terminal	_
-33	:	_	Punctuation	Punctuation	_	28	U	28:U	_
+33	:	_	Punctuation	Punctuation	_	29	U	29:U	_
 34	At	_	Word	Word	_	29	Terminal	29:Terminal	_
 35	World	_	Word	Word	_	29	Terminal	29:Terminal	_
 36	's	_	Word	Word	_	29	Terminal	29:Terminal	_

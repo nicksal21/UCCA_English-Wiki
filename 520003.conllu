@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 520003
 # text = Born Frances Ethel Gumm in Grand Rapids , Minnesota , Garland was the youngest child of Ethel Marion ( née Milne ; November 17 , 1893 - January 5 , 1953 ) and Francis Avent " Frank " Gumm ( March 20 , 1886 - November 17 , 1935 ) . Her parents were vaudevillians who settled in Grand Rapids , MN , to run a movie theatre that featured vaudeville acts .
-1	Born	_	Word	Word	_	0	root	0:root	_
+1	Born	_	Word	Word	_	0	H	0:H	_
 2	Frances	_	Word	Word	_	1	A	1:A	_
 3	Ethel	_	Word	Word	_	2	Terminal	2:Terminal	_
 4	Gumm	_	Word	Word	_	2	Terminal	2:Terminal	_
@@ -30,7 +30,7 @@
 27	-	_	Punctuation	Punctuation	_	23	U	23:U	_
 28	January	_	Word	Word	_	23	C	23:C	_
 29	5	_	Word	Word	_	28	Terminal	28:Terminal	_
-30	,	_	Punctuation	Punctuation	_	23	U	23:U	_
+30	,	_	Punctuation	Punctuation	_	28	U	28:U	_
 31	1953	_	Word	Word	_	28	Terminal	28:Terminal	_
 32	)	_	Punctuation	Punctuation	_	21	U	21:U	_
 33	and	_	Word	Word	_	21	N	21:N	_
@@ -48,12 +48,12 @@
 45	-	_	Punctuation	Punctuation	_	41	U	41:U	_
 46	November	_	Word	Word	_	41	C	41:C	_
 47	17	_	Word	Word	_	46	Terminal	46:Terminal	_
-48	,	_	Punctuation	Punctuation	_	41	U	41:U	_
+48	,	_	Punctuation	Punctuation	_	46	U	46:U	_
 49	1935	_	Word	Word	_	46	Terminal	46:Terminal	_
 50	)	_	Punctuation	Punctuation	_	1	U	1:U	_
 51	.	_	Punctuation	Punctuation	_	1	U	1:U	_
 52	Her	_	Word	Word	_	53	E	53:E	_
-53	parents	_	Word	Word	_	1	orphan	1:orphan	_
+53	parents	_	Word	Word	_	0	C	0:C|65:A	_
 54	were	_	Word	Word	_	1	H	1:H	_
 55	vaudevillians	_	Word	Word	_	54	A	54:A	_
 56	who	_	Word	Word	_	57	R	57:R	_

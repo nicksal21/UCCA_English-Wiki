@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 218006
 # text = Adapted from Antonia Fraser 's book Marie Antoinette : The Journey , the film was Dunst 's second with director Sofia Coppola .
-1	Adapted	_	Word	Word	_	0	root	0:root	_
+1	Adapted	_	Word	Word	_	0	H	0:H	_
 2	from	_	Word	Word	_	7	R	7:R	_
 3	Antonia	_	Word	Word	_	6	E	6:E	_
 4	Fraser	_	Word	Word	_	3	Terminal	3:Terminal	_
@@ -14,7 +14,7 @@
 11	Journey	_	Word	Word	_	7	Terminal	7:Terminal	_
 12	,	_	Punctuation	Punctuation	_	1	U	1:U	_
 13	the	_	Word	Word	_	14	E	14:E	_
-14	film	_	Word	Word	_	1	orphan	1:orphan	_
+14	film	_	Word	Word	_	0	C	0:C|1:A|16:C	_
 15	was	_	Word	Word	_	1	H	1:H	_
 16	Dunst	_	Word	Word	_	15	A	15:A	_
 17	's	_	Word	Word	_	16	R	16:R	_

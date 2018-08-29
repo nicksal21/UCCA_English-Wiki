@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 1021013
 # text = Released in 1979 , it was the first solo album to generate four U.S. top 10 hits , including the chart - topping singles " Do n't Stop ' til You Get Enough " and " Rock with You " . It reached number three on the Billboard 200 and eventually sold over 20 million copies worldwide .
-1	Released	_	Word	Word	_	0	root	0:root	_
+1	Released	_	Word	Word	_	0	H	0:H	_
 2	in	_	Word	Word	_	3	R	3:R	_
 3	1979	_	Word	Word	_	1	D	1:D	_
 4	,	_	Punctuation	Punctuation	_	1	U	1:U	_
@@ -10,7 +10,7 @@
 7	the	_	Word	Word	_	10	E	10:E	_
 8	first	_	Word	Word	_	10	E	10:E	_
 9	solo	_	Word	Word	_	10	E	10:E	_
-10	album	_	Word	Word	_	1	orphan	1:orphan	_
+10	album	_	Word	Word	_	0	C	0:C|52:A	_
 11	to	_	Word	Word	_	12	F	12:F	_
 12	generate	_	Word	Word	_	10	E	10:E	_
 13	four	_	Word	Word	_	17	E	17:E	_

@@ -1,13 +1,13 @@
 # format = ucca
 # sent_id = 216007
 # text = Jessica Winter from The Village Voice complimented Dunst , stating that her performance was " as sprightly and knowingly daft as her turn in Dick " and commenting that " [ Dunst ] provides the only major element of Bring It On that plays as tweaking parody rather than slick , strident , body - slam churlishness .
-1	Jessica	_	Word	Word	_	0	root	0:root	_
+1	Jessica	_	Word	Word	_	0	C	0:C|10:A|28:A	_
 2	Winter	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	from	_	Word	Word	_	4	R	4:R	_
 4	The	_	Word	Word	_	1	E	1:E	_
 5	Village	_	Word	Word	_	4	Terminal	4:Terminal	_
 6	Voice	_	Word	Word	_	4	Terminal	4:Terminal	_
-7	complimented	_	Word	Word	_	1	orphan	1:orphan	_
+7	complimented	_	Word	Word	_	0	H	0:H	_
 8	Dunst	_	Word	Word	_	7	A	7:A	_
 9	,	_	Punctuation	Punctuation	_	7	U	7:U	_
 10	stating	_	Word	Word	_	7	H	7:H	_
@@ -55,7 +55,7 @@
 52	strident	_	Word	Word	_	57	E	57:E	_
 53	,	_	Punctuation	Punctuation	_	57	U	57:U	_
 54	body	_	Word	Word	_	57	E	57:E	_
-55	-	_	Punctuation	Punctuation	_	57	U	57:U	_
+55	-	_	Punctuation	Punctuation	_	54	U	54:U	_
 56	slam	_	Word	Word	_	54	Terminal	54:Terminal	_
 57	churlishness	_	Word	Word	_	44	A	44:A	_
 58	.	_	Punctuation	Punctuation	_	57	U	57:U	_

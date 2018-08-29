@@ -3,10 +3,10 @@
 # text = Following the impact of " Give Peace a Chance " and " Happy Xmas ( War Is Over ) " , both strongly associated with the anti - Vietnam War movement , the Nixon administration , hearing rumours of Lennon 's involvement in a concert to be held in San Diego at the same time as the Republican National Convention , tried to have him deported .
 1	Following	_	Word	Word	_	3	L	3:L	_
 2	the	_	Word	Word	_	3	E	3:E	_
-3	impact	_	Word	Word	_	0	root	0:root	_
+3	impact	_	Word	Word	_	0	H	0:H	_
 4	of	_	Word	Word	_	6	R	6:R	_
 5	"	_	Punctuation	Punctuation	_	6	U	6:U	_
-6	Give	_	Word	Word	_	3	orphan	3:orphan	_
+6	Give	_	Word	Word	_	0	C	0:C|22:C	_
 7	Peace	_	Word	Word	_	6	Terminal	6:Terminal	_
 8	a	_	Word	Word	_	6	Terminal	6:Terminal	_
 9	Chance	_	Word	Word	_	6	Terminal	6:Terminal	_
@@ -15,7 +15,7 @@
 12	"	_	Punctuation	Punctuation	_	6	U	6:U	_
 13	Happy	_	Word	Word	_	6	C	6:C	_
 14	Xmas	_	Word	Word	_	13	Terminal	13:Terminal	_
-15	(	_	Punctuation	Punctuation	_	6	U	6:U	_
+15	(	_	Punctuation	Punctuation	_	13	U	13:U	_
 16	War	_	Word	Word	_	13	Terminal	13:Terminal	_
 17	Is	_	Word	Word	_	13	Terminal	13:Terminal	_
 18	Over	_	Word	Word	_	13	Terminal	13:Terminal	_
@@ -35,7 +35,7 @@
 32	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 33	the	_	Word	Word	_	35	E	35:E	_
 34	Nixon	_	Word	Word	_	35	E	35:E	_
-35	administration	_	Word	Word	_	3	orphan	3:orphan	_
+35	administration	_	Word	Word	_	0	C	0:C|66:A|62:A	_
 36	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 37	hearing	_	Word	Word	_	3	H	3:H	_
 38	rumours	_	Word	Word	_	37	A	37:A	_

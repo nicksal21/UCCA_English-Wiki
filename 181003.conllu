@@ -1,14 +1,14 @@
 # format = ucca
 # sent_id = 181003
 # text = Born in New York City , her mother is Jewish with both Russian and Lithuanian ancestry and is divorced from Eric Foner , a noted historian and history professor at Columbia University .
-1	Born	_	Word	Word	_	0	root	0:root	_
+1	Born	_	Word	Word	_	0	H	0:H	_
 2	in	_	Word	Word	_	5	R	5:R	_
 3	New	_	Word	Word	_	5	E	5:E	_
 4	York	_	Word	Word	_	3	Terminal	3:Terminal	_
 5	City	_	Word	Word	_	1	A	1:A	_
 6	,	_	Punctuation	Punctuation	_	1	U	1:U	_
 7	her	_	Word	Word	_	8	E	8:E	_
-8	mother	_	Word	Word	_	1	orphan	1:orphan	_
+8	mother	_	Word	Word	_	0	C	0:C|1:A|19:A	_
 9	is	_	Word	Word	_	10	F	10:F	_
 10	Jewish	_	Word	Word	_	1	H	1:H	_
 11	with	_	Word	Word	_	16	R	16:R	_

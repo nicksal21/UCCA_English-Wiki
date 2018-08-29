@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 549006
 # text = Faced with a polarized political climate , few Americans were drawn to " a cheery exercise in prerepublic civics " . Warner 's efforts to promote the film were sometimes counterproductive .
-1	Faced	_	Word	Word	_	0	root	0:root	_
+1	Faced	_	Word	Word	_	0	H	0:H	_
 2	with	_	Word	Word	_	6	R	6:R	_
 3	a	_	Word	Word	_	6	E	6:E	_
 4	polarized	_	Word	Word	_	6	E	6:E	_
@@ -9,7 +9,7 @@
 6	climate	_	Word	Word	_	1	A	1:A	_
 7	,	_	Punctuation	Punctuation	_	1	U	1:U	_
 8	few	_	Word	Word	_	9	E	9:E	_
-9	Americans	_	Word	Word	_	1	orphan	1:orphan	_
+9	Americans	_	Word	Word	_	0	C	0:C|1:A	_
 10	were	_	Word	Word	_	11	F	11:F	_
 11	drawn	_	Word	Word	_	1	H	1:H	_
 12	to	_	Word	Word	_	16	R	16:R	_

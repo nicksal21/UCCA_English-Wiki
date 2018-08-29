@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 601017
 # text = Considered a high point in the Beatles catalogue , both Lennon and McCartney claimed lead authorship for the song , " In My Life " . McCartney said of the album , " we 'd had our cute period , and now it was time to expand .
-1	Considered	_	Word	Word	_	0	root	0:root	_
+1	Considered	_	Word	Word	_	0	H	0:H	_
 2	a	_	Word	Word	_	4	E	4:E	_
 3	high	_	Word	Word	_	4	E	4:E	_
 4	point	_	Word	Word	_	1	A	1:A	_
@@ -22,7 +22,7 @@
 19	song	_	Word	Word	_	22	E	22:E	_
 20	,	_	Punctuation	Punctuation	_	22	U	22:U	_
 21	"	_	Punctuation	Punctuation	_	22	U	22:U	_
-22	In	_	Word	Word	_	1	orphan	1:orphan	_
+22	In	_	Word	Word	_	0	C	0:C|1:A	_
 23	My	_	Word	Word	_	22	Terminal	22:Terminal	_
 24	Life	_	Word	Word	_	22	Terminal	22:Terminal	_
 25	"	_	Punctuation	Punctuation	_	1	U	1:U	_

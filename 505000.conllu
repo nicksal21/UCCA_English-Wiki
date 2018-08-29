@@ -1,9 +1,9 @@
 # format = ucca
 # sent_id = 505000
 # text = Scary Monsters ( and Super Creeps ) ( 1980 ) produced the number one hit " Ashes to Ashes " , featuring the textural work of guitar - synthesist Chuck Hammer and revisiting the character of Major Tom from " Space Oddity " . The song gave international exposure to the underground New Romantic movement when Bowie visited the London club " Blitz " - the main New Romantic hangout - to recruit several of the regulars ( including Steve Strange of the band Visage ) to act in the accompanying video , renowned as one of the most innovative of all time .
-1	Scary	_	Word	Word	_	0	root	0:root	_
+1	Scary	_	Word	Word	_	0	C	0:C|22:A	_
 2	Monsters	_	Word	Word	_	1	Terminal	1:Terminal	_
-3	(	_	Punctuation	Punctuation	_	22	U	22:U	_
+3	(	_	Punctuation	Punctuation	_	1	U	1:U	_
 4	and	_	Word	Word	_	1	Terminal	1:Terminal	_
 5	Super	_	Word	Word	_	1	Terminal	1:Terminal	_
 6	Creeps	_	Word	Word	_	1	Terminal	1:Terminal	_
@@ -11,13 +11,13 @@
 8	(	_	Punctuation	Punctuation	_	1	U	1:U	_
 9	1980	_	Word	Word	_	1	E	1:E	_
 10	)	_	Punctuation	Punctuation	_	11	U	11:U	_
-11	produced	_	Word	Word	_	1	orphan	1:orphan	_
+11	produced	_	Word	Word	_	0	H	0:H	_
 12	the	_	Word	Word	_	15	E	15:E	_
 13	number	_	Word	Word	_	15	E	15:E	_
 14	one	_	Word	Word	_	13	E	13:E	_
 15	hit	_	Word	Word	_	17	E	17:E	_
 16	"	_	Punctuation	Punctuation	_	17	U	17:U	_
-17	Ashes	_	Word	Word	_	1	orphan	1:orphan	_
+17	Ashes	_	Word	Word	_	0	C	0:C|33:A	_
 18	to	_	Word	Word	_	17	Terminal	17:Terminal	_
 19	Ashes	_	Word	Word	_	17	Terminal	17:Terminal	_
 20	"	_	Punctuation	Punctuation	_	11	U	11:U	_

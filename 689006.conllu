@@ -1,13 +1,13 @@
 # format = ucca
 # sent_id = 689006
 # text = Robert Zimmerman spent his early years listening to the radio - first to blues and country stations broadcasting from Shreveport , Louisiana , and , as a teen , to early rock and roll .
-1	Robert	_	Word	Word	_	3	A	3:A|28:A|32:A|7:A|17:A	_
+1	Robert	_	Word	Word	_	3	A	3:A|28:A|7:A|17:A|32:A	_
 2	Zimmerman	_	Word	Word	_	1	Terminal	1:Terminal	_
-3	spent	_	Word	Word	_	0	root	0:root	_
+3	spent	_	Word	Word	_	0	H	0:H	_
 4	his	_	Word	Word	_	6	E	6:E	_
 5	early	_	Word	Word	_	6	E	6:E	_
 6	years	_	Word	Word	_	3	D	3:D	_
-7	listening	_	Word	Word	_	3	orphan	3:orphan	_
+7	listening	_	Word	Word	_	0	P	0:P|32:P|17:P	_
 8	to	_	Word	Word	_	10	R	10:R	_
 9	the	_	Word	Word	_	10	E	10:E	_
 10	radio	_	Word	Word	_	7	A	7:A	_
@@ -25,7 +25,7 @@
 22	Louisiana	_	Word	Word	_	20	E	20:E	_
 23	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 24	and	_	Word	Word	_	3	L	3:L	_
-25	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+25	,	_	Punctuation	Punctuation	_	24	U	24:U	_
 26	as	_	Word	Word	_	24	Terminal	24:Terminal	_
 27	a	_	Word	Word	_	28	E	28:E	_
 28	teen	_	Word	Word	_	3	H	3:H	_

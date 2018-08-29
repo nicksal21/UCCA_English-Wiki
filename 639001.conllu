@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 639001
 # text = Containing songs about women 's rights , race relations , Britain 's role in Northern Ireland and Lennon 's problems obtaining a green card , the album was poorly received - unlistenable , according to one critic .
-1	Containing	_	Word	Word	_	0	root	0:root	_
+1	Containing	_	Word	Word	_	0	H	0:H	_
 2	songs	_	Word	Word	_	1	A	1:A	_
 3	about	_	Word	Word	_	6	R	6:R	_
 4	women	_	Word	Word	_	6	E	6:E	_
@@ -27,7 +27,7 @@
 24	card	_	Word	Word	_	23	Terminal	23:Terminal	_
 25	,	_	Punctuation	Punctuation	_	1	U	1:U	_
 26	the	_	Word	Word	_	27	E	27:E	_
-27	album	_	Word	Word	_	1	orphan	1:orphan	_
+27	album	_	Word	Word	_	0	C	0:C|32:A	_
 28	was	_	Word	Word	_	30	F	30:F	_
 29	poorly	_	Word	Word	_	30	D	30:D	_
 30	received	_	Word	Word	_	1	H	1:H	_

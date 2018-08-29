@@ -2,7 +2,7 @@
 # sent_id = 505006
 # text = Bowie paired with Queen in 1981 for a one - off single release , " Under Pressure " . The duet was a hit , becoming Bowie 's third UK number one single .
 1	Bowie	_	Word	Word	_	2	A	2:A	_
-2	paired	_	Word	Word	_	0	root	0:root	_
+2	paired	_	Word	Word	_	0	H	0:H	_
 3	with	_	Word	Word	_	4	R	4:R	_
 4	Queen	_	Word	Word	_	2	A	2:A	_
 5	in	_	Word	Word	_	6	R	6:R	_
@@ -10,7 +10,7 @@
 7	for	_	Word	Word	_	13	R	13:R	_
 8	a	_	Word	Word	_	12	E	12:E	_
 9	one	_	Word	Word	_	12	E	12:E	_
-10	-	_	Punctuation	Punctuation	_	12	U	12:U	_
+10	-	_	Punctuation	Punctuation	_	9	U	9:U	_
 11	off	_	Word	Word	_	9	Terminal	9:Terminal	_
 12	single	_	Word	Word	_	16	E	16:E	_
 13	release	_	Word	Word	_	2	A	2:A	_
@@ -21,7 +21,7 @@
 18	"	_	Punctuation	Punctuation	_	2	U	2:U	_
 19	.	_	Punctuation	Punctuation	_	2	U	2:U	_
 20	The	_	Word	Word	_	21	E	21:E	_
-21	duet	_	Word	Word	_	2	orphan	2:orphan	_
+21	duet	_	Word	Word	_	0	C	0:C|26:A	_
 22	was	_	Word	Word	_	2	H	2:H	_
 23	a	_	Word	Word	_	24	E	24:E	_
 24	hit	_	Word	Word	_	22	A	22:A	_

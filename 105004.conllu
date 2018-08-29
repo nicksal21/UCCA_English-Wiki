@@ -2,7 +2,7 @@
 # sent_id = 105004
 # text = Jolie began her professional film career in 1993 , when she played her first leading role in the low - budget , straight - to - video science - fiction sequel Cyborg 2 , as Casella " Cash " Reese , a near - human robot , designed to seduce her way into a rival manufacturer 's headquarters and then self - detonate .
 1	Jolie	_	Word	Word	_	2	A	2:A	_
-2	began	_	Word	Word	_	0	root	0:root	_
+2	began	_	Word	Word	_	0	H	0:H	_
 3	her	_	Word	Word	_	6	E	6:E	_
 4	professional	_	Word	Word	_	6	E	6:E	_
 5	film	_	Word	Word	_	6	E	6:E	_
@@ -24,9 +24,9 @@
 21	budget	_	Word	Word	_	32	E	32:E	_
 22	,	_	Punctuation	Punctuation	_	32	U	32:U	_
 23	straight	_	Word	Word	_	32	E	32:E	_
-24	-	_	Punctuation	Punctuation	_	32	U	32:U	_
+24	-	_	Punctuation	Punctuation	_	23	U	23:U	_
 25	to	_	Word	Word	_	23	Terminal	23:Terminal	_
-26	-	_	Punctuation	Punctuation	_	32	U	32:U	_
+26	-	_	Punctuation	Punctuation	_	23	U	23:U	_
 27	video	_	Word	Word	_	23	Terminal	23:Terminal	_
 28	science	_	Word	Word	_	30	E	30:E	_
 29	-	_	Punctuation	Punctuation	_	30	U	30:U	_

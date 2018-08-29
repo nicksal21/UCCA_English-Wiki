@@ -1,9 +1,9 @@
 # format = ucca
 # sent_id = 147005
 # text = Hepburn often expressed her gratitude toward Smith for his financial and moral support in the early days of her career , and in her autobiography called herself " a terrible pig " for exploiting his love .
-1	Hepburn	_	Word	Word	_	3	A	3:A|34:A|26:A	_
+1	Hepburn	_	Word	Word	_	3	A	3:A|26:A|34:A	_
 2	often	_	Word	Word	_	3	D	3:D	_
-3	expressed	_	Word	Word	_	0	root	0:root	_
+3	expressed	_	Word	Word	_	0	H	0:H	_
 4	her	_	Word	Word	_	5	A	5:A	_
 5	gratitude	_	Word	Word	_	3	A	3:A	_
 6	toward	_	Word	Word	_	7	R	7:R	_
@@ -13,7 +13,7 @@
 10	financial	_	Word	Word	_	5	A	5:A	_
 11	and	_	Word	Word	_	10	N	10:N	_
 12	moral	_	Word	Word	_	13	E	13:E	_
-13	support	_	Word	Word	_	3	orphan	3:orphan	_
+13	support	_	Word	Word	_	0	C	0:C|10:C	_
 14	in	_	Word	Word	_	17	R	17:R	_
 15	the	_	Word	Word	_	17	E	17:E	_
 16	early	_	Word	Word	_	17	E	17:E	_

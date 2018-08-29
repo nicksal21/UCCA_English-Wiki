@@ -1,11 +1,11 @@
 # format = ucca
 # sent_id = 251001
 # text = Reviewing the production the Los Angeles Times complimented Hawke 's take on Bakunin , writing : " Ethan Hawke buzzes in and out as Bakunin , a strangely appealing enthusiast on his way to becoming a famous anarchist .
-1	Reviewing	_	Word	Word	_	0	root	0:root	_
+1	Reviewing	_	Word	Word	_	0	H	0:H	_
 2	the	_	Word	Word	_	3	E	3:E	_
 3	production	_	Word	Word	_	1	A	1:A	_
 4	the	_	Word	Word	_	5	E	5:E	_
-5	Los	_	Word	Word	_	1	orphan	1:orphan	_
+5	Los	_	Word	Word	_	0	C	0:C|1:A|15:A	_
 6	Angeles	_	Word	Word	_	5	Terminal	5:Terminal	_
 7	Times	_	Word	Word	_	5	Terminal	5:Terminal	_
 8	complimented	_	Word	Word	_	1	H	1:H	_

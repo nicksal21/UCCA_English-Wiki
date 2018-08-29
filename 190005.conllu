@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 190005
 # text = William Goldman ( who regularly worked under contract at Castle Rock ) became his mentor and helped him to adapt his stageplay into a screenplay .
-1	William	_	Word	Word	_	0	root	0:root	_
+1	William	_	Word	Word	_	0	C	0:C|17:A|6:A	_
 2	Goldman	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	(	_	Punctuation	Punctuation	_	1	U	1:U	_
 4	who	_	Word	Word	_	6	F	6:F	_
@@ -13,7 +13,7 @@
 10	Castle	_	Word	Word	_	6	A	6:A	_
 11	Rock	_	Word	Word	_	10	Terminal	10:Terminal	_
 12	)	_	Punctuation	Punctuation	_	13	U	13:U	_
-13	became	_	Word	Word	_	1	orphan	1:orphan	_
+13	became	_	Word	Word	_	0	H	0:H	_
 14	his	_	Word	Word	_	15	E	15:E	_
 15	mentor	_	Word	Word	_	13	A	13:A	_
 16	and	_	Word	Word	_	13	L	13:L	_

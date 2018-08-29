@@ -2,7 +2,7 @@
 # sent_id = 500011
 # text = Lennon called Bowie 's work " great , but just rock and roll with lipstick on " . Earning the distinction of being one of the first white artists to appear on the US variety show Soul Train , Bowie mimed " Fame " , as well as " Golden Years " , his November single , that was offered to Elvis Presley to perform , but Presley declined it .
 1	Lennon	_	Word	Word	_	2	A	2:A	_
-2	called	_	Word	Word	_	0	root	0:root	_
+2	called	_	Word	Word	_	0	H	0:H	_
 3	Bowie	_	Word	Word	_	5	E	5:E	_
 4	's	_	Word	Word	_	3	R	3:R	_
 5	work	_	Word	Word	_	2	A	2:A	_
@@ -62,7 +62,7 @@
 59	was	_	Word	Word	_	60	F	60:F	_
 60	offered	_	Word	Word	_	50	E	50:E	_
 61	to	_	Word	Word	_	62	R	62:R	_
-62	Elvis	_	Word	Word	_	2	orphan	2:orphan	_
+62	Elvis	_	Word	Word	_	0	C	0:C|65:A	_
 63	Presley	_	Word	Word	_	62	Terminal	62:Terminal	_
 64	to	_	Word	Word	_	60	L	60:L	_
 65	perform	_	Word	Word	_	60	H	60:H	_

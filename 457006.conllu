@@ -2,9 +2,9 @@
 # sent_id = 457006
 # text = The anchor drew fire from conservatives , such as the MRC and Cal Thomas , for his November 14 , 1994 , remarks on ABC Radio , in which he analyzed the results of the 1994 U . S . midterm elections .
 1	The	_	Word	Word	_	2	E	2:E	_
-2	anchor	_	Word	Word	_	0	root	0:root	_
+2	anchor	_	Word	Word	_	0	C	0:C|23:A	_
 3	drew	_	Word	Word	_	4	D	4:D	_
-4	fire	_	Word	Word	_	2	orphan	2:orphan	_
+4	fire	_	Word	Word	_	0	H	0:H	_
 5	from	_	Word	Word	_	6	R	6:R	_
 6	conservatives	_	Word	Word	_	4	A	4:A	_
 7	,	_	Punctuation	Punctuation	_	6	U	6:U	_
@@ -38,7 +38,7 @@
 35	the	_	Word	Word	_	36	E	36:E	_
 36	1994	_	Word	Word	_	42	D	42:D	_
 37	U	_	Word	Word	_	42	E	42:E	_
-38	.	_	Punctuation	Punctuation	_	42	U	42:U	_
+38	.	_	Punctuation	Punctuation	_	37	U	37:U	_
 39	S	_	Word	Word	_	37	Terminal	37:Terminal	_
 40	.	_	Punctuation	Punctuation	_	42	U	42:U	_
 41	midterm	_	Word	Word	_	42	E	42:E	_

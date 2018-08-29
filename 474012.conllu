@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 474012
 # text = Coming off the bench , Johnson had 19 points , 8 rebounds , and 10 assists to help the Lakers to a 128 - 118 victory .
-1	Coming	_	Word	Word	_	0	root	0:root	_
+1	Coming	_	Word	Word	_	0	H	0:H	_
 2	off	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	the	_	Word	Word	_	4	E	4:E	_
 4	bench	_	Word	Word	_	1	A	1:A	_
@@ -24,7 +24,7 @@
 21	to	_	Word	Word	_	26	R	26:R	_
 22	a	_	Word	Word	_	26	E	26:E	_
 23	128	_	Word	Word	_	26	E	26:E	_
-24	-	_	Punctuation	Punctuation	_	26	U	26:U	_
+24	-	_	Punctuation	Punctuation	_	23	U	23:U	_
 25	118	_	Word	Word	_	23	Terminal	23:Terminal	_
 26	victory	_	Word	Word	_	18	A	18:A	_
 27	.	_	Punctuation	Punctuation	_	26	U	26:U	_

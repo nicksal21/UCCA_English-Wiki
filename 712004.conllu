@@ -2,7 +2,7 @@
 # sent_id = 712004
 # text = Dylan played classic and obscure records from the 1930s to the present day , including contemporary artists as diverse as Blur , Prince , L . L . Cool J and The Streets .
 1	Dylan	_	Word	Word	_	2	A	2:A	_
-2	played	_	Word	Word	_	0	root	0:root	_
+2	played	_	Word	Word	_	0	H	0:H	_
 3	classic	_	Word	Word	_	6	E	6:E	_
 4	and	_	Word	Word	_	3	N	3:N	_
 5	obscure	_	Word	Word	_	3	C	3:C	_
@@ -26,9 +26,9 @@
 23	Prince	_	Word	Word	_	21	C	21:C	_
 24	,	_	Punctuation	Punctuation	_	21	U	21:U	_
 25	L	_	Word	Word	_	21	C	21:C	_
-26	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+26	.	_	Punctuation	Punctuation	_	25	U	25:U	_
 27	L	_	Word	Word	_	25	Terminal	25:Terminal	_
-28	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+28	.	_	Punctuation	Punctuation	_	25	U	25:U	_
 29	Cool	_	Word	Word	_	25	Terminal	25:Terminal	_
 30	J	_	Word	Word	_	25	Terminal	25:Terminal	_
 31	and	_	Word	Word	_	21	N	21:N	_

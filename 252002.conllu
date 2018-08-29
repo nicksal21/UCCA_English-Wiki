@@ -2,7 +2,7 @@
 # sent_id = 252002
 # text = Hawke said that he was drawn to the play 's take on " the nature of reality " , and its " weird juxtaposition of humor and mysticism " . In his review for the New York Times , Ben Brantley noted the production 's " scary , splendid clarity " , and praised Hawke for providing his cast " with a mood - stirring mise en scène " and , moreover , for eliciting a performance that " connoisseurs of precision acting will be savoring for years to come " . Entertainment Weekly commented that although A Lie of the Mind " wobbles a bit in its late stages " , Hawke 's " hearty " revival managed to " resurrect the spellbinding uneasiness of the original " . The production garnered five Lucille Lortel Award nominations including Outstanding Revival , and earned Hawke a Drama Desk Award nomination for Outstanding Director of a Play .
 1	Hawke	_	Word	Word	_	2	A	2:A	_
-2	said	_	Word	Word	_	0	root	0:root	_
+2	said	_	Word	Word	_	0	H	0:H	_
 3	that	_	Word	Word	_	6	F	6:F	_
 4	he	_	Word	Word	_	6	A	6:A	_
 5	was	_	Word	Word	_	6	F	6:F	_
@@ -55,7 +55,7 @@
 52	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 53	and	_	Word	Word	_	2	L	2:L	_
 54	praised	_	Word	Word	_	2	H	2:H	_
-55	Hawke	_	Word	Word	_	54	A	54:A|75:A|57:A	_
+55	Hawke	_	Word	Word	_	54	A	54:A|57:A|75:A	_
 56	for	_	Word	Word	_	57	R	57:R	_
 57	providing	_	Word	Word	_	54	A	54:A	_
 58	his	_	Word	Word	_	59	E	59:E	_
@@ -71,7 +71,7 @@
 68	scène	_	Word	Word	_	66	Terminal	66:Terminal	_
 69	"	_	Punctuation	Punctuation	_	57	U	57:U	_
 70	and	_	Word	Word	_	57	L	57:L	_
-71	,	_	Punctuation	Punctuation	_	57	U	57:U	_
+71	,	_	Punctuation	Punctuation	_	70	U	70:U	_
 72	moreover	_	Word	Word	_	70	Terminal	70:Terminal	_
 73	,	_	Punctuation	Punctuation	_	57	U	57:U	_
 74	for	_	Word	Word	_	75	R	75:R	_
@@ -132,7 +132,7 @@
 129	"	_	Punctuation	Punctuation	_	2	U	2:U	_
 130	.	_	Punctuation	Punctuation	_	2	U	2:U	_
 131	The	_	Word	Word	_	132	E	132:E	_
-132	production	_	Word	Word	_	2	orphan	2:orphan	_
+132	production	_	Word	Word	_	0	C	0:C|144:A	_
 133	garnered	_	Word	Word	_	2	H	2:H	_
 134	five	_	Word	Word	_	138	E	138:E	_
 135	Lucille	_	Word	Word	_	138	E	138:E	_

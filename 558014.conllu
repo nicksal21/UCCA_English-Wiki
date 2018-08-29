@@ -2,14 +2,14 @@
 # sent_id = 558014
 # text = Moore recalled , " During the instrumental parts he would back off from the mike and be playing and shaking , and the crowd would just go wild " . Black , a natural showman , whooped and rode his bass , hitting double licks that Presley would later remember as " really a wild sound , like a jungle drum or something " . Soon after , Moore and Black quit their old band to play with Presley regularly , and DJ and promoter Bob Neal became the trio 's manager .
 1	Moore	_	Word	Word	_	2	A	2:A	_
-2	recalled	_	Word	Word	_	0	root	0:root	_
+2	recalled	_	Word	Word	_	0	H	0:H	_
 3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 4	"	_	Punctuation	Punctuation	_	2	U	2:U	_
 5	During	_	Word	Word	_	8	R	8:R	_
 6	the	_	Word	Word	_	8	E	8:E	_
 7	instrumental	_	Word	Word	_	8	E	8:E	_
 8	parts	_	Word	Word	_	11	D	11:D	_
-9	he	_	Word	Word	_	11	A	11:A|20:A|18:A	_
+9	he	_	Word	Word	_	11	A	11:A|18:A|20:A	_
 10	would	_	Word	Word	_	11	D	11:D	_
 11	back	_	Word	Word	_	2	A	2:A	_
 12	off	_	Word	Word	_	11	Terminal	11:Terminal	_
@@ -31,7 +31,7 @@
 28	wild	_	Word	Word	_	27	Terminal	27:Terminal	_
 29	"	_	Punctuation	Punctuation	_	2	U	2:U	_
 30	.	_	Punctuation	Punctuation	_	2	U	2:U	_
-31	Black	_	Word	Word	_	2	orphan	2:orphan	_
+31	Black	_	Word	Word	_	0	C	0:C|43:A	_
 32	,	_	Punctuation	Punctuation	_	31	U	31:U	_
 33	a	_	Word	Word	_	35	E	35:E	_
 34	natural	_	Word	Word	_	35	E	35:E	_

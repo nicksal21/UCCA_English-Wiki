@@ -1,9 +1,9 @@
 # format = ucca
 # sent_id = 206006
 # text = Sidney W . Pink , a producer and 3D - movie pioneer , discovered him in one of his off-Broadway roles and cast him in Madigan 's Millions .
-1	Sidney	_	Word	Word	_	0	root	0:root	_
+1	Sidney	_	Word	Word	_	0	C	0:C|12:A|7:A|23:A	_
 2	W	_	Word	Word	_	1	Terminal	1:Terminal	_
-3	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+3	.	_	Punctuation	Punctuation	_	1	U	1:U	_
 4	Pink	_	Word	Word	_	1	Terminal	1:Terminal	_
 5	,	_	Punctuation	Punctuation	_	1	U	1:U	_
 6	a	_	Word	Word	_	7	E	7:E	_
@@ -14,7 +14,7 @@
 11	movie	_	Word	Word	_	12	E	12:E	_
 12	pioneer	_	Word	Word	_	7	C	7:C	_
 13	,	_	Punctuation	Punctuation	_	14	U	14:U	_
-14	discovered	_	Word	Word	_	1	orphan	1:orphan	_
+14	discovered	_	Word	Word	_	0	H	0:H	_
 15	him	_	Word	Word	_	14	A	14:A	_
 16	in	_	Word	Word	_	21	R	21:R	_
 17	one	_	Word	Word	_	21	E	21:E	_

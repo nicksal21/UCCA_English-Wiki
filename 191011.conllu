@@ -1,14 +1,14 @@
 # format = ucca
 # sent_id = 191011
 # text = Kenneth Turan in the Los Angeles Times described the film as " genial and entertaining if not notably inspired " , and believed its most interesting aspects were the " pipe dreams about the American political system and where it could theoretically be headed " .
-1	Kenneth	_	Word	Word	_	0	root	0:root	_
+1	Kenneth	_	Word	Word	_	0	C	0:C|23:A	_
 2	Turan	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	in	_	Word	Word	_	1	R	1:R	_
 4	the	_	Word	Word	_	5	E	5:E	_
 5	Los	_	Word	Word	_	1	E	1:E	_
 6	Angeles	_	Word	Word	_	5	Terminal	5:Terminal	_
 7	Times	_	Word	Word	_	5	Terminal	5:Terminal	_
-8	described	_	Word	Word	_	1	orphan	1:orphan	_
+8	described	_	Word	Word	_	0	H	0:H	_
 9	the	_	Word	Word	_	10	E	10:E	_
 10	film	_	Word	Word	_	8	A	8:A	_
 11	as	_	Word	Word	_	13	R	13:R	_

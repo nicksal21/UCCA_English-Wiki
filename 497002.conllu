@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 497002
 # text = Exploiting his androgynous appearance , the original cover of the UK version unveiled two months later depicted the singer wearing a dress : taking the garment with him , he wore it during interviews - to the approval of critics , including Rolling Stone 's John Mendelsohn who described him as " ravishing , almost disconcertingly reminiscent of Lauren Bacall " - and in the street , to mixed reaction including laughter and , in the case of one male pedestrian , producing a gun and telling Bowie to " kiss my ass " . During the tour Bowie 's observation of two seminal American proto - punk artists led him to develop a concept that eventually found form in the Ziggy Stardust character : a melding of the persona of Iggy Pop with the music of Lou Reed , producing " the ultimate pop idol " . A girlfriend recalled his " scrawling notes on a cocktail napkin about a crazy rock star named Iggy or Ziggy " , and on his return to England he declared his intention to create a character " who looks like he 's landed from Mars " .
-1	Exploiting	_	Word	Word	_	0	root	0:root	_
+1	Exploiting	_	Word	Word	_	0	H	0:H	_
 2	his	_	Word	Word	_	4	A	4:A	_
 3	androgynous	_	Word	Word	_	4	E	4:E	_
 4	appearance	_	Word	Word	_	1	A	1:A	_
@@ -50,7 +50,7 @@
 47	Mendelsohn	_	Word	Word	_	46	Terminal	46:Terminal	_
 48	who	_	Word	Word	_	49	F	49:F	_
 49	described	_	Word	Word	_	46	E	46:E	_
-50	him	_	Word	Word	_	49	A	49:A|53:A|57:A	_
+50	him	_	Word	Word	_	49	A	49:A|57:A|53:A	_
 51	as	_	Word	Word	_	53	R	53:R	_
 52	"	_	Punctuation	Punctuation	_	53	U	53:U	_
 53	ravishing	_	Word	Word	_	49	A	49:A	_
@@ -99,7 +99,7 @@
 96	During	_	Word	Word	_	1	L	1:L	_
 97	the	_	Word	Word	_	98	E	98:E	_
 98	tour	_	Word	Word	_	1	H	1:H	_
-99	Bowie	_	Word	Word	_	1	orphan	1:orphan	_
+99	Bowie	_	Word	Word	_	0	C	0:C|113:A	_
 100	's	_	Word	Word	_	99	R	99:R	_
 101	observation	_	Word	Word	_	110	A	110:A	_
 102	of	_	Word	Word	_	109	R	109:R	_

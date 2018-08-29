@@ -1,12 +1,12 @@
 # format = ucca
 # sent_id = 704003
 # text = Released in 1978 , the movie received generally poor , sometimes scathing , reviews and had a very brief theatrical run .
-1	Released	_	Word	Word	_	0	root	0:root	_
+1	Released	_	Word	Word	_	0	H	0:H	_
 2	in	_	Word	Word	_	3	R	3:R	_
 3	1978	_	Word	Word	_	1	D	1:D	_
 4	,	_	Punctuation	Punctuation	_	1	U	1:U	_
 5	the	_	Word	Word	_	6	E	6:E	_
-6	movie	_	Word	Word	_	1	orphan	1:orphan	_
+6	movie	_	Word	Word	_	0	C	0:C|1:A|21:A	_
 7	received	_	Word	Word	_	1	H	1:H	_
 8	generally	_	Word	Word	_	9	D	9:D	_
 9	poor	_	Word	Word	_	14	E	14:E	_

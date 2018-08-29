@@ -2,7 +2,7 @@
 # sent_id = 606007
 # text = Wings followed Band on the Run with the chart - topping albums Venus and Mars ( 1975 ) and Wings at the Speed of Sound ( 1976 ) . In 1975 , they began the fourteen - month Wings Over the World Tour , which included stops in the UK , Australia , Europe and the US .
 1	Wings	_	Word	Word	_	2	A	2:A	_
-2	followed	_	Word	Word	_	0	root	0:root	_
+2	followed	_	Word	Word	_	0	H	0:H	_
 3	Band	_	Word	Word	_	2	A	2:A	_
 4	on	_	Word	Word	_	3	Terminal	3:Terminal	_
 5	the	_	Word	Word	_	3	Terminal	3:Terminal	_
@@ -43,7 +43,7 @@
 40	Over	_	Word	Word	_	39	Terminal	39:Terminal	_
 41	the	_	Word	Word	_	39	Terminal	39:Terminal	_
 42	World	_	Word	Word	_	39	Terminal	39:Terminal	_
-43	Tour	_	Word	Word	_	2	orphan	2:orphan	_
+43	Tour	_	Word	Word	_	0	C	0:C|46:A	_
 44	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 45	which	_	Word	Word	_	2	L	2:L	_
 46	included	_	Word	Word	_	2	H	2:H	_

@@ -2,7 +2,7 @@
 # sent_id = 135002
 # text = A story of married lawyers who oppose each other in court , Hepburn described it as " perfect for [ Tracy ] and me " . She was instrumental in getting Judy Holliday cast in the film , which kick - started the young actress 's Hollywood career .
 1	A	_	Word	Word	_	2	E	2:E	_
-2	story	_	Word	Word	_	0	root	0:root	_
+2	story	_	Word	Word	_	0	H	0:H	_
 3	of	_	Word	Word	_	5	R	5:R	_
 4	married	_	Word	Word	_	5	E	5:E	_
 5	lawyers	_	Word	Word	_	2	E	2:E	_
@@ -37,7 +37,7 @@
 34	cast	_	Word	Word	_	31	A	31:A	_
 35	in	_	Word	Word	_	37	R	37:R	_
 36	the	_	Word	Word	_	37	E	37:E	_
-37	film	_	Word	Word	_	2	orphan	2:orphan	_
+37	film	_	Word	Word	_	0	C	0:C|42:A	_
 38	,	_	Punctuation	Punctuation	_	42	U	42:U	_
 39	which	_	Word	Word	_	42	F	42:F	_
 40	kick	_	Word	Word	_	42	E	42:E	_

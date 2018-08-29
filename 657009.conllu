@@ -2,10 +2,10 @@
 # sent_id = 657009
 # text = She signed a multi - million dollar contract deal with Island Records in 2002 , and after an unsuccessful period , returned to the top of music charts with The Emancipation of Mimi ( 2005 ) . Its second single " We Belong Together " became her most successful single of the 2000s , and was later named " Song of the Decade " by Billboard .
 1	She	_	Word	Word	_	2	A	2:A|20:A|22:A	_
-2	signed	_	Word	Word	_	0	root	0:root	_
+2	signed	_	Word	Word	_	0	H	0:H	_
 3	a	_	Word	Word	_	9	E	9:E	_
 4	multi	_	Word	Word	_	7	E	7:E	_
-5	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+5	-	_	Punctuation	Punctuation	_	4	U	4:U	_
 6	million	_	Word	Word	_	4	Terminal	4:Terminal	_
 7	dollar	_	Word	Word	_	9	E	9:E	_
 8	contract	_	Word	Word	_	9	E	9:E	_
@@ -40,7 +40,7 @@
 37	.	_	Punctuation	Punctuation	_	2	U	2:U	_
 38	Its	_	Word	Word	_	42	E	42:E	_
 39	second	_	Word	Word	_	40	E	40:E	_
-40	single	_	Word	Word	_	2	orphan	2:orphan	_
+40	single	_	Word	Word	_	0	C	0:C|58:A	_
 41	"	_	Punctuation	Punctuation	_	2	U	2:U	_
 42	We	_	Word	Word	_	46	A	46:A	_
 43	Belong	_	Word	Word	_	42	Terminal	42:Terminal	_

@@ -3,8 +3,8 @@
 # text = However , Abdul - Jabbar , who was now 38 years old , scored 30 points and grabbed 17 rebounds in Game 2 , and his 36 points in a Game 5 win were instrumental in establishing a 3 - 2 lead for Los Angeles .
 1	However	_	Word	Word	_	14	L	14:L	_
 2	,	_	Punctuation	Punctuation	_	14	U	14:U	_
-3	Abdul	_	Word	Word	_	0	root	0:root	_
-4	-	_	Punctuation	Punctuation	_	18	U	18:U	_
+3	Abdul	_	Word	Word	_	0	C	0:C|33:A|18:A|12:A	_
+4	-	_	Punctuation	Punctuation	_	3	U	3:U	_
 5	Jabbar	_	Word	Word	_	3	Terminal	3:Terminal	_
 6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 7	who	_	Word	Word	_	12	F	12:F	_
@@ -14,7 +14,7 @@
 11	years	_	Word	Word	_	12	E	12:E	_
 12	old	_	Word	Word	_	3	E	3:E	_
 13	,	_	Punctuation	Punctuation	_	14	U	14:U	_
-14	scored	_	Word	Word	_	3	orphan	3:orphan	_
+14	scored	_	Word	Word	_	0	H	0:H	_
 15	30	_	Word	Word	_	16	E	16:E	_
 16	points	_	Word	Word	_	14	A	14:A	_
 17	and	_	Word	Word	_	14	L	14:L	_
@@ -40,7 +40,7 @@
 37	establishing	_	Word	Word	_	14	H	14:H	_
 38	a	_	Word	Word	_	42	E	42:E	_
 39	3	_	Word	Word	_	42	E	42:E	_
-40	-	_	Punctuation	Punctuation	_	42	U	42:U	_
+40	-	_	Punctuation	Punctuation	_	39	U	39:U	_
 41	2	_	Word	Word	_	39	Terminal	39:Terminal	_
 42	lead	_	Word	Word	_	37	A	37:A	_
 43	for	_	Word	Word	_	44	R	44:R	_
