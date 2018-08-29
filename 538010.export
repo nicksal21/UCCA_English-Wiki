@@ -35,9 +35,9 @@ purchase	Word	--	Terminal	532
 price	Word	--	Terminal	533
 was	Word	--	Terminal	534
 $	Punctuation	--	Terminal	535
-1	Word	--	Terminal	536
-,	Punctuation	--	Terminal	537
-000	Word	--	Terminal	536
+1	Word	--	Terminal	537
+,	Punctuation	--	Terminal	536
+000	Word	--	Terminal	537
 ,	Punctuation	--	Terminal	538
 and	Word	--	Terminal	539
 Jack	Word	--	Terminal	540
@@ -58,7 +58,7 @@ to	Word	--	Terminal	553
 his	Word	--	Terminal	554
 obituary	Word	--	Terminal	555
 .	Punctuation	--	Terminal	556
-#500	FN	--	A	569	A*	577	A*	574
+#500	FN	--	A	569	A*	574	A*	573
 #501	FN	--	P	569
 #502	FN	--	E	557
 #503	FN	--	C	557
@@ -68,8 +68,8 @@ obituary	Word	--	Terminal	555
 #507	FN	--	C	558
 #508	FN	--	R	558
 #509	FN	--	C	559
-#510	FN	--	L	579	LR	580
-#511	FN	--	P	577
+#510	FN	--	L	578	LR	579
+#511	FN	--	P	574
 #512	FN	--	E	560
 #513	FN	--	C	560
 #514	FN	--	R	562
@@ -77,28 +77,28 @@ obituary	Word	--	Terminal	555
 #516	FN	--	C	561
 #517	FN	--	E	561
 #518	FN	--	C	562
-#519	FN	--	R	573
-#520	FN	--	E	573
-#521	FN	--	C	573	A*	571
-#522	FN	--	F	571
-#523	FN	--	F	571
-#524	PNCT	--	U	571
-#525	FN	--	D	571
+#519	FN	--	R	572
+#520	FN	--	E	572
+#521	FN	--	C	572	A*	570
+#522	FN	--	F	570
+#523	FN	--	F	570
+#524	PNCT	--	U	570
+#525	FN	--	D	570
 #526	FN	--	F	563
 #527	FN	--	E	563
 #528	FN	--	C	563
-#529	PNCT	--	U	579
-#530	PNCT	--	U	579
+#529	PNCT	--	U	578
+#530	PNCT	--	U	578
 #531	FN	--	E	564
 #532	FN	--	E	564
 #533	FN	--	C	564
-#534	FN	--	S	570
-#535	PNCT	--	U	570
-#536	FN	--	C	565
-#537	PNCT	--	U	565
-#538	PNCT	--	U	579
-#539	FN	--	L	579	LR	581
-#540	FN	--	A	576	A*	572
+#534	FN	--	S	565
+#535	PNCT	--	U	565
+#536	PNCT	--	U	537
+#537	FN	--	A	565
+#538	PNCT	--	U	578
+#539	FN	--	L	578	LR	580
+#540	FN	--	A	576	A*	571
 #541	FN	--	P	576
 #542	PNCT	--	U	576
 #543	FN	--	A	576
@@ -106,11 +106,11 @@ obituary	Word	--	Terminal	555
 #545	FN	--	E	566
 #546	FN	--	C	566
 #547	FN	--	R	575
-#548	FN	--	P	572
+#548	FN	--	P	571
 #549	FN	--	E	567
 #550	FN	--	C	567
-#551	PNCT	--	U	578
-#552	FN	--	P	578
+#551	PNCT	--	U	577
+#552	FN	--	P	577
 #553	FN	--	R	568
 #554	FN	--	E	568
 #555	FN	--	C	568
@@ -118,26 +118,25 @@ obituary	Word	--	Terminal	555
 #557	FN	--	A	569
 #558	FN	--	E	559
 #559	FN	--	A	569
-#560	FN	--	P	574
+#560	FN	--	P	573
 #561	FN	--	E	562
-#562	FN	--	A	574
-#563	FN	--	S	571
-#564	FN	--	A	570
-#565	FN	--	A	570
+#562	FN	--	A	573
+#563	FN	--	S	570
+#564	FN	--	A	565
+#565	FN	--	H	578	LA	580
 #566	FN	--	A	576
-#567	FN	--	A	572
-#568	FN	--	A	578
-#569	FN	--	H	579	LA	580
-#570	FN	--	H	579	LA	581
-#571	FN	--	E	573
-#572	FN	--	C	575
+#567	FN	--	A	571
+#568	FN	--	A	577
+#569	FN	--	H	578	LA	579
+#570	FN	--	E	572
+#571	FN	--	C	575
+#572	FN	--	A	573
 #573	FN	--	A	574
-#574	FN	--	A	577
+#574	FN	--	H	578	LA	579
 #575	FN	--	A	576
-#576	FN	--	A	578
-#577	FN	--	H	579	LA	580
-#578	FN	--	H	579	LA	581
-#579	FN	--	--	0
+#576	FN	--	A	577
+#577	FN	--	H	578	LA	580
+#578	FN	--	--	0
+#579	LKG	--	--	0
 #580	LKG	--	--	0
-#581	LKG	--	--	0
 #EOS 538010

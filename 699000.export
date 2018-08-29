@@ -21,11 +21,11 @@ death	Word	--	Terminal	515
 trip	Word	--	Terminal	515
 "	Punctuation	--	Terminal	516
 .	Punctuation	--	Terminal	517
-D	Word	--	Terminal	518
+D	Word	--	Terminal	520
+.	Punctuation	--	Terminal	518
+A	Word	--	Terminal	520
 .	Punctuation	--	Terminal	519
-A	Word	--	Terminal	518
-.	Punctuation	--	Terminal	520
-Pennebaker	Word	--	Terminal	518
+Pennebaker	Word	--	Terminal	520
 ,	Punctuation	--	Terminal	521
 the	Word	--	Terminal	522
 film	Word	--	Terminal	523
@@ -44,13 +44,13 @@ lot	Word	--	Terminal	535
 of	Word	--	Terminal	536
 amphetamine	Word	--	Terminal	537
 and	Word	--	Terminal	538
-who	Word	--	Terminal	539
+who	Word	--	Terminal	542
+-	Punctuation	--	Terminal	539
+knows	Word	--	Terminal	542
 -	Punctuation	--	Terminal	540
-knows	Word	--	Terminal	539
+what	Word	--	Terminal	542
 -	Punctuation	--	Terminal	541
-what	Word	--	Terminal	539
--	Punctuation	--	Terminal	542
-else	Word	--	Terminal	539
+else	Word	--	Terminal	542
 .	Punctuation	--	Terminal	543
 #500	FN	--	L	562	LR	563
 #501	FN	--	A	544
@@ -70,9 +70,9 @@ else	Word	--	Terminal	539
 #515	FN	--	C	546
 #516	PNCT	--	U	562
 #517	PNCT	--	U	562
-#518	FN	--	E	554
-#519	PNCT	--	U	554
-#520	PNCT	--	U	554
+#518	PNCT	--	U	520
+#519	PNCT	--	U	520
+#520	FN	--	E	554
 #521	PNCT	--	U	554
 #522	FN	--	E	547
 #523	FN	--	E	547
@@ -91,10 +91,10 @@ else	Word	--	Terminal	539
 #536	FN	--	R	550
 #537	FN	--	C	550
 #538	FN	--	N	551
-#539	FN	--	C	551
-#540	PNCT	--	U	551
-#541	PNCT	--	U	551
-#542	PNCT	--	U	551
+#539	PNCT	--	U	542
+#540	PNCT	--	U	542
+#541	PNCT	--	U	542
+#542	FN	--	C	551
 #543	PNCT	--	U	551
 #544	FN	--	H	562	LA	563
 #545	FN	--	H	558	LA	559
