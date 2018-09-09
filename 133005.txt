@@ -1,6 +1,6 @@
 # ::id 133005
-# ::tok Her terms accepted , Hepburn was also given the director and co-star of her choice , George Stevens and Spencer Tracy .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 4-1.2.1 6-1.2.3 7-1.2.4 8-1.2.5.1.1.1.1 9-1.2.5.1.1.1.2 10-1.2.5.1.1.2 11-1.2.5.1.1.3 12-1.2.5.1.2.1 13-1.2.5.1.2.2.2 14-1.2.5.1.2.2.3 16-1.2.5.2.1 17-1.2.5.2.1 18-1.2.5.2.2 19-1.2.5.2.3 20-1.2.5.2.3
+# ::tok Her terms accepted , Hepburn was also given the director and co - star of her choice , George Stevens and Spencer Tracy .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 4-1.2.1 6-1.2.3 7-1.2.4 8-1.2.5.1.1.1.1 9-1.2.5.1.1.1.2 10-1.2.5.1.1.2 11-1.2.5.1.1.3.1 13-1.2.5.1.1.3.2 14-1.2.5.1.2.1 15-1.2.5.1.2.2.2 16-1.2.5.1.2.2.3 18-1.2.5.2.1 19-1.2.5.2.1 20-1.2.5.2.2 21-1.2.5.2.3 22-1.2.5.2.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -19,14 +19,16 @@
                                           :E (v24 / label~e.8)
                                           :C (v25 / label~e.9))
                                   :N (v20 / label~e.10)
-                                  :C (v21 / label~e.11))
+                                  :C (v21 / label
+                                          :E (v26 / label~e.11)
+                                          :C (v27 / label~e.13)))
                           :E (v15 / label
-                                  :R (v22 / label~e.12)
+                                  :R (v22 / label~e.14)
                                   :C (v23 / label
                                           :A v14
-                                          :A (v26 / label~e.13)
-                                          :P (v27 / label~e.14))))
+                                          :A (v28 / label~e.15)
+                                          :P (v29 / label~e.16))))
                   :C (v13 / label
-                          :C (v16 / label~e.16,17)
-                          :N (v17 / label~e.18)
-                          :C (v18 / label~e.19,20)))))
+                          :C (v16 / label~e.18,19)
+                          :N (v17 / label~e.20)
+                          :C (v18 / label~e.21,22)))))

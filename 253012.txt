@@ -1,6 +1,6 @@
 # ::id 253012
-# ::tok Hawke is a relative of Tennessee Williams : Williams was his great-uncle on his father 's side .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.3.3.1 5-1.1.3.3.2 6-1.1.3.3.2 8-1.2.1 9-1.2.2 10-1.2.3.1 11-1.2.3.2 12-1.2.3.3.1 13-1.2.3.3.2 14-1.2.3.3.3.1 15-1.2.3.3.3.2 16-1.2.3.3.4
+# ::tok Hawke is a relative of Tennessee Williams : Williams was his great - uncle on his father 's side .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.3.3.1 5-1.1.3.3.2 6-1.1.3.3.2 8-1.2.1 9-1.2.2 10-1.2.3.1 11-1.2.3.2 13-1.2.3.2 14-1.2.3.3.1 15-1.2.3.3.2 16-1.2.3.3.3.1 17-1.2.3.3.3.2 18-1.2.3.3.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -17,11 +17,11 @@
            :S (v8 / label~e.9)
            :A (v9 / label
                   :E (v13 / label~e.10)
-                  :C (v14 / label~e.11)
+                  :C (v14 / label~e.11,13)
                   :E (v15 / label
-                          :R (v18 / label~e.12)
-                          :E (v19 / label~e.13)
+                          :R (v18 / label~e.14)
+                          :E (v19 / label~e.15)
                           :E (v20 / label
-                                  :C (v22 / label~e.14)
-                                  :R (v23 / label~e.15))
-                          :C (v21 / label~e.16)))))
+                                  :C (v22 / label~e.16)
+                                  :R (v23 / label~e.17))
+                          :C (v21 / label~e.18)))))
