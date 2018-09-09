@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 142001
-# text = She received a standing ovation , and joked with the audience , " I 'm very happy I did n't hear anyone call out ' It 's about time ' . " The following year , she was paired with John Wayne in the Western Rooster Cogburn , a sequel to his Oscar-winning film True Grit .
+# text = She received a standing ovation , and joked with the audience , " I 'm very happy I did n't hear anyone call out ' It 's about time ' . " The following year , she was paired with John Wayne in the Western Rooster Cogburn , a sequel to his Oscar - winning film True Grit .
 1	She	_	Word	Word	_	2	A	2:A|8:A	_
 2	received	_	Word	Word	_	0	H	0:H	_
 3	a	_	Word	Word	_	4	E	4:E	_
@@ -51,11 +51,13 @@
 48	,	_	Punctuation	Punctuation	_	46	U	46:U	_
 49	a	_	Word	Word	_	50	E	50:E	_
 50	sequel	_	Word	Word	_	46	E	46:E	_
-51	to	_	Word	Word	_	55	R	55:R	_
-52	his	_	Word	Word	_	55	E	55:E	_
-53	Oscar-winning	_	Word	Word	_	55	E	55:E	_
-54	film	_	Word	Word	_	55	E	55:E	_
-55	True	_	Word	Word	_	50	A	50:A	_
-56	Grit	_	Word	Word	_	55	Terminal	55:Terminal	_
-57	.	_	Punctuation	Punctuation	_	55	U	55:U	_
+51	to	_	Word	Word	_	57	R	57:R	_
+52	his	_	Word	Word	_	57	E	57:E	_
+53	Oscar	_	Word	Word	_	55	E	55:E	_
+54	-	_	Punctuation	Punctuation	_	55	U	55:U	_
+55	winning	_	Word	Word	_	57	E	57:E	_
+56	film	_	Word	Word	_	57	E	57:E	_
+57	True	_	Word	Word	_	50	A	50:A	_
+58	Grit	_	Word	Word	_	57	Terminal	57:Terminal	_
+59	.	_	Punctuation	Punctuation	_	57	U	57:U	_
 

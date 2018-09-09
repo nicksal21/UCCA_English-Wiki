@@ -1,10 +1,12 @@
 # format = ucca
 # sent_id = 208009
-# text = His co-star was Jessica Lange .
-1	His	_	Word	Word	_	2	E	2:E	_
-2	co-star	_	Word	Word	_	3	A	3:A	_
-3	was	_	Word	Word	_	0	H	0:H	_
-4	Jessica	_	Word	Word	_	3	A	3:A	_
-5	Lange	_	Word	Word	_	4	Terminal	4:Terminal	_
-6	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+# text = His co - star was Jessica Lange .
+1	His	_	Word	Word	_	4	E	4:E	_
+2	co	_	Word	Word	_	4	E	4:E	_
+3	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+4	star	_	Word	Word	_	5	A	5:A	_
+5	was	_	Word	Word	_	0	H	0:H	_
+6	Jessica	_	Word	Word	_	5	A	5:A	_
+7	Lange	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	.	_	Punctuation	Punctuation	_	5	U	5:U	_
 

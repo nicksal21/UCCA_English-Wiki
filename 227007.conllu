@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 227007
-# text = In response to Golden Harvest 's withdrawal from the film industry in 2003 , Chan started his own film production company , JCE Movies Limited ( Jackie Chan Emperor Movies Limited ) in association with Emperor Multimedia Group ( EMG ) . His films have since featured an increasing number of dramatic scenes while continuing to succeed at the box office ; examples include New Police Story ( 2004 ) , The Myth ( 2005 ) and the hit film Rob-B-Hood ( 2006 ) .
+# text = In response to Golden Harvest 's withdrawal from the film industry in 2003 , Chan started his own film production company , JCE Movies Limited ( Jackie Chan Emperor Movies Limited ) in association with Emperor Multimedia Group ( EMG ) . His films have since featured an increasing number of dramatic scenes while continuing to succeed at the box office ; examples include New Police Story ( 2004 ) , The Myth ( 2005 ) and the hit film Rob - B - Hood ( 2006 ) .
 1	In	_	Word	Word	_	2	R	2:R	_
 2	response	_	Word	Word	_	7	L	7:L	_
 3	to	_	Word	Word	_	2	F	2:F	_
@@ -44,7 +44,7 @@
 41	)	_	Punctuation	Punctuation	_	7	U	7:U	_
 42	.	_	Punctuation	Punctuation	_	7	U	7:U	_
 43	His	_	Word	Word	_	44	E	44:E	_
-44	films	_	Word	Word	_	47	A	47:A|57:A|55:A	_
+44	films	_	Word	Word	_	47	A	47:A|55:A|57:A	_
 45	have	_	Word	Word	_	47	F	47:F	_
 46	since	_	Word	Word	_	47	D	47:D	_
 47	featured	_	Word	Word	_	7	H	7:H	_
@@ -81,9 +81,13 @@
 78	the	_	Word	Word	_	81	E	81:E	_
 79	hit	_	Word	Word	_	80	E	80:E	_
 80	film	_	Word	Word	_	81	E	81:E	_
-81	Rob-B-Hood	_	Word	Word	_	65	C	65:C	_
-82	(	_	Punctuation	Punctuation	_	81	U	81:U	_
-83	2006	_	Word	Word	_	81	E	81:E	_
-84	)	_	Punctuation	Punctuation	_	81	U	81:U	_
-85	.	_	Punctuation	Punctuation	_	81	U	81:U	_
+81	Rob	_	Word	Word	_	65	C	65:C	_
+82	-	_	Punctuation	Punctuation	_	81	U	81:U	_
+83	B	_	Word	Word	_	81	Terminal	81:Terminal	_
+84	-	_	Punctuation	Punctuation	_	81	U	81:U	_
+85	Hood	_	Word	Word	_	81	Terminal	81:Terminal	_
+86	(	_	Punctuation	Punctuation	_	81	U	81:U	_
+87	2006	_	Word	Word	_	81	E	81:E	_
+88	)	_	Punctuation	Punctuation	_	81	U	81:U	_
+89	.	_	Punctuation	Punctuation	_	81	U	81:U	_
 

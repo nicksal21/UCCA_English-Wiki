@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 206006
-# text = Sidney W . Pink , a producer and 3D - movie pioneer , discovered him in one of his off-Broadway roles and cast him in Madigan 's Millions .
-1	Sidney	_	Word	Word	_	0	C	0:C|12:A|7:A|23:A	_
+# text = Sidney W . Pink , a producer and 3D - movie pioneer , discovered him in one of his off - Broadway roles and cast him in Madigan 's Millions .
+1	Sidney	_	Word	Word	_	0	C	0:C|7:A|12:A|25:A	_
 2	W	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	.	_	Punctuation	Punctuation	_	1	U	1:U	_
 4	Pink	_	Word	Word	_	1	Terminal	1:Terminal	_
@@ -16,18 +16,20 @@
 13	,	_	Punctuation	Punctuation	_	14	U	14:U	_
 14	discovered	_	Word	Word	_	0	H	0:H	_
 15	him	_	Word	Word	_	14	A	14:A	_
-16	in	_	Word	Word	_	21	R	21:R	_
-17	one	_	Word	Word	_	21	E	21:E	_
+16	in	_	Word	Word	_	23	R	23:R	_
+17	one	_	Word	Word	_	23	E	23:E	_
 18	of	_	Word	Word	_	17	R	17:R	_
-19	his	_	Word	Word	_	21	A	21:A	_
-20	off-Broadway	_	Word	Word	_	21	E	21:E	_
-21	roles	_	Word	Word	_	14	A	14:A	_
-22	and	_	Word	Word	_	14	L	14:L	_
-23	cast	_	Word	Word	_	14	H	14:H	_
-24	him	_	Word	Word	_	23	A	23:A	_
-25	in	_	Word	Word	_	26	R	26:R	_
-26	Madigan	_	Word	Word	_	23	A	23:A	_
-27	's	_	Word	Word	_	26	Terminal	26:Terminal	_
-28	Millions	_	Word	Word	_	26	Terminal	26:Terminal	_
-29	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+19	his	_	Word	Word	_	23	A	23:A	_
+20	off	_	Word	Word	_	23	E	23:E	_
+21	-	_	Punctuation	Punctuation	_	20	U	20:U	_
+22	Broadway	_	Word	Word	_	20	Terminal	20:Terminal	_
+23	roles	_	Word	Word	_	14	A	14:A	_
+24	and	_	Word	Word	_	14	L	14:L	_
+25	cast	_	Word	Word	_	14	H	14:H	_
+26	him	_	Word	Word	_	25	A	25:A	_
+27	in	_	Word	Word	_	28	R	28:R	_
+28	Madigan	_	Word	Word	_	25	A	25:A	_
+29	's	_	Word	Word	_	28	Terminal	28:Terminal	_
+30	Millions	_	Word	Word	_	28	Terminal	28:Terminal	_
+31	.	_	Punctuation	Punctuation	_	28	U	28:U	_
 
