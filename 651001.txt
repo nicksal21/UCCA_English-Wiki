@@ -1,6 +1,6 @@
 # ::id 651001
 # ::tok However , the FBI considered Lennon to have limited effectiveness as a revolutionary since he was " constantly under the influence of narcotics " .
-# ::alignments 0-1.1 2-1.2.1.1 3-1.2.1.2 4-1.2.2 5-1.2.3 8-1.2.4.4 9-1.2.4.2.2 10-1.2.4.5.1 11-1.2.4.5.2 12-1.2.4.5.3 13-1.3 14-1.4.1 17-1.4.3 18-1.4.4 19-1.4.4 20-1.4.4 21-1.4.5.1 22-1.4.5.2
+# ::alignments 0-1.1 2-1.2.1.1 3-1.2.1.2 4-1.2.2 5-1.2.3 8-1.2.4.4 9-1.2.4.2.2 10-1.2.4.5.1 11-1.2.4.5.2 12-1.2.4.5.3 13-1.3 14-1.4.6 17-1.4.2 18-1.4.3 19-1.4.3 20-1.4.3 21-1.4.4.1 22-1.4.4.2
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
@@ -21,9 +21,9 @@
                           :C (v24 / label~e.12))))
     :L (v4 / label~e.13)
     :H (v5 / label
-           :A (v10 / label~e.14)
-           :D (v11 / label~e.17)
-           :P (v12 / label~e.18,19,20)
-           :A (v13 / label
+           :D (v10 / label~e.17)
+           :P (v11 / label~e.18,19,20)
+           :A (v12 / label
                    :R (v19 / label~e.21)
-                   :C (v20 / label~e.22))))
+                   :C (v20 / label~e.22))
+           :A (v13 / label~e.14)))

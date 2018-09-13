@@ -1,6 +1,6 @@
 # ::id 960011
 # ::tok David Niven said she had been " quite , quite mad " ; and in his diary Noël Coward expressed surprise that " things had been bad and getting worse since 1948 or thereabouts .
-# ::alignments 0-1.1.1 1-1.1.1 2-1.1.2 3-1.1.3.1 4-1.1.3.2.1.1 5-1.1.3.2.1.2 7-1.1.3.2.2 9-1.1.3.2.3 10-1.1.3.2.4 13-1.2 14-1.3.1.1 15-1.3.1.2 16-1.3.1.3 17-1.3.2 18-1.3.2 19-1.3.3 20-1.3.4.1 23-1.3.4.2.2 24-1.3.4.2.3.1.1.1 25-1.3.4.2.3.1.1.2 26-1.3.4.2.3.1.2 27-1.3.4.2.3.2 28-1.3.4.2.3.3.1 29-1.3.4.2.3.3.2 30-1.3.4.2.4.1 31-1.3.4.2.4.2.1 32-1.3.4.2.4.2.2 33-1.3.4.2.4.2.3
+# ::alignments 0-1.1.1 1-1.1.1 2-1.1.2 3-1.1.3.1 4-1.1.3.2.1.1 5-1.1.3.2.1.2 7-1.1.3.2.2 9-1.1.3.2.3 10-1.1.3.2.4 13-1.2 14-1.3.3.1 15-1.3.3.2 16-1.3.3.3 17-1.3.4 18-1.3.4 19-1.3.1 20-1.3.2.1 23-1.3.2.2.2 24-1.3.2.2.3.1.1.1 25-1.3.2.2.3.1.1.2 26-1.3.2.2.3.1.2 27-1.3.2.2.3.2 28-1.3.2.2.3.3.1 29-1.3.2.2.3.3.2 30-1.3.2.2.4.1 31-1.3.2.2.4.2.1 32-1.3.2.2.4.2.2 33-1.3.2.2.4.2.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -17,29 +17,29 @@
                           :C (v22 / label~e.10))))
     :L (v3 / label~e.13)
     :H (v4 / label
-           :A (v8 / label
-                  :R (v14 / label~e.14)
-                  :E (v15 / label~e.15)
-                  :C (v16 / label~e.16))
-           :A (v9 / label~e.17,18)
-           :P (v10 / label~e.19)
-           :A (v11 / label
-                   :C (v17 / label~e.20)
-                   :E (v18 / label
-                           :A (v23 / label~e.23)
-                           :S (v24 / label
-                                   :C (v28 / label
-                                           :E (v33 / label
-                                                   :E (v40 / label~e.24)
-                                                   :C (v41 / label~e.25))
-                                           :C (v34 / label~e.26))
-                                   :N (v29 / label~e.27)
-                                   :C (v30 / label
-                                           :C (v35 / label~e.28)
-                                           :E (v36 / label~e.29)))
-                           :D (v25 / label
-                                   :R (v31 / label~e.30)
-                                   :C (v32 / label
-                                           :C (v37 / label~e.31)
-                                           :N (v38 / label~e.32)
-                                           :C (v39 / label~e.33)))))))
+           :P (v8 / label~e.19)
+           :A (v9 / label
+                  :C (v14 / label~e.20)
+                  :E (v15 / label
+                          :A (v23 / label~e.23)
+                          :S (v24 / label
+                                  :C (v28 / label
+                                          :E (v33 / label
+                                                  :E (v40 / label~e.24)
+                                                  :C (v41 / label~e.25))
+                                          :C (v34 / label~e.26))
+                                  :N (v29 / label~e.27)
+                                  :C (v30 / label
+                                          :C (v35 / label~e.28)
+                                          :E (v36 / label~e.29)))
+                          :D (v25 / label
+                                  :R (v31 / label~e.30)
+                                  :C (v32 / label
+                                          :C (v37 / label~e.31)
+                                          :N (v38 / label~e.32)
+                                          :C (v39 / label~e.33)))))
+           :A (v10 / label
+                   :R (v16 / label~e.14)
+                   :E (v17 / label~e.15)
+                   :C (v18 / label~e.16))
+           :A (v11 / label~e.17,18)))

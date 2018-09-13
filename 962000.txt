@@ -1,6 +1,6 @@
 # ::id 962000
 # ::tok In 1960 , she and Olivier divorced and Olivier married actress Joan Plowright .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.2.1 4-1.1.2.2 5-1.1.2.3 6-1.1.3 7-1.2 8-1.3.1 9-1.3.2 10-1.3.3.1 11-1.3.3.2 12-1.3.3.2
+# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.2.1 4-1.1.2.2 5-1.1.2.3 6-1.1.3 7-1.2 8-1.3.1 9-1.3.2 10-1.3.3.3 11-1.3.3.1 12-1.3.3.1
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -17,5 +17,5 @@
            :A (v8 / label~e.8)
            :P (v9 / label~e.9)
            :A (v10 / label
-                   :E (v16 / label~e.10)
-                   :C (v17 / label~e.11,12))))
+                   :C (v16 / label~e.11,12)
+                   :E (v17 / label~e.10))))
