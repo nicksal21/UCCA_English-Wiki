@@ -1,6 +1,6 @@
 # ::id 525002
 # ::tok She was deeply devoted to him and was devastated in early 1940 when he eloped with Lana Turner .
-# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4 4-1.1.5.1 5-1.1.5.2 6-1.2 8-1.3.2 9-1.3.3.1 10-1.3.3.2 11-1.3.3.3 12-1.4 13-1.5.1 14-1.5.2 15-1.5.3.1 16-1.5.3.2 17-1.5.3.2
+# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4 4-1.1.5.1 5-1.1.5.2 6-1.2 8-1.3.2 9-1.3.3.1 10-1.3.3.2 11-1.3.3.3 12-1.4 13-1.5.2 14-1.5.3 15-1.5.1.1 16-1.5.1.2 17-1.5.1.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -20,8 +20,8 @@
            :A v7)
     :L (v5 / label~e.12)
     :H (v6 / label
-           :A (v13 / label~e.13)
-           :P (v14 / label~e.14)
-           :A (v15 / label
+           :A (v13 / label
                    :R (v21 / label~e.15)
-                   :C (v22 / label~e.16,17))))
+                   :C (v22 / label~e.16,17))
+           :A (v14 / label~e.13)
+           :P (v15 / label~e.14)))

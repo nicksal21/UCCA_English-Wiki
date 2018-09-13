@@ -1,6 +1,6 @@
 # ::id 588000
 # ::tok The 2003 Walt Disney Pictures film Pirates of the Caribbean : The Curse of the Black Pearl was a major success , in which Depp 's performance as the suave but shambling pirate Captain Jack Sparrow was highly praised .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3.1 3-1.1.1.3.1 4-1.1.1.3.1 5-1.1.1.3.2 6-1.1.1.4 7-1.1.1.4 8-1.1.1.4 9-1.1.1.4 11-1.1.1.4 12-1.1.1.4 13-1.1.1.4 14-1.1.1.4 15-1.1.1.4 16-1.1.1.4 18-1.1.3.1 19-1.1.3.2 20-1.1.4 22-1.2.1 24-1.3.1.1.1 25-1.3.1.1.2 26-1.3.1.2 27-1.3.1.3.1 28-1.3.1.3.2 29-1.3.1.3.3.1.1 30-1.3.1.3.3.1.2 31-1.3.1.3.3.1.3 32-1.3.1.3.3.2 33-1.3.1.3.4 34-1.3.1.3.4 35-1.3.1.3.4 37-1.3.3 38-1.3.4
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3.1 3-1.1.1.3.1 4-1.1.1.3.1 5-1.1.1.3.2 6-1.1.1.4 7-1.1.1.4 8-1.1.1.4 9-1.1.1.4 11-1.1.1.4 12-1.1.1.4 13-1.1.1.4 14-1.1.1.4 15-1.1.1.4 16-1.1.1.4 18-1.1.3.1 19-1.1.3.2 20-1.1.4 22-1.2.1 24-1.3.3.1.1 25-1.3.3.1.2 26-1.3.3.2 27-1.3.3.3.1 28-1.3.3.3.2 29-1.3.3.3.3.1.1 30-1.3.3.3.3.1.2 31-1.3.3.3.3.1.3 32-1.3.3.3.3.2 33-1.3.3.3.4 34-1.3.3.3.4 35-1.3.3.3.4 37-1.3.5 38-1.3.1
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -18,20 +18,20 @@
     :L (v3 / label
            :C (v8 / label~e.22))
     :H (v4 / label
-           :A (v9 / label
-                  :A (v18 / label
-                          :C (v23 / label~e.24)
-                          :R (v24 / label~e.25))
-                  :P (v19 / label~e.26)
-                  :A (v20 / label
-                          :R (v25 / label~e.27)
-                          :E (v26 / label~e.28)
-                          :E (v27 / label
-                                  :E (v29 / label
-                                          :C (v31 / label~e.29)
-                                          :N (v32 / label~e.30)
-                                          :C (v33 / label~e.31))
-                                  :C (v30 / label~e.32))
-                          :C (v28 / label~e.33,34,35)))
-           :D (v10 / label~e.37)
-           :P (v11 / label~e.38)))
+           :P (v9 / label~e.38)
+           :A (v10 / label
+                   :A (v18 / label
+                           :C (v23 / label~e.24)
+                           :R (v24 / label~e.25))
+                   :P (v19 / label~e.26)
+                   :A (v20 / label
+                           :R (v25 / label~e.27)
+                           :E (v26 / label~e.28)
+                           :E (v27 / label
+                                   :E (v29 / label
+                                           :C (v31 / label~e.29)
+                                           :N (v32 / label~e.30)
+                                           :C (v33 / label~e.31))
+                                   :C (v30 / label~e.32))
+                           :C (v28 / label~e.33,34,35)))
+           :D (v11 / label~e.37)))

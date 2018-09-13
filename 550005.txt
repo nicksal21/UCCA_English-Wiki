@@ -1,6 +1,6 @@
 # ::id 550005
 # ::tok Then , during a visit to his father 's hospital room , the young man offended Ann Warner , whom he largely blamed for his parents ' divorce .
-# ::alignments 0-1.1 2-1.2 3-1.3.2.1 4-1.3.2.2 5-1.3.3.1 6-1.3.3.2.1 7-1.3.3.2.2 8-1.3.3.2.3 9-1.3.3.3 10-1.3.3.4 12-1.4.1.1 13-1.4.1.2 14-1.4.1.3 15-1.4.2 16-1.4.3.1 17-1.4.3.1 20-1.4.3.2.3 21-1.4.3.2.4 22-1.4.3.2.5 23-1.4.3.2.6.1 24-1.4.3.2.6.2.1.1 25-1.4.3.2.6.2.1.2 27-1.4.3.2.6.2.2
+# ::alignments 0-1.1 2-1.2 3-1.3.2.1 4-1.3.2.2 5-1.3.3.1 6-1.3.3.2.1 7-1.3.3.2.2 8-1.3.3.2.3 9-1.3.3.3 10-1.3.3.4 12-1.4.3.1 13-1.4.3.2 14-1.4.3.3 15-1.4.1 16-1.4.2.1 17-1.4.2.1 20-1.4.2.2.3 21-1.4.2.2.4 22-1.4.2.2.5 23-1.4.2.2.6.1 24-1.4.2.2.6.2.1.1 25-1.4.2.2.6.2.1.2 27-1.4.2.2.6.2.2
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
@@ -19,15 +19,11 @@
                   :E (v16 / label~e.9)
                   :C (v17 / label~e.10)))
     :H (v5 / label
-           :A (v9 / label
-                  :E (v18 / label~e.12)
-                  :E (v19 / label~e.13)
-                  :C (v20 / label~e.14))
-           :P (v10 / label~e.15)
-           :A (v11 / label
-                   :C (v21 / label~e.16,17)
-                   :E (v22 / label
-                           :A v21
+           :P (v9 / label~e.15)
+           :A (v10 / label
+                   :C (v18 / label~e.16,17)
+                   :E (v19 / label
+                           :A v18
                            :A (v26 / label~e.20)
                            :D (v27 / label~e.21)
                            :P (v28 / label~e.22)
@@ -37,4 +33,8 @@
                                            :A (v32 / label
                                                    :E (v34 / label~e.24)
                                                    :C (v35 / label~e.25))
-                                           :P (v33 / label~e.27)))))))
+                                           :P (v33 / label~e.27)))))
+           :A (v11 / label
+                   :E (v20 / label~e.12)
+                   :E (v21 / label~e.13)
+                   :C (v22 / label~e.14))))

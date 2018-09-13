@@ -1,6 +1,6 @@
 # ::id 528014
 # ::tok Before release , it was edited at the instruction of Jack Warner ; theater operators , concerned that they were losing money because they were only able to run the film for three or four shows per day instead of five or six , pressured the studio to make additional reductions .
-# ::alignments 0-1.1 1-1.2.2 3-1.2.1 5-1.3.3 6-1.3.4.1 7-1.3.4.2 8-1.3.4.3 9-1.3.4.4.1 10-1.3.4.4.2 11-1.3.4.4.2 13-1.4.1.1.1.1 14-1.4.1.1.1.2 16-1.4.1.1.2 18-1.4.1.1.3.2 20-1.4.1.1.3.4 21-1.4.1.1.3.5 22-1.4.1.2 23-1.4.1.3.1 25-1.4.1.3.4 26-1.4.1.3.2.1 28-1.4.1.3.2.2 29-1.4.1.3.6.1 30-1.4.1.3.6.2 31-1.4.1.3.7.1 32-1.4.1.3.7.2.1.1 33-1.4.1.3.7.2.1.2 34-1.4.1.3.7.2.1.3 35-1.4.1.3.7.3 36-1.4.1.3.7.4.1 37-1.4.1.3.7.4.2 38-1.4.1.3.7.2.2.1 39-1.4.1.3.7.2.2.2 40-1.4.1.3.7.2.3.1 41-1.4.1.3.7.2.3.2 42-1.4.1.3.7.2.3.3 44-1.4.2 45-1.4.3.1 46-1.4.3.2 48-1.4.4.2 49-1.4.4.3.1 50-1.4.4.3.2
+# ::alignments 0-1.1 1-1.2.2 3-1.2.1 5-1.3.3 6-1.3.4.1 7-1.3.4.2 8-1.3.4.3 9-1.3.4.4.1 10-1.3.4.4.2 11-1.3.4.4.2 13-1.4.4.1.1.1 14-1.4.4.1.1.2 16-1.4.4.1.2 18-1.4.4.1.3.2 20-1.4.4.1.3.4 21-1.4.4.1.3.5 22-1.4.4.2 23-1.4.4.3.1 25-1.4.4.3.4 26-1.4.4.3.2.1 28-1.4.4.3.2.2 29-1.4.4.3.6.1 30-1.4.4.3.6.2 31-1.4.4.3.7.1 32-1.4.4.3.7.2.1.1 33-1.4.4.3.7.2.1.2 34-1.4.4.3.7.2.1.3 35-1.4.4.3.7.3 36-1.4.4.3.7.4.1 37-1.4.4.3.7.4.2 38-1.4.4.3.7.2.2.1 39-1.4.4.3.7.2.2.2 40-1.4.4.3.7.2.3.1 41-1.4.4.3.7.2.3.2 42-1.4.4.3.7.2.3.3 44-1.4.5 45-1.4.1.1 46-1.4.1.2 48-1.4.2.2 49-1.4.2.3.1 50-1.4.2.3.2
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
@@ -19,26 +19,35 @@
                           :C (v26 / label~e.10,11))))
     :H (v5 / label
            :A (v10 / label
-                   :H (v18 / label
-                           :A (v27 / label
+                   :E (v18 / label~e.45)
+                   :C (v19 / label~e.46))
+           :A (v11 / label
+                   :P (v20 / label~e.48)
+                   :A (v21 / label
+                           :E (v27 / label~e.49)
+                           :C (v28 / label~e.50))
+                   :A v19)
+           :A (v12 / label
+                   :H (v22 / label
+                           :A (v29 / label
                                    :E (v37 / label~e.13)
                                    :C (v38 / label~e.14))
-                           :S (v28 / label~e.16)
-                           :A (v29 / label
+                           :S (v30 / label~e.16)
+                           :A (v31 / label
                                    :A (v39 / label~e.18)
                                    :D (v40 / label~e.20)
                                    :S (v41 / label~e.21)))
-                   :L (v19 / label~e.22)
-                   :H (v20 / label
-                           :A (v30 / label~e.23)
-                           :P (v31 / label
+                   :L (v23 / label~e.22)
+                   :H (v24 / label
+                           :A (v32 / label~e.23)
+                           :P (v33 / label
                                    :E (v42 / label~e.26)
                                    :C (v43 / label~e.28))
-                           :D (v32 / label~e.25)
-                           :A (v33 / label
+                           :D (v34 / label~e.25)
+                           :A (v35 / label
                                    :E (v44 / label~e.29)
                                    :C (v45 / label~e.30))
-                           :A (v34 / label
+                           :A (v36 / label
                                    :R (v46 / label~e.31)
                                    :E (v47 / label
                                            :C (v50 / label
@@ -56,13 +65,4 @@
                                    :E (v49 / label
                                            :R (v53 / label~e.36)
                                            :C (v54 / label~e.37)))))
-           :P (v11 / label~e.44)
-           :A (v12 / label
-                   :E (v21 / label~e.45)
-                   :C (v22 / label~e.46))
-           :A (v13 / label
-                   :P (v23 / label~e.48)
-                   :A (v24 / label
-                           :E (v35 / label~e.49)
-                           :C (v36 / label~e.50))
-                   :A v22)))
+           :P (v13 / label~e.44)))
