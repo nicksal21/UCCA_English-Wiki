@@ -1,7 +1,7 @@
 The UCCA Wikipedia Corpus
 =========================
-Version 1.2.2 (August 8, 2018)
-------------------------------
+Version 1.2.3 (September 23, 2018)
+----------------------------------
 
 This bundle contains 367 passages annotated according to the foundational layer of UCCA. 
 The passages are given as xmls in a format which is described below. The total number of tokens 
