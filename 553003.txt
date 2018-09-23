@@ -1,0 +1,28 @@
+# ::id 553003
+# ::tok Born in Tupelo , Mississippi , Presley moved to Memphis , Tennessee , with his family at the age of 13 .
+# ::alignments 0-1.1.1 1-1.1.2.1 2-1.1.2.2 4-1.1.2.2 6-1.1.4 7-1.2.3 8-1.2.4.1 9-1.2.4.2 11-1.2.4.2 13-1.2.5.1 14-1.2.5.2 15-1.2.5.3 16-1.2.6.1 17-1.2.6.2 18-1.2.6.3 19-1.2.6.4.1 20-1.2.6.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v4 / label~e.0)
+           :A (v5 / label
+                  :R (v11 / label~e.1)
+                  :C (v12 / label~e.2,4))
+           :A (v6 / label~e.6))
+    :H (v3 / label
+           :A v6
+           :P (v7 / label~e.7)
+           :A (v8 / label
+                  :R (v13 / label~e.8)
+                  :C (v14 / label~e.9,11))
+           :A (v9 / label
+                  :R (v15 / label~e.13)
+                  :E (v16 / label~e.14)
+                  :C (v17 / label~e.15))
+           :A (v10 / label
+                   :R (v18 / label~e.16)
+                   :E (v19 / label~e.17)
+                   :C (v20 / label~e.18)
+                   :E (v21 / label
+                           :R (v22 / label~e.19)
+                           :C (v23 / label~e.20)))))
