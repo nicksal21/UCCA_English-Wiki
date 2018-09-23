@@ -1,0 +1,57 @@
+# ::id 666014
+# ::tok " Vibe magazine expressed similar sentiments , writing , " She pulls out all stops [ ... ] Rainbow will garner even more adoration " . Though a commercial success , Rainbow became Carey 's lowest selling album to that point in her career .
+# ::alignments 1-1.1.1.1 2-1.2.3 3-1.1.2 4-1.1.3.1 5-1.1.3.2 7-1.2.1 10-1.2.2.1.1 11-1.2.2.1.2.1 12-1.2.2.1.2.1 13-1.2.2.1.2.2.1 14-1.2.2.1.2.2.2 18-1.2.2.2.1 20-1.2.2.2.3 21-1.2.2.2.4.1 22-1.2.2.2.4.2 23-1.2.2.2.5 26-1.3 27-1.4.2.1 28-1.4.3 29-1.4.2.2 31-1.4.1 32-1.5.2 33-1.5.3.1.1 34-1.5.3.1.2 35-1.5.3.2.1 36-1.5.3.2.2 37-1.5.3.3 38-1.5.4.1 39-1.5.4.2 40-1.5.4.3 41-1.5.4.4.1 42-1.5.4.4.2 43-1.5.4.4.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label
+                  :E (v19 / label~e.1)
+                  :C (v12 / label~e.2))
+           :P (v8 / label~e.3)
+           :A (v9 / label
+                  :E (v20 / label~e.4)
+                  :C (v21 / label~e.5)))
+    :H (v3 / label
+           :P (v10 / label~e.7)
+           :A (v11 / label
+                   :H (v22 / label
+                           :A (v33 / label~e.10)
+                           :P (v34 / label
+                                   :C (v46 / label~e.11,12)
+                                   :E (v47 / label
+                                           :E (v50 / label~e.13)
+                                           :C (v51 / label~e.14))))
+                   :H (v23 / label
+                           :A (v35 / label~e.18)
+                           :D (v36 / label~e.20)
+                           :D (v37 / label
+                                   :R (v48 / label~e.21)
+                                   :C (v49 / label~e.22))
+                           :S (v38 / label~e.23)))
+           :A v12)
+    :L (v4 / label~e.26)
+    :H (v5 / label
+           :A (v13 / label~e.31)
+           :S (v14 / label
+                   :E (v24 / label~e.27)
+                   :C (v25 / label~e.29))
+           :A (v15 / label~e.28))
+    :H (v6 / label
+           :A v13
+           :S (v16 / label~e.32)
+           :A (v17 / label
+                   :E (v26 / label
+                           :C (v39 / label~e.33)
+                           :R (v40 / label~e.34))
+                   :E (v27 / label
+                           :E (v41 / label~e.35)
+                           :C (v42 / label~e.36))
+                   :C (v28 / label~e.37))
+           :D (v18 / label
+                   :R (v29 / label~e.38)
+                   :E (v30 / label~e.39)
+                   :C (v31 / label~e.40)
+                   :E (v32 / label
+                           :R (v43 / label~e.41)
+                           :E (v44 / label~e.42)
+                           :C (v45 / label~e.43)))))
