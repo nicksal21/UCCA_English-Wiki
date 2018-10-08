@@ -15,7 +15,7 @@
       <attributes paragraph="1" paragraph_position="3" text="US" />
       <extra orig_paragraph="3" />
     </node>
-    <node ID="0.4" type="Punctuation">
+    <node ID="0.4" type="Word">
       <attributes paragraph="1" paragraph_position="4" text="$" />
       <extra orig_paragraph="3" />
     </node>
@@ -51,7 +51,7 @@
       <edge toID="1.6" type="A">
         <attributes />
       </edge>
-      <edge toID="1.8" type="U">
+      <edge toID="1.7" type="U">
         <attributes />
       </edge>
     </node>
@@ -72,23 +72,17 @@
       <edge toID="0.3" type="Terminal">
         <attributes />
       </edge>
+      <edge toID="0.4" type="Terminal">
+        <attributes />
+      </edge>
       <edge toID="0.5" type="Terminal">
         <attributes />
       </edge>
       <edge toID="0.6" type="Terminal">
         <attributes />
       </edge>
-      <edge toID="1.7" type="U">
-        <attributes />
-      </edge>
     </node>
     <node ID="1.7" type="PNCT">
-      <attributes />
-      <edge toID="0.4" type="Terminal">
-        <attributes />
-      </edge>
-    </node>
-    <node ID="1.8" type="PNCT">
       <attributes />
       <edge toID="0.7" type="Terminal">
         <attributes />

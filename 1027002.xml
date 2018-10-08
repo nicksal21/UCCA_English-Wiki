@@ -7,7 +7,7 @@
       <attributes paragraph="1" paragraph_position="1" text="The" />
       <extra orig_paragraph="2" />
     </node>
-    <node ID="0.2" type="Punctuation">
+    <node ID="0.2" type="Word">
       <attributes paragraph="1" paragraph_position="2" text="$" />
       <extra orig_paragraph="2" />
     </node>
@@ -91,9 +91,6 @@
       <edge toID="1.18" type="C">
         <attributes />
       </edge>
-      <edge toID="1.19" type="U">
-        <attributes />
-      </edge>
     </node>
     <node ID="1.5" type="FN">
       <attributes />
@@ -145,7 +142,7 @@
       <edge toID="1.13" type="C">
         <attributes />
       </edge>
-      <edge toID="1.20" type="U">
+      <edge toID="1.19" type="U">
         <attributes />
       </edge>
     </node>
@@ -190,6 +187,9 @@
     </node>
     <node ID="1.17" type="FN">
       <attributes />
+      <edge toID="0.2" type="Terminal">
+        <attributes />
+      </edge>
       <edge toID="0.3" type="Terminal">
         <attributes />
       </edge>
@@ -204,12 +204,6 @@
       </edge>
     </node>
     <node ID="1.19" type="PNCT">
-      <attributes />
-      <edge toID="0.2" type="Terminal">
-        <attributes />
-      </edge>
-    </node>
-    <node ID="1.20" type="PNCT">
       <attributes />
       <edge toID="0.14" type="Terminal">
         <attributes />
