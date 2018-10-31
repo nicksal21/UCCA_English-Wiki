@@ -1,0 +1,31 @@
+# ::id 522010
+# ::tok She was made to wear removable caps on her teeth and rubberized disks to reshape her nose .
+# ::alignments 0-1.1.1 4-1.1.2.2 5-1.1.5.3.1 6-1.1.5.3.2 7-1.1.5.3.3.1 8-1.1.5.3.3.2 9-1.1.5.3.3.3 10-1.1.5.1 11-1.1.5.2.1.1.1 12-1.1.5.2.1.1.2 13-1.1.5.2.2 14-1.1.5.2.3.1 15-1.1.5.2.3.2.1 16-1.1.5.2.3.2.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :S (v4 / label
+                  :C (v6 / label~e.4))
+           :A (v5 / label
+                  :N (v7 / label~e.10)
+                  :C (v8 / label
+                         :H (v10 / label
+                                 :A (v16 / label
+                                         :E (v22 / label~e.11)
+                                         :C (v23 / label~e.12))
+                                 :A v3
+                                 :S v4)
+                         :L (v11 / label~e.13)
+                         :H (v12 / label
+                                 :P (v17 / label~e.14)
+                                 :A (v18 / label
+                                         :E (v24 / label~e.15)
+                                         :C (v25 / label~e.16))))
+                  :C (v9 / label
+                         :E (v13 / label~e.5)
+                         :C (v14 / label~e.6)
+                         :E (v15 / label
+                                 :R (v19 / label~e.7)
+                                 :E (v20 / label~e.8)
+                                 :C (v21 / label~e.9))))))
