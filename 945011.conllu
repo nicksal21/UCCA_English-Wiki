@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 945011
+# text = Stefani 's second solo album , The Sweet Escape , was recorded by Guy Charbonneau 's Le Mobile Remote Recording Studio and released in December 2006 .
+1	Stefani	stefani	PROPN	NNP	_	5	E	5:E	_
+2	's	's	PART	POS	_	1	R	1:R	_
+3	second	second	ADJ	JJ	_	5	E	5:E	_
+4	solo	solo	NOUN	NN	_	5	E	5:E	_
+5	album	album	NOUN	NN	_	0	C	0:C|23:A	_
+6	,	,	PUNCT	,	_	12	U	12:U	_
+7	The	the	DET	DT	_	12	A	12:A	_
+8	Sweet	sweet	PROPN	NNP	_	7	Terminal	7:Terminal	_
+9	Escape	escape	PROPN	NNP	_	7	Terminal	7:Terminal	_
+10	,	,	PUNCT	,	_	12	U	12:U	_
+11	was	be	VERB	VBD	_	12	F	12:F	_
+12	recorded	record	VERB	VBN	_	0	H	0:H	_
+13	by	by	ADP	IN	_	21	R	21:R	_
+14	Guy	guy	PROPN	NNP	_	21	E	21:E	_
+15	Charbonneau	charbonneau	PROPN	NNP	_	14	Terminal	14:Terminal	_
+16	's	's	PART	POS	_	14	R	14:R	_
+17	Le	le	PROPN	NNP	_	18	E	18:E	_
+18	Mobile	mobile	PROPN	NNP	_	21	E	21:E	_
+19	Remote	remote	PROPN	NNP	_	21	E	21:E	_
+20	Recording	recording	PROPN	NNP	_	21	E	21:E	_
+21	Studio	studio	PROPN	NNP	_	12	A	12:A	_
+22	and	and	CCONJ	CC	_	23	L	23:L	_
+23	released	release	VERB	VBN	_	12	H	12:H	_
+24	in	in	ADP	IN	_	25	R	25:R	_
+25	December	december	PROPN	NNP	_	23	D	23:D	_
+26	2006	2006	NUM	CD	_	25	Terminal	25:Terminal	_
+27	.	.	PUNCT	.	_	25	U	25:U	_
+

@@ -1,0 +1,45 @@
+# format = ucca
+# sent_id = 689000
+# text = Bob Dylan was born Robert Allen Zimmerman in St . Mary 's Hospital on May 24 , 1941 , in Duluth , Minnesota , and raised in Hibbing , Minnesota , on the Mesabi Iron Range west of Lake Superior .
+1	Bob	bob	PROPN	NNP	_	4	A	4:A|26:A	_
+2	Dylan	dylan	PROPN	NNP	_	1	Terminal	1:Terminal	_
+3	was	be	VERB	VBD	_	4	F	4:F	_
+4	born	bear	VERB	VBN	_	0	H	0:H	_
+5	Robert	robert	PROPN	NNP	_	4	A	4:A	_
+6	Allen	allen	PROPN	NNP	_	5	Terminal	5:Terminal	_
+7	Zimmerman	zimmerman	PROPN	NNP	_	5	Terminal	5:Terminal	_
+8	in	in	ADP	IN	_	13	R	13:R	_
+9	St	st	PROPN	NNP	_	13	E	13:E	_
+10	.	.	PUNCT	.	_	9	U	9:U	_
+11	Mary	mary	PROPN	NNP	_	9	Terminal	9:Terminal	_
+12	's	's	PART	POS	_	9	R	9:R	_
+13	Hospital	hospital	PROPN	NNP	_	4	A	4:A	_
+14	on	on	ADP	IN	_	18	R	18:R	_
+15	May	may	PROPN	NNP	_	18	E	18:E	_
+16	24	24	NUM	CD	_	18	E	18:E	_
+17	,	,	PUNCT	,	_	18	U	18:U	_
+18	1941	1941	NUM	CD	_	4	D	4:D	_
+19	,	,	PUNCT	,	_	4	U	4:U	_
+20	in	in	ADP	IN	_	21	R	21:R	_
+21	Duluth	duluth	PROPN	NNP	_	4	A	4:A	_
+22	,	,	PUNCT	,	_	21	U	21:U	_
+23	Minnesota	minnesota	PROPN	NNP	_	21	E	21:E	_
+24	,	,	PUNCT	,	_	4	U	4:U	_
+25	and	and	CCONJ	CC	_	26	L	26:L	_
+26	raised	raise	VERB	VBD	_	4	H	4:H	_
+27	in	in	ADP	IN	_	28	R	28:R	_
+28	Hibbing	hibbing	PROPN	NNP	_	26	A	26:A	_
+29	,	,	PUNCT	,	_	28	U	28:U	_
+30	Minnesota	minnesota	PROPN	NNP	_	28	E	28:E	_
+31	,	,	PUNCT	,	_	26	U	26:U	_
+32	on	on	ADP	IN	_	34	R	34:R	_
+33	the	the	DET	DT	_	34	E	34:E	_
+34	Mesabi	mesabi	PROPN	NNP	_	26	A	26:A	_
+35	Iron	iron	PROPN	NNP	_	34	Terminal	34:Terminal	_
+36	Range	range	PROPN	NNP	_	34	Terminal	34:Terminal	_
+37	west	west	NOUN	NN	_	39	E	39:E	_
+38	of	of	ADP	IN	_	39	R	39:R	_
+39	Lake	lake	PROPN	NNP	_	34	E	34:E	_
+40	Superior	superior	PROPN	NNP	_	39	Terminal	39:Terminal	_
+41	.	.	PUNCT	.	_	39	U	39:U	_
+

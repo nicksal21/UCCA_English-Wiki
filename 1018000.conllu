@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 1018000
+# text = Michael Joseph Jackson ( August 29 , 1958 – June 25 , 2009 ) was an American singer - songwriter , dancer , businessman and philanthropist .
+1	Michael	michael	PROPN	NNP	_	15	A	15:A	_
+2	Joseph	joseph	PROPN	NNP	_	1	Terminal	1:Terminal	_
+3	Jackson	jackson	PROPN	NNP	_	1	Terminal	1:Terminal	_
+4	(	(	PUNCT	-LRB-	_	1	U	1:U	_
+5	August	august	PROPN	NNP	_	1	D	1:D	_
+6	29	29	NUM	CD	_	5	Terminal	5:Terminal	_
+7	,	,	PUNCT	,	_	5	U	5:U	_
+8	1958	1958	NUM	CD	_	5	Terminal	5:Terminal	_
+9	–	–	SYM	SYM	_	5	U	5:U	_
+10	June	june	PROPN	NNP	_	5	C	5:C	_
+11	25	25	NUM	CD	_	10	Terminal	10:Terminal	_
+12	,	,	PUNCT	,	_	10	U	10:U	_
+13	2009	2009	NUM	CD	_	10	Terminal	10:Terminal	_
+14	)	)	PUNCT	-RRB-	_	15	U	15:U	_
+15	was	be	VERB	VBD	_	0	H	0:H	_
+16	an	an	DET	DT	_	18	E	18:E	_
+17	American	american	ADJ	JJ	_	18	E	18:E	_
+18	singer	singer	NOUN	NN	_	15	A	15:A	_
+19	-	-	PUNCT	HYPH	_	18	U	18:U	_
+20	songwriter	songwriter	NOUN	NN	_	18	C	18:C	_
+21	,	,	PUNCT	,	_	18	U	18:U	_
+22	dancer	dancer	NOUN	NN	_	18	C	18:C	_
+23	,	,	PUNCT	,	_	18	U	18:U	_
+24	businessman	businessman	NOUN	NN	_	18	C	18:C	_
+25	and	and	CCONJ	CC	_	18	N	18:N	_
+26	philanthropist	philanthropist	NOUN	NN	_	18	C	18:C	_
+27	.	.	PUNCT	.	_	18	U	18:U	_
+

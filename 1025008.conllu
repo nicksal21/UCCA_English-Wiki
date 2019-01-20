@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 1025008
+# text = In May 1985 , Jackson 's team walked away from talks after having spent over $1 million on four months of due diligence and on the negotiations .
+1	In	in	ADP	IN	_	2	R	2:R	_
+2	May	may	PROPN	NNP	_	8	D	8:D	_
+3	1985	1985	NUM	CD	_	2	Terminal	2:Terminal	_
+4	,	,	PUNCT	,	_	8	U	8:U	_
+5	Jackson	jackson	PROPN	NNP	_	7	E	7:E	_
+6	's	's	PART	POS	_	5	R	5:R	_
+7	team	team	NOUN	NN	_	0	C	0:C|14:A	_
+8	walked	walk	VERB	VBD	_	0	H	0:H	_
+9	away	away	ADV	RB	_	8	R	8:R	_
+10	from	from	ADP	IN	_	8	R	8:R	_
+11	talks	talk	NOUN	NNS	_	8	A	8:A	_
+12	after	after	ADP	IN	_	14	L	14:L	_
+13	having	have	VERB	VBG	_	14	F	14:F	_
+14	spent	spend	VERB	VBN	_	8	H	8:H	_
+15	over	over	ADP	IN	_	16	E	16:E	_
+16	$1	$1	NUM	CD	_	14	A	14:A	_
+17	million	million	NUM	CD	_	16	Terminal	16:Terminal	_
+18	on	on	ADP	IN	_	23	R	23:R	_
+19	four	four	NUM	CD	_	20	E	20:E	_
+20	months	month	NOUN	NNS	_	23	E	23:E	_
+21	of	of	ADP	IN	_	20	R	20:R	_
+22	due	due	ADJ	JJ	_	23	E	23:E	_
+23	diligence	diligence	NOUN	NN	_	14	A	14:A	_
+24	and	and	CCONJ	CC	_	23	N	23:N	_
+25	on	on	ADP	IN	_	27	R	27:R	_
+26	the	the	DET	DT	_	27	E	27:E	_
+27	negotiations	negotiation	NOUN	NNS	_	23	C	23:C	_
+28	.	.	PUNCT	.	_	27	U	27:U	_
+

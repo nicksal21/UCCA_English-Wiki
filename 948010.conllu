@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 948010
+# text = A paternity test in 2004 revealed that Rossdale had a daughter , Daisy Lowe ( who was fifteen years old then ) , from a previous relationship with model and designer Pearl Lowe .
+1	A	a	DET	DT	_	3	E	3:E	_
+2	paternity	paternity	NOUN	NN	_	3	E	3:E	_
+3	test	test	NOUN	NN	_	6	A	6:A	_
+4	in	in	ADP	IN	_	5	R	5:R	_
+5	2004	2004	NUM	CD	_	3	E	3:E	_
+6	revealed	reveal	VERB	VBD	_	0	H	0:H	_
+7	that	that	ADP	IN	_	9	F	9:F	_
+8	Rossdale	rossdale	PROPN	NNP	_	9	A	9:A	_
+9	had	have	VERB	VBD	_	6	A	6:A	_
+10	a	a	DET	DT	_	11	E	11:E	_
+11	daughter	daughter	NOUN	NN	_	13	E	13:E	_
+12	,	,	PUNCT	,	_	13	U	13:U	_
+13	Daisy	daisy	PROPN	NNP	_	9	A	9:A	_
+14	Lowe	lowe	PROPN	NNP	_	13	Terminal	13:Terminal	_
+15	(	(	PUNCT	-LRB-	_	13	U	13:U	_
+16	who	who	NOUN	WP	_	19	R	19:R	_
+17	was	be	VERB	VBD	_	19	F	19:F	_
+18	fifteen	fifteen	NUM	CD	_	19	E	19:E	_
+19	years	year	NOUN	NNS	_	13	E	13:E	_
+20	old	old	ADJ	JJ	_	19	E	19:E	_
+21	then	then	ADV	RB	_	19	D	19:D	_
+22	)	)	PUNCT	-RRB-	_	9	U	9:U	_
+23	,	,	PUNCT	,	_	9	U	9:U	_
+24	from	from	ADP	IN	_	27	R	27:R	_
+25	a	a	DET	DT	_	27	E	27:E	_
+26	previous	previous	ADJ	JJ	_	27	E	27:E	_
+27	relationship	relationship	NOUN	NN	_	9	A	9:A	_
+28	with	with	ADP	IN	_	32	R	32:R	_
+29	model	model	NOUN	NN	_	32	E	32:E	_
+30	and	and	CCONJ	CC	_	29	N	29:N	_
+31	designer	designer	NOUN	NN	_	29	C	29:C	_
+32	Pearl	pearl	PROPN	NNP	_	27	E	27:E	_
+33	Lowe	lowe	PROPN	NNP	_	32	Terminal	32:Terminal	_
+34	.	.	PUNCT	.	_	32	U	32:U	_
+
