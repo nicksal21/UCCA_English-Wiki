@@ -1,9 +1,25 @@
 # ::id 706011
 # ::tok Baker has said he felt he was hired to make Dylan 's album sound " a little bit more contemporary " .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4.1 4-1.1.4.2 5-1.1.4.3.1 7-1.1.4.3.3 9-1.1.4.3.4.2 10-1.1.4.3.4.3.1.1 11-1.1.4.3.4.3.1.2 12-1.1.4.3.4.3.2 13-1.1.4.3.4.3.3 15-1.1.4.3.4.4 16-1.1.4.3.4.4 17-1.1.4.3.4.4 18-1.1.4.3.4.5 19-1.1.4.3.4.6
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :P (v4 / label~e.2)
+           :A (v5 / label
+                  :A (v6 / label~e.3)
+                  :P (v7 / label~e.4)
+                  :A (v8 / label
+                         :A (v9 / label~e.5)
+                         :P (v10 / label~e.7)
+                         :A (v11 / label
+                                 :P (v12 / label~e.9)
+                                 :A (v13 / label
+                                         :E (v17 / label
+                                                 :C (v20 / label~e.10)
+                                                 :R (v21 / label~e.11))
+                                         :E (v18 / label~e.12)
+                                         :C (v19 / label~e.13))
+                                 :D (v14 / label~e.15,16,17)
+                                 :D (v15 / label~e.18)
+                                 :A (v16 / label~e.19))))))

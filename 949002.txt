@@ -1,10 +1,30 @@
 # ::id 949002
 # ::tok Kelefa Sanneh of The New York Times joked that as Stefani grew as a musician , she kicked her " addiction " to vibrato .
-(label :H label
-       :A label
-       :P label
-       :C label
-       :R label
-       :E label
-       :L label
-       :S label)
+# ::alignments 0-1.1.1.1 1-1.1.1.1 2-1.1.1.2 3-1.1.1.3 4-1.1.1.3 5-1.1.1.3 6-1.1.1.3 7-1.1.2 9-1.1.3.4 10-1.1.3.5.1 11-1.1.3.5.2.1 12-1.1.3.5.2.2 13-1.1.3.5.3.1 14-1.1.3.5.3.2 16-1.1.3.1.1 17-1.1.3.1.2 18-1.1.3.1.3.1 20-1.1.3.1.3.2 22-1.1.3.1.3.3.1 23-1.1.3.1.3.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :C (v6 / label~e.0,1)
+                  :R (v7 / label~e.2)
+                  :E (v8 / label~e.3,4,5,6))
+           :P (v4 / label~e.7)
+           :A (v5 / label
+                  :H (v9 / label
+                         :A (v12 / label~e.16)
+                         :P (v13 / label~e.17)
+                         :A (v14 / label
+                                 :A (v18 / label~e.18)
+                                 :P (v19 / label~e.20)
+                                 :A (v20 / label
+                                         :R (v25 / label~e.22)
+                                         :C (v26 / label~e.23))))
+                  :L (v10 / label~e.9)
+                  :H (v11 / label
+                          :A (v15 / label~e.10)
+                          :S (v16 / label
+                                  :C (v21 / label~e.11)
+                                  :R (v22 / label~e.12))
+                          :A (v17 / label
+                                  :E (v23 / label~e.13)
+                                  :C (v24 / label~e.14))))))

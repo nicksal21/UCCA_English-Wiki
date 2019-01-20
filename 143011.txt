@@ -1,11 +1,38 @@
 # ::id 143011
 # ::tok " Walter Kerr of The New York Times wrote of Hepburn and her performance , " One mysterious thing she has learned to do is breathe unchallengeable life into lifeless lines .
-(label :H label
-       :A label
-       :P label
-       :C label
-       :E label
-       :R label
-       :S label
-       :N label
-       :D label)
+# ::alignments 1-1.1.4.1 2-1.1.4.1 3-1.1.4.2.1 4-1.1.4.2.2 5-1.1.4.2.2 6-1.1.4.2.2 7-1.1.4.2.2 8-1.1.5 9-1.1.6.1 10-1.1.6.2.1 11-1.1.6.2.2 12-1.1.6.2.3.1 13-1.1.6.2.3.2 16-1.1.7.1.1 17-1.1.7.1.2 18-1.1.7.1.3 19-1.1.7.1.4.2 21-1.1.7.1.4.5 23-1.1.7.1.4.3.2 25-1.1.7.2.1 26-1.1.7.2.2 27-1.1.7.2.1 28-1.1.7.4.1 29-1.1.7.4.2 30-1.1.7.4.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :C (v7 / label~e.1,2)
+                  :E (v8 / label
+                         :R (v14 / label~e.3)
+                         :C (v15 / label~e.4,5,6,7)))
+           :P (v4 / label~e.8)
+           :A (v5 / label
+                  :R (v9 / label~e.9)
+                  :C (v10 / label
+                          :C (v16 / label~e.10)
+                          :N (v17 / label~e.11)
+                          :C (v18 / label
+                                  :A (v28 / label~e.12)
+                                  :P (v29 / label~e.13))))
+           :A (v6 / label
+                  :A (v11 / label
+                          :E (v19 / label~e.16)
+                          :E (v20 / label~e.17)
+                          :C (v21 / label~e.18)
+                          :E (v22 / label
+                                  :A v21
+                                  :A (v30 / label~e.19)
+                                  :P (v31 / label
+                                          :C (v33 / label~e.23))
+                                  :D (v32 / label~e.21)))
+                  :S (v12 / label
+                          :C (v23 / label~e.25,27)
+                          :E (v24 / label~e.26))
+                  :A (v13 / label
+                          :R (v25 / label~e.28)
+                          :E (v26 / label~e.29)
+                          :C (v27 / label~e.30)))))

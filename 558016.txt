@@ -1,11 +1,46 @@
 # ::id 558016
 # ::tok According to Moore , " His movement was a natural thing , but he was also very conscious of what got a reaction . He 'd do something one time and then he would expand on it real quick .
-(label :H label
-       :P label
-       :A label
-       :R label
-       :C label
-       :L label
-       :S label
-       :D label
-       :E label)
+# ::alignments 0-1.1.1 1-1.1.2.1 2-1.1.2.2 5-1.1.5.8.1.1 6-1.1.5.8.1.2 8-1.1.5.8.2.1 9-1.1.5.8.2.2 10-1.1.5.8.2.3 12-1.1.5.1 13-1.1.5.2.1 15-1.1.5.2.3 16-1.1.5.2.4 17-1.1.5.2.5 18-1.1.5.2.6.1 19-1.1.5.2.6.2.1 20-1.1.5.2.6.2.2 21-1.1.5.2.6.2.3.1 22-1.1.5.2.6.2.3.2 24-1.1.5.3.1 27-1.1.5.3.4 28-1.1.5.3.5 29-1.1.5.3.5 30-1.1.5.4 31-1.1.5.5.1 32-1.1.5.5.2 34-1.1.5.5.3.2 35-1.1.5.5.3.2 36-1.1.5.5.3.2 37-1.1.5.5.4.1 38-1.1.5.5.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label~e.0)
+           :A (v4 / label
+                  :R (v6 / label~e.1)
+                  :C (v7 / label~e.2))
+           :A (v5 / label
+                  :L (v8 / label~e.12)
+                  :H (v9 / label
+                         :A (v14 / label~e.13)
+                         :D (v15 / label~e.15)
+                         :D (v16 / label~e.16)
+                         :S (v17 / label~e.17)
+                         :A (v18 / label
+                                 :R (v28 / label~e.18)
+                                 :C (v29 / label
+                                         :A (v38 / label~e.19)
+                                         :D (v39 / label~e.20)
+                                         :P (v40 / label
+                                                 :E (v41 / label~e.21)
+                                                 :C (v42 / label~e.22)))))
+                  :H (v10 / label
+                          :A (v19 / label~e.24)
+                          :P (v20 / label~e.27)
+                          :D (v21 / label~e.28,29))
+                  :L (v11 / label~e.30)
+                  :H (v12 / label
+                          :D (v22 / label~e.31)
+                          :A (v23 / label~e.32)
+                          :P (v24 / label
+                                  :C (v30 / label~e.34,35,36))
+                          :D (v25 / label
+                                  :E (v31 / label~e.37)
+                                  :C (v32 / label~e.38)))
+                  :H (v13 / label
+                          :A (v26 / label
+                                  :R (v33 / label~e.5)
+                                  :C (v34 / label~e.6))
+                          :S (v27 / label
+                                  :E (v35 / label~e.8)
+                                  :E (v36 / label~e.9)
+                                  :C (v37 / label~e.10))))))

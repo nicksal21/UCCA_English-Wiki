@@ -1,7 +1,20 @@
 # ::id 610011
 # ::tok The shield includes four curved emblems which resemble beetles ' backs .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label)
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 3-1.1.3.2 4-1.1.3.3 5-1.1.3.4 7-1.1.3.1.2 8-1.1.3.1.3.1 10-1.1.3.1.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label~e.0)
+                  :C (v7 / label~e.1))
+           :P (v4 / label~e.2)
+           :A (v5 / label
+                  :E (v8 / label
+                         :P (v12 / label~e.7)
+                         :A (v13 / label
+                                 :E (v14 / label~e.8)
+                                 :C (v15 / label~e.10))
+                         :A (v11 / label~e.5))
+                  :E (v9 / label~e.3)
+                  :E (v10 / label~e.4)
+                  :C v11)))

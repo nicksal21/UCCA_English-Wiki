@@ -1,12 +1,55 @@
 # ::id 216006
 # ::tok " Charles Taylor of Salon noted that " among contemporary teenage actresses , Dunst has become the sunniest imaginable parodist " , even though he thought the film had failed to provide her with as good a role as she had either in Dick or in The Virgin Suicides .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :C label
-       :E label
-       :S label
-       :D label
-       :R label
-       :N label)
+# ::alignments 1-1.1.1.1 2-1.1.1.1 3-1.1.1.2.1 4-1.1.1.2.2 5-1.1.2 8-1.1.3.2.1 9-1.1.3.2.2 10-1.1.3.2.3 11-1.1.3.2.4 13-1.1.3.3 15-1.1.3.5 16-1.1.3.6.1 17-1.1.3.6.2 18-1.1.3.6.3 19-1.1.3.6.4 22-1.2 23-1.2 24-1.3.3 25-1.3.1 26-1.3.2.1.1 27-1.3.2.1.2 29-1.3.2.3 31-1.3.2.5 32-1.3.2.6 33-1.3.2.7.1 34-1.3.2.7.2.1 35-1.3.2.7.2.2 36-1.3.2.7.2.3 37-1.3.2.7.2.4 38-1.3.2.7.2.5 39-1.3.2.7.3 40-1.3.2.7.4 41-1.3.2.7.5.1 42-1.3.2.7.5.2.1 43-1.3.2.7.5.2.2 44-1.3.2.7.5.3 45-1.3.2.7.5.4.1 46-1.3.2.7.5.4.2 47-1.3.2.7.5.4.2 48-1.3.2.7.5.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :C (v11 / label~e.1,2)
+                  :E (v12 / label
+                          :R (v22 / label~e.3)
+                          :C (v23 / label~e.4)))
+           :P (v6 / label~e.5)
+           :A (v7 / label
+                  :A (v13 / label
+                          :R (v24 / label~e.8)
+                          :E (v25 / label~e.9)
+                          :E (v26 / label~e.10)
+                          :C (v27 / label~e.11))
+                  :A (v14 / label~e.13)
+                  :S (v15 / label~e.15)
+                  :A (v16 / label
+                          :E (v28 / label~e.16)
+                          :E (v29 / label~e.17)
+                          :E (v30 / label~e.18)
+                          :C (v31 / label~e.19))))
+    :L (v3 / label~e.22,23)
+    :H (v4 / label
+           :P (v8 / label~e.25)
+           :A (v9 / label
+                  :A (v17 / label
+                          :E (v32 / label~e.26)
+                          :C (v33 / label~e.27))
+                  :D (v18 / label~e.29)
+                  :P (v19 / label~e.31)
+                  :A (v20 / label~e.32)
+                  :A (v21 / label
+                          :R (v34 / label~e.33)
+                          :A (v35 / label
+                                  :R (v39 / label~e.34)
+                                  :E (v40 / label~e.35)
+                                  :E (v41 / label~e.36)
+                                  :C (v42 / label~e.37)
+                                  :R (v43 / label~e.38))
+                          :A (v36 / label~e.39)
+                          :P (v37 / label~e.40)
+                          :A (v38 / label
+                                  :N (v44 / label~e.41)
+                                  :C (v45 / label
+                                          :R (v48 / label~e.42)
+                                          :C (v49 / label~e.43))
+                                  :N (v46 / label~e.44)
+                                  :C (v47 / label
+                                          :R (v50 / label~e.45)
+                                          :C (v51 / label~e.46,47,48)))))
+           :A (v10 / label~e.24)))

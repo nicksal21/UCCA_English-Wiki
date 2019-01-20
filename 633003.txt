@@ -1,11 +1,34 @@
 # ::id 633003
 # ::tok McCartney says that Aunt Mimi : " was very aware that John 's friends were lower class " , and would often patronise him when he arrived to visit Lennon .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :S label
-       :C label
-       :E label
-       :R label)
+# ::alignments 0-1.1.1 1-1.1.2 3-1.3.4 4-1.3.4 8-1.1.3.4 9-1.1.3.5 11-1.1.3.6.2.1.1 12-1.1.3.6.2.1.2 13-1.1.3.6.2.2 15-1.1.3.6.3.1 16-1.1.3.6.3.2 19-1.2 21-1.3.2 22-1.3.1.2 23-1.3.3 24-1.4 25-1.5.1 26-1.5.2 28-1.5.4 29-1.5.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label~e.0)
+           :P (v8 / label~e.1)
+           :A (v9 / label
+                  :A (v13 / label~e.3,4)
+                  :D (v18 / label~e.8)
+                  :S (v19 / label~e.9)
+                  :A (v20 / label
+                          :A (v22 / label
+                                  :E (v24 / label
+                                          :C (v28 / label~e.11)
+                                          :R (v29 / label~e.12))
+                                  :C (v25 / label~e.13))
+                          :S (v23 / label
+                                  :E (v26 / label~e.15)
+                                  :C (v27 / label~e.16)))))
+    :L (v3 / label~e.19)
+    :H (v4 / label
+           :P (v10 / label
+                   :C (v21 / label~e.22))
+           :D (v11 / label~e.21)
+           :A (v12 / label~e.23)
+           :A v13)
+    :L (v5 / label~e.24)
+    :H (v6 / label
+           :A (v14 / label~e.25)
+           :D (v15 / label~e.26)
+           :P (v16 / label~e.28)
+           :A (v17 / label~e.29)))
