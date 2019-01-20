@@ -1,0 +1,34 @@
+# ::id 536001
+# ::tok Warner 's career spanned some forty - five years , its duration surpassing that of any other of the seminal Hollywood studio moguls .
+# ::alignments 0-1.1.1.1.1 1-1.1.1.1.2 2-1.1.1.2 3-1.1.2 4-1.1.3.1 5-1.1.3.2 7-1.1.3.2 8-1.1.3.3 10-1.2.1.1 11-1.2.1.2 12-1.2.2 14-1.2.3.1.1 15-1.2.3.1.2.1 16-1.2.3.1.2.2 17-1.2.3.1.2.3 18-1.2.3.1.3 19-1.2.3.1.4 20-1.2.3.1.5 21-1.2.3.1.6 22-1.2.3.1.7
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :A (v10 / label
+                          :C (v18 / label~e.0)
+                          :R (v19 / label~e.1))
+                  :P (v11 / label~e.2))
+           :P (v5 / label~e.3)
+           :D (v6 / label
+                  :E (v12 / label~e.4)
+                  :E (v13 / label~e.5,7)
+                  :C (v14 / label~e.8)))
+    :H (v3 / label
+           :A (v7 / label
+                  :E (v15 / label~e.10)
+                  :C (v16 / label~e.11))
+           :P (v8 / label~e.12)
+           :A (v9 / label
+                  :E (v17 / label
+                          :R (v20 / label~e.14)
+                          :E (v21 / label
+                                  :E (v27 / label~e.15)
+                                  :C (v28 / label~e.16)
+                                  :R (v29 / label~e.17))
+                          :E (v22 / label~e.18)
+                          :E (v23 / label~e.19)
+                          :E (v24 / label~e.20)
+                          :E (v25 / label~e.21)
+                          :C (v26 / label~e.22))
+                  :C v16)))
