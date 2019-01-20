@@ -1,13 +1,13 @@
 #BOS 536000
-Jack	Word	--	Terminal	500
-Leonard	Word	--	Terminal	500
-"	Punctuation	--	Terminal	501
-J	Word	--	Terminal	500
+Jack	Word	--	Terminal	504
+Leonard	Word	--	Terminal	504
+"	Punctuation	--	Terminal	500
+J	Word	--	Terminal	504
+.	Punctuation	--	Terminal	501
+L	Word	--	Terminal	504
 .	Punctuation	--	Terminal	502
-L	Word	--	Terminal	500
-.	Punctuation	--	Terminal	503
-"	Punctuation	--	Terminal	504
-Warner	Word	--	Terminal	500
+"	Punctuation	--	Terminal	503
+Warner	Word	--	Terminal	504
 (	Punctuation	--	Terminal	505
 August	Word	--	Terminal	506
 2	Word	--	Terminal	507
@@ -49,18 +49,18 @@ Bros	Word	--	Terminal	540
 .	Punctuation	--	Terminal	541
 Studios	Word	--	Terminal	542
 in	Word	--	Terminal	543
-Hollywood	Word	--	Terminal	544
+Hollywood	Word	--	Terminal	546
+,	Punctuation	--	Terminal	544
+Los	Word	--	Terminal	546
+Angeles	Word	--	Terminal	546
 ,	Punctuation	--	Terminal	545
-Los	Word	--	Terminal	544
-Angeles	Word	--	Terminal	544
-,	Punctuation	--	Terminal	546
-California	Word	--	Terminal	544
+California	Word	--	Terminal	546
 .	Punctuation	--	Terminal	547
-#500	FN	--	C	559	A*	563	A*	561	A*	548
-#501	PNCT	--	U	563
-#502	PNCT	--	U	563
-#503	PNCT	--	U	563
-#504	PNCT	--	U	563
+#500	PNCT	--	U	504
+#501	PNCT	--	U	504
+#502	PNCT	--	U	504
+#503	PNCT	--	U	504
+#504	FN	--	C	559	A*	563	A*	561	A*	548
 #505	PNCT	--	U	559
 #506	FN	--	E	549
 #507	FN	--	E	549
@@ -100,9 +100,9 @@ California	Word	--	Terminal	544
 #541	PNCT	--	U	556
 #542	FN	--	C	556
 #543	FN	--	R	555
-#544	FN	--	C	555
-#545	PNCT	--	U	555
-#546	PNCT	--	U	555
+#544	PNCT	--	U	546
+#545	PNCT	--	U	546
+#546	FN	--	C	555
 #547	PNCT	--	U	555
 #548	FN	--	E	552
 #549	FN	--	C	558

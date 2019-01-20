@@ -3,9 +3,9 @@
 I	Word	--	Terminal	501
 think	Word	--	Terminal	502
 that	Word	--	Terminal	503
-9	Word	--	Terminal	504
-/	Punctuation	--	Terminal	505
-11	Word	--	Terminal	504
+9	Word	--	Terminal	505
+/	Punctuation	--	Terminal	504
+11	Word	--	Terminal	505
 and	Word	--	Terminal	506
 the	Word	--	Terminal	507
 subsequent	Word	--	Terminal	508
@@ -76,12 +76,12 @@ for	Word	--	Terminal	571
 the	Word	--	Terminal	572
 future	Word	--	Terminal	573
 .	Punctuation	--	Terminal	574
-#500	PNCT	--	U	601
+#500	PNCT	--	U	602
 #501	FN	--	A	597
 #502	FN	--	P	597
 #503	FN	--	F	594
-#504	FN	--	A	591
-#505	PNCT	--	U	591
+#504	PNCT	--	U	505
+#505	FN	--	A	591
 #506	FN	--	N	593
 #507	FN	--	E	592
 #508	FN	--	E	592
@@ -131,8 +131,8 @@ future	Word	--	Terminal	573
 #552	FN	--	C	583
 #553	FN	--	R	583
 #554	FN	--	C	584
-#555	PNCT	--	U	601
-#556	FN	--	L	601	LR	603
+#555	PNCT	--	U	602
+#556	FN	--	L	602	LR	603
 #557	FN	--	A	600
 #558	FN	--	D	600
 #559	FN	--	D	600
@@ -155,7 +155,7 @@ future	Word	--	Terminal	573
 #576	FN	--	E	592
 #577	FN	--	S	594
 #578	FN	--	D	594
-#579	FN	--	L	601	LR	602
+#579	FN	--	L	602	LR	601
 #580	FN	--	A	589
 #581	FN	--	E	596
 #582	FN	--	E	596
@@ -165,7 +165,7 @@ future	Word	--	Terminal	573
 #586	FN	--	E	599
 #587	FN	--	C	599
 #588	FN	--	E	599
-#589	FN	--	H	601	LA	602
+#589	FN	--	H	602	LA	601
 #590	FN	--	P	591
 #591	FN	--	C	593
 #592	FN	--	C	593
@@ -173,12 +173,12 @@ future	Word	--	Terminal	573
 #594	FN	--	A	597
 #595	FN	--	E	596
 #596	FN	--	A	598
-#597	FN	--	H	601
-#598	FN	--	H	601	LA	603	LA	602
+#597	FN	--	H	602
+#598	FN	--	H	602	LA	603	LA	601
 #599	FN	--	A	600
-#600	FN	--	H	601	LA	603
-#601	FN	--	A	604
-#602	LKG	--	--	0
+#600	FN	--	H	602	LA	603
+#601	LKG	--	--	0
+#602	FN	--	A	604
 #603	LKG	--	--	0
 #604	FN	--	H	605
 #605	FN	--	--	0

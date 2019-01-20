@@ -39,10 +39,10 @@ Nixon	Word	--	Terminal	530
 's	Word	--	Terminal	531
 loss	Word	--	Terminal	532
 to	Word	--	Terminal	533
-John	Word	--	Terminal	534
-F	Word	--	Terminal	534
-.	Punctuation	--	Terminal	535
-Kennedy	Word	--	Terminal	534
+John	Word	--	Terminal	535
+F	Word	--	Terminal	535
+.	Punctuation	--	Terminal	534
+Kennedy	Word	--	Terminal	535
 ,	Punctuation	--	Terminal	536
 however	Word	--	Terminal	537
 ,	Punctuation	--	Terminal	538
@@ -68,7 +68,7 @@ president	Word	--	Terminal	556
 -	Punctuation	--	Terminal	557
 elect	Word	--	Terminal	558
 .	Punctuation	--	Terminal	559
-#500	FN	--	A	560	A*	574	A*	575
+#500	FN	--	A	560	A*	575	A*	576
 #501	FN	--	D	560
 #502	FN	--	P	560
 #503	FN	--	A	560
@@ -78,7 +78,7 @@ elect	Word	--	Terminal	558
 #507	FN	--	A	562
 #508	FN	--	P	562
 #509	FN	--	L	582	LR	577
-#510	FN	--	P	574
+#510	FN	--	P	575
 #511	FN	--	R	573
 #512	FN	--	E	563
 #513	PNCT	--	U	563
@@ -87,8 +87,8 @@ elect	Word	--	Terminal	558
 #516	FN	--	R	564
 #517	FN	--	C	564
 #518	PNCT	--	U	582
-#519	FN	--	L	582	LR	583
-#520	FN	--	P	575
+#519	FN	--	L	582	LR	585
+#520	FN	--	P	576
 #521	FN	--	R	565
 #522	FN	--	A	565
 #523	FN	--	D	565
@@ -96,16 +96,16 @@ elect	Word	--	Terminal	558
 #525	FN	--	P	565
 #526	PNCT	--	U	582
 #527	PNCT	--	U	582
-#528	FN	--	L	582	LR	585
+#528	FN	--	L	582	LR	584
 #529	FN	--	R	566
 #530	FN	--	C	566
 #531	FN	--	R	566
-#532	FN	--	P	576
+#532	FN	--	P	574
 #533	FN	--	R	567
-#534	FN	--	C	567
-#535	PNCT	--	U	567
+#534	PNCT	--	U	535
+#535	FN	--	C	567
 #536	PNCT	--	U	582
-#537	FN	--	L	582	LR	584
+#537	FN	--	L	582	LR	583
 #538	PNCT	--	U	582
 #539	FN	--	E	568
 #540	FN	--	E	568
@@ -133,23 +133,23 @@ elect	Word	--	Terminal	558
 #562	FN	--	H	582	LA	577	LA	578
 #563	FN	--	E	573
 #564	FN	--	E	573
-#565	FN	--	A	575
-#566	FN	--	A	576
-#567	FN	--	A	576
+#565	FN	--	A	576
+#566	FN	--	A	574
+#567	FN	--	A	574
 #568	FN	--	A	581
 #569	FN	--	P	581
 #570	FN	--	A	580
 #571	FN	--	A	580
 #572	FN	--	E	579
-#573	FN	--	A	574
-#574	FN	--	H	582	LA	583	LA	577	LA	578
-#575	FN	--	H	582	LA	583
-#576	FN	--	H	582	LA	584	LA	585
+#573	FN	--	A	575
+#574	FN	--	H	582	LA	583	LA	584
+#575	FN	--	H	582	LA	585	LA	577	LA	578
+#576	FN	--	H	582	LA	585
 #577	LKG	--	--	0
 #578	LKG	--	--	0
 #579	FN	--	A	580
 #580	FN	--	A	581
-#581	FN	--	H	582	LA	584	LA	585
+#581	FN	--	H	582	LA	583	LA	584
 #582	FN	--	--	0
 #583	LKG	--	--	0
 #584	LKG	--	--	0

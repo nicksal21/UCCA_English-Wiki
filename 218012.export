@@ -5,9 +5,9 @@ signed	Word	--	Terminal	502
 on	Word	--	Terminal	502
 for	Word	--	Terminal	503
 three	Word	--	Terminal	504
-Spider	Word	--	Terminal	505
--	Punctuation	--	Terminal	506
-Man	Word	--	Terminal	505
+Spider	Word	--	Terminal	506
+-	Punctuation	--	Terminal	505
+Man	Word	--	Terminal	506
 films	Word	--	Terminal	507
 ,	Punctuation	--	Terminal	508
 she	Word	--	Terminal	509
@@ -33,8 +33,8 @@ returned	Word	--	Terminal	523
 #502	FN	--	P	529
 #503	FN	--	R	525
 #504	FN	--	E	525
-#505	FN	--	E	525
-#506	PNCT	--	U	525
+#505	PNCT	--	U	506
+#506	FN	--	E	525
 #507	FN	--	C	525
 #508	PNCT	--	U	534
 #509	FN	--	A	533
@@ -45,8 +45,8 @@ returned	Word	--	Terminal	523
 #514	FN	--	P	530
 #515	FN	--	E	526
 #516	FN	--	C	526
-#517	PNCT	--	U	531
-#518	FN	--	L	531	LR	532
+#517	PNCT	--	U	532
+#518	FN	--	L	532	LR	531
 #519	FN	--	C	527
 #520	FN	--	N	527
 #521	FN	--	C	527
@@ -56,11 +56,11 @@ returned	Word	--	Terminal	523
 #525	FN	--	A	529
 #526	FN	--	A	530
 #527	FN	--	A	528
-#528	FN	--	H	531	LA	532
+#528	FN	--	H	532	LA	531
 #529	FN	--	H	534
-#530	FN	--	H	531	LA	532
-#531	FN	--	A	533
-#532	LKG	--	--	0
+#530	FN	--	H	532	LA	531
+#531	LKG	--	--	0
+#532	FN	--	A	533
 #533	FN	--	H	534
 #534	FN	--	--	0
 #EOS 218012

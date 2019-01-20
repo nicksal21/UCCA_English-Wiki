@@ -1,8 +1,8 @@
 #BOS 703007
 In	Word	--	Terminal	500
-Salon	Word	--	Terminal	501
-.	Punctuation	--	Terminal	502
-com	Word	--	Terminal	501
+Salon	Word	--	Terminal	502
+.	Punctuation	--	Terminal	501
+com	Word	--	Terminal	502
 ,	Punctuation	--	Terminal	503
 Bill	Word	--	Terminal	504
 Wyman	Word	--	Terminal	504
@@ -82,8 +82,8 @@ accident	Word	--	Terminal	572
 years	Word	--	Terminal	573
 .	Punctuation	--	Terminal	574
 #500	FN	--	R	575
-#501	FN	--	C	575
-#502	PNCT	--	U	575
+#501	PNCT	--	U	502
+#502	FN	--	C	575
 #503	PNCT	--	U	603
 #504	FN	--	A	603
 #505	FN	--	P	603
@@ -99,7 +99,7 @@ years	Word	--	Terminal	573
 #515	FN	--	A	577
 #516	FN	--	D	577
 #517	FN	--	P	577
-#518	PNCT	--	U	601
+#518	PNCT	--	U	602
 #519	FN	--	E	579
 #520	FN	--	C	579
 #521	PNCT	--	U	579
@@ -110,7 +110,7 @@ years	Word	--	Terminal	573
 #526	FN	--	R	580
 #527	FN	--	E	580
 #528	FN	--	C	580
-#529	PNCT	--	U	601
+#529	PNCT	--	U	602
 #530	FN	--	A	594
 #531	FN	--	S	594
 #532	FN	--	E	581
@@ -119,8 +119,8 @@ years	Word	--	Terminal	573
 #535	FN	--	N	593
 #536	FN	--	E	582
 #537	FN	--	C	582
-#538	PNCT	--	U	601
-#539	FN	--	L	601	LR	602
+#538	PNCT	--	U	602
+#539	FN	--	L	602	LR	601
 #540	FN	--	G	600
 #541	FN	--	R	583
 #542	FN	--	C	583
@@ -172,18 +172,18 @@ years	Word	--	Terminal	573
 #588	FN	--	E	596
 #589	FN	--	E	590
 #590	FN	--	E	596
-#591	FN	--	H	601
-#592	FN	--	H	601
+#591	FN	--	H	602
+#592	FN	--	H	602
 #593	FN	--	A	594
-#594	FN	--	H	601	LA	602
+#594	FN	--	H	602	LA	601
 #595	FN	--	C	597
 #596	FN	--	C	597
 #597	FN	--	C	598
 #598	FN	--	A	599
 #599	FN	--	A	600
-#600	FN	--	H	601	LA	602
-#601	FN	--	A	603
-#602	LKG	--	--	0
+#600	FN	--	H	602	LA	601
+#601	LKG	--	--	0
+#602	FN	--	A	603
 #603	FN	--	H	604
 #604	FN	--	--	0
 #EOS 703007

@@ -2,9 +2,9 @@
 They	Word	--	Terminal	500
 planned	Word	--	Terminal	501
 another	Word	--	Terminal	502
-Bed	Word	--	Terminal	503
--	Punctuation	--	Terminal	504
-In	Word	--	Terminal	503
+Bed	Word	--	Terminal	504
+-	Punctuation	--	Terminal	503
+In	Word	--	Terminal	504
 in	Word	--	Terminal	505
 the	Word	--	Terminal	506
 United	Word	--	Terminal	507
@@ -63,8 +63,8 @@ conference	Word	--	Terminal	552
 #500	FN	--	A	564	A*	554	A*	565
 #501	FN	--	P	564
 #502	FN	--	E	555
-#503	FN	--	C	555
-#504	PNCT	--	U	555
+#503	PNCT	--	U	504
+#504	FN	--	C	555
 #505	FN	--	R	556
 #506	FN	--	E	556
 #507	FN	--	C	556
@@ -74,7 +74,7 @@ conference	Word	--	Terminal	552
 #511	FN	--	D	554
 #512	FN	--	P	554
 #513	PNCT	--	U	574
-#514	FN	--	L	574	LR	571
+#514	FN	--	L	574	LR	572
 #515	FN	--	P	565
 #516	FN	--	A	565
 #517	FN	--	D	565
@@ -114,7 +114,7 @@ conference	Word	--	Terminal	552
 #551	FN	--	E	562
 #552	FN	--	C	562
 #553	PNCT	--	U	562
-#554	FN	--	H	574	LA	571	LA	570
+#554	FN	--	H	574	LA	572	LA	570
 #555	FN	--	A	564
 #556	FN	--	A	564
 #557	FN	--	E	563
@@ -125,14 +125,14 @@ conference	Word	--	Terminal	552
 #562	FN	--	A	573
 #563	FN	--	A	565
 #564	FN	--	H	574	LA	570
-#565	FN	--	H	574	LA	566	LA	571
+#565	FN	--	H	574	LA	566	LA	572
 #566	LKG	--	--	0
 #567	FN	--	A	568
 #568	FN	--	H	574	LA	569
 #569	LKG	--	--	0
 #570	LKG	--	--	0
-#571	LKG	--	--	0
-#572	FN	--	P	573
+#571	FN	--	P	573
+#572	LKG	--	--	0
 #573	FN	--	H	574	LA	575
 #574	FN	--	--	0
 #575	LKG	--	--	0
