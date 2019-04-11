@@ -1,0 +1,38 @@
+# ::id 593003
+# ::tok " Depp has around 13 tattoos , many of them signifying important persons or events in his life .
+# ::alignments 1-1.1.2 2-1.1.3 3-1.1.4.3.1 4-1.1.4.3.2 5-1.1.4.4 7-1.1.4.1.1.1.1 8-1.1.4.1.1.1.2 9-1.1.4.1.3.3 10-1.1.4.1.1.2 11-1.1.4.1.1.3.1.2 12-1.1.4.1.1.3.2 13-1.1.4.1.2 14-1.1.4.1.3.1.1 15-1.1.4.1.1.3.3.2 16-1.1.4.1.3.1.2.1 17-1.1.4.1.3.1.2.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.1)
+           :S (v4 / label~e.2)
+           :A (v5 / label
+                  :E (v6 / label
+                         :H (v9 / label
+                                :A (v14 / label
+                                        :Q (v19 / label~e.7)
+                                        :R (v20 / label~e.8)
+                                        :C (v18 / label~e.9))
+                                :S (v15 / label~e.10)
+                                :A (v16 / label
+                                        :E (v21 / label
+                                                :A (v22 / label~e.12)
+                                                :S (v26 / label~e.11))
+                                        :C v22
+                                        :E (v23 / label
+                                                :A v22
+                                                :S (v27 / label~e.15)
+                                                :A (v25 / label
+                                                        :E (v28 / label~e.16)
+                                                        :C (v29 / label~e.17)))))
+                         :L (v10 / label~e.13)
+                         :H (v11 / label
+                                 :A (v17 / label
+                                         :P (v24 / label~e.14)
+                                         :A v25)
+                                 :S v15
+                                 :A v18))
+                  :Q (v7 / label
+                         :E (v12 / label~e.3)
+                         :C (v13 / label~e.4))
+                  :C (v8 / label~e.5))))

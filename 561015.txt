@@ -1,0 +1,30 @@
+# ::id 561015
+# ::tok " It became the first rock - and - roll album to top the Billboard chart , a position it held for 10 weeks .
+# ::alignments 1-1.1.1 2-1.1.2 3-1.1.3.1 4-1.1.3.2 5-1.1.3.3 7-1.1.3.3 9-1.1.3.3 10-1.1.3.4 12-1.1.3.5.3 13-1.1.3.5.4.1 14-1.1.3.5.4.2 15-1.1.3.5.4.3 17-1.2.2.1 18-1.2.2.2 19-1.2.3 20-1.2.4 21-1.2.1.1 22-1.2.1.2 23-1.2.1.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label~e.1)
+           :P (v5 / label~e.2)
+           :A (v6 / label
+                  :E (v11 / label~e.3)
+                  :Q (v12 / label~e.4)
+                  :E (v13 / label~e.5,7,9)
+                  :C (v14 / label~e.10)
+                  :E (v15 / label
+                          :A v14
+                          :P (v21 / label~e.12)
+                          :A (v22 / label
+                                  :E (v23 / label~e.13)
+                                  :E (v24 / label~e.14)
+                                  :C (v25 / label~e.15)))))
+    :H (v3 / label
+           :T (v7 / label
+                  :R (v16 / label~e.21)
+                  :Q (v17 / label~e.22)
+                  :C (v18 / label~e.23))
+           :A (v8 / label
+                  :E (v19 / label~e.17)
+                  :C (v20 / label~e.18))
+           :A (v9 / label~e.19)
+           :P (v10 / label~e.20)))

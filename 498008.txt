@@ -1,0 +1,27 @@
+# ::id 498008
+# ::tok His own Aladdin Sane ( 1973 ) topped the UK chart , his first number one album .
+# ::alignments 0-1.1.4.1.1.1 1-1.1.4.1.1.2 2-1.1.4.1.2 3-1.1.4.1.2 5-1.1.5 7-1.1.6 8-1.1.7.1 9-1.1.7.2 10-1.1.7.3 12-1.1.4.2.1 13-1.1.4.2.2 14-1.1.4.2.3.2.1 15-1.1.4.2.3.2.2 16-1.1.4.2.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :C (v7 / label
+                         :S (v12 / label
+                                 :C (v18 / label~e.0)
+                                 :E (v19 / label~e.1))
+                         :A (v13 / label~e.2,3))
+                  :E (v8 / label
+                         :E (v14 / label~e.12)
+                         :Q (v15 / label~e.13)
+                         :E (v16 / label
+                                 :A (v17 / label~e.16)
+                                 :S (v20 / label
+                                         :C (v21 / label~e.14)
+                                         :E (v22 / label~e.15)))
+                         :C v17))
+           :T (v4 / label~e.5)
+           :P (v5 / label~e.7)
+           :A (v6 / label
+                  :E (v9 / label~e.8)
+                  :E (v10 / label~e.9)
+                  :C (v11 / label~e.10))))
