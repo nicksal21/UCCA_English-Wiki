@@ -1,0 +1,39 @@
+# ::id 610005
+# ::tok The tour earned a reported $ 126 . 2 million , an average of over $ 2 million per night , and Billboard named it the top tour of the year .
+# ::alignments 1-1.1.1.2 2-1.1.2 4-1.1.3.2.2 5-1.1.3.4 6-1.1.3.4 8-1.1.3.4 9-1.1.3.4 12-1.1.3.5.2.2 13-1.1.3.5.2.3.1 14-1.1.3.5.2.3.3 15-1.1.3.5.2.3.4 16-1.1.3.5.2.3.4 17-1.1.3.5.2.3.4 18-1.1.3.5.2.3.5.1 19-1.1.3.5.2.3.5.2 21-1.2 22-1.3.2 23-1.3.3 24-1.3.4 26-1.3.1.2 27-1.3.1.3 28-1.3.1.4.1 29-1.3.1.4.2 30-1.3.1.4.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :P (v12 / label~e.1))
+           :P (v6 / label~e.2)
+           :A (v7 / label
+                  :E (v13 / label
+                          :A (v20 / label)
+                          :S (v21 / label~e.4))
+                  :C (v14 / label)
+                  :Q (v15 / label~e.5,6,8,9)
+                  :E (v16 / label
+                          :P (v22 / label)
+                          :A (v23 / label
+                                  :C (v27 / label~e.12)
+                                  :E (v28 / label
+                                          :R (v29 / label~e.13)
+                                          :C (v30 / label)
+                                          :R (v31 / label~e.14)
+                                          :Q (v32 / label~e.15,16,17)
+                                          :E (v33 / label
+                                                  :R (v34 / label~e.18)
+                                                  :C (v35 / label~e.19)))))))
+    :L (v3 / label~e.21)
+    :H (v4 / label
+           :A (v8 / label
+                  :E (v17 / label~e.26)
+                  :C (v18 / label~e.27)
+                  :E (v19 / label
+                          :R (v24 / label~e.28)
+                          :E (v25 / label~e.29)
+                          :C (v26 / label~e.30)))
+           :A (v9 / label~e.22)
+           :P (v10 / label~e.23)
+           :A (v11 / label~e.24)))
