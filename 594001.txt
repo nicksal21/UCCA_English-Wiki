@@ -1,6 +1,6 @@
 # ::id 594001
 # ::tok Depp was adopted as an honorary son by LaDonna Harris , a member of the Comanche Nation , on May 22 , 2012 ; this makes him an honorary member of Harris 's family , but not an enrolled member of the Nation .
-# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4.1 5-1.1.4.3 6-1.1.4.4 7-1.1.5.1 8-1.1.5.2 9-1.1.5.2 11-1.1.5.3.1.1 12-1.1.5.3.1.2 13-1.1.5.3.2.1 14-1.1.5.3.2.2 15-1.1.5.3.2.3 16-1.1.5.3.2.3 18-1.1.6.1 19-1.1.6.2 20-1.1.6.3 22-1.1.6.4 24-1.2.1 25-1.2.2 26-1.2.3 28-1.2.5 29-1.2.6 30-1.2.7.1 31-1.2.7.2.1 32-1.2.7.2.2 33-1.2.7.3 35-1.3 36-1.4.7 37-1.4.1.1 38-1.4.2 39-1.4.1.2 40-1.4.3.1 41-1.4.3.2 42-1.4.3.3
+# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4.1 5-1.1.4.3 6-1.1.4.4 7-1.1.5.1 8-1.1.5.2 9-1.1.5.2 12-1.1.5.3.1.2 13-1.1.5.3.2.1 15-1.1.5.3.2.3 16-1.1.5.3.2.3 18-1.1.6.1 19-1.1.6.2 20-1.1.6.3 22-1.1.6.4 24-1.2.1 25-1.2.2 26-1.2.3 28-1.2.5 29-1.2.6 30-1.2.7.1 31-1.2.7.2.1 32-1.2.7.2.2 33-1.2.7.3 35-1.3 36-1.4.7 38-1.4.2 39-1.4.1.2 40-1.4.3.1 42-1.4.3.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -14,13 +14,11 @@
                   :R (v24 / label~e.7)
                   :C (v25 / label~e.8,9)
                   :E (v26 / label
-                          :S (v39 / label
-                                  :E (v43 / label~e.11)
-                                  :C (v44 / label~e.12))
-                          :A (v40 / label
-                                  :R (v45 / label~e.13)
-                                  :E (v46 / label~e.14)
-                                  :C (v47 / label~e.15,16))))
+                          :S (v37 / label
+                                  :C (v41 / label~e.12))
+                          :A (v38 / label
+                                  :R (v42 / label~e.13)
+                                  :C (v43 / label~e.15,16))))
            :T (v10 / label
                    :R (v27 / label~e.18)
                    :C (v28 / label~e.19)
@@ -35,19 +33,17 @@
            :A (v16 / label
                    :R (v31 / label~e.30)
                    :A (v32 / label
-                           :C (v41 / label~e.31)
-                           :R (v42 / label~e.32))
+                           :C (v39 / label~e.31)
+                           :R (v40 / label~e.32))
                    :S (v33 / label~e.33)))
     :L (v4 / label~e.35)
     :H (v5 / label
            :S (v17 / label
-                   :E (v34 / label~e.37)
-                   :C (v35 / label~e.39))
+                   :C (v34 / label~e.39))
            :D (v18 / label~e.38)
            :A (v19 / label
-                   :R (v36 / label~e.40)
-                   :E (v37 / label~e.41)
-                   :C (v38 / label~e.42))
+                   :R (v35 / label~e.40)
+                   :C (v36 / label~e.42))
            :A v11
            :D v12
            :A v13
