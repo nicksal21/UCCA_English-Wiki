@@ -1,6 +1,6 @@
 # ::id 695011
 # ::tok " Mr . Tambourine Man " quickly became one of Dylan 's best known songs when The Byrds recorded an electric version that reached number one in both the U . S . and the UK charts .
-# ::alignments 1-1.1.1 3-1.1.1 4-1.1.1 6-1.1.2 7-1.1.3 8-1.1.4.1 9-1.1.4.2.1 10-1.1.4.3.1 11-1.1.4.3.2 12-1.1.4.4 13-1.1.4.5 14-1.1.4.2.2 15-1.2 16-1.3.1 17-1.3.1 18-1.3.2 19-1.3.3.1 20-1.3.3.2 21-1.3.3.3 22-1.3.3.4.2 23-1.3.3.4.3 24-1.3.3.4.4.1 25-1.3.3.4.4.2 26-1.3.3.4.5.1 27-1.3.3.4.5.2.1 28-1.3.3.4.5.2.2.1.1 29-1.3.3.4.5.2.2.1.2 31-1.3.3.4.5.2.2.1.2 33-1.3.3.4.5.2.2.2 34-1.3.3.4.5.2.2.3.1 35-1.3.3.4.5.2.2.3.2 36-1.3.3.4.5.3
+# ::alignments 1-1.1.1 3-1.1.1 4-1.1.1 6-1.1.2 7-1.1.3 8-1.1.4.1 9-1.1.4.2.1 10-1.1.4.3.1 11-1.1.4.3.2 12-1.1.4.4 13-1.1.4.5 14-1.1.4.2.2 15-1.2 16-1.3.1 17-1.3.1 18-1.3.2 20-1.3.3.2 21-1.3.3.3 22-1.3.3.4.2 23-1.3.3.4.3 24-1.3.3.4.4.1 25-1.3.3.4.4.2 26-1.3.3.4.5.1 27-1.3.3.4.5.2.1 29-1.3.3.4.5.2.2.1.2 31-1.3.3.4.5.2.2.1.2 33-1.3.3.4.5.2.2.2 35-1.3.3.4.5.2.2.3.2 36-1.3.3.4.5.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -10,11 +10,11 @@
            :A (v8 / label
                   :D (v12 / label~e.8)
                   :A (v13 / label
-                          :R (v21 / label~e.9)
-                          :C (v22 / label~e.14))
+                          :R (v20 / label~e.9)
+                          :C (v21 / label~e.14))
                   :A (v14 / label
-                          :C (v23 / label~e.10)
-                          :R (v24 / label~e.11))
+                          :C (v22 / label~e.10)
+                          :R (v23 / label~e.11))
                   :D (v15 / label~e.12)
                   :S (v16 / label~e.13)))
     :L (v3 / label~e.15)
@@ -22,26 +22,23 @@
            :A (v9 / label~e.16,17)
            :P (v10 / label~e.18)
            :A (v11 / label
-                   :E (v17 / label~e.19)
-                   :E (v18 / label~e.20)
-                   :C (v19 / label~e.21)
-                   :E (v20 / label
-                           :A v19
-                           :R (v25 / label~e.22)
-                           :P (v26 / label~e.23)
+                   :E (v17 / label~e.20)
+                   :C (v18 / label~e.21)
+                   :E (v19 / label
+                           :A v18
+                           :R (v24 / label~e.22)
+                           :P (v25 / label~e.23)
+                           :A (v26 / label
+                                   :C (v28 / label~e.24)
+                                   :Q (v29 / label~e.25))
                            :A (v27 / label
-                                   :C (v29 / label~e.24)
-                                   :Q (v30 / label~e.25))
-                           :A (v28 / label
-                                   :R (v31 / label~e.26)
-                                   :E (v32 / label
-                                           :Q (v34 / label~e.27)
-                                           :C (v35 / label
-                                                   :C (v36 / label
-                                                           :E (v39 / label~e.28)
-                                                           :C (v40 / label~e.29,31))
-                                                   :N (v37 / label~e.33)
-                                                   :C (v38 / label
-                                                           :E (v41 / label~e.34)
-                                                           :C (v42 / label~e.35))))
-                                   :C (v33 / label~e.36))))))
+                                   :R (v30 / label~e.26)
+                                   :E (v31 / label
+                                           :Q (v33 / label~e.27)
+                                           :C (v34 / label
+                                                   :C (v35 / label
+                                                           :C (v38 / label~e.29,31))
+                                                   :N (v36 / label~e.33)
+                                                   :C (v37 / label
+                                                           :C (v39 / label~e.35))))
+                                   :C (v32 / label~e.36))))))
