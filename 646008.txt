@@ -1,0 +1,30 @@
+# ::id 646008
+# ::tok The brief ceremony took place on the roof of the Apple Corps building , made famous three months earlier by The Beatles ' Let It Be rooftop concert .
+# ::alignments 1-1.1.2 2-1.1.1.2 5-1.1.4.1 7-1.1.4.3 8-1.1.4.4 10-1.1.4.7 11-1.1.4.7 12-1.2.1 15-1.2.3.2 16-1.2.4.1 17-1.2.4.2 18-1.2.4.3 19-1.2.5.7 21-1.2.5.1.2 23-1.2.5.2 24-1.2.5.2 25-1.2.5.2 26-1.2.5.3 27-1.2.5.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v4 / label
+                  :C (v11 / label~e.2))
+           :D (v5 / label~e.1)
+           :A (v6 / label
+                  :R (v12 / label~e.5)
+                  :E (v13 / label~e.7)
+                  :R (v14 / label~e.8)
+                  :C (v7 / label~e.12)
+                  :E (v15 / label~e.10,11)))
+    :H (v3 / label
+           :A v7
+           :P (v8 / label
+                  :C (v16 / label~e.15))
+           :T (v9 / label
+                  :Q (v17 / label~e.16)
+                  :C (v18 / label~e.17)
+                  :R (v19 / label~e.18))
+           :A (v10 / label
+                   :A (v20 / label
+                           :C (v25 / label~e.21))
+                   :A (v21 / label~e.23,24,25)
+                   :A (v22 / label~e.26)
+                   :P (v23 / label~e.27)
+                   :R (v24 / label~e.19))))
