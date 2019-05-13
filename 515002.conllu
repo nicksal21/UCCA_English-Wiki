@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 515002
 # text = He particularly strove to emulate the British musical theatre singer - songwriter and actor Anthony Newley , whose vocal style he frequently adopted , and made prominent use of for his 1967 debut release , David Bowie ( to the disgust of Newley himself , who destroyed the copy he received from Bowie 's publisher ) . Bowie 's music hall fascination continued to surface sporadically alongside such diverse styles as hard rock and heavy metal , soul , psychedelic folk and pop .
-1	He	_	Word	Word	_	5	A	5:A	_
+1	He	_	Word	Word	_	5	A	5:A|28:A	_
 2	particularly	_	Word	Word	_	5	D	5:D	_
 3	strove	_	Word	Word	_	5	D	5:D	_
 4	to	_	Word	Word	_	5	F	5:F	_
@@ -21,22 +21,22 @@
 18	whose	_	Word	Word	_	23	R	23:R	_
 19	vocal	_	Word	Word	_	20	E	20:E	_
 20	style	_	Word	Word	_	0	C	0:C|29:C	_
-21	he	_	Word	Word	_	23	A	23:A|28:A	_
+21	he	_	Word	Word	_	23	A	23:A	_
 22	frequently	_	Word	Word	_	23	T	23:T	_
 23	adopted	_	Word	Word	_	15	E	15:E	_
 24	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 25	and	_	Word	Word	_	28	L	28:L	_
 26	made	_	Word	Word	_	28	F	28:F	_
 27	prominent	_	Word	Word	_	28	D	28:D	_
-28	use	_	Word	Word	_	5	H	5:H|41:A	_
+28	use	_	Word	Word	_	5	H	5:H	_
 29	of	_	Word	Word	_	28	A	28:A	_
-30	for	_	Word	Word	_	34	L	34:L	_
+30	for	_	Word	Word	_	36	R	36:R	_
 31	his	_	Word	Word	_	34	A	34:A	_
 32	1967	_	Word	Word	_	34	T	34:T	_
 33	debut	_	Word	Word	_	34	A	34:A	_
-34	release	_	Word	Word	_	5	H	5:H	_
-35	,	_	Punctuation	Punctuation	_	34	U	34:U	_
-36	David	_	Word	Word	_	34	A	34:A	_
+34	release	_	Word	Word	_	36	E	36:E	_
+35	,	_	Punctuation	Punctuation	_	36	U	36:U	_
+36	David	_	Word	Word	_	28	A	28:A	_
 37	Bowie	_	Word	Word	_	36	Terminal	36:Terminal	_
 38	(	_	Punctuation	Punctuation	_	5	U	5:U	_
 39	to	_	Word	Word	_	41	L	41:L	_
@@ -44,7 +44,7 @@
 41	disgust	_	Word	Word	_	5	H	5:H	_
 42	of	_	Word	Word	_	43	R	43:R	_
 43	Newley	_	Word	Word	_	41	A	41:A	_
-44	himself	_	Word	Word	_	43	D	43:D	_
+44	himself	_	Word	Word	_	43	E	43:E	_
 45	,	_	Punctuation	Punctuation	_	43	U	43:U	_
 46	who	_	Word	Word	_	47	R	47:R	_
 47	destroyed	_	Word	Word	_	43	E	43:E	_
@@ -52,10 +52,10 @@
 49	copy	_	Word	Word	_	47	A	47:A	_
 50	he	_	Word	Word	_	51	A	51:A	_
 51	received	_	Word	Word	_	49	E	49:E	_
-52	from	_	Word	Word	_	53	R	53:R	_
-53	Bowie	_	Word	Word	_	51	A	51:A	_
+52	from	_	Word	Word	_	55	R	55:R	_
+53	Bowie	_	Word	Word	_	55	A	55:A	_
 54	's	_	Word	Word	_	53	R	53:R	_
-55	publisher	_	Word	Word	_	53	A	53:A	_
+55	publisher	_	Word	Word	_	51	A	51:A	_
 56	)	_	Punctuation	Punctuation	_	5	U	5:U	_
 57	.	_	Punctuation	Punctuation	_	5	U	5:U	_
 58	Bowie	_	Word	Word	_	62	A	62:A	_

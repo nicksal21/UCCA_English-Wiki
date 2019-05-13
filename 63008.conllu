@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 63008
 # text = His portrayal of the character has been described as a career-making performance , proving that Pitt could be more than a " cowboy - hatted hunk .
-1	His	_	Word	Word	_	2	A	2:A|12:A	_
+1	His	_	Word	Word	_	2	A	2:A	_
 2	portrayal	_	Word	Word	_	8	A	8:A|14:A	_
 3	of	_	Word	Word	_	5	R	5:R	_
 4	the	_	Word	Word	_	5	F	5:F	_
@@ -19,11 +19,11 @@
 16	Pitt	_	Word	Word	_	18	A	18:A	_
 17	could	_	Word	Word	_	18	D	18:D	_
 18	be	_	Word	Word	_	14	A	14:A	_
-19	more	_	Word	Word	_	26	R	26:R	_
-20	than	_	Word	Word	_	19	R	19:R	_
+19	more	_	Word	Word	_	26	E	26:E	_
+20	than	_	Word	Word	_	19	Terminal	19:Terminal	_
 21	a	_	Word	Word	_	26	F	26:F	_
 22	"	_	Punctuation	Punctuation	_	26	U	26:U	_
-23	cowboy	_	Word	Word	_	25	E	25:E	_
+23	cowboy	_	Word	Word	_	25	A	25:A	_
 24	-	_	Punctuation	Punctuation	_	25	U	25:U	_
 25	hatted	_	Word	Word	_	26	E	26:E	_
 26	hunk	_	Word	Word	_	18	A	18:A	_

@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 561011
-# text = The others would centrally define the evolving sound of rock and roll : " Blue Suede Shoes " â " an improvement over Perkins ' in almost every way " , according to critic Robert Hilburnâand three R & B numbers that had been part of Presley 's stage repertoire for some time , covers of Little Richard , Ray Charles , and The Drifters .
+# text = The others would centrally define the evolving sound of rock and roll : " Blue Suede Shoes " - " an improvement over Perkins ' in almost every way " , according to critic Robert Hilburnâand three R & B numbers that had been part of Presley 's stage repertoire for some time , covers of Little Richard , Ray Charles , and The Drifters .
 1	The	_	Word	Word	_	2	F	2:F	_
 2	others	_	Word	Word	_	5	A	5:A	_
 3	would	_	Word	Word	_	5	D	5:D	_
@@ -19,8 +19,8 @@
 16	Suede	_	Word	Word	_	15	Terminal	15:Terminal	_
 17	Shoes	_	Word	Word	_	15	Terminal	15:Terminal	_
 18	"	_	Punctuation	Punctuation	_	15	U	15:U	_
-19	â	_	Word	Word	_	22	F	22:F	_
-20	"	_	Punctuation	Punctuation	_	22	U	22:U	_
+19	-	_	Punctuation	Punctuation	_	15	U	15:U	_
+20	"	_	Punctuation	Punctuation	_	15	U	15:U	_
 21	an	_	Word	Word	_	22	F	22:F	_
 22	improvement	_	Word	Word	_	32	A	32:A	_
 23	over	_	Word	Word	_	24	R	24:R	_
@@ -39,7 +39,7 @@
 36	Hilburnâand	_	Word	Word	_	35	Terminal	35:Terminal	_
 37	three	_	Word	Word	_	41	Q	41:Q	_
 38	R	_	Word	Word	_	41	E	41:E	_
-39	&	_	Punctuation	Punctuation	_	38	U	38:U	_
+39	&	_	Word	Word	_	38	Terminal	38:Terminal	_
 40	B	_	Word	Word	_	38	Terminal	38:Terminal	_
 41	numbers	_	Word	Word	_	15	C	15:C	_
 42	that	_	Word	Word	_	45	R	45:R	_
