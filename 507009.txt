@@ -1,6 +1,6 @@
 # ::id 507009
 # ::tok Tin Machine began work on a second album , but Bowie put the venture on hold and made a return to solo work .
-# ::alignments 0-1.1.1 1-1.1.1 2-1.1.2 3-1.1.3 4-1.1.4.1 6-1.1.4.3 7-1.1.4.4 9-1.2 10-1.3.1 13-1.3.3.2 14-1.3.4.1 15-1.3.4.2 16-1.4 19-1.5.6.3 21-1.5.2 22-1.5.3
+# ::alignments 0-1.1.1 1-1.1.1 2-1.1.2 3-1.1.3 4-1.1.4.1 6-1.1.4.3 7-1.1.4.4 9-1.2 10-1.3.1 13-1.3.3.2 14-1.3.2.2 15-1.3.2.3 16-1.4 19-1.5.4.3 20-1.5.1.1 21-1.5.2 22-1.5.1.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -14,15 +14,17 @@
     :L (v3 / label~e.9)
     :H (v4 / label
            :A (v11 / label~e.10)
-           :P (v12 / label
-                   :C (v20 / label~e.13))
-           :D (v13 / label
-                   :R (v21 / label~e.14)
-                   :C (v22 / label~e.15)))
+           :D (v12 / label
+                   :R (v20 / label~e.14)
+                   :C (v21 / label~e.15))
+           :P (v13 / label
+                   :C (v22 / label~e.13)))
     :L (v5 / label~e.16)
     :H (v6 / label
-           :D (v14 / label~e.21)
-           :P (v15 / label~e.22)
+           :P (v14 / label
+                   :R (v23 / label~e.20)
+                   :C (v24 / label~e.22))
+           :D (v15 / label~e.21)
            :A v11
            :D (v16 / label
-                   :C (v23 / label~e.19))))
+                   :C (v25 / label~e.19))))

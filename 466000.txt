@@ -1,6 +1,6 @@
 # ::id 466000
 # ::tok Earvin " Magic " Johnson , Jr . ( born August 14 , 1959 ) is a retired American professional basketball player who played point guard for the Los Angeles Lakers of the National Basketball Association ( NBA ) . After winning championships in high school and college , Johnson was selected first overall in the 1979 NBA Draft by the Lakers .
-# ::alignments 0-1.1.1.1 2-1.1.1.1 4-1.1.1.1 6-1.1.1.1 9-1.1.1.2.2 10-1.1.1.2.3.1 11-1.1.1.2.3.2 13-1.1.1.2.3.3 15-1.1.2 17-1.1.3.2.2 18-1.1.3.3.2 19-1.1.3.4.2 20-1.1.3.5 21-1.1.3.6 22-1.1.3.7.2 23-1.1.3.7.3 24-1.1.3.7.4.1 25-1.1.3.7.4.2 26-1.1.3.7.5.1 28-1.1.3.7.5.3 29-1.1.3.7.5.3 30-1.1.3.7.5.3 31-1.1.3.7.5.4.1 33-1.1.3.7.5.4.3 34-1.1.3.7.5.4.3 35-1.1.3.7.5.4.3 37-1.1.3.7.5.5 40-1.2 41-1.3.1 42-1.3.2 43-1.3.3.1 44-1.3.3.2.1 45-1.3.3.2.1 46-1.3.3.2.2 47-1.3.3.2.3 49-1.3.5 51-1.4.2 52-1.4.3.1 53-1.4.3.2 54-1.4.4.1 56-1.4.4.3.3 57-1.4.4.4 58-1.4.4.4 59-1.4.5.1 61-1.4.5.3
+# ::alignments 0-1.1.1.1 2-1.1.1.1 4-1.1.1.1 6-1.1.1.1 9-1.1.1.2.2 10-1.1.1.2.3.1 11-1.1.1.2.3.2 13-1.1.1.2.3.3 15-1.1.2 17-1.1.3.2.2 18-1.1.3.3.2 19-1.1.3.4.2 20-1.1.3.5.1 21-1.1.3.2.1 22-1.1.3.6.1 23-1.1.3.6.2 24-1.1.3.6.3.1 25-1.1.3.6.3.2 26-1.1.3.6.4.1 28-1.1.3.6.4.3 29-1.1.3.6.4.3 30-1.1.3.6.4.3 31-1.1.3.6.4.4.1 33-1.1.3.6.4.4.3 34-1.1.3.6.4.4.3 35-1.1.3.6.4.4.3 37-1.1.3.6.4.5 40-1.2 41-1.3.1 42-1.3.2 43-1.3.3.1 44-1.3.3.2.1 45-1.3.3.2.1 46-1.3.3.2.2 47-1.3.3.2.3 49-1.3.5 51-1.4.2 52-1.4.3.1 53-1.4.3.2 54-1.4.4.1 56-1.4.4.3.3 57-1.4.4.4 58-1.4.4.4 59-1.4.5.1 61-1.4.5.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -8,62 +8,63 @@
                   :C (v17 / label~e.0,2,4,6)
                   :E (v18 / label
                           :A v17
-                          :P (v34 / label~e.9)
-                          :T (v35 / label
-                                  :C (v48 / label~e.10)
-                                  :C (v49 / label~e.11)
-                                  :C (v50 / label~e.13))))
+                          :P (v33 / label~e.9)
+                          :T (v34 / label
+                                  :C (v49 / label~e.10)
+                                  :C (v50 / label~e.11)
+                                  :C (v51 / label~e.13))))
            :S (v7 / label~e.15)
            :A (v8 / label
                   :E (v19 / label
-                          :A (v23 / label~e.21)
+                          :A (v35 / label~e.21)
                           :S (v36 / label~e.17))
                   :E (v20 / label
-                          :A v23
+                          :A v35
                           :S (v37 / label~e.18))
                   :E (v21 / label
-                          :A v23
+                          :A v35
                           :S (v38 / label~e.19))
-                  :E (v22 / label~e.20)
-                  :C v23
-                  :E (v24 / label
-                          :A v23
-                          :R (v39 / label~e.22)
-                          :P (v40 / label~e.23)
-                          :A (v41 / label
-                                  :E (v51 / label~e.24)
-                                  :C (v52 / label~e.25))
+                  :C (v22 / label
+                          :A (v39 / label~e.20)
+                          :P v35)
+                  :E (v23 / label
+                          :R (v40 / label~e.22)
+                          :P (v41 / label~e.23)
                           :A (v42 / label
-                                  :R (v53 / label~e.26)
-                                  :C (v54 / label~e.28,29,30)
-                                  :E (v55 / label
-                                          :R (v57 / label~e.31)
-                                          :C (v58 / label~e.33,34,35))
-                                  :E (v56 / label~e.37)))))
+                                  :E (v52 / label~e.24)
+                                  :C (v53 / label~e.25))
+                          :A (v43 / label
+                                  :R (v54 / label~e.26)
+                                  :C (v55 / label~e.28,29,30)
+                                  :E (v56 / label
+                                          :R (v58 / label~e.31)
+                                          :C (v59 / label~e.33,34,35))
+                                  :E (v57 / label~e.37))
+                          :A v35)))
     :L (v3 / label~e.40)
     :H (v4 / label
            :P (v9 / label~e.41)
            :A (v10 / label~e.42)
            :A (v11 / label
-                   :R (v25 / label~e.43)
-                   :C (v26 / label
-                           :C (v43 / label~e.44,45)
-                           :N (v44 / label~e.46)
-                           :C (v45 / label~e.47)))
+                   :R (v24 / label~e.43)
+                   :C (v25 / label
+                           :C (v44 / label~e.44,45)
+                           :N (v45 / label~e.46)
+                           :C (v46 / label~e.47)))
            :A (v12 / label~e.49))
     :H (v5 / label
            :P (v13 / label~e.51)
            :A (v14 / label
-                   :C (v27 / label~e.52)
-                   :E (v28 / label~e.53))
+                   :C (v26 / label~e.52)
+                   :E (v27 / label~e.53))
            :A (v15 / label
-                   :R (v29 / label~e.54)
-                   :E (v30 / label
-                           :A (v31 / label~e.57,58)
-                           :P (v46 / label)
-                           :T (v47 / label~e.56))
-                   :C v31)
+                   :R (v28 / label~e.54)
+                   :E (v29 / label
+                           :A (v30 / label~e.57,58)
+                           :P (v47 / label)
+                           :T (v48 / label~e.56))
+                   :C v30)
            :A (v16 / label
-                   :R (v32 / label~e.59)
-                   :C (v33 / label~e.61))
+                   :R (v31 / label~e.59)
+                   :C (v32 / label~e.61))
            :A v12))

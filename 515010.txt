@@ -1,15 +1,16 @@
 # ::id 515010
 # ::tok " Bowie 's record company sought to convey his unique status in popular music with the slogan , " There is old wave , there is new wave , and there is Bowie ... " Musicologist James Perone credits him with having " brought sophistication to rock music " , and critical reviews frequently acknowledge the intellectual depth of his work and influence .
-# ::alignments 1-1.1.1.1.1 2-1.1.1.1.2 3-1.1.1.2 4-1.1.1.3 5-1.1.2 7-1.1.4 8-1.1.5.1 9-1.1.5.2 10-1.1.5.3 11-1.1.5.4.1 12-1.1.5.4.2 13-1.1.5.4.3 14-1.1.6.1 16-1.1.6.3 19-1.1.6.4.1.1 21-1.1.6.4.1.3.1.2 22-1.1.6.4.1.3.2 24-1.1.6.4.2.1 26-1.1.6.4.2.3.1.2 27-1.1.6.4.2.3.2 29-1.1.6.4.3 30-1.1.6.4.4.1 32-1.1.6.4.4.3 35-1.2.1.1 36-1.2.1.2 37-1.2.1.2 38-1.2.2 39-1.2.3 40-1.2.4.2 43-1.2.4.4 44-1.2.4.5 45-1.2.4.6.1 46-1.2.4.6.2 47-1.2.4.6.3 50-1.3 51-1.4.1.1 52-1.4.1.2 53-1.4.2 54-1.4.3 56-1.4.4.1.2 57-1.4.4.1.3 58-1.4.4.1.4.1 59-1.4.4.3.2 60-1.4.4.1.4.3 61-1.4.4.2 62-1.4.4.3.1
+# ::alignments 1-1.1.1.1.2 2-1.1.1.1.3 3-1.1.1.2 4-1.1.1.3 5-1.1.2 7-1.1.4 8-1.1.5.1 9-1.1.5.2 10-1.1.5.3 11-1.1.5.4.1 12-1.1.5.4.2 13-1.1.5.4.3 14-1.1.6.1 16-1.1.6.3 19-1.1.6.4.1.1 21-1.1.6.4.1.3.1.2 22-1.1.6.4.1.3.2 24-1.1.6.4.2.1 26-1.1.6.4.2.3.1.2 27-1.1.6.4.2.3.2 29-1.1.6.4.3 30-1.1.6.4.4.1 32-1.1.6.4.4.3 35-1.2.1.1.1 36-1.2.1.2 37-1.2.1.2 38-1.2.2 39-1.2.3 40-1.2.4.2 43-1.2.4.4 44-1.2.4.5 45-1.2.4.6.1 46-1.2.4.6.2 47-1.2.4.6.3 50-1.3 51-1.4.1.1 52-1.4.1.2 53-1.4.2 54-1.4.3 56-1.4.4.1.2 57-1.4.4.1.3 58-1.4.4.1.4.1 59-1.4.4.3.3 60-1.4.4.1.4.3 61-1.4.4.2 62-1.4.4.3.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v6 / label
                   :E (v19 / label
-                          :C (v40 / label~e.1)
-                          :R (v41 / label~e.2))
+                          :A (v21 / label~e.4)
+                          :A (v40 / label~e.1)
+                          :S (v41 / label~e.2))
                   :E (v20 / label~e.3)
-                  :C (v21 / label~e.4))
+                  :C v21)
            :D (v7 / label~e.5)
            :P (v8 / label~e.7)
            :A (v9 / label
@@ -25,27 +26,28 @@
                    :C (v27 / label~e.16)
                    :E (v28 / label
                            :H (v45 / label
-                                   :S (v57 / label~e.19)
-                                   :A (v58 / label
-                                           :E (v65 / label
-                                                   :A (v66 / label~e.22)
-                                                   :S (v69 / label~e.21))
-                                           :C v66))
+                                   :S (v58 / label~e.19)
+                                   :A (v59 / label
+                                           :E (v66 / label
+                                                   :A (v67 / label~e.22)
+                                                   :S (v70 / label~e.21))
+                                           :C v67))
                            :H (v46 / label
-                                   :S (v59 / label~e.24)
-                                   :A (v60 / label
-                                           :E (v67 / label
-                                                   :A (v68 / label~e.27)
-                                                   :S (v70 / label~e.26))
-                                           :C v68))
+                                   :S (v60 / label~e.24)
+                                   :A (v61 / label
+                                           :E (v68 / label
+                                                   :A (v69 / label~e.27)
+                                                   :S (v71 / label~e.26))
+                                           :C v69))
                            :L (v47 / label~e.29)
                            :H (v48 / label
-                                   :S (v61 / label~e.30)
-                                   :A (v62 / label~e.32)))))
+                                   :S (v62 / label~e.30)
+                                   :A (v63 / label~e.32)))))
     :H (v3 / label
            :A (v11 / label
-                   :S (v29 / label~e.35)
-                   :A (v30 / label~e.36,37))
+                   :E (v29 / label
+                           :P (v49 / label~e.35))
+                   :C (v30 / label~e.36,37))
            :P (v12 / label~e.38)
            :A (v13 / label~e.39)
            :A (v14 / label
@@ -54,9 +56,9 @@
                    :P (v32 / label~e.43)
                    :A (v33 / label~e.44)
                    :A (v34 / label
-                           :R (v49 / label~e.45)
-                           :E (v50 / label~e.46)
-                           :C (v51 / label~e.47))))
+                           :R (v50 / label~e.45)
+                           :E (v51 / label~e.46)
+                           :C (v52 / label~e.47))))
     :L (v4 / label~e.50)
     :H (v5 / label
            :A (v15 / label
@@ -66,13 +68,13 @@
            :P (v17 / label~e.54)
            :A (v18 / label
                    :C (v37 / label
-                           :E (v52 / label~e.56)
-                           :C (v53 / label~e.57)
-                           :E (v54 / label
-                                   :R (v63 / label~e.58)
-                                   :A (v56 / label~e.59)
-                                   :P (v64 / label~e.60)))
+                           :E (v53 / label~e.56)
+                           :C (v54 / label~e.57)
+                           :E (v55 / label
+                                   :R (v64 / label~e.58)
+                                   :A (v57 / label~e.59)
+                                   :P (v65 / label~e.60)))
                    :N (v38 / label~e.61)
                    :C (v39 / label
-                           :P (v55 / label~e.62)
-                           :A v56))))
+                           :P (v56 / label~e.62)
+                           :A v57))))

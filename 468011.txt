@@ -1,6 +1,6 @@
 # ::id 468011
 # ::tok Johnson returned before the start of the 1981 playoffs , but the Lakers ' then - assistant and future head coach Pat Riley later said Johnson 's much - anticipated return made the Lakers a " divided team " . The 54 - win Lakers faced the 40 - 42 Houston Rockets in the first round of playoffs , where Houston upset the Lakers 2 - 1 after Johnson airballed a last - second shot in Game 3 .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.2 4-1.3.1.2 5-1.3.2.1 7-1.3.2.3.3 8-1.3.2.4 10-1.4 12-1.5.1.1.2.2.2 14-1.5.1.1.3.1.2 16-1.5.1.1.3.1.3 17-1.5.1.1.3.2 18-1.5.1.1.3.3.3 19-1.5.1.1.3.3.4 20-1.5.1.1.2.1 21-1.5.1.2 22-1.5.1.2 23-1.5.2 24-1.5.3 25-1.5.4.1.1.1 26-1.5.4.1.1.2 27-1.5.4.1.2.2 29-1.5.4.1.2.3 30-1.5.4.1.3 31-1.5.4.2 33-1.5.4.3.2 36-1.5.4.4.3.2 37-1.5.4.4.4 41-1.6.1.2.2.2 43-1.6.1.2.2.3 44-1.6.1.3 45-1.6.2 47-1.6.3.2.3 49-1.6.3.2.4 50-1.6.3.3 51-1.6.3.3 52-1.6.4.1 54-1.6.4.2.2 55-1.6.4.2.3 56-1.6.4.3.1 57-1.6.4.3.2 59-1.7 60-1.8.1 61-1.8.2 63-1.8.3.2 64-1.8.4.3 66-1.8.4.4 67-1.9 68-1.10.1 69-1.10.2 71-1.10.3.2.2 73-1.10.3.2.3 74-1.10.3.1.2 75-1.10.4.2 76-1.10.4.3 77-1.10.4.4
+# ::alignments 0-1.1.1 1-1.1.2 2-1.2 4-1.3.1.2 5-1.3.2.1 7-1.3.2.3.3 8-1.3.2.4 10-1.4 12-1.5.1.1.4.1 14-1.5.1.1.2.1 16-1.5.1.1.2.2 17-1.5.1.1.3 18-1.5.1.1.4.2 19-1.5.1.1.4.3 20-1.5.1.1.4.4 21-1.5.1.2 22-1.5.1.2 23-1.5.2 24-1.5.3 25-1.5.4.1.1.1 26-1.5.4.1.1.2 27-1.5.4.1.2.2 29-1.5.4.1.2.3 30-1.5.4.1.3 31-1.5.4.2 33-1.5.4.3.2 36-1.5.4.4.3.2 37-1.5.4.4.4.1 41-1.6.1.2.2.2 43-1.6.1.2.2.3 44-1.6.1.3 45-1.6.2 47-1.6.3.2.3 49-1.6.3.2.4 50-1.6.3.3 51-1.6.3.3 52-1.6.4.1 54-1.6.4.2.2 55-1.6.4.2.3 56-1.6.4.3.1 57-1.6.4.3.2 59-1.7 60-1.8.1 61-1.8.2 63-1.8.3.2 64-1.8.4.3 66-1.8.4.4 67-1.9 68-1.10.1 69-1.10.2 71-1.10.3.2.2 73-1.10.3.2.3 74-1.10.3.1.2 75-1.10.4.2 76-1.10.4.3 77-1.10.4.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -21,66 +21,61 @@
     :H (v6 / label
            :A (v16 / label
                    :E (v36 / label
-                           :E (v60 / label
-                                   :P (v79 / label~e.20)
-                                   :A (v80 / label
-                                           :C (v91 / label~e.12))
-                                   :A (v37 / label~e.21,22))
-                           :C (v61 / label
-                                   :C (v81 / label
-                                           :P v79
-                                           :T (v92 / label~e.14)
-                                           :D (v93 / label~e.16)
-                                           :A v37)
-                                   :N (v82 / label~e.17)
-                                   :C (v83 / label
-                                           :P v79
-                                           :A v37
-                                           :T (v94 / label~e.18)
-                                           :D (v95 / label~e.19))))
-                   :C v37)
+                           :C (v60 / label
+                                   :T (v80 / label~e.14)
+                                   :S (v81 / label~e.16)
+                                   :A (v82 / label
+                                           :C (v83 / label~e.12)))
+                           :N (v61 / label~e.17)
+                           :C (v62 / label
+                                   :A v83
+                                   :T (v84 / label~e.18)
+                                   :D (v85 / label~e.19)
+                                   :P (v86 / label~e.20)))
+                   :C (v37 / label~e.21,22))
            :T (v17 / label~e.23)
            :P (v18 / label~e.24)
            :A (v19 / label
                    :A (v38 / label
-                           :A (v62 / label
-                                   :C (v84 / label~e.25)
-                                   :R (v85 / label~e.26))
-                           :D (v63 / label
-                                   :E (v86 / label~e.27)
-                                   :C (v87 / label~e.29))
-                           :P (v64 / label~e.30))
+                           :A (v63 / label
+                                   :C (v87 / label~e.25)
+                                   :R (v88 / label~e.26))
+                           :D (v64 / label
+                                   :E (v89 / label~e.27)
+                                   :C (v90 / label~e.29))
+                           :P (v65 / label~e.30))
                    :P (v39 / label~e.31)
                    :A (v40 / label
-                           :C (v65 / label~e.33))
+                           :C (v66 / label~e.33))
                    :A (v41 / label
-                           :E (v66 / label
-                                   :A (v67 / label~e.37)
-                                   :S (v88 / label~e.36))
-                           :C v67)))
+                           :E (v67 / label
+                                   :A (v68 / label
+                                           :P (v92 / label~e.37))
+                                   :S (v91 / label~e.36))
+                           :C v68)))
     :H (v7 / label
            :A (v20 / label
                    :E (v42 / label
                            :A (v43 / label~e.44)
-                           :P (v68 / label
-                                   :Q (v89 / label~e.41)
-                                   :C (v90 / label~e.43)))
+                           :P (v69 / label
+                                   :Q (v93 / label~e.41)
+                                   :C (v94 / label~e.43)))
                    :C v43)
            :P (v21 / label~e.45)
            :A (v22 / label
                    :Q (v44 / label
-                           :R (v69 / label)
-                           :C (v70 / label~e.47)
-                           :C (v71 / label~e.49))
+                           :R (v70 / label)
+                           :C (v71 / label~e.47)
+                           :C (v72 / label~e.49))
                    :C (v45 / label~e.50,51))
            :A (v23 / label
                    :R (v46 / label~e.52)
                    :A (v47 / label
-                           :Q (v72 / label~e.54)
-                           :C (v73 / label~e.55))
+                           :Q (v73 / label~e.54)
+                           :C (v74 / label~e.55))
                    :P (v48 / label
-                           :R (v74 / label~e.56)
-                           :C (v75 / label~e.57))))
+                           :R (v75 / label~e.56)
+                           :C (v76 / label~e.57))))
     :L (v8 / label~e.59)
     :H (v9 / label
            :A (v24 / label~e.60)
@@ -97,10 +92,10 @@
             :P (v29 / label~e.69)
             :A (v30 / label
                     :P (v53 / label
-                            :C (v76 / label~e.74))
+                            :C (v77 / label~e.74))
                     :D (v54 / label
-                            :E (v77 / label~e.71)
-                            :C (v78 / label~e.73)))
+                            :E (v78 / label~e.71)
+                            :C (v79 / label~e.73)))
             :A (v31 / label
                     :R (v55 / label~e.75)
                     :C (v56 / label~e.76)

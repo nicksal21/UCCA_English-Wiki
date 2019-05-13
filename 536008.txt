@@ -1,0 +1,26 @@
+# ::id 536008
+# ::tok " Throughout his career , he was viewed as a contradictory and enigmatic figure .
+# ::alignments 1-1.1 2-1.2.1 3-1.2.2 5-1.3.5 7-1.3.2 8-1.3.3.1 10-1.3.3.2.1.2.2 11-1.3.3.2.1.3 12-1.3.3.2.1.4.2 13-1.3.3.2.2
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.1)
+    :H (v3 / label
+           :A (v5 / label~e.2)
+           :P (v6 / label~e.3))
+    :H (v4 / label
+           :P (v7 / label~e.7)
+           :A (v8 / label
+                  :S (v11 / label~e.8)
+                  :A (v12 / label
+                          :E (v13 / label
+                                  :H (v15 / label
+                                          :A (v14 / label~e.13)
+                                          :S (v18 / label~e.10))
+                                  :L (v16 / label~e.11)
+                                  :H (v17 / label
+                                          :A v14
+                                          :S (v19 / label~e.12)))
+                          :C v14)
+                  :A (v10 / label~e.5))
+           :A (v9 / label)
+           :A v10))

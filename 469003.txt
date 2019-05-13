@@ -1,6 +1,6 @@
 # ::id 469003
 # ::tok However , Buss was also unhappy with the Lakers offense and had intended on firing Westhead days before the Westhead - Johnson altercation , but assistant GMJerry West and GM Bill Sharman had convinced Buss to delay his decision .
-# ::alignments 0-1.1 2-1.2.1 4-1.2.3 5-1.2.4 6-1.2.5.1 8-1.2.5.2.2 9-1.2.5.3 10-1.3 12-1.4.2 14-1.4.3.2 15-1.4.4 16-1.5.1 17-1.5.2 19-1.6.1.2 21-1.6.1.3 22-1.6.2 24-1.7 25-1.8.1.1.1.3 26-1.8.1.1.2 27-1.8.1.1.2 28-1.8.1.2 29-1.8.1.3.1.2 30-1.8.1.3.2 31-1.8.1.3.2 33-1.8.3 34-1.8.4 36-1.8.5.2 37-1.8.5.3 38-1.8.5.4
+# ::alignments 0-1.1 2-1.2.1 4-1.2.3 5-1.2.4 6-1.2.5.1 8-1.2.5.2.2 9-1.2.5.3 10-1.3 12-1.4.2 14-1.4.3.2 15-1.4.4 16-1.5.1 17-1.5.2 19-1.6.1.2 21-1.6.1.3 22-1.6.2 24-1.7 25-1.8.1.1.1.1 26-1.8.1.1.2 27-1.8.1.1.2 28-1.8.1.2 29-1.8.1.3.1.1 30-1.8.1.3.2 31-1.8.1.3.2 33-1.8.3 34-1.8.4 36-1.8.5.2 37-1.8.5.3 38-1.8.5.4
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
@@ -33,16 +33,13 @@
            :A (v21 / label
                    :C (v31 / label
                            :E (v38 / label
-                                   :A (v39 / label~e.26,27)
-                                   :P (v42 / label)
-                                   :D (v43 / label~e.25))
-                           :C v39)
+                                   :S (v42 / label~e.25))
+                           :C (v39 / label~e.26,27))
                    :N (v32 / label~e.28)
                    :C (v33 / label
                            :E (v40 / label
-                                   :A (v41 / label~e.30,31)
-                                   :P (v44 / label~e.29))
-                           :C v41))
+                                   :P (v43 / label~e.29))
+                           :C (v41 / label~e.30,31)))
            :P (v22 / label~e.33)
            :A (v23 / label~e.34)
            :A (v24 / label
