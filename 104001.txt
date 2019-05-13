@@ -1,6 +1,6 @@
 # ::id 104001
 # ::tok She felt isolated at Beverly Hills High School among the children of some of the area 's affluent families , as her mother survived on a more modest income , and she was teased by other students , who targeted her for being extremely thin and for wearing glasses and braces .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.2 3-1.1.3.3.1 4-1.1.3.3.2 5-1.1.3.3.2 6-1.1.3.3.3 7-1.1.3.3.4 8-1.1.3.4.1 10-1.1.3.4.3 11-1.1.3.4.4.1 12-1.1.3.4.4.2 15-1.1.3.4.4.4.2 16-1.1.3.4.4.4.3 17-1.1.3.4.4.5.2 18-1.1.3.4.4.6 20-1.2 21-1.3.1.1 22-1.3.1.2 23-1.3.2 24-1.3.3.1 26-1.3.3.3.2 27-1.3.3.3.3 28-1.3.3.4 30-1.4 31-1.5.1 33-1.5.3 34-1.5.4.1 35-1.5.4.2 36-1.5.4.3 38-1.5.4.4.2 39-1.5.4.4.3 40-1.5.4.4.4 41-1.5.4.4.5.1 43-1.5.4.4.5.2.3 44-1.5.4.4.5.2.4 45-1.5.4.4.5.3 46-1.5.4.4.5.4 47-1.5.4.4.5.5.2 48-1.5.4.4.5.5.3.1 49-1.5.4.4.5.5.3.2 50-1.5.4.4.5.5.3.3
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.2 3-1.1.3.3.1 4-1.1.3.3.2 5-1.1.3.3.2 6-1.1.3.3.3 7-1.1.3.3.4 8-1.1.3.4.1 10-1.1.3.4.3 11-1.1.3.4.4.1 12-1.1.3.4.4.2 13-1.1.3.4.4.3 15-1.1.3.4.4.5.2 16-1.1.3.4.4.5.3 17-1.1.3.4.4.6.2 18-1.1.3.4.4.4 20-1.2 21-1.3.1.1 22-1.3.1.2 23-1.3.2 24-1.3.3.1 26-1.3.3.3.2 27-1.3.3.3.3 28-1.3.3.4 30-1.4 31-1.5.1 33-1.5.3 34-1.5.4.1 35-1.5.4.2 36-1.5.4.3.1 38-1.5.4.4.2 39-1.5.4.4.3 40-1.5.4.4.4 41-1.5.4.4.5.1.2 43-1.5.4.4.5.1.4 44-1.5.4.4.5.1.5 45-1.5.4.4.5.2 46-1.5.4.4.5.3.2 47-1.5.4.4.5.3.3 48-1.5.4.4.5.3.4.1 49-1.5.4.4.5.3.4.2 50-1.5.4.4.5.3.4.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -18,20 +18,21 @@
                           :R (v32 / label~e.8)
                           :C (v33 / label~e.10)
                           :E (v34 / label
-                                  :R (v41 / label~e.11)
-                                  :Q (v42 / label~e.12)
-                                  :E (v43 / label
+                                  :R (v42 / label~e.11)
+                                  :Q (v43 / label~e.12)
+                                  :R (v44 / label~e.13)
+                                  :C (v45 / label~e.18)
+                                  :E (v46 / label
                                           :C (v51 / label~e.15)
                                           :R (v52 / label~e.16))
-                                  :E (v44 / label
-                                          :A (v45 / label~e.18)
-                                          :S (v53 / label~e.17))
-                                  :C v45))))
+                                  :E (v47 / label
+                                          :A v45
+                                          :S (v53 / label~e.17))))))
     :L (v3 / label~e.20)
     :H (v4 / label
            :A (v10 / label
                    :A (v19 / label~e.21)
-                   :A (v20 / label~e.22))
+                   :S (v20 / label~e.22))
            :P (v11 / label~e.23)
            :A (v12 / label
                    :R (v21 / label~e.24)
@@ -47,24 +48,25 @@
            :A (v15 / label
                    :R (v24 / label~e.34)
                    :E (v25 / label~e.35)
-                   :C (v26 / label~e.36)
+                   :C (v26 / label
+                           :P (v37 / label~e.36))
                    :E (v27 / label
                            :A v26
-                           :R (v37 / label~e.38)
-                           :P (v38 / label~e.39)
-                           :A (v39 / label~e.40)
-                           :A (v40 / label
-                                   :R (v46 / label~e.41)
-                                   :H (v47 / label
-                                           :A v39
-                                           :D (v54 / label~e.43)
-                                           :S (v55 / label~e.44))
-                                   :L (v48 / label~e.45)
-                                   :R (v49 / label~e.46)
+                           :R (v38 / label~e.38)
+                           :P (v39 / label~e.39)
+                           :A (v40 / label~e.40)
+                           :A (v41 / label
+                                   :H (v48 / label
+                                           :A v40
+                                           :R (v54 / label~e.41)
+                                           :D (v55 / label~e.43)
+                                           :S (v56 / label~e.44))
+                                   :L (v49 / label~e.45)
                                    :H (v50 / label
-                                           :A v39
-                                           :P (v56 / label~e.47)
-                                           :A (v57 / label
-                                                   :C (v58 / label~e.48)
-                                                   :N (v59 / label~e.49)
-                                                   :C (v60 / label~e.50))))))))
+                                           :A v40
+                                           :R (v57 / label~e.46)
+                                           :P (v58 / label~e.47)
+                                           :A (v59 / label
+                                                   :C (v60 / label~e.48)
+                                                   :N (v61 / label~e.49)
+                                                   :C (v62 / label~e.50))))))))
