@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="498003">
-  <attributes annotationID="4384" remarks="498" userID="4" />
+  <attributes annotationID="5187" passageID="1244" remarks="498" userID="26" />
   <layer layerID="0">
     <attributes />
     <extra doc="[[]]" />
@@ -262,7 +262,7 @@
       </edge>
       <edge toID="1.10" type="T">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" tag="T" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="T" />
       </edge>
       <edge toID="1.11" type="A">
         <attributes />
@@ -276,14 +276,10 @@
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
       </edge>
-      <edge toID="1.33" type="A">
-        <attributes remote="True" />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
-      </edge>
     </node>
     <node ID="1.9" type="FN">
       <attributes />
-      <extra tree_id="18-2" />
+      <extra tree_id="18-1" />
       <edge toID="0.30" type="Terminal">
         <attributes />
         <category tag="Terminal" />
@@ -291,7 +287,7 @@
     </node>
     <node ID="1.10" type="FN">
       <attributes />
-      <extra tree_id="18-3" />
+      <extra tree_id="18-2" />
       <edge toID="0.31" type="Terminal">
         <attributes />
         <category tag="Terminal" />
@@ -299,7 +295,7 @@
     </node>
     <node ID="1.11" type="FN">
       <attributes />
-      <extra tree_id="18-4" />
+      <extra tree_id="18-3" />
       <edge toID="0.32" type="Terminal">
         <attributes />
         <category tag="Terminal" />
@@ -319,7 +315,7 @@
     </node>
     <node ID="1.12" type="FN">
       <attributes />
-      <extra tree_id="18-5" />
+      <extra tree_id="18-4" />
       <edge toID="0.36" type="Terminal">
         <attributes />
         <category tag="Terminal" />
@@ -327,7 +323,7 @@
     </node>
     <node ID="1.13" type="FN">
       <attributes />
-      <extra tree_id="18-6" />
+      <extra tree_id="18-5" />
       <edge toID="1.14" type="R">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="R" />
@@ -347,7 +343,7 @@
     </node>
     <node ID="1.14" type="FN">
       <attributes />
-      <extra tree_id="18-6-1" />
+      <extra tree_id="18-5-1" />
       <edge toID="0.37" type="Terminal">
         <attributes />
         <category tag="Terminal" />
@@ -355,7 +351,7 @@
     </node>
     <node ID="1.15" type="FN">
       <attributes />
-      <extra tree_id="18-6-2" />
+      <extra tree_id="18-5-2" />
       <edge toID="0.38" type="Terminal">
         <attributes />
         <category tag="Terminal" />
@@ -363,7 +359,7 @@
     </node>
     <node ID="1.16" type="FN">
       <attributes />
-      <extra tree_id="18-6-3" />
+      <extra tree_id="18-5-3" />
       <edge toID="0.39" type="Terminal">
         <attributes />
         <category tag="Terminal" />
@@ -374,7 +370,7 @@
       <extra tree_id="16-1" />
       <edge toID="1.20" type="Q">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" tag="Q" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="Q" />
       </edge>
       <edge toID="1.21" type="C">
         <attributes />
@@ -558,7 +554,7 @@
       </edge>
       <edge toID="1.41" type="T">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" tag="T" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="T" />
       </edge>
       <edge toID="1.42" type="A">
         <attributes />

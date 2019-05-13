@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="601017">
-  <attributes annotationID="5008" remarks="601" userID="4" />
+  <attributes annotationID="5348" passageID="1650" remarks="601" userID="26" />
   <layer layerID="0">
     <attributes />
     <extra doc="[[]]" />
@@ -200,7 +200,7 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.50" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="50" text="&#8212;" />
+      <attributes paragraph="1" paragraph_position="50" text="-" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.51" type="Word">
@@ -358,7 +358,7 @@
       </edge>
       <edge toID="1.40" type="G">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" tag="G" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="G" />
       </edge>
     </node>
     <node ID="1.9" type="FN">
@@ -615,7 +615,7 @@
     </node>
     <node ID="1.40" type="FN">
       <attributes />
-      <extra remarks="Adi:&#10;to whom is it obvious? Participant is not stated, therefore I marked it Ground" tree_id="47-3-2-3" />
+      <extra tree_id="47-3-2-3" />
       <edge toID="0.28" type="Terminal">
         <attributes />
         <category tag="Terminal" />

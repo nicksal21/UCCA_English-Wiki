@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="526004">
-  <attributes annotationID="4862" remarks="526" userID="26" />
+  <attributes annotationID="5337" passageID="1660" remarks="526" userID="26" />
   <layer layerID="0">
     <attributes />
     <extra doc="[[]]" />
@@ -179,7 +179,7 @@
     </node>
     <node ID="1.9" type="FN">
       <attributes />
-      <extra remarks="Adi:&#10;since Quantifiers are no longer allowed inside scenes, I marked &quot;most&quot; adverbial, although this doesn't seem an appropriate choice.&#10;&#10;The alternative would be &quot;most_Q (movie fans)_C&quot;, although this evokes a center scene" tree_id="15-1" />
+      <extra tree_id="15-1" />
       <edge toID="1.15" type="Q">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="Q" />
@@ -256,10 +256,10 @@
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
       </edge>
-      <edge toID="1.18" type="S">
+      <edge toID="1.18" type="A">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="S" />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="S" />
       </edge>
     </node>
     <node ID="1.17" type="FN">
