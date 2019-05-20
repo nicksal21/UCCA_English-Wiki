@@ -1,0 +1,51 @@
+# ::id 28005
+# ::tok Pitt described his character as " an idiot boyfriend who gets caught in the hay . " Speaking of his scenes with McCall , Pitt later said , " It was kind of wild , because I 'd never even met her before .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.4.1 6-1.1.4.2 7-1.1.4.3 8-1.1.4.4 10-1.1.4.5.3.1 11-1.1.4.5.3.2 12-1.1.4.5.4 13-1.1.4.5.4 14-1.1.4.5.4 17-1.2.1 18-1.2.2.1 19-1.2.2.2 20-1.2.2.3 21-1.2.2.4.1 22-1.2.2.4.2 24-1.2.4 25-1.3.5 26-1.3.6 29-1.3.1.1.1 31-1.3.1.1.3 32-1.3.1.1.3 33-1.3.1.1.2.2 35-1.3.1.2 36-1.3.1.3.1 38-1.3.1.3.3 39-1.3.1.3.4 40-1.3.1.3.2.2 41-1.3.1.3.5 42-1.3.1.3.6
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label~e.0)
+           :P (v6 / label~e.1)
+           :A (v7 / label
+                  :E (v15 / label~e.2)
+                  :C (v16 / label~e.3))
+           :A (v8 / label
+                  :R (v17 / label~e.4)
+                  :E (v18 / label~e.6)
+                  :E (v19 / label~e.7)
+                  :C (v20 / label~e.8)
+                  :E (v21 / label
+                          :A v20
+                          :P (v29 / label
+                                  :E (v42 / label~e.10)
+                                  :C (v43 / label~e.11))
+                          :A (v30 / label~e.12,13,14))))
+    :H (v3 / label
+           :P (v9 / label~e.17)
+           :A (v10 / label
+                   :R (v22 / label~e.18)
+                   :E (v23 / label~e.19)
+                   :C (v24 / label~e.20)
+                   :E (v25 / label
+                           :R (v31 / label~e.21)
+                           :C (v32 / label~e.22)))
+           :A (v11 / label~e.24))
+    :H (v4 / label
+           :A (v12 / label
+                   :H (v26 / label
+                           :A (v33 / label~e.29)
+                           :P (v34 / label
+                                   :C (v44 / label~e.33))
+                           :D (v35 / label~e.31,32))
+                   :L (v27 / label~e.35)
+                   :H (v28 / label
+                           :A (v36 / label~e.36)
+                           :P (v37 / label
+                                   :C (v45 / label~e.40))
+                           :D (v38 / label~e.38)
+                           :D (v39 / label~e.39)
+                           :A (v40 / label~e.41)
+                           :D (v41 / label~e.42)))
+           :A v11
+           :D (v13 / label~e.25)
+           :P (v14 / label~e.26)))

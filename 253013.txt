@@ -1,0 +1,33 @@
+# ::id 253013
+# ::tok He supports the United States Democratic Party , and supported Bill Bradley , John Kerry and Barack Obama for President of the United States in 2000 , 2004 and 2008 , respectively .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.3 4-1.1.3 5-1.1.3 6-1.1.3 8-1.2 9-1.3.3 10-1.3.4.1 11-1.3.4.1 13-1.3.4.2 14-1.3.4.2 15-1.3.4.3 16-1.3.4.4 17-1.3.4.4 18-1.3.5.1 19-1.3.5.2 20-1.3.5.3.1 21-1.3.5.3.2 22-1.3.5.3.3 23-1.3.5.3.3 24-1.3.1.1 25-1.3.1.2.1 27-1.3.1.2.2 28-1.3.1.2.3 29-1.3.1.2.4 31-1.3.1.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label~e.0)
+           :P (v6 / label~e.1)
+           :A (v7 / label~e.2,3,4,5,6))
+    :L (v3 / label~e.8)
+    :H (v4 / label
+           :D (v8 / label
+                  :R (v12 / label~e.24)
+                  :C (v13 / label
+                          :C (v22 / label~e.25)
+                          :C (v23 / label~e.27)
+                          :N (v24 / label~e.28)
+                          :C (v25 / label~e.29))
+                  :R (v14 / label~e.31))
+           :A v5
+           :P (v9 / label~e.9)
+           :A (v10 / label
+                   :C (v15 / label~e.10,11)
+                   :C (v16 / label~e.13,14)
+                   :N (v17 / label~e.15)
+                   :C (v18 / label~e.16,17))
+           :A (v11 / label
+                   :R (v19 / label~e.18)
+                   :C (v20 / label~e.19)
+                   :E (v21 / label
+                           :R (v26 / label~e.20)
+                           :E (v27 / label~e.21)
+                           :C (v28 / label~e.22,23)))))

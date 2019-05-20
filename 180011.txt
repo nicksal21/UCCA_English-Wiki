@@ -1,0 +1,15 @@
+# ::id 180011
+# ::tok The second daughter , Gloria Ray , was born April 19 , 2012 .
+# ::alignments 0-1.1.3.1.1 1-1.1.3.1.2 2-1.1.3.1.3 4-1.1.3.2 5-1.1.3.2 8-1.1.4.1 9-1.1.5 10-1.1.5 12-1.1.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label
+                         :E (v9 / label~e.0)
+                         :E (v10 / label~e.1)
+                         :C (v11 / label~e.2))
+                  :C (v7 / label~e.4,5))
+           :P (v4 / label
+                  :C (v8 / label~e.8))
+           :D (v5 / label~e.9,10,12)))
