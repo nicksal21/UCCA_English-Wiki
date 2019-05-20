@@ -1,0 +1,45 @@
+# ::id 946013
+# ::tok Stefani made a post on March 28 , 2008 stating that songwriting had commenced but was slow on her end because she was , at the time , pregnant with her second child .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.4.1 5-1.1.4.2 6-1.1.4.2 8-1.1.4.2 9-1.2.1 11-1.2.2.3.2 12-1.2.2.3.3.1 13-1.2.2.3.3.2 14-1.2.2.4 16-1.2.2.5.1.2 17-1.2.2.5.2.1 18-1.2.2.5.2.2 19-1.2.2.5.2.3 20-1.2.2.1 21-1.2.2.2.1 24-1.2.2.2.3.1 25-1.2.2.2.3.2 26-1.2.2.2.3.3 28-1.2.2.2.2.2 29-1.2.2.2.4.1 30-1.2.2.2.4.2 31-1.2.2.2.4.3 32-1.2.2.2.4.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label~e.0)
+           :P (v5 / label~e.1)
+           :A (v6 / label
+                  :E (v10 / label~e.2)
+                  :C (v11 / label~e.3))
+           :D (v7 / label
+                  :R (v12 / label~e.4)
+                  :C (v13 / label~e.5,6,8)))
+    :H (v3 / label
+           :P (v8 / label~e.9)
+           :A (v9 / label
+                  :L (v14 / label~e.20)
+                  :H (v15 / label
+                          :A (v19 / label~e.21)
+                          :S (v20 / label
+                                  :C (v27 / label~e.28))
+                          :D (v21 / label
+                                  :R (v28 / label~e.24)
+                                  :E (v29 / label~e.25)
+                                  :C (v30 / label~e.26))
+                          :A (v22 / label
+                                  :R (v31 / label~e.29)
+                                  :E (v32 / label~e.30)
+                                  :E (v33 / label~e.31)
+                                  :C (v34 / label~e.32)))
+                  :H (v16 / label
+                          :A (v23 / label~e.11)
+                          :P (v24 / label
+                                  :E (v35 / label~e.12)
+                                  :C (v36 / label~e.13)))
+                  :L (v17 / label~e.14)
+                  :H (v18 / label
+                          :S (v25 / label
+                                  :C (v37 / label~e.16))
+                          :A (v26 / label
+                                  :R (v38 / label~e.17)
+                                  :E (v39 / label~e.18)
+                                  :C (v40 / label~e.19))
+                          :A v23))))

@@ -1,0 +1,41 @@
+# ::id 602006
+# ::tok According to Gould , the song is " a neoclassical tour de force ... a true hybrid , conforming to no recognizable style or genre of song " .
+# ::alignments 0-1.1.1 1-1.1.3.1 2-1.1.3.2 4-1.1.4.3.1 5-1.1.4.3.2 6-1.1.4.4 8-1.1.4.1.1.1 9-1.1.4.1.1.2 10-1.1.4.1.1.3 11-1.1.4.1.1.4.1 12-1.1.4.1.1.4.2 14-1.1.4.1.2.1 15-1.1.4.1.2.2 16-1.1.4.1.2.3 18-1.1.4.1.3.1 19-1.1.4.1.3.2.1 20-1.1.4.1.3.2.2 21-1.1.4.1.3.2.3 22-1.1.4.1.3.2.4.1 23-1.1.4.1.3.2.4.2 24-1.1.4.1.3.2.4.3 25-1.1.4.1.3.2.5.1 26-1.1.4.1.3.2.5.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label~e.0)
+           :A (v4 / label
+                  :R (v6 / label~e.1)
+                  :C (v7 / label~e.2))
+           :A (v5 / label
+                  :A (v8 / label
+                         :C (v11 / label
+                                 :E (v16 / label~e.8)
+                                 :E (v17 / label~e.9)
+                                 :C (v18 / label~e.10)
+                                 :E (v19 / label
+                                         :R (v25 / label~e.11)
+                                         :C (v26 / label~e.12)))
+                         :C (v12 / label
+                                 :E (v20 / label~e.14)
+                                 :E (v21 / label~e.15)
+                                 :C (v22 / label~e.16))
+                         :C (v13 / label
+                                 :S (v23 / label~e.18)
+                                 :A (v24 / label
+                                         :R (v27 / label~e.19)
+                                         :E (v28 / label~e.20)
+                                         :E (v29 / label~e.21)
+                                         :C (v30 / label
+                                                 :C (v32 / label~e.22)
+                                                 :N (v33 / label~e.23)
+                                                 :C (v34 / label~e.24))
+                                         :E (v31 / label
+                                                 :R (v35 / label~e.25)
+                                                 :C (v36 / label~e.26)))
+                                 :A (v15 / label~e.5)))
+                  :A (v9 / label
+                         :E (v14 / label~e.4)
+                         :C v15)
+                  :S (v10 / label~e.6))))
