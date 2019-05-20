@@ -1,0 +1,106 @@
+#BOS 558002
+Moore	Word	--	Terminal	500
+recalled	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+"	Punctuation	--	Terminal	503
+All	Word	--	Terminal	504
+of	Word	--	Terminal	504
+a	Word	--	Terminal	504
+sudden	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+Elvis	Word	--	Terminal	506
+just	Word	--	Terminal	507
+started	Word	--	Terminal	508
+singing	Word	--	Terminal	509
+this	Word	--	Terminal	510
+song	Word	--	Terminal	511
+,	Punctuation	--	Terminal	512
+jumping	Word	--	Terminal	513
+around	Word	--	Terminal	513
+and	Word	--	Terminal	514
+acting	Word	--	Terminal	515
+the	Word	--	Terminal	515
+fool	Word	--	Terminal	515
+,	Punctuation	--	Terminal	516
+and	Word	--	Terminal	517
+then	Word	--	Terminal	518
+Bill	Word	--	Terminal	519
+picked	Word	--	Terminal	520
+up	Word	--	Terminal	520
+his	Word	--	Terminal	521
+bass	Word	--	Terminal	522
+,	Punctuation	--	Terminal	523
+and	Word	--	Terminal	524
+he	Word	--	Terminal	525
+started	Word	--	Terminal	526
+acting	Word	--	Terminal	527
+the	Word	--	Terminal	527
+fool	Word	--	Terminal	527
+,	Punctuation	--	Terminal	528
+too	Word	--	Terminal	529
+,	Punctuation	--	Terminal	530
+and	Word	--	Terminal	531
+I	Word	--	Terminal	532
+started	Word	--	Terminal	533
+playing	Word	--	Terminal	534
+with	Word	--	Terminal	535
+them	Word	--	Terminal	536
+.	Punctuation	--	Terminal	537
+#500	FN	--	A	555
+#501	FN	--	P	555
+#502	PNCT	--	U	555
+#503	PNCT	--	U	555
+#504	FN	--	D	547
+#505	PNCT	--	U	547
+#506	FN	--	A	547	A*	538	A*	539
+#507	FN	--	D	547
+#508	FN	--	E	540
+#509	FN	--	C	540
+#510	FN	--	E	541
+#511	FN	--	C	541
+#512	PNCT	--	U	552
+#513	FN	--	P	538
+#514	FN	--	L	552	LR	554
+#515	FN	--	P	539
+#516	PNCT	--	U	552
+#517	FN	--	L	552	LR	553
+#518	FN	--	D	548
+#519	FN	--	A	548
+#520	FN	--	P	548
+#521	FN	--	E	542
+#522	FN	--	C	542
+#523	PNCT	--	U	552
+#524	FN	--	L	552	LR	551
+#525	FN	--	A	544
+#526	FN	--	E	543
+#527	FN	--	C	543
+#528	PNCT	--	U	544
+#529	FN	--	G	544
+#530	PNCT	--	U	552
+#531	FN	--	L	552	LR	550
+#532	FN	--	A	549
+#533	FN	--	E	545
+#534	FN	--	C	545
+#535	FN	--	E	546
+#536	FN	--	C	546
+#537	PNCT	--	U	546
+#538	FN	--	H	552	LA	553	LA	554
+#539	FN	--	H	552	LA	553	LA	554
+#540	FN	--	P	547
+#541	FN	--	A	547
+#542	FN	--	A	548
+#543	FN	--	P	544
+#544	FN	--	H	552	LA	550	LA	551
+#545	FN	--	P	549
+#546	FN	--	A	549
+#547	FN	--	H	552	LA	553	LA	554
+#548	FN	--	H	552	LA	551	LA	553
+#549	FN	--	H	552	LA	550	LA	551
+#550	LKG	--	--	0
+#551	LKG	--	--	0
+#552	FN	--	A	555
+#553	LKG	--	--	0
+#554	LKG	--	--	0
+#555	FN	--	H	556
+#556	FN	--	--	0
+#EOS 558002
