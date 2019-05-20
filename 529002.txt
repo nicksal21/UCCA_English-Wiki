@@ -1,0 +1,22 @@
+# ::id 529002
+# ::tok The Oscar was won , however , by Grace Kelly for The Country Girl ( 1954 ) .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 3-1.1.3.2 5-1.2 7-1.1.4.1 8-1.1.4.2 9-1.1.4.2 10-1.1.1.1 11-1.1.1.2 12-1.1.1.2 13-1.1.1.2 15-1.1.1.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :R (v8 / label~e.10)
+                  :C (v9 / label~e.11,12,13)
+                  :E (v10 / label
+                          :A v9
+                          :P (v16 / label)
+                          :D (v17 / label~e.15)))
+           :A (v5 / label
+                  :E (v11 / label~e.0)
+                  :C (v12 / label~e.1))
+           :S (v6 / label
+                  :C (v13 / label~e.3))
+           :A (v7 / label
+                  :R (v14 / label~e.7)
+                  :C (v15 / label~e.8,9)))
+    :L (v3 / label~e.5))

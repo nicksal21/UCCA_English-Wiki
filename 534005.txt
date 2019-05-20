@@ -1,0 +1,42 @@
+# ::id 534005
+# ::tok These include " Over the Rainbow " , which was ranked as the number one movie song of all time in the American Film Institute 's " 100 Years ... 100 Songs " list .
+# ::alignments 1-1.1.2 3-1.1.4.3 4-1.1.4.3 5-1.1.4.3 8-1.1.4.4.1 10-1.1.4.4.2.2 11-1.1.4.4.3.1 12-1.1.4.4.3.2 13-1.1.4.4.3.3.1 14-1.1.4.4.3.3.2 15-1.1.4.4.3.5 16-1.1.4.4.3.6 17-1.1.4.4.3.4.1 18-1.1.4.4.3.4.2 19-1.1.4.4.3.4.3 20-1.1.4.4.4.1 21-1.1.4.4.4.2 22-1.1.4.4.4.3.1 23-1.1.4.4.4.3.2 24-1.1.4.4.4.3.3 25-1.1.4.4.4.3.4 27-1.1.4.4.4.4.1.1 28-1.1.4.4.4.4.1.2 30-1.1.4.4.4.4.2.1 31-1.1.4.4.4.4.2.2 33-1.1.4.4.4.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v3 / label~e.1)
+           :A (v4 / label
+                  :C (v5 / label~e.3,4,5)
+                  :E (v6 / label
+                         :R (v7 / label~e.8)
+                         :S (v8 / label
+                                :C (v11 / label~e.10))
+                         :A (v9 / label
+                                :R (v12 / label~e.11)
+                                :E (v13 / label~e.12)
+                                :E (v14 / label
+                                        :C (v23 / label~e.13)
+                                        :E (v24 / label~e.14))
+                                :E (v15 / label
+                                        :R (v25 / label~e.17)
+                                        :E (v26 / label~e.18)
+                                        :C (v27 / label~e.19))
+                                :E (v16 / label~e.15)
+                                :C (v17 / label~e.16))
+                         :A (v10 / label
+                                 :R (v18 / label~e.20)
+                                 :E (v19 / label~e.21)
+                                 :E (v20 / label
+                                         :E (v28 / label~e.22)
+                                         :E (v29 / label~e.23)
+                                         :C (v30 / label~e.24)
+                                         :R (v31 / label~e.25))
+                                 :E (v21 / label
+                                         :C (v32 / label
+                                                 :E (v34 / label~e.27)
+                                                 :C (v35 / label~e.28))
+                                         :C (v33 / label
+                                                 :E (v36 / label~e.30)
+                                                 :C (v37 / label~e.31)))
+                                 :C (v22 / label~e.33))
+                         :A v5))))
