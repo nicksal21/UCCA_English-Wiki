@@ -1,6 +1,6 @@
 # ::id 496003
-# ::tok Although the film was not released until 1984 , the filming sessions in January 1969 led to unexpected success when Bowie told the producers , " That film of yours - I 've got a new song for it .
-# ::alignments 0-1.1 1-1.2.1.1 2-1.2.1.2 4-1.2.3 5-1.2.4 6-1.2.5.1 7-1.2.5.2 9-1.3.1.1.1 10-1.3.1.1.2 11-1.3.1.2 12-1.3.1.3.1 13-1.3.1.3.2 14-1.3.1.3.3 15-1.3.2 16-1.3.3.1 17-1.3.4 18-1.3.3.2 19-1.4 20-1.5.6 21-1.5.1 22-1.5.2.1.1 23-1.5.2.1.2 26-1.5.3.1.1 27-1.5.3.1.2 28-1.5.3.1.3.1 29-1.5.3.1.3.2 31-1.5.3.2 33-1.5.3.4 34-1.5.3.5.1 35-1.5.3.5.2.2 36-1.5.3.5.3 37-1.5.3.1.4
+# ::tok Although the film was not released until 1984 , the filming sessions in January 1969 led to unexpected success when Bowie told the producers , " That film of yours - I 've got a new song for it . "
+# ::alignments 0-1.1 1-1.2.1.1 2-1.2.1.2 4-1.2.3 5-1.2.4 6-1.2.5.1 7-1.2.5.2 9-1.3.1.1.1 10-1.3.1.1.2 11-1.3.1.2 12-1.3.1.3.1 13-1.3.1.3.2 14-1.3.1.3.3 15-1.3.2 16-1.3.3.1 17-1.3.4 18-1.3.3.2 19-1.4 20-1.5.1 21-1.5.2 22-1.5.3.1.1 23-1.5.3.1.2 26-1.5.4.1.1 27-1.5.4.1.2 28-1.5.4.1.3.1 29-1.5.4.1.3.2 31-1.5.4.2 33-1.5.4.4 34-1.5.4.5.1 35-1.5.4.5.2.2 36-1.5.4.5.3 37-1.5.4.1.4
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
@@ -30,12 +30,13 @@
            :G (v14 / label~e.17))
     :L (v5 / label~e.19)
     :H (v6 / label
-           :P (v15 / label~e.21)
-           :A (v16 / label
+           :A (v15 / label~e.20)
+           :P (v16 / label~e.21)
+           :A (v17 / label
                    :A (v28 / label
                            :E (v38 / label~e.22)
                            :C (v39 / label~e.23)))
-           :A (v17 / label
+           :A (v18 / label
                    :A (v29 / label
                            :E (v40 / label~e.26)
                            :C (v41 / label~e.27)
@@ -50,5 +51,4 @@
                            :E (v45 / label
                                    :A (v46 / label~e.36)
                                    :S (v49 / label~e.35))
-                           :C v46))
-           :A (v18 / label~e.20)))
+                           :C v46))))

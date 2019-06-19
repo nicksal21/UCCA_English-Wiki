@@ -1,6 +1,6 @@
 # ::id 500008
-# ::tok The fruit of the Philadelphia recording sessions was Young Americans ( 1975 ) . Biographer Christopher Sandford writes , " Over the years , most British rockers had tried , one way or another , to become black - by - extension . Few had succeeded as Bowie did now .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2.2 3-1.1.2.3.1 4-1.1.2.4 5-1.1.2.3.2 6-1.1.2.3.3 8-1.1.4.1 9-1.1.4.1 11-1.1.4.2.3 14-1.2.1.1.1 15-1.2.1.2 16-1.2.1.2 17-1.2.4 20-1.2.5.1.1.1 21-1.2.5.1.1.2 22-1.2.5.1.1.3 24-1.2.5.1.2.1 25-1.2.5.1.2.2.2 26-1.2.5.1.2.3.1 28-1.2.5.1.4.1 30-1.2.5.1.4.2.1.1 31-1.2.5.1.4.2.1.2 32-1.2.5.1.4.2.2 33-1.2.5.1.4.2.3 36-1.2.5.1.6 37-1.2.5.1.7 39-1.2.5.1.8.1 41-1.2.5.1.8.2 43-1.2.5.2.1.1 45-1.2.5.2.3 46-1.2.5.3 47-1.2.5.4.1 49-1.2.5.4.3
+# ::tok The fruit of the Philadelphia recording sessions was Young Americans ( 1975 ) . Biographer Christopher Sandford writes , " Over the years , most British rockers had tried , one way or another , to become black - by - extension . Few had succeeded as Bowie did now . "
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2.2 3-1.1.2.3.1 4-1.1.2.4 5-1.1.2.3.2 6-1.1.2.3.3 8-1.1.4.1 9-1.1.4.1 11-1.1.4.2.3 14-1.2.4.1.1 15-1.2.4.2 16-1.2.4.2 17-1.2.5 20-1.2.1.1.1.1 21-1.2.1.1.1.2 22-1.2.1.1.1.3 24-1.2.1.1.2.1 25-1.2.1.1.2.2.2 26-1.2.1.1.2.3.1 28-1.2.1.1.4.1 30-1.2.1.1.4.2.1.1 31-1.2.1.1.4.2.1.2 32-1.2.1.1.4.2.2 33-1.2.1.1.4.2.3 36-1.2.1.1.6 37-1.2.1.1.7 39-1.2.1.1.8.1 41-1.2.1.1.8.2 43-1.2.1.2.1.1 45-1.2.1.2.3 46-1.2.1.3 47-1.2.1.4.1 49-1.2.1.4.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -23,24 +23,19 @@
                           :T (v28 / label~e.11))))
     :H (v3 / label
            :A (v7 / label
-                  :E (v18 / label
-                          :P (v29 / label~e.14))
-                  :C (v19 / label~e.15,16))
-           :P (v8 / label~e.17)
-           :A (v9 / label
-                  :H (v20 / label
-                          :T (v30 / label
+                  :H (v18 / label
+                          :T (v29 / label
                                   :R (v40 / label~e.20)
                                   :E (v41 / label~e.21)
                                   :C (v42 / label~e.22))
-                          :A (v31 / label
+                          :A (v30 / label
                                   :Q (v43 / label~e.24)
                                   :E (v44 / label
                                           :A (v45 / label
                                                   :P (v52 / label~e.26))
                                           :S (v51 / label~e.25))
                                   :C v45)
-                          :D (v32 / label
+                          :D (v31 / label
                                   :C (v46 / label~e.28)
                                   :E (v47 / label
                                           :C (v53 / label
@@ -48,18 +43,23 @@
                                                   :C (v57 / label~e.31))
                                           :N (v54 / label~e.32)
                                           :C (v55 / label~e.33)))
-                          :D (v33 / label~e.36)
-                          :S (v34 / label~e.37)
-                          :D (v35 / label
+                          :D (v32 / label~e.36)
+                          :S (v33 / label~e.37)
+                          :D (v34 / label
                                   :R (v48 / label~e.39)
                                   :C (v49 / label~e.41)))
-                  :H (v21 / label
-                          :A (v36 / label
+                  :H (v19 / label
+                          :A (v35 / label
                                   :Q (v50 / label~e.43)
                                   :C v45)
-                          :P (v37 / label~e.45))
-                  :L (v22 / label~e.46)
-                  :H (v23 / label
-                          :A (v38 / label~e.47)
-                          :T (v39 / label~e.49)
-                          :P v37))))
+                          :P (v36 / label~e.45))
+                  :L (v20 / label~e.46)
+                  :H (v21 / label
+                          :A (v37 / label~e.47)
+                          :T (v38 / label~e.49)
+                          :P v36))
+           :A (v8 / label
+                  :E (v22 / label
+                          :P (v39 / label~e.14))
+                  :C (v23 / label~e.15,16))
+           :P (v9 / label~e.17)))
