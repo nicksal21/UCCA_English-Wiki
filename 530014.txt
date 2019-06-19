@@ -1,6 +1,6 @@
 # ::id 530014
 # ::tok Her concert appearance at Carnegie Hall on April 23 , 1961 , was a considerable highlight , called by many " the greatest night in show business history " . The two - record Judy at Carnegie Hall was certified gold , charting for 95 weeks on Billboard , including 13 weeks at number one .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4.1 4-1.1.4.2 5-1.1.4.2 6-1.1.5.1 7-1.1.5.2 8-1.1.5.3 10-1.1.5.4 14-1.1.7.2 15-1.1.7.3 17-1.2.1 18-1.2.2.2 19-1.2.2.3 22-1.2.3.2 23-1.2.3.3 24-1.2.3.4.1 25-1.2.3.4.2 26-1.2.3.4.2 27-1.2.3.4.3 31-1.3.1.2.1 33-1.4.4 34-1.3.1.3 35-1.3.1.3 36-1.3.1.3 37-1.3.1.3 39-1.3.3 40-1.3.4 42-1.4.1 43-1.4.2.1 44-1.4.2.2 45-1.4.2.3 46-1.4.3.1 47-1.4.3.2 49-1.5 50-1.6.1.1 51-1.6.1.2 52-1.6.2.1 53-1.6.2.2 54-1.6.2.3
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4.1 4-1.1.4.2 5-1.1.4.2 6-1.1.5.1 7-1.1.5.2 8-1.1.5.3 10-1.1.5.4 14-1.1.7.2 15-1.1.7.3 17-1.2.1 18-1.2.2.2 19-1.2.2.3 22-1.2.3.2 23-1.2.3.3 24-1.2.3.4.1 25-1.2.3.4.2 26-1.2.3.4.2 27-1.2.3.4.3 30-1.3.1.1 31-1.3.1.2.1 33-1.4.4 34-1.3.1.3 35-1.3.1.3 36-1.3.1.3 37-1.3.1.3 39-1.3.3 40-1.3.4 42-1.4.1 43-1.4.2.1 44-1.4.2.2 45-1.4.2.3 46-1.4.3.1 47-1.4.3.2 49-1.5 50-1.6.1.1 51-1.6.1.2 52-1.6.2.1 53-1.6.2.2 54-1.6.2.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -28,36 +28,37 @@
                    :D (v37 / label~e.22)
                    :S (v38 / label~e.23)
                    :T (v39 / label
-                           :R (v52 / label~e.24)
-                           :E (v53 / label~e.25,26)
-                           :C (v54 / label~e.27)))
+                           :R (v53 / label~e.24)
+                           :E (v54 / label~e.25,26)
+                           :C (v55 / label~e.27)))
            :A v10)
     :H (v4 / label
            :A (v17 / label
-                   :E (v40 / label
-                           :Q (v55 / label~e.31)
+                   :E (v40 / label~e.30)
+                   :E (v41 / label
+                           :Q (v56 / label~e.31)
                            :C (v23 / label~e.33))
-                   :C (v41 / label~e.34,35,36,37))
+                   :C (v42 / label~e.34,35,36,37))
            :P (v18 / label~e.39)
            :A (v19 / label~e.40))
     :H (v5 / label
            :S (v20 / label~e.42)
            :T (v21 / label
-                   :R (v42 / label~e.43)
-                   :Q (v43 / label~e.44)
-                   :C (v44 / label~e.45))
+                   :R (v43 / label~e.43)
+                   :Q (v44 / label~e.44)
+                   :C (v45 / label~e.45))
            :A (v22 / label
-                   :R (v45 / label~e.46)
-                   :C (v46 / label~e.47))
+                   :R (v46 / label~e.46)
+                   :C (v47 / label~e.47))
            :A v23)
     :L (v6 / label~e.49)
     :H (v7 / label
            :T (v24 / label
-                   :Q (v47 / label~e.50)
-                   :C (v48 / label~e.51))
+                   :Q (v48 / label~e.50)
+                   :C (v49 / label~e.51))
            :A (v25 / label
-                   :R (v49 / label~e.52)
-                   :C (v50 / label~e.53)
-                   :Q (v51 / label~e.54))
+                   :R (v50 / label~e.52)
+                   :C (v51 / label~e.53)
+                   :Q (v52 / label~e.54))
            :S v20
            :A v23))
