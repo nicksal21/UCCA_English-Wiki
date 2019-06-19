@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 727017
 # text = The film failed domestically , which director Oliver Stone attributed to disapproval of the depiction of Alexander 's bisexuality , but it succeeded internationally , with revenue of $ 139 million outside the United States .
-1	The	_	Word	Word	_	2	F	2:F	_
+1	The	_	Word	Word	_	2	E	2:E	_
 2	film	_	Word	Word	_	0	C	0:C|27:A	_
 3	failed	_	Word	Word	_	0	H	0:H	_
 4	domestically	_	Word	Word	_	3	A	3:A	_
@@ -14,7 +14,7 @@
 11	to	_	Word	Word	_	12	R	12:R	_
 12	disapproval	_	Word	Word	_	10	A	10:A	_
 13	of	_	Word	Word	_	15	R	15:R	_
-14	the	_	Word	Word	_	15	F	15:F	_
+14	the	_	Word	Word	_	15	E	15:E	_
 15	depiction	_	Word	Word	_	12	A	12:A	_
 16	of	_	Word	Word	_	19	R	19:R	_
 17	Alexander	_	Word	Word	_	19	A	19:A	_
@@ -33,7 +33,7 @@
 30	139	_	Word	Word	_	29	Q	29:Q	_
 31	million	_	Word	Word	_	30	Terminal	30:Terminal	_
 32	outside	_	Word	Word	_	34	R	34:R	_
-33	the	_	Word	Word	_	34	F	34:F	_
+33	the	_	Word	Word	_	34	E	34:E	_
 34	United	_	Word	Word	_	27	A	27:A	_
 35	States	_	Word	Word	_	34	Terminal	34:Terminal	_
 36	.	_	Punctuation	Punctuation	_	34	U	34:U	_
