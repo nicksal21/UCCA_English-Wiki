@@ -1,28 +1,30 @@
 # ::id 728003
 # ::tok " The movie earned $ 478 million worldwide , making it the seventh - highest grossing film of 2005 .
-# ::alignments 2-1.1.1.2 3-1.1.2 4-1.1.3.1 5-1.1.3.2 6-1.1.3.2 7-1.1.4 9-1.2 10-1.3.3 12-1.3.1.2.1 14-1.3.1.2.2 15-1.3.1.3.2 16-1.3.1.4 17-1.3.1.5.1 18-1.3.1.5.2
+# ::alignments 1-1.1.1.1 2-1.1.1.2 3-1.1.2 4-1.1.3.1 5-1.1.3.2 6-1.1.3.2 7-1.1.4 9-1.2 10-1.3.3 11-1.3.1.1 12-1.3.1.2.1 14-1.3.1.2.2 15-1.3.1.3.2 16-1.3.1.4 17-1.3.1.5.1 18-1.3.1.5.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v5 / label
-                  :C (v12 / label~e.2))
+                  :E (v12 / label~e.1)
+                  :C (v13 / label~e.2))
            :P (v6 / label~e.3)
            :A (v7 / label
-                  :C (v13 / label~e.4)
-                  :Q (v14 / label~e.5,6))
+                  :C (v14 / label~e.4)
+                  :Q (v15 / label~e.5,6))
            :A (v8 / label~e.7))
     :L (v3 / label~e.9)
     :H (v4 / label
            :A (v9 / label
-                  :Q (v15 / label
-                          :Q (v19 / label~e.12)
-                          :C (v20 / label~e.14))
-                  :E (v16 / label
-                          :A (v17 / label~e.16)
-                          :P (v21 / label~e.15))
-                  :C v17
+                  :E (v16 / label~e.11)
+                  :Q (v17 / label
+                          :Q (v21 / label~e.12)
+                          :C (v22 / label~e.14))
                   :E (v18 / label
-                          :R (v22 / label~e.17)
-                          :C (v23 / label~e.18)))
+                          :A (v19 / label~e.16)
+                          :P (v23 / label~e.15))
+                  :C v19
+                  :E (v20 / label
+                          :R (v24 / label~e.17)
+                          :C (v25 / label~e.18)))
            :S (v10 / label)
            :A (v11 / label~e.10)))

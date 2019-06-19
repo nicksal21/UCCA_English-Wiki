@@ -1,6 +1,6 @@
 # ::id 705007
 # ::tok I used to say , " No I 'm not a prophet " they say " Yes you are a prophet , you 're .
-# ::alignments 0-1.1.1 1-1.1.2 3-1.1.4 6-1.1.5.1 7-1.1.5.2.1 9-1.1.5.2.3 11-1.1.5.2.4.2 13-1.2.2 14-1.2.3 16-1.2.4.1 17-1.2.4.2.1 20-1.2.4.3.3 22-1.2.4.3.1
+# ::alignments 0-1.1.1 1-1.1.2 3-1.1.4 6-1.1.5.1 7-1.1.5.2.1 9-1.1.5.2.3 10-1.1.5.2.4.1 11-1.1.5.2.4.2 13-1.2.2 14-1.2.3 16-1.2.4.1 17-1.2.4.2.1 19-1.2.4.2.3.1 20-1.2.4.3.3 22-1.2.4.3.1
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -13,7 +13,8 @@
                           :A (v16 / label~e.7)
                           :D (v17 / label~e.9)
                           :P (v18 / label
-                                  :C (v23 / label~e.11)))))
+                                  :E (v23 / label~e.10)
+                                  :C (v24 / label~e.11)))))
     :H (v3 / label
            :A (v8 / label~e.13)
            :P (v9 / label~e.14)
@@ -22,6 +23,7 @@
                    :H (v14 / label
                            :A (v19 / label~e.17)
                            :P (v20 / label
+                                   :E (v25 / label~e.19)
                                    :C (v22 / label~e.20)))
                    :H (v15 / label
                            :A (v21 / label~e.22)

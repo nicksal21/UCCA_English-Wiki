@@ -1,6 +1,6 @@
 # ::id 647006
 # ::tok She went on to suggest that Pang should begin a physical relationship with Lennon , telling her , " He likes you a lot .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.2 4-1.1.4 5-1.1.5.1 6-1.1.5.2 7-1.1.5.3 8-1.1.5.4 10-1.1.5.5.2 11-1.1.5.6 12-1.1.5.7.1 13-1.1.5.7.2 15-1.2.4 16-1.2.5 19-1.2.6.1 20-1.2.6.2 21-1.2.6.3 22-1.2.6.4 23-1.2.6.4
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.2 4-1.1.4 5-1.1.5.1 6-1.1.5.2 7-1.1.5.3 8-1.1.5.4 9-1.1.5.5.1 10-1.1.5.5.2 11-1.1.5.6 12-1.1.5.7.1 13-1.1.5.7.2 15-1.2.4 16-1.2.5 19-1.2.6.1 20-1.2.6.2 21-1.2.6.3 22-1.2.6.4 23-1.2.6.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -13,11 +13,12 @@
                   :D (v13 / label~e.7)
                   :D (v14 / label~e.8)
                   :D (v15 / label
-                          :C (v22 / label~e.10))
+                          :E (v22 / label~e.9)
+                          :C (v23 / label~e.10))
                   :P (v16 / label~e.11)
                   :A (v17 / label
-                          :R (v23 / label~e.12)
-                          :C (v24 / label~e.13))))
+                          :R (v24 / label~e.12)
+                          :C (v25 / label~e.13))))
     :H (v3 / label
            :A v4
            :P (v8 / label~e.15)
