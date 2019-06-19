@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 127002
-# text = Regina Crewe wrote in the Journal American that although her mannerisms were grating , " they compel attention , and they fascinate an audience . She is a distinct , definite , positive personality .
+# text = Regina Crewe wrote in the Journal American that although her mannerisms were grating , " they compel attention , and they fascinate an audience . She is a distinct , definite , positive personality . "
 1	Regina	_	Word	Word	_	3	A	3:A	_
 2	Crewe	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	wrote	_	Word	Word	_	0	H	0:H	_
@@ -36,4 +36,5 @@
 33	positive	_	Word	Word	_	11	H	11:H	_
 34	personality	_	Word	Word	_	29	A	29:A|31:A|33:A	_
 35	.	_	Punctuation	Punctuation	_	34	U	34:U	_
+36	"	_	Punctuation	Punctuation	_	34	U	34:U	_
 

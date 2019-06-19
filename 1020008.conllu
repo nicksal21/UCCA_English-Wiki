@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 1020008
-# text = Rolling Stone magazine later described the young Michael as " a prodigy " with " overwhelming musical gifts , " writing that he " quickly emerged as the main draw and lead singer .
+# text = Rolling Stone magazine later described the young Michael as " a prodigy " with " overwhelming musical gifts , " writing that he " quickly emerged as the main draw and lead singer . "
 1	Rolling	_	Word	Word	_	0	C	0:C|21:A	_
 2	Stone	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	magazine	_	Word	Word	_	1	E	1:E	_
@@ -35,4 +35,5 @@
 32	lead	_	Word	Word	_	33	D	33:D	_
 33	singer	_	Word	Word	_	30	H	30:H	_
 34	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+35	"	_	Punctuation	Punctuation	_	33	U	33:U	_
 
