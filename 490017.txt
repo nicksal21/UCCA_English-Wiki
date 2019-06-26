@@ -1,6 +1,6 @@
 # ::id 490017
-# ::tok The film details the central role that racing and fixing this same car has played in his life and the lives of his friends .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 3-1.1.3.2 4-1.1.3.3 5-1.1.3.4 7-1.1.3.1.2.1.1 8-1.1.3.1.2.1.2 9-1.1.3.1.2.1.3 10-1.1.3.1.2.2.1 11-1.1.3.1.2.2.2 12-1.1.3.1.2.2.3 14-1.1.3.1.4 15-1.1.3.1.5.1 16-1.1.3.1.5.2.1.1 17-1.1.3.1.5.2.1.2 18-1.1.3.1.5.2.2 19-1.1.3.1.5.2.3.1 20-1.1.3.1.5.2.3.2 21-1.1.3.1.5.2.3.3.1 22-1.1.3.1.5.2.3.3.2 23-1.1.3.1.5.2.3.3.3
+# ::tok The film details the central role that racing and fixing this same car has played in his life and the lives of his friends . )
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 3-1.1.3.3 4-1.1.3.4 5-1.1.3.1 7-1.1.3.2.3.1.1 8-1.1.3.2.3.1.2 9-1.1.3.2.3.1.3 10-1.1.3.2.3.2.1 11-1.1.3.2.3.2.2 12-1.1.3.2.3.2.3 14-1.1.3.2.5 15-1.1.3.2.6.1 16-1.1.3.2.6.2.1.1 17-1.1.3.2.6.2.1.2 18-1.1.3.2.6.2.2 19-1.1.3.2.6.2.3.1 20-1.1.3.2.6.2.3.2 21-1.1.3.2.6.2.3.3.1 22-1.1.3.2.6.2.3.3.2 23-1.1.3.2.6.2.3.3.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -9,7 +9,9 @@
                   :C (v7 / label~e.1))
            :P (v4 / label~e.2)
            :A (v5 / label
-                  :E (v8 / label
+                  :C (v8 / label~e.5)
+                  :E (v9 / label
+                         :A v8
                          :A (v12 / label
                                  :P (v15 / label
                                          :C (v19 / label~e.7)
@@ -33,8 +35,6 @@
                                                  :E (v32 / label
                                                          :R (v33 / label~e.21)
                                                          :E (v34 / label~e.22)
-                                                         :C (v35 / label~e.23)))))
-                         :A (v11 / label~e.5))
-                  :E (v9 / label~e.3)
-                  :E (v10 / label~e.4)
-                  :C v11)))
+                                                         :C (v35 / label~e.23))))))
+                  :E (v10 / label~e.3)
+                  :E (v11 / label~e.4))))

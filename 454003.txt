@@ -1,6 +1,6 @@
 # ::id 454003
-# ::tok His insistence on covering the major international stories himself irked some of his fellow ABC foreign correspondents , who came to resent being scooped by what they deemed as " Jennings ' Flying Circus .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.1.3.1.2 4-1.1.1.3.2.1 5-1.1.1.3.2.2 6-1.1.1.3.2.3 7-1.1.1.3.2.4 8-1.1.1.3.3 9-1.1.2 10-1.1.3.6.1 11-1.1.3.6.2 12-1.1.3.7 13-1.1.3.8 14-1.1.3.1 15-1.1.3.2 16-1.1.3.3 19-1.1.3.4.3 21-1.1.3.4.5 23-1.1.3.4.6.2 24-1.1.3.4.6.3.1 26-1.1.3.4.6.3.2.2 27-1.1.3.4.6.3.2.3 28-1.1.3.4.6.3.2.4.1 30-1.1.3.4.6.3.2.4.2 32-1.1.3.4.6.3.2.4.3 33-1.1.3.4.6.3.2.4.4
+# ::tok His insistence on covering the major international stories himself irked some of his fellow ABC foreign correspondents , who came to resent being scooped by what they deemed as " Jennings ' Flying Circus . "
+# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.1.3.1.2 4-1.1.1.3.2.1 5-1.1.1.3.2.2 6-1.1.1.3.2.3 7-1.1.1.3.2.4 8-1.1.1.3.3 9-1.1.2 10-1.1.3.7.1 11-1.1.3.7.2 12-1.1.3.8 13-1.1.3.1 14-1.1.3.2 15-1.1.3.3 16-1.1.3.4 19-1.1.3.5.3 21-1.1.3.5.5 23-1.1.3.5.6.2 24-1.1.3.5.6.3.1 26-1.1.3.5.6.3.2.2 27-1.1.3.5.6.3.2.3 28-1.1.3.5.6.3.2.4.1 30-1.1.3.5.6.3.2.4.2 32-1.1.3.5.6.3.2.4.3 33-1.1.3.5.6.3.2.4.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -18,11 +18,12 @@
                          :D (v18 / label~e.8)))
            :S (v4 / label~e.9)
            :A (v5 / label
-                  :E (v9 / label~e.14)
-                  :E (v10 / label~e.15)
-                  :C (v11 / label~e.16)
-                  :E (v12 / label
-                          :A v11
+                  :E (v9 / label~e.13)
+                  :E (v10 / label~e.14)
+                  :E (v11 / label~e.15)
+                  :C (v12 / label~e.16)
+                  :E (v13 / label
+                          :A v12
                           :D (v19 / label~e.19)
                           :S (v20 / label~e.21)
                           :A (v21 / label
@@ -37,8 +38,7 @@
                                                           :E (v37 / label~e.30)
                                                           :E (v38 / label~e.32)
                                                           :C (v39 / label~e.33))))))
-                  :E (v13 / label
+                  :E (v14 / label
                           :C (v22 / label~e.10)
                           :R (v23 / label~e.11))
-                  :E (v14 / label~e.12)
-                  :E (v15 / label~e.13))))
+                  :E (v15 / label~e.12))))
